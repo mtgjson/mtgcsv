@@ -11,5 +11,8 @@
     "magic the gathering"
   ],
   "private": true,
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "tiptoe": "^1.0.0"
+  }
 }
