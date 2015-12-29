@@ -1,0 +1,150 @@
+name,cost,artist,number,type,text,printings
+Acidic Sliver,,Jeff Miracola,,Creature — Sliver,"All Slivers have "{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player."","STH,H09,TPR"
+Amok,,Dermot Power,,Enchantment,"{1}, Discard a card at random: Put a +1/+1 counter on target creature.",STH
+Awakening,,Dan Frazier,,Enchantment,"At the beginning of each upkeep, untap all creatures and lands.",STH
+Bandage,,Rebecca Guay,,Instant,Prevent the next 1 damage that would be dealt to target creature or player this turn.\nDraw a card.,"STH,10E,TPR"
+Bottomless Pit,,Kev Walker,,Enchantment,"At the beginning of each player's upkeep, that player discards a card at random.",STH
+Brush with Death,,Stephen Daniele,,Sorcery,"Buyback {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget opponent loses 2 life. You gain 2 life.",STH
+Bullwhip,,Brom,,Artifact,"{2}, {T}: Bullwhip deals 1 damage to target creature. That creature attacks this turn if able.",STH
+Burgeoning,,Randy Gallegos,,Enchantment,"Whenever an opponent plays a land, you may put a land card from your hand onto the battlefield.",STH
+Calming Licid,,D. Alexander Gregory,,Creature — Licid,"{W}, {T}: Calming Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {W} to end this effect.\nEnchanted creature can't attack.",STH
+Cannibalize,,Robert Bliss,,Sorcery,Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.,"STH,TPR"
+Carnassid,,Brom,,Creature — Beast,Trample\n{1}{G}: Regenerate Carnassid.,"STH,TPR"
+Change of Heart,,Ron Spencer,,Instant,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget creature can't attack this turn.",STH
+Cloud Spirit,,Randy Gallegos,,Creature — Spirit,Flying\nCloud Spirit can block only creatures with flying.,"POR,STH,ME4"
+Constant Mists,,Dermot Power,,Instant,"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nPrevent all combat damage that would be dealt this turn.",STH
+Contemplation,,Brom,,Enchantment,"Whenever you cast a spell, you gain 1 life.",STH
+Contempt,,Val Mayerik,,Enchantment — Aura,"Enchant creature\nWhen enchanted creature attacks, return it and Contempt to their owners' hands at end of combat.",STH
+Conviction,,Paolo Parente,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+3.
+{W}: Return Conviction to its owner's hand.,"STH,TPR"
+Convulsing Licid,,Scott Kirschner,,Creature — Licid,"{R}, {T}: Convulsing Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {R} to end this effect.\nEnchanted creature can't block.",STH
+Corrupting Licid,,Thomas M. Baxa,,Creature — Licid,"{B}, {T}: Corrupting Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {B} to end this effect.\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)",STH
+Craven Giant,,Brian Snõddy,,Creature — Giant,Craven Giant can't block.,"POR,STH,TPR"
+Crossbow Ambush,,Kev Walker,,Instant,Creatures you control gain reach until end of turn. (They can block creatures with flying.),STH
+Crovax the Cursed,,Pete Venters,,Legendary Creature — Vampire,"Crovax the Cursed enters the battlefield with four +1/+1 counters on it.\nAt the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don't, remove a +1/+1 counter from Crovax.
+{B}: Crovax gains flying until end of turn.","STH,VMA,TPR"
+Crystalline Sliver,,L. A. Williams,,Creature — Sliver,All Slivers have shroud. (They can't be the targets of spells or abilities.),"STH,pFNM,H09,TPR"
+Dauthi Trapper,,Thomas M. Baxa,,Creature — Dauthi Minion,{T}: Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.),STH
+Death Stroke,,Colin MacNeil,,Sorcery,Destroy target tapped creature.,"STH,BTD,TPR"
+Dream Halls,,Matthew D. Wilson,,Enchantment,"Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.","STH,TPR"
+Dream Prowler,,Richard Kane Ferguson,,Creature — Illusion,Dream Prowler can't be blocked as long as it's attacking alone.,"STH,9ED,TPR"
+Duct Crawler,,Stephen Daniele,,Creature — Insect,{1}{R}: Target creature can't block Duct Crawler this turn.,"STH,10E"
+Dungeon Shade,,Jason Alexander Behnke,,Creature — Shade Spirit,Flying\n{B}: Dungeon Shade gets +1/+1 until end of turn.,"STH,TPR"
+Elven Rite,,Jeff Miracola,,Sorcery,Distribute two +1/+1 counters among one or two target creatures.,"STH,TPR"
+Endangered Armodon,,Kev Walker,,Creature — Elephant,"When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.","STH,TPR"
+Ensnaring Bridge,,Pete Venters,,Artifact,Creatures with power greater than the number of cards in your hand can't attack.,"STH,7ED,8ED"
+Evacuation,,Rob Alexander,,Instant,Return all creatures to their owners' hands.,"STH,7ED,8ED,9ED,10E,DPA"
+Fanning the Flames,,Ron Spencer,,Sorcery,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nFanning the Flames deals X damage to target creature or player.","STH,TPR"
+Flame Wave,,Donato Giancola,,Sorcery,Flame Wave deals 4 damage to target player and each creature he or she controls.,"STH,9ED,TPR"
+Fling,,Paolo Parente,,Instant,"As an additional cost to cast Fling, sacrifice a creature.\nFling deals damage equal to the sacrificed creature's power to target creature or player.","pARL,STH,pWPN,M11,M12,DKA,PC2"
+Flowstone Blade,,L. A. Williams,,Enchantment — Aura,Enchant creature\n{R}: Enchanted creature gets +1/-1 until end of turn.,"STH,CNS,TPR"
+Flowstone Hellion,,Daren Bader,,Creature — Hellion Beast,Haste\n{0}: Flowstone Hellion gets +1/-1 until end of turn.,"STH,VMA"
+Flowstone Mauler,,Paolo Parente,,Creature — Beast,Trample\n{R}: Flowstone Mauler gets +1/-1 until end of turn.,"STH,TPR"
+Flowstone Shambler,,Jim Nelson,,Creature — Beast,{R}: Flowstone Shambler gets +1/-1 until end of turn.,"STH,9ED"
+Foul Imp,,Jim Nelson,,Creature — Imp,"Flying\nWhen Foul Imp enters the battlefield, you lose 2 life.","STH,7ED,9ED,DDC,DD3_DVD"
+Furnace Spirit,,Jeff Miracola,,Creature — Spirit,Haste\n{R}: Furnace Spirit gets +1/+0 until end of turn.,STH
+Gliding Licid,,Heather Hudson,,Creature — Licid,"{U}, {T}: Gliding Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect.\nEnchanted creature has flying.",STH
+Grave Pact,,Scott Kirschner,,Enchantment,"Whenever a creature you control dies, each other player sacrifices a creature.","STH,8ED,9ED,10E,HOP,CMD"
+Hammerhead Shark,,Stephen Daniele,,Creature — Fish,Hammerhead Shark can't attack unless defending player controls an Island.,"STH,TPR"
+Heartstone,,John Matson,,Artifact,Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.,"STH,H09"
+Heat of Battle,,Matthew D. Wilson,,Enchantment,"Whenever a creature blocks, Heat of Battle deals 1 damage to that creature's controller.",STH
+Hermit Druid,,Heather Hudson,,Creature — Human Druid,"{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.","STH,pJGP,VMA,TPR"
+Hesitation,,Pete Venters,,Enchantment,"When a player casts a spell, sacrifice Hesitation and counter that spell.",STH
+Hibernation Sliver,,Scott Kirschner,,Creature — Sliver,All Slivers have "Pay 2 life: Return this permanent to its owner's hand.","STH,H09,TPR"
+Hidden Retreat,,Terese Nielsen,,Enchantment,Put a card from your hand on top of your library: Prevent all damage that would be dealt by target instant or sorcery spell this turn.,STH
+Honor Guard,,Joel Biske,,Creature — Human Soldier,{W}: Honor Guard gets +0/+1 until end of turn.,"STH,7ED,8ED,9ED,10E"
+Horn of Greed,,Jeff Miracola,,Artifact,"Whenever a player plays a land, that player draws a card.",STH
+Hornet Cannon,,Ron Spencer,,Artifact,"{3}, {T}: Put a 1/1 colorless Insect artifact creature token with flying and haste named Hornet onto the battlefield. Destroy it at the beginning of the next end step.","STH,DDE"
+Intruder Alarm,,Donato Giancola,,Enchantment,"Creatures don't untap during their controllers' untap steps.\nWhenever a creature enters the battlefield, untap all creatures.","STH,8ED"
+Invasion Plans,,Pete Venters,,Enchantment,All creatures block each turn if able.\nThe attacking player chooses how each creature blocks each turn.,STH
+Jinxed Ring,,M. W. Kaluta & DiTerlizzi,,Artifact,"Whenever a nontoken permanent is put into your graveyard from the battlefield, Jinxed Ring deals 1 damage to you.\nSacrifice a creature: Target opponent gains control of Jinxed Ring. (This effect lasts indefinitely.)",STH
+Lab Rats,,DiTerlizzi,,Sorcery,"Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)\nPut a 1/1 black Rat creature token onto the battlefield.","STH,TPR"
+Lancers en-Kor,,Pete Venters,,Creature — Kor Soldier,Trample\n{0}: The next 1 damage that would be dealt to Lancers en-Kor this turn is dealt to target creature you control instead.,STH
+Leap,,Kev Walker,,Instant,Target creature gains flying until end of turn.\nDraw a card.,STH
+Lowland Basilisk,,Randy Gallegos,,Creature — Basilisk,"Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.","STH,TPR"
+Mana Leak,,Christopher Rush,,Instant,Counter target spell unless its controller pays {3}.,"pARL,STH,BRB,pMPR,8ED,9ED,M11,M12,DDN,TPR,MM2"
+Mask of the Mimic,,Heather Hudson,,Instant,"As an additional cost to cast Mask of the Mimic, sacrifice a creature.\nSearch your library for a card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.",STH
+Megrim,,Donato Giancola,,Enchantment,"Whenever an opponent discards a card, Megrim deals 2 damage to that player.","STH,7ED,8ED,9ED,10E,M10,DPA"
+Mind Games,,Andrew Robinson,,Instant,"Buyback {2}{U} (You may pay an additional {2}{U} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTap target artifact, creature, or land.",STH
+Mind Peel,,Adam Rex,,Sorcery,"Buyback {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget player discards a card.",STH
+Mindwarper,,Paolo Parente,,Creature — Spirit,"Mindwarper enters the battlefield with three +1/+1 counters on it.\n{2}{B}, Remove a +1/+1 counter from Mindwarper: Target player discards a card. Activate this ability only any time you could cast a sorcery.",STH
+Mob Justice,,Ron Spencer,,Sorcery,Mob Justice deals damage to target player equal to the number of creatures you control.,STH
+Mogg Bombers,,Dermot Power,,Creature — Goblin,"When another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.",STH
+Mogg Flunkies,,Brom,,Creature — Goblin,Mogg Flunkies can't attack or block alone.,"STH,ATH,PD2,M13,TPR"
+Mogg Infestation,,Pete Venters,,Sorcery,"Destroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.","STH,TPR"
+Mogg Maniac,,Brian Snõddy,,Creature — Goblin,"Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent.","STH,TPR"
+Morgue Thrull,,Robert Bliss,,Creature — Thrull,Sacrifice Morgue Thrull: Put the top three cards of your library into your graveyard.,STH
+Mortuary,,Robert Bliss,,Enchantment,"Whenever a creature is put into your graveyard from the battlefield, put that card on top of your library.",STH
+Mox Diamond,,Dan Frazier,,Artifact,"If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add one mana of any color to your mana pool.","STH,V10,TPR"
+Mulch,,Rebecca Guay,,Sorcery,Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.,"STH,ISD,TPR,C15"
+Nomads en-Kor,,Val Mayerik,,Creature — Kor Nomad Soldier,{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.,"STH,TPR"
+Overgrowth,,Rob Alexander,,Enchantment — Aura,"Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)\nWhenever enchanted land is tapped for mana, its controller adds {G}{G} to his or her mana pool (in addition to the mana the land produces).","STH,9ED,10E"
+Portcullis,,Kev Walker,,Artifact,"Whenever a creature enters the battlefield, if there are two or more other creatures on the battlefield, exile that creature. Return that card to the battlefield under its owner's control when Portcullis leaves the battlefield.",STH
+Primal Rage,,Brian Snõddy,,Enchantment,"Creatures you control have trample. (If a creature you control would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","STH,10E"
+Provoke,,Terese Nielsen,,Instant,Untap target creature you don't control. That creature blocks this turn if able.\nDraw a card.,"STH,CNS,VMA,TPR"
+Pursuit of Knowledge,,DiTerlizzi,,Enchantment,"If you would draw a card, you may put a study counter on Pursuit of Knowledge instead.\nRemove three study counters from Pursuit of Knowledge, Sacrifice Pursuit of Knowledge: Draw seven cards.",STH
+Rabid Rats,,Matthew D. Wilson,,Creature — Rat,{T}: Target blocking creature gets -1/-1 until end of turn.,STH
+Ransack,,Ron Spencer,,Sorcery,Look at the top five cards of target player's library. Put any number of them on the bottom of that library in any order and the rest on top of the library in any order.,"STH,S99"
+Rebound,,Doug Chaffee,,Instant,Change the target of target spell that targets only a player. The new target must be a player.,STH
+Reins of Power,,Colin MacNeil,,Instant,Untap all creatures you control and all creatures target opponent controls. You and that opponent each gain control of all creatures the other controls until end of turn. Those creatures gain haste until end of turn.,"STH,CMD,C15"
+Revenant,,Terese Nielsen,,Creature — Spirit,Flying\nRevenant's power and toughness are each equal to the number of creature cards in your graveyard.,"pPRE,STH,7ED,TPR,ORI"
+Rolling Stones,,John Matson,,Enchantment,Wall creatures can attack as though they didn't have defender.,"STH,7ED,8ED"
+Ruination,,Dermot Power,,Sorcery,Destroy all nonbasic lands.,"STH,CMD"
+Sacred Ground,,Terese Nielsen,,Enchantment,"Whenever a spell or ability an opponent controls causes a land to be put into your graveyard from the battlefield, return that card to the battlefield.","STH,7ED,8ED,9ED"
+Samite Blessing,,Rebecca Guay,,Enchantment — Aura,"Enchant creature\nEnchanted creature has "{T}: The next time a source of your choice would deal damage to target creature this turn, prevent that damage."",STH
+Scapegoat,,Daren Bader,,Instant,"As an additional cost to cast Scapegoat, sacrifice a creature.\nReturn any number of target creatures you control to their owner's hand.",STH
+Seething Anger,,Val Mayerik,,Sorcery,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget creature gets +3/+0 until end of turn.","STH,TPR"
+Serpent Warrior,,Ron Spencer,,Creature — Snake Warrior,"When Serpent Warrior enters the battlefield, you lose 3 life.","POR,STH,S99,7ED,8ED,9ED,TPR"
+Shaman en-Kor,,Jeff Miracola,,Creature — Kor Cleric Shaman,"{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.\n{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead.","STH,TPR"
+Shard Phoenix,,Paolo Parente,,Creature — Phoenix,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.,"STH,pSUS,9ED,TPR"
+Shifting Wall,,Michael Sutfin,,Artifact Creature — Wall,Defender (This creature can't attack.)\nShifting Wall enters the battlefield with X +1/+1 counters on it.,STH
+Shock,,Randy Gallegos,,Instant,Shock deals 2 damage to target creature or player.,"STH,6ED,pFNM,S00,BTD,7ED,ONS,8ED,9ED,10E,DPA,M12,M14,DDN"
+Sift,,Pete Venters,,Sorcery,"Draw three cards, then discard a card.","STH,9ED,10E,TPR"
+Silver Wyvern,,Colin MacNeil,,Creature — Drake,Flying\n{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.,"STH,TPR"
+Skeleton Scavengers,,Brian Snõddy,,Creature — Skeleton,"Skeleton Scavengers enters the battlefield with a +1/+1 counter on it.\nPay {1} for each +1/+1 counter on Skeleton Scavengers: Regenerate Skeleton Scavengers. When it regenerates this way, put a +1/+1 counter on it.",STH
+Skyshroud Archer,,Jeff Miracola,,Creature — Elf Archer,{T}: Target creature with flying gets -1/-1 until end of turn.,STH
+Skyshroud Falcon,,Mike Raabe,,Creature — Bird,"Flying, vigilance","STH,7ED"
+Skyshroud Troopers,,DiTerlizzi,,Creature — Elf Druid Warrior,{T}: Add {G} to your mana pool.,STH
+Sliver Queen,,Ron Spencer,,Legendary Creature — Sliver,{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.,"STH,TPR"
+Smite,,Daren Bader,,Instant,Destroy target blocked creature.,"STH,ROE,GTC,TPR"
+Soltari Champion,,Adam Rex,,Creature — Soltari Soldier,"Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Soltari Champion attacks, other creatures you control get +1/+1 until end of turn.","STH,TPR"
+Spike Breeder,,Adam Rex,,Creature — Spike,"Spike Breeder enters the battlefield with three +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature.
+{2}, Remove a +1/+1 counter from Spike Breeder: Put a 1/1 green Spike creature token onto the battlefield.","STH,TPR"
+Spike Colony,,Douglas Shuler,,Creature — Spike,"Spike Colony enters the battlefield with four +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.","STH,BRB,TPR"
+Spike Feeder,,Heather Hudson,,Creature — Spike,"Spike Feeder enters the battlefield with two +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.","STH,BRB,pFNM,TSB,CMD,TPR"
+Spike Soldier,,Randy Elliott,,Creature — Spike Soldier,"Spike Soldier enters the battlefield with three +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Soldier: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Soldier: Spike Soldier gets +2/+2 until end of turn.",STH
+Spike Worker,,Daniel Gelon,,Creature — Spike,"Spike Worker enters the battlefield with two +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.","STH,BRB"
+Spindrift Drake,,Anthony S. Waters,,Creature — Drake,"Flying\nAt the beginning of your upkeep, sacrifice Spindrift Drake unless you pay {U}.",STH
+Spined Sliver,,Ron Spencer,,Creature — Sliver,"Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it.","STH,TSB,H09,TPR"
+Spined Wurm,,Keith Parkinson,,Creature — Wurm,,"pMEI,POR,STH,S00,7ED,8ED,9ED,10E,DPA,M11,TPR"
+Spirit en-Kor,,John Matson,,Creature — Kor Spirit,Flying\n{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.,"STH,TPR"
+Spitting Hydra,,Daren Bader,,Creature — Hydra,"Spitting Hydra enters the battlefield with four +1/+1 counters on it.\n{1}{R}, Remove a +1/+1 counter from Spitting Hydra: Spitting Hydra deals 1 damage to target creature.","STH,TPR"
+Stronghold Assassin,,Matthew D. Wilson,,Creature — Zombie Assassin,"{T}, Sacrifice a creature: Destroy target nonblack creature.","STH,7ED,C13,TPR"
+Stronghold Taskmaster,,Brom,,Creature — Giant Minion,Other black creatures get -1/-1.,STH
+Sword of the Chosen,,Adam Rex,,Legendary Artifact,{T}: Target legendary creature gets +2/+2 until end of turn.,STH
+Temper,,Matthew D. Wilson,,Instant,"Prevent the next X damage that would be dealt to target creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.",STH
+Tempting Licid,,Randy Gallegos,,Creature — Licid,"{G}, {T}: Tempting Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {G} to end this effect.\nAll creatures able to block enchanted creature do so.",STH
+Thalakos Deceiver,,Andrew Robinson,,Creature — Thalakos Wizard,"Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Thalakos Deceiver attacks and isn't blocked, you may sacrifice it. If you do, gain control of target creature. (This effect lasts indefinitely.)",STH
+Tidal Surge,,Doug Chaffee,,Sorcery,Tap up to three target creatures without flying.,"POR,STH,PO2,6ED"
+Tidal Warrior,,Daren Bader,,Creature — Merfolk Warrior,{T}: Target land becomes an Island until end of turn.,STH
+Torment,,Paolo Parente,,Enchantment — Aura,Enchant creature\nEnchanted creature gets -3/-0.,STH
+Tortured Existence,,Keith Parkinson,,Enchantment,"{B}, Discard a creature card: Return target creature card from your graveyard to your hand.",STH
+Venerable Monk,,Terese Nielsen,,Creature — Human Monk Cleric,"When Venerable Monk enters the battlefield, you gain 2 life.","POR,STH,6ED,S99,S00,7ED,8ED,9ED,10E,DDC,DD3_DVD"
+Verdant Touch,,M. W. Kaluta & DiTerlizzi,,Sorcery,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget land becomes a 2/2 creature that's still a land. (This effect lasts indefinitely.)","STH,TPR"
+Victual Sliver,,Terese Nielsen,,Creature — Sliver,"All Slivers have "{2}, Sacrifice this permanent: You gain 4 life."","STH,H09,TPR"
+Volrath's Gardens,,Rob Alexander,,Enchantment,"{2}, Tap an untapped creature you control: You gain 2 life. Activate this ability only any time you could cast a sorcery.",STH
+Volrath's Laboratory,,Brom,,Artifact,"As Volrath's Laboratory enters the battlefield, choose a color and a creature type.\n{5}, {T}: Put a 2/2 creature token of the chosen color and type onto the battlefield.","STH,TPR"
+Volrath's Shapeshifter,,Ron Spencer,,Creature — Shapeshifter,"As long as the top card of your graveyard is a creature card, Volrath's Shapeshifter has the full text of that card and has the text "{2}: Discard a card." (Volrath's Shapeshifter has that card's name, mana cost, color, types, abilities, power, and toughness.)\n{2}: Discard a card.","STH,VMA"
+Volrath's Stronghold,,Kev Walker,,Legendary Land,"{T}: Add {1} to your mana pool.\n{1}{B}, {T}: Put target creature card from your graveyard on top of your library.","STH,TPR"
+Walking Dream,,Richard Kane Ferguson,,Creature — Illusion,Walking Dream can't be blocked.\nWalking Dream doesn't untap during your untap step if an opponent controls two or more creatures.,STH
+Wall of Blossoms,,Heather Hudson,,Creature — Plant Wall,"Defender\nWhen Wall of Blossoms enters the battlefield, draw a card.","STH,pFNM,PC2,V13,TPR,C15"
+Wall of Essence,,Adam Rex,,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Wall of Essence is dealt combat damage, you gain that much life.","STH,M15,TPR"
+Wall of Razors,,Michael Sutfin,,Creature — Wall,Defender (This creature can't attack.)\nFirst strike,STH
+Wall of Souls,,John Matson,,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent.","STH,TPR"
+Wall of Tears,,Rebecca Guay,,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Wall of Tears blocks a creature, return that creature to its owner's hand at end of combat.",STH
+Warrior Angel,,Brom,,Creature — Angel Warrior,"Flying\nWhenever Warrior Angel deals damage, you gain that much life.",STH
+Warrior en-Kor,,Stephen Daniele,,Creature — Kor Warrior Knight,{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.,"STH,TPR"
+Youthful Knight,,Rebecca Guay,,Creature — Human Knight,First strike (This creature deals combat damage before creatures without first strike.),"STH,ATH,10E,TPR"

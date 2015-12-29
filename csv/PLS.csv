@@ -1,0 +1,180 @@
+name,cost,artist,number,type,text,printings
+Aura Blast,,Ron Walotsky,1,Instant,Destroy target enchantment.\nDraw a card.,PLS
+Aurora Griffin,,Ciruelo,2,Creature — Griffin,Flying\n{W}: Target permanent becomes white until end of turn.,PLS
+Disciple of Kangee,,Wayne England,3,Creature — Human Wizard,"{U}, {T}: Target creature gains flying and becomes blue until end of turn.",PLS
+Dominaria's Judgment,,John Avon,4,Instant,"Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.",PLS
+Guard Dogs,,Mike Raabe,5,Creature — Hound,"{2}{W}, {T}: Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.",PLS
+Heroic Defiance,,Terese Nielsen,6,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.,PLS
+Hobble,,Alan Pollack,7,Enchantment — Aura,"Enchant creature\nWhen Hobble enters the battlefield, draw a card.
+Enchanted creature can't attack.
+Enchanted creature can't block if it's black.",PLS
+Honorable Scout,,Mike Ploog,8,Creature — Human Soldier Scout,"When Honorable Scout enters the battlefield, you gain 2 life for each black and/or red creature target opponent controls.",PLS
+Lashknife Barrier,,Paolo Parente,9,Enchantment,"When Lashknife Barrier enters the battlefield, draw a card.\nIf a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.",PLS
+March of Souls,,Marc Fishman,10,Sorcery,"Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.",PLS
+Orim's Chant,,Kev Walker,11,Instant,"Kicker {W} (You may pay an additional {W} as you cast this spell.)\nTarget player can't cast spells this turn.
+If Orim's Chant was kicked, creatures can't attack this turn.","pJGP,PLS"
+Planeswalker's Mirth,,John Matson,12,Enchantment,{3}{W}: Target opponent reveals a card at random from his or her hand. You gain life equal to that card's converted mana cost.,PLS
+Pollen Remedy,,Ben Thompson,13,Instant,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)\nPrevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If Pollen Remedy was kicked, prevent the next 6 damage this way instead.",PLS
+Samite Elder,,Terese Nielsen,14,Creature — Human Cleric,{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.,PLS
+Samite Pilgrim,,D. J. Cleland-Hura,15,Creature — Human Cleric,"Domain — {T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of basic land types among lands you control.",PLS
+Sunscape Battlemage,,Tony Szczudlo,16,Creature — Human Wizard,"Kicker {1}{G} and/or {2}{U} (You may pay an additional {1}{G} and/or {2}{U} as you cast this spell.)\nWhen Sunscape Battlemage enters the battlefield, if it was kicked with its {1}{G} kicker, destroy target creature with flying.
+When Sunscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, draw two cards.","PLS,DDE"
+Sunscape Familiar,,Brian Despain,17,Creature — Wall,Defender (This creature can't attack.)\nGreen spells and blue spells you cast cost {1} less to cast.,PLS
+Surprise Deployment,,Bradley Williams,18,Instant,"Cast Surprise Deployment only during combat.\nYou may put a nonwhite creature card from your hand onto the battlefield. At the beginning of the next end step, return that creature to your hand. (Return it only if it's on the battlefield.)",PLS
+Voice of All,,rk post,19,Creature — Angel,"Flying\nAs Voice of All enters the battlefield, choose a color.
+Voice of All has protection from the chosen color.","PLS,10E,CMD"
+Allied Strategies,,Paolo Parente,20,Sorcery,Domain — Target player draws a card for each basic land type among lands he or she controls.,"PLS,DDE"
+Arctic Merfolk,,Ron Spears,21,Creature — Merfolk,"Kicker—Return a creature you control to its owner's hand. (You may return a creature you control to its owner's hand in addition to any other costs as you cast this spell.)\nIf Arctic Merfolk was kicked, it enters the battlefield with a +1/+1 counter on it.",PLS
+Confound,,Doug Chaffee,22,Instant,Counter target spell that targets one or more creatures.\nDraw a card.,PLS
+Dralnu's Pet,,Glen Angus,23,Creature — Shapeshifter,"Kicker—{2}{B}, Discard a creature card. (You may pay {2}{B} and discard a creature card in addition to any other costs as you cast this spell.)\nIf Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost.",PLS
+Ertai's Trickery,,Kev Walker,24,Instant,Counter target spell if it was kicked.,PLS
+Escape Routes,,Marc Fishman,25,Enchantment,{2}{U}: Return target white or black creature you control to its owner's hand.,PLS
+Gainsay,,Roger Raupp,26,Instant,Counter target blue spell.,"PLS,THS"
+Hunting Drake,,Wayne England,27,Creature — Drake,"Flying\nWhen Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.",PLS
+Planar Overlay,,Ron Walotsky,28,Sorcery,Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.,PLS
+Planeswalker's Mischief,,Pete Venters,29,Enchantment,"{3}{U}: Target opponent reveals a card at random from his or her hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.",PLS
+Rushing River,,Don Hazeltine,30,Instant,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)\nReturn target nonland permanent to its owner's hand. If Rushing River was kicked, return another target nonland permanent to its owner's hand.",PLS
+Sea Snidd,,Chippy,31,Creature — Beast,{T}: Target land becomes the basic land type of your choice until end of turn.,PLS
+Shifting Sky,,Jerry Tiritilli,32,Enchantment,"As Shifting Sky enters the battlefield, choose a color.\nAll nonland permanents are the chosen color.","PLS,8ED"
+Sisay's Ingenuity,,Paolo Parente,33,Enchantment — Aura,"Enchant creature\nWhen Sisay's Ingenuity enters the battlefield, draw a card.
+Enchanted creature has "{2}{U}: Target creature becomes the color of your choice until end of turn."",PLS
+Sleeping Potion,,Daren Bader,34,Enchantment — Aura,"Enchant creature\nWhen Sleeping Potion enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.",PLS
+Stormscape Battlemage,,Christopher Moeller,35,Creature — Metathran Wizard,"Kicker {W} and/or {2}{B}\nWhen Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.","PLS,C13"
+Stormscape Familiar,,Heather Hudson,36,Creature — Bird,Flying\nWhite spells and black spells you cast cost {1} less to cast.,"PLS,TSB"
+Sunken Hope,,Greg Staples,37,Enchantment,"At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.","PLS,10E,PC2"
+Waterspout Elemental,,Mark Romanoski,38,Creature — Elemental,"Kicker {U} (You may pay an additional {U} as you cast this spell.)\nFlying
+When Waterspout Elemental enters the battlefield, if it was kicked, return all other creatures to their owners' hands and you skip your next turn.",PLS
+Bog Down,,Andrew Goldhawk,39,Sorcery,"Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)\nTarget player discards two cards. If Bog Down was kicked, that player discards three cards instead.",PLS
+Dark Suspicions,,Matt Cavotta,40,Enchantment,"At the beginning of each opponent's upkeep, that player loses X life, where X is the number of cards in that player's hand minus the number of cards in your hand.",PLS
+Death Bomb,,Dan Frazier,41,Instant,"As an additional cost to cast Death Bomb, sacrifice a creature.\nDestroy target nonblack creature. It can't be regenerated. Its controller loses 2 life.",PLS
+Diabolic Intent,,Dave Dorman,42,Sorcery,"As an additional cost to cast Diabolic Intent, sacrifice a creature.\nSearch your library for a card and put that card into your hand. Then shuffle your library.",PLS
+Exotic Disease,,Kev Walker,43,Sorcery,"Domain — Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.",PLS
+Lord of the Undead,,Brom,44,Creature — Zombie,"Other Zombie creatures get +1/+1.\n{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.","PLS,8ED,9ED,10E"
+Maggot Carrier,,Ron Spencer,45,Creature — Zombie,"When Maggot Carrier enters the battlefield, each player loses 1 life.","PLS,8ED"
+Morgue Toad,,Franz Vohwinkel,46,Creature — Frog,Sacrifice Morgue Toad: Add {U}{R} to your mana pool.,"PLS,DDH"
+Nightscape Battlemage,,Andrew Goldhawk,47,Creature — Zombie Wizard,"Kicker {2}{U} and/or {2}{R} (You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)\nWhen Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners' hands.
+When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land.",PLS
+Nightscape Familiar,,Jeff Easley,48,Creature — Zombie,Blue spells and red spells you cast cost {1} less to cast.\n{1}{B}: Regenerate Nightscape Familiar.,"PLS,DDH,C13,VMA"
+Noxious Vapors,,Ben Thompson,49,Sorcery,"Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.",PLS
+Phyrexian Bloodstock,,Mark Tedin,50,Creature — Zombie,"When Phyrexian Bloodstock leaves the battlefield, destroy target white creature. It can't be regenerated.",PLS
+Phyrexian Scuta,,Scott M. Fischer,51,Creature — Zombie,"Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)\nIf Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.",PLS
+Planeswalker's Scorn,,Glen Angus,52,Enchantment,"{3}{B}: Target opponent reveals a card at random from his or her hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery.",PLS
+Shriek of Dread,,Nelson DeCastro,53,Instant,Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.),PLS
+Sinister Strength,,Terese Nielsen,54,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+1 and is black.,PLS
+Slay,,Ben Thompson,55,Instant,Destroy target green creature. It can't be regenerated.\nDraw a card.,"PLS,8ED,9ED,DDE"
+Volcano Imp,,Thomas M. Baxa,56,Creature — Imp,Flying\n{1}{R}: Volcano Imp gains first strike until end of turn.,PLS
+Warped Devotion,,Orizio Daniele,57,Enchantment,"Whenever a permanent is returned to a player's hand, that player discards a card.","PLS,8ED"
+Caldera Kavu,,Arnie Swekel,58,Creature — Kavu,{1}{B}: Caldera Kavu gets +1/+1 until end of turn.\n{G}: Caldera Kavu becomes the color of your choice until end of turn.,PLS
+Deadapult,,Mark Brill,59,Enchantment,"{R}, Sacrifice a Zombie: Deadapult deals 2 damage to target creature or player.",PLS
+Flametongue Kavu,,Pete Venters,60,Creature — Kavu,"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.","pFNM,PLS,DD2,HOP,CMD,VMA,C14,DD3_JVC"
+Goblin Game,,DiTerlizzi,61,Sorcery,"Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.",PLS
+Implode,,Arnie Swekel,62,Sorcery,Destroy target land.\nDraw a card.,PLS
+Insolence,,Carl Critchlow,63,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.",PLS
+Kavu Recluse,,Aaron Boyd,64,Creature — Kavu,{T}: Target land becomes a Forest until end of turn.,PLS
+Keldon Mantle,,Rebecca Guay,65,Enchantment — Aura,Enchant creature\n{B}: Regenerate enchanted creature.
+{R}: Enchanted creature gets +1/+0 until end of turn.
+{G}: Enchanted creature gains trample until end of turn.,PLS
+Magma Burst,,Bradley Williams,66,Instant,"Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)\nMagma Burst deals 3 damage to target creature or player. If Magma Burst was kicked, it deals 3 damage to another target creature or player.",PLS
+Mire Kavu,,Wayne England,67,Creature — Kavu,Mire Kavu gets +1/+1 as long as you control a Swamp.,PLS
+Mogg Jailer,,Mark Romanoski,68,Creature — Goblin,Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.,PLS
+Mogg Sentry,,"Edward P. Beard, Jr.",69,Creature — Goblin Warrior,"Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.","PLS,8ED,9ED"
+Planeswalker's Fury,,Christopher Moeller,70,Enchantment,{3}{R}: Target opponent reveals a card at random from his or her hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.,PLS
+Singe,,John Avon,71,Instant,Singe deals 1 damage to target creature. That creature becomes black until end of turn.,PLS
+Slingshot Goblin,,Jeff Easley,72,Creature — Goblin,"{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.",PLS
+Strafe,,Jim Nelson,73,Sorcery,Strafe deals 3 damage to target nonred creature.,PLS
+"Tahngarth, Talruum Hero",,Dave Dorman,74,Legendary Creature — Minotaur Warrior,"Vigilance\n{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.",PLS
+Thunderscape Battlemage,,Mike Ploog,75,Creature — Human Wizard,"Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)\nWhen Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.
+When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment.","PLS,DDE"
+Thunderscape Familiar,,Daren Bader,76,Creature — Kavu,First strike\nBlack spells and green spells you cast cost {1} less to cast.,PLS
+Alpha Kavu,,Matt Cavotta,77,Creature — Kavu,{1}{G}: Target Kavu creature gets -1/+1 until end of turn.,PLS
+Amphibious Kavu,,Wayne England,78,Creature — Kavu,"Whenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.",PLS
+Falling Timber,,Eric Peterson,79,Instant,"Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)\nPrevent all combat damage target creature would deal this turn. If Falling Timber was kicked, prevent all combat damage another target creature would deal this turn.",PLS
+Gaea's Herald,,Dan Frazier,80,Creature — Elf,Creature spells can't be countered.,"PLS,8ED,10E,DPA"
+Gaea's Might,,Ron Spencer,81,Instant,Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.,PLS
+Magnigoth Treefolk,,Peter Bollinger,82,Creature — Treefolk,"Domain — For each basic land type among lands you control, Magnigoth Treefolk has landwalk of that type. (It can't be blocked as long as defending player controls a land of that type.)",PLS
+Mirrorwood Treefolk,,Arnie Swekel,83,Creature — Treefolk,"{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.",PLS
+Multani's Harmony,,Darrell Riche,84,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: Add one mana of any color to your mana pool.",PLS
+"Nemata, Grove Guardian",,John Avon,85,Legendary Creature — Treefolk,{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.\nSacrifice a Saproling: Saproling creatures get +1/+1 until end of turn.,PLS
+Planeswalker's Favor,,Rebecca Guay,86,Enchantment,"{3}{G}: Target opponent reveals a card at random from his or her hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost.",PLS
+Primal Growth,,rk post,87,Sorcery,"Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)\nSearch your library for a basic land card, put that card onto the battlefield, then shuffle your library. If Primal Growth was kicked, instead search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.","PLS,C15"
+Pygmy Kavu,,Greg Staples,88,Creature — Kavu,"When Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.",PLS
+Quirion Dryad,,Don Hazeltine,89,Creature — Dryad,"Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.","PLS,10E,M13"
+Quirion Explorer,,Ron Spears,90,Creature — Elf Druid Scout,{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.,PLS
+Root Greevil,,Andrew Robinson,91,Creature — Beast,"{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.",PLS
+Skyshroud Blessing,,Jerry Tiritilli,92,Instant,All lands gain shroud until end of turn. (They can't be the targets of spells or abilities.)\nDraw a card.,PLS
+Stone Kavu,,Adam Rex,93,Creature — Kavu,{R}: Stone Kavu gets +1/+0 until end of turn.\n{W}: Stone Kavu gets +0/+1 until end of turn.,PLS
+Thornscape Battlemage,,Matt Cavotta,94,Creature — Elf Wizard,"Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)\nWhen Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to target creature or player.
+When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.","PLS,TSB,DDE"
+Thornscape Familiar,,Heather Hudson,95,Creature — Insect,Red spells and white spells you cast cost {1} less to cast.,PLS
+Ancient Spider,,Greg Staples,96,Creature — Spider,First strike; reach (This creature can block creatures with flying.),PLS
+Cavern Harpy,,Daren Bader,97,Creature — Harpy Beast,"Flying\nWhen Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.
+Pay 1 life: Return Cavern Harpy to its owner's hand.",PLS
+Cloud Cover,,Marc Fishman,98,Enchantment,"Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.",PLS
+Crosis's Charm,,David Martin,99,Instant,Choose one —\n• Return target permanent to its owner's hand.
+• Destroy target nonblack creature. It can't be regenerated.
+• Destroy target artifact.,"PLS,C13"
+Darigaaz's Charm,,David Martin,100,Instant,Choose one —\n• Return target creature card from your graveyard to your hand.
+• Darigaaz's Charm deals 3 damage to target creature or player.
+• Target creature gets +3/+3 until end of turn.,"PLS,DDE"
+Daring Leap,,Paolo Parente,101,Instant,Target creature gets +1/+1 and gains flying and first strike until end of turn.,PLS
+Destructive Flow,,Don Hazeltine,102,Enchantment,"At the beginning of each player's upkeep, that player sacrifices a nonbasic land.",PLS
+Doomsday Specter,,Donato Giancola,103,Creature — Specter,"Flying\nWhen Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.
+Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.",PLS
+Dralnu's Crusade,,Arnie Swekel,104,Enchantment,Goblin creatures get +1/+1.\nAll Goblins are black and are Zombies in addition to their other creature types.,PLS
+Dromar's Charm,,David Martin,105,Instant,Choose one —\n• You gain 5 life.
+• Counter target spell.
+• Target creature gets -2/-2 until end of turn.,"PLS,C13"
+Eladamri's Call,,Kev Walker,106,Instant,"Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.",PLS
+"Ertai, the Corrupted",,Mark Tedin,107,Legendary Creature — Human Wizard,"{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.",PLS
+Fleetfoot Panther,,Mark Brill,108,Creature — Cat,"Flash\nWhen Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.","PLS,DDH"
+Gerrard's Command,,Roger Raupp,109,Instant,Untap target creature. It gets +3/+3 until end of turn.,"PLS,DDE"
+Horned Kavu,,Michael Sutfin,110,Creature — Kavu,"When Horned Kavu enters the battlefield, return a red or green creature you control to its owner's hand.",PLS
+Hull Breach,,Brian Snõddy,111,Sorcery,Choose one —\n• Destroy target artifact.
+• Destroy target enchantment.
+• Destroy target artifact and target enchantment.,"PLS,HOP,CMD,C13"
+Keldon Twilight,,Franz Vohwinkel,112,Enchantment,"At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.",PLS
+Lava Zombie,,Tom Wänerstrand,113,Creature — Zombie,"When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand.\n{2}: Lava Zombie gets +1/+0 until end of turn.",PLS
+Malicious Advice,,Glen Angus,114,Instant,"Tap X target artifacts, creatures, and/or lands. You lose X life.",PLS
+Marsh Crocodile,,Kev Walker,115,Creature — Crocodile,"When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner's hand.\nWhen Marsh Crocodile enters the battlefield, each player discards a card.",PLS
+Meddling Mage,,Christopher Moeller,116,Creature — Human Wizard,"As Meddling Mage enters the battlefield, name a nonland card.\nThe named card can't be cast.","pJGP,PLS,ARB"
+Natural Emergence,,Heather Hudson,117,Enchantment,"When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand.\nLands you control are 2/2 creatures with first strike. They're still lands.",PLS
+Phyrexian Tyranny,,Kev Walker,118,Enchantment,"Whenever a player draws a card, that player loses 2 life unless he or she pays {2}.",PLS
+Questing Phelddagrif,,Matt Cavotta,119,Creature — Phelddagrif,{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.\n{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.
+{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.,"pPRE,PLS"
+Radiant Kavu,,Ron Spencer,120,Creature — Kavu,{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.,PLS
+Razing Snidd,,Alan Pollack,121,Creature — Beast,"When Razing Snidd enters the battlefield, return a black or red creature you control to its owner's hand.\nWhen Razing Snidd enters the battlefield, each player sacrifices a land.",PLS
+Rith's Charm,,David Martin,122,Instant,Choose one —\n• Destroy target nonbasic land.
+• Put three 1/1 green Saproling creature tokens onto the battlefield.
+• Prevent all damage a source of your choice would deal this turn.,"PLS,DDE"
+Sawtooth Loon,,Heather Hudson,123,Creature — Bird,"Flying\nWhen Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.
+When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.","PLS,DDI"
+Shivan Wurm,,Scott M. Fischer,124,Creature — Wurm,"Trample\nWhen Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.","PLS,VMA"
+Silver Drake,,Alan Pollack,125,Creature — Drake,"Flying\nWhen Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.","pMEI,PLS"
+Sparkcaster,,Adam Rex,126,Creature — Kavu,"When Sparkcaster enters the battlefield, return a red or green creature you control to its owner's hand.\nWhen Sparkcaster enters the battlefield, it deals 1 damage to target player.",PLS
+Steel Leaf Paladin,,Paolo Parente,127,Creature — Elf Knight,"First strike\nWhen Steel Leaf Paladin enters the battlefield, return a green or white creature you control to its owner's hand.",PLS
+Terminate,,DiTerlizzi,128,Instant,Destroy target creature. It can't be regenerated.,"pFNM,PLS,pMPR,ARB,ARC,CMD,DDK"
+Treva's Charm,,David Martin,129,Instant,"Choose one —\n• Destroy target enchantment.
+• Exile target attacking creature.
+• Draw a card, then discard a card.","PLS,DDE"
+Urza's Guilt,,Paolo Parente,130,Sorcery,"Each player draws two cards, then discards three cards, then loses 4 life.",PLS
+Draco,,Sam Wood,131,Artifact Creature — Dragon,"Domain — Draco costs {2} less to cast for each basic land type among lands you control.\nFlying
+Domain — At the beginning of your upkeep, sacrifice Draco unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.","PLS,DRB"
+Mana Cylix,,Donato Giancola,132,Artifact,"{1}, {T}: Add one mana of any color to your mana pool.","PLS,CON"
+Skyship Weatherlight,,Mark Tedin,133,Legendary Artifact,"When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.\n{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.",PLS
+Star Compass,,Donato Giancola,134,Artifact,Star Compass enters the battlefield tapped.\n{T}: Add to your mana pool one mana of any color that a basic land you control could produce.,"PLS,8ED"
+Stratadon,,Brian Snõddy,135,Artifact Creature — Beast,Domain — Stratadon costs {1} less to cast for each basic land type among lands you control.\nTrample,PLS
+Crosis's Catacombs,,"Edward P. Beard, Jr.",136,Land — Lair,"When Crosis's Catacombs enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {U}, {B}, or {R} to your mana pool.",PLS
+Darigaaz's Caldera,,Franz Vohwinkel,137,Land — Lair,"When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {B}, {R}, or {G} to your mana pool.",PLS
+Dromar's Cavern,,Franz Vohwinkel,138,Land — Lair,"When Dromar's Cavern enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {W}, {U}, or {B} to your mana pool.",PLS
+Forsaken City,,Dana Knutson,139,Land,"Forsaken City doesn't untap during your untap step.\nAt the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.
+{T}: Add one mana of any color to your mana pool.",PLS
+Meteor Crater,,John Avon,140,Land,{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.,PLS
+Rith's Grove,,Scott Bailey,141,Land — Lair,"When Rith's Grove enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {R}, {G}, or {W} to your mana pool.",PLS
+Terminal Moraine,,Scott Bailey,142,Land,"{T}: Add {1} to your mana pool.\n{2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",PLS
+Treva's Ruins,,Jerry Tiritilli,143,Land — Lair,"When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {G}, {W}, or {U} to your mana pool.",PLS
+"Tahngarth, Talruum Hero",,Kev Walker,★74,Legendary Creature — Minotaur Warrior,"Vigilance\n{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.",PLS
+"Ertai, the Corrupted",,Kev Walker,★107,Legendary Creature — Human Wizard,"{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.",PLS
+Skyship Weatherlight,,Kev Walker,★133,Legendary Artifact,"When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.\n{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.",PLS

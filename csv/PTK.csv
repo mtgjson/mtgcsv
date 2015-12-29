@@ -1,0 +1,181 @@
+name,cost,artist,number,type,text,printings
+Alert Shu Infantry,,Solomon Au Yeung,1,Creature — Human Soldier,Vigilance,PTK
+Eightfold Maze,,Shang Huitong,2,Instant,Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step.\nDestroy target attacking creature.,"PTK,ME3"
+Empty City Ruse,,Qu Xin,3,Sorcery,Target opponent skips all combat phases of his or her next turn.,PTK
+False Defeat,,Li Wang,4,Sorcery,Return target creature card from your graveyard to the battlefield.,"PTK,ME3"
+Flanking Troops,,Li Wang,5,Creature — Human Soldier,"Whenever Flanking Troops attacks, you may tap target creature.",PTK
+"Guan Yu, Sainted Warrior",,Zhao Dafu,6,Legendary Creature — Human Soldier Warrior,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library.","PTK,ME3"
+"Guan Yu's 1,000-Li March",,Yang Guangmai,7,Sorcery,Destroy all tapped creatures.,"PTK,ME3"
+"Huang Zhong, Shu General",,Quan Xuejun,8,Legendary Creature — Human Soldier,"Huang Zhong, Shu General can't be blocked by more than one creature.",PTK
+"Kongming, "Sleeping Dragon"",,Gao Yan,9,Legendary Creature — Human Advisor,Other creatures you control get +1/+1.,"PTK,ME3,C13,VMA"
+Kongming's Contraptions,,Jiaming,10,Creature — Human Soldier,{T}: Kongming's Contraptions deals 2 damage to target attacking creature. Activate this ability only during the declare attackers step and only if you've been attacked this step.,PTK
+"Liu Bei, Lord of Shu",,Zhao Dafu,11,Legendary Creature — Human Soldier,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nLiu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.","PTK,ME3"
+Loyal Retainers,,Solomon Au Yeung,12,Creature — Human Advisor,"Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.","PTK,ME3,CM1"
+Misfortune's Gain,,Jiaming,13,Sorcery,Destroy target creature. Its owner gains 4 life.,"PTK,ME3"
+"Pang Tong, "Young Phoenix"",,Li Tie,14,Legendary Creature — Human Advisor,"{T}: Target creature gets +0/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.",PTK
+Peach Garden Oath,,Zhao Dafu,15,Sorcery,You gain 2 life for each creature you control.,"PTK,8ED,ME3"
+Rally the Troops,,Shang Huitong,16,Instant,Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step.\nUntap all creatures you control.,"PO2,PTK"
+Ravages of War,,Fang Yue,17,Sorcery,Destroy all lands.,"PTK,ME2"
+Riding Red Hare,,Qi Baocheng,18,Sorcery,Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.),PTK
+Shu Cavalry,,Li Xiaohua,19,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+Shu Defender,,Sun Nan,20,Creature — Human Soldier,"Whenever Shu Defender blocks, it gets +0/+2 until end of turn.",PTK
+Shu Elite Companions,,Zhao Dafu,21,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+Shu Elite Infantry,,Song Shikai,22,Creature — Human Soldier,,PTK
+Shu Farmer,,Li Xiaohua,23,Creature — Human,"{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.",PTK
+Shu Foot Soldiers,,Xu Tan,24,Creature — Human Soldier,,PTK
+Shu General,,Li Xiaohua,25,Creature — Human Soldier,Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+Shu Grain Caravan,,Li Wang,26,Creature — Human Soldier,"When Shu Grain Caravan enters the battlefield, you gain 2 life.",PTK
+Shu Soldier-Farmers,,Li Xiaohua,27,Creature — Human Soldier,"When Shu Soldier-Farmers enters the battlefield, you gain 4 life.","PTK,ME3"
+Vengeance,,Solomon Au Yeung,28,Sorcery,Destroy target tapped creature.,"POR,PO2,PTK,S99,7ED,8ED,9ED"
+Virtuous Charge,,Qu Xin,29,Sorcery,Creatures you control get +1/+1 until end of turn.,PTK
+Volunteer Militia,,Lin Yan,30,Creature — Human Soldier,,"PO2,PTK"
+Warrior's Stand,,Zhao Dafu,31,Instant,Cast Warrior's Stand only during the declare attackers step and only if you've been attacked this step.\nCreatures you control get +2/+2 until end of turn.,"PO2,PTK"
+"Zhang Fei, Fierce Warrior",,Zhao Dafu,32,Legendary Creature — Human Soldier Warrior,Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+"Zhao Zilong, Tiger General",,Quan Xuejun,33,Legendary Creature — Human Soldier Warrior,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn.",PTK
+Balance of Power,,Quan Xuejun,34,Sorcery,"If target opponent has more cards in hand than you, draw cards equal to the difference.","POR,PTK,8ED"
+"Borrowing 100,000 Arrows",,Song Shikai,35,Sorcery,Draw a card for each tapped creature target opponent controls.,"PTK,ME3,C13"
+Brilliant Plan,,Song Shikai,36,Sorcery,Draw three cards.,"PTK,ME3,C13"
+Broken Dam,,Jiang Zhuqing,37,Sorcery,Tap one or two target creatures without horsemanship.,PTK
+Capture of Jingzhou,,Jack Wei,38,Sorcery,Take an extra turn after this one.,"PTK,ME3"
+Champion's Victory,,Hong Yan,39,Instant,Cast Champion's Victory only during the declare attackers step and only if you've been attacked this step.\nReturn target attacking creature to its owner's hand.,PTK
+Council of Advisors,,Liu Shangying,40,Creature — Human Advisor,"When Council of Advisors enters the battlefield, draw a card.",PTK
+Counterintelligence,,Wang Feng,41,Sorcery,Return one or two target creatures to their owners' hands.,PTK
+Exhaustion,,Qu Xin,42,Sorcery,Creatures and lands target opponent controls don't untap during his or her next untap step.,"POR,PO2,USG,PTK,S99,9ED"
+Extinguish,,Ding Songjian,43,Instant,Counter target sorcery spell.,"PO2,PTK,S99"
+Forced Retreat,,Huang Qishi,44,Sorcery,Put target creature on top of its owner's library.,"PTK,ME3"
+Lady Sun,,Miao Aili,45,Legendary Creature — Human Advisor,"{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.",PTK
+"Lu Meng, Wu General",,Gao Yan,46,Legendary Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+"Lu Su, Wu Advisor",,Zhao Tan,47,Legendary Creature — Human Advisor,"{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.",PTK
+"Lu Xun, Scholar General",,Xu Xiaoming,48,Legendary Creature — Human Soldier,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.","PTK,ME3,C13"
+Mystic Denial,,Kang Yu,49,Instant,Counter target creature or sorcery spell.,"POR,PO2,PTK"
+Preemptive Strike,,Jiaming,50,Instant,Counter target creature spell.,PTK
+Red Cliffs Armada,,Zhang Jiazhen,51,Creature — Human Soldier,Red Cliffs Armada can't attack unless defending player controls an Island.,"PTK,ME2"
+Sage's Knowledge,,Ding Songjian,52,Sorcery,Return target sorcery card from your graveyard to your hand.,PTK
+Strategic Planning,,Zhang Jiazhen,53,Sorcery,Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.,"PTK,ME3,C13"
+Straw Soldiers,,Cai Tingting,54,Creature — Scarecrow Soldier,,PTK
+"Sun Ce, Young Conquerer",,Yang Guangmai,55,Legendary Creature — Human Soldier,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.","PTK,ME3"
+"Sun Quan, Lord of Wu",,Xu Xiaoming,56,Legendary Creature — Human Soldier,Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.),"PTK,ME3,V11"
+Wu Admiral,,Zhang Jiazhen,57,Creature — Human Soldier,Wu Admiral gets +1/+1 as long as an opponent controls an Island.,PTK
+Wu Elite Cavalry,,Li Wang,58,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+Wu Infantry,,Xu Xiaoming,59,Creature — Human Soldier,,PTK
+Wu Light Cavalry,,Huang Qishi,60,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),PTK
+Wu Longbowman,,Xu Tan,61,Creature — Human Soldier Archer,"{T}: Wu Longbowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.","PTK,ME3"
+Wu Scout,,Jiaming,62,Creature — Human Soldier Scout,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Wu Scout enters the battlefield, look at target opponent's hand.",PTK
+Wu Spy,,Zhao Tan,63,Creature — Human Soldier Rogue,"When Wu Spy enters the battlefield, look at the top two cards of target player's library. Put one of them into his or her graveyard.",PTK
+Wu Warship,,Jiang Zhuqing,64,Creature — Human Soldier,Wu Warship can't attack unless defending player controls an Island.,"PTK,ME3"
+"Zhou Yu, Chief Commander",,Xu Xiaoming,65,Legendary Creature — Human Soldier,"Zhou Yu, Chief Commander can't attack unless defending player controls an Island.",PTK
+"Zhuge Jin, Wu Strategist",,Song Shikai,66,Legendary Creature — Human Advisor,"{T}: Target creature can't be blocked this turn. Activate this ability only during your turn, before attackers are declared.",PTK
+Ambition's Cost,,Junko Taguchi,67,Sorcery,You draw three cards and you lose 3 life.,"PTK,8ED,C15"
+"Cao Cao, Lord of Wei",,Gao Jianzhang,68,Legendary Creature — Human Soldier,"{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.","PTK,V11"
+"Cao Ren, Wei Commander",,Junko Taguchi,69,Legendary Creature — Human Soldier Warrior,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Cao Ren, Wei Commander enters the battlefield, you lose 3 life.",PTK
+Coercion,,Kang Yu,70,Sorcery,Target opponent reveals his or her hand. You choose a card from it. That player discards that card.,"VIS,TMP,PO2,6ED,PTK,S99,S00,BTD,8ED,9ED,TPR"
+Corrupt Court Official,,Li Yousong,71,Creature — Human Advisor,"When Corrupt Court Official enters the battlefield, target opponent discards a card.",PTK
+Cunning Advisor,,Gao Jianzhang,72,Creature — Human Advisor,"{T}: Target opponent discards a card. Activate this ability only during your turn, before attackers are declared.",PTK
+Deception,,Wang Feng,73,Sorcery,Target opponent discards two cards.,PTK
+Desperate Charge,,Chen Weidong,74,Sorcery,Creatures you control get +2/+0 until end of turn.,"PTK,ME3"
+Famine,,Sun Nan,75,Sorcery,Famine deals 3 damage to each creature and each player.,"PTK,ME3,C13,VMA"
+Ghostly Visit,,Kang Yu,76,Sorcery,Destroy target nonblack creature.,"PTK,ME3"
+Imperial Edict,,Xu Xiaoming,77,Sorcery,Target opponent chooses a creature he or she controls. Destroy it.,PTK
+Imperial Seal,,Li Tie,78,Sorcery,"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.","PTK,ME2"
+Overwhelming Forces,,Gao Yan,79,Sorcery,Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.,"pJGP,PTK,ME4"
+Poison Arrow,,Li Tie,80,Sorcery,Destroy target nonblack creature. You gain 3 life.,PTK
+Return to Battle,,Ding Songjian,81,Sorcery,Return target creature card from your graveyard to your hand.,PTK
+"Sima Yi, Wei Field Marshal",,Gao Yan,82,Legendary Creature — Human Soldier,"Sima Yi, Wei Field Marshal's power is equal to the number of Swamps you control.",PTK
+Stolen Grain,,LHQ,83,Sorcery,Stolen Grain deals 5 damage to target opponent. You gain 5 life.,"PTK,ME3"
+Stone Catapult,,Shang Huitong,84,Creature — Human Soldier,"{T}: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.",PTK
+Wei Ambush Force,,Ku Xueming,85,Creature — Human Soldier,"Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn.",PTK
+Wei Assassins,,Xu Tan,86,Creature — Human Soldier Assassin,"When Wei Assassins enters the battlefield, target opponent chooses a creature he or she controls. Destroy it.",PTK
+Wei Elite Companions,,Li Youliang,87,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+Wei Infantry,,LHQ,88,Creature — Human Soldier,,"PTK,ME3"
+Wei Night Raiders,,Wang Feng,89,Creature — Human Soldier,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Wei Night Raiders deals damage to an opponent, that player discards a card.","PTK,ME3"
+Wei Scout,,Jiang Zhuqing,90,Creature — Human Soldier Scout,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),PTK
+Wei Strike Force,,Tang Xiaogu,91,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),"PTK,ME3"
+"Xiahou Dun, the One-Eyed",,Junko Taguchi,92,Legendary Creature — Human Soldier,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nSacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared.","pJGP,PTK,ME3"
+"Xun Yu, Wei Advisor",,Jack Wei,93,Legendary Creature — Human Advisor,"{T}: Target creature you control gets +2/+0 until end of turn. Activate this ability only during your turn, before attackers are declared.",PTK
+Young Wei Recruits,,Li Youliang,94,Creature — Human Soldier,Young Wei Recruits can't block.,"PTK,ME3"
+"Zhang He, Wei General",,Jack Wei,95,Legendary Creature — Human Soldier,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.",PTK
+"Zhang Liao, Hero of Hefei",,Li Youliang,96,Legendary Creature — Human Soldier,"Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card.",PTK
+Zodiac Pig,,Qi Baocheng,97,Creature — Boar,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),PTK
+Zodiac Rat,,Qi Baocheng,98,Creature — Rat,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),PTK
+Zodiac Snake,,Qi Baocheng,99,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),PTK
+Barbarian General,,Kuang Sheng,100,Creature — Human Barbarian Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),PTK
+Barbarian Horde,,Kuang Sheng,101,Creature — Human Barbarian Soldier,,PTK
+Blaze,,Qu Xin,102,Sorcery,Blaze deals X damage to target creature or player.,"POR,PO2,6ED,PTK,7ED,8ED,9ED,10E,HOP,DPA"
+Burning Fields,,Yang Hong,103,Sorcery,Burning Fields deals 5 damage to target opponent.,PTK
+Burning of Xinye,,Yang Hong,104,Sorcery,"You destroy four lands you control, then target opponent destroys four lands he or she controls. Then Burning of Xinye deals 4 damage to each creature.","PTK,ME3,VMA,V14"
+Control of the Court,,Li Yousong,105,Sorcery,"Draw four cards, then discard three cards at random.",PTK
+Corrupt Eunuchs,,Li Yousong,106,Creature — Human Advisor,"When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target creature.","PTK,ME3"
+Desert Sandstorm,,Xu Tan,107,Sorcery,Desert Sandstorm deals 1 damage to each creature.,PTK
+"Diaochan, Artful Beauty",,Miao Aili,108,Legendary Creature — Human Advisor,"{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.","PTK,CM1"
+"Dong Zhou, the Tyrant",,Junichi Inoue,109,Legendary Creature — Human Soldier,"When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player.","PTK,ME3"
+Eunuchs' Intrigues,,Li Yousong,110,Sorcery,Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.,PTK
+Fire Ambush,,Tang Xiaogu,111,Sorcery,Fire Ambush deals 3 damage to target creature or player.,"PTK,ME3"
+Fire Bowman,,Cai Tingting,112,Creature — Human Soldier Archer,"Sacrifice Fire Bowman: Fire Bowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.",PTK
+Imperial Recruiter,,Mitsuaki Sagiri,113,Creature — Human Advisor,"When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.","pJGP,PTK,ME2"
+Independent Troops,,Kuang Sheng,114,Creature — Human Soldier,,PTK
+"Lu Bu, Master-at-Arms",,Gao Jianzhang,115,Legendary Creature — Human Soldier Warrior,Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.),"pPRE,PTK,ME3"
+"Ma Chao, Western Warrior",,Koji,116,Legendary Creature — Human Soldier Warrior,"Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Ma Chao, Western Warrior attacks alone, it can't be blocked this combat.",PTK
+Mountain Bandit,,Xu Xiaoming,117,Creature — Human Soldier Rogue,Haste,PTK
+Ravaging Horde,,Liu Jianjian,118,Creature — Human Soldier,"When Ravaging Horde enters the battlefield, destroy target land.",PTK
+Relentless Assault,,He Jiancheng,119,Sorcery,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.","VIS,PO2,6ED,PTK,S99,7ED,8ED,9ED,10E,HOP"
+Renegade Troops,,Liu Jianjian,120,Creature — Human Soldier,Haste,PTK
+Rockslide Ambush,,Inoue Junichi,121,Sorcery,Rockslide Ambush deals damage to target creature equal to the number of Mountains you control.,"PTK,ME4"
+Rolling Earthquake,,Yang Hong,122,Sorcery,Rolling Earthquake deals X damage to each creature without horsemanship and each player.,"PTK,ME3,V14"
+Stone Rain,,Mitsuaki Sagiri,123,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED"
+Warrior's Oath,,Mitsuaki Sagiri,124,Sorcery,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.",PTK
+Yellow Scarves Cavalry,,Chen Weidong,125,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nYellow Scarves Cavalry can't block.,PTK
+Yellow Scarves General,,Chen Weidong,126,Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nYellow Scarves General can't block.,PTK
+Yellow Scarves Troops,,Chen Weidong,127,Creature — Human Soldier,Yellow Scarves Troops can't block.,PTK
+"Yuan Shao, the Indecisive",,Inoue Junichi,128,Legendary Creature — Human Soldier,Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nEach creature you control can't be blocked by more than one creature.,PTK
+Yuan Shao's Infantry,,Lin Yan,129,Creature — Human Soldier,"Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry can't be blocked this combat.",PTK
+Zodiac Dog,,Qi Baocheng,130,Creature — Hound,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),PTK
+Zodiac Dragon,,Qi Baocheng,131,Creature — Dragon,"When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand.","PTK,ME3"
+Zodiac Goat,,Qi Baocheng,132,Creature — Goat,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),PTK
+Borrowing the East Wind,,Gao Yan,133,Sorcery,Borrowing the East Wind deals X damage to each creature with horsemanship and each player.,PTK
+False Mourning,,Koji,134,Sorcery,Put target card from your graveyard on top of your library.,PTK
+Forest Bear,,Wang Yuqun,135,Creature — Bear,,PTK
+Heavy Fog,,Liu Shangying,136,Instant,Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.,"PTK,ME3"
+"Hua Tuo, Honored Physician",,Gao Jianzhang,137,Legendary Creature — Human,"{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.","PTK,ME3,C13"
+Hunting Cheetah,,Fang Yue,138,Creature — Cat,"Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle your library.","PTK,ME3"
+"Lady Zhurong, Warrior Queen",,Miao Aili,139,Legendary Creature — Human Soldier Warrior,Horsemanship (This creature can't be blocked except by creatures with horsemanship.),PTK
+Lone Wolf,,Yang Jun Kwon,140,Creature — Wolf,You may have Lone Wolf assign its combat damage as though it weren't blocked.,"PO2,ULG,PTK,S99,7ED,8ED"
+Marshaling the Troops,,Liu Shangying,141,Sorcery,Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.,PTK
+"Meng Huo, Barbarian King",,Yang Guangmai,142,Legendary Creature — Human Barbarian Soldier,Other green creatures you control get +1/+1.,"PTK,ME3"
+Meng Huo's Horde,,Li Tie,143,Creature — Human Soldier,,"PTK,ME3"
+Riding the Dilu Horse,,Hong Yan,144,Sorcery,Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.),"PTK,ME3"
+Slashing Tiger,,Yang Jun Kwon,145,Creature — Cat,"Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn.","PTK,ME3"
+Southern Elephant,,Wang Yuqun,146,Creature — Elephant,,"PTK,S99,ME4"
+Spoils of Victory,,Sun Nan,147,Sorcery,"Search your library for a Plains, Island, Swamp, Mountain, or Forest card and put that card onto the battlefield. Then shuffle your library.","PTK,ME3,C13"
+Spring of Eternal Peace,,Wang Yuqun,148,Sorcery,You gain 8 life.,PTK
+Stalking Tiger,,Kang Yu,149,Creature — Cat,Stalking Tiger can't be blocked by more than one creature.,"MIR,POR,6ED,PTK,10E"
+Taoist Hermit,,Wang Yuqun,150,Creature — Human Mystic,Hexproof (This creature can't be the target of spells or abilities your opponents control.),PTK
+Taoist Mystic,,Qu Xin,151,Creature — Human Mystic,Taoist Mystic can't be blocked by creatures with horsemanship.,PTK
+Taunting Challenge,,Gao Yan,152,Sorcery,All creatures able to block target creature this turn do so.,PTK
+Three Visits,,Qu Xin,153,Sorcery,Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.,"PTK,ME3"
+Trained Cheetah,,Fang Yue,154,Creature — Cat,"Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.",PTK
+Trained Jackal,,Yang Jun Kwon,155,Creature — Hound,,PTK
+Trip Wire,,Hong Yan,156,Sorcery,Destroy target creature with horsemanship.,"PTK,ME3"
+Wielding the Green Dragon,,Quan Xuejun,157,Sorcery,Target creature gets +4/+4 until end of turn.,PTK
+Wolf Pack,,Yang Jun Kwon,158,Creature — Wolf,You may have Wolf Pack assign its combat damage as though it weren't blocked.,"PTK,ME2"
+Zodiac Horse,,Ai Desheng,159,Creature — Horse,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),PTK
+Zodiac Monkey,,Ai Desheng,160,Creature — Ape,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"PTK,9ED"
+Zodiac Ox,,Ai Desheng,161,Creature — Ox,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),PTK
+Zodiac Rabbit,,Ai Desheng,162,Creature — Rabbit,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),PTK
+Zodiac Rooster,,Ai Desheng,163,Creature — Bird,Plainswalk (This creature can't be blocked as long as defending player controls a Plains.),PTK
+Zodiac Tiger,,Ai Desheng,164,Creature — Cat,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),PTK
+"Zuo Ci, the Mocking Sage",,Wang Yuqun,165,Legendary Creature — Human Advisor,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nZuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship.",PTK
+Plains,,He Jiancheng,166,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,He Jiancheng,167,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,He Jiancheng,168,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Ku Xueming,169,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Ku Xueming,170,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Ku Xueming,171,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Wang Chuxiong,172,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Wang Chuxiong,173,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Wang Chuxiong,174,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Qin Jun,175,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Qin Jun,176,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Qin Jun,177,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Ji Yong,178,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Ji Yong,179,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Ji Yong,180,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

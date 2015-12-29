@@ -1,0 +1,372 @@
+name,cost,artist,number,type,text,printings
+Ajani Goldmane,,Aleksi Briclot,1,Planeswalker — Ajani,+1: You gain 2 life.\n−1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+−6: Put a white Avatar creature token onto the battlefield. It has "This creature's power and toughness are each equal to your life total.","pPRO,LRW,M10,M11"
+Arbiter of Knollridge,,Brandon Dorman,2,Creature — Giant Wizard,"Vigilance\nWhen Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players.","LRW,CMD,C15"
+Austere Command,,Wayne England,3,Sorcery,Choose two —\n• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with converted mana cost 3 or less.
+• Destroy all creatures with converted mana cost 4 or greater.,"LRW,CMD"
+Avian Changeling,,Heather Hudson,4,Creature — Shapeshifter,Changeling (This card is every creature type.)\nFlying,"LRW,MMA"
+Battle Mastery,,Zoltan Boros & Gabor Szikszai,5,Enchantment — Aura,Enchant creature\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.),"LRW,DDL,M15,DTK"
+"Brigid, Hero of Kinsbaile",,Steve Prescott,6,Legendary Creature — Kithkin Archer,"First strike\n{T}: Brigid, Hero of Kinsbaile deals 2 damage to each attacking or blocking creature target player controls.",LRW
+Burrenton Forge-Tender,,Chuck Lukacs,7,Creature — Kithkin Wizard,Protection from red\nSacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.,"LRW,MD1"
+Cenn's Heir,,Steven Belledin,8,Creature — Kithkin Soldier,"Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.",LRW
+Changeling Hero,,Jeff Miracola,9,Creature — Shapeshifter,"Changeling (This card is every creature type.)\nChampion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)",LRW
+Cloudgoat Ranger,,Adam Rex,10,Creature — Giant Warrior,"When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.\nTap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.","LRW,MMA"
+Crib Swap,,Brandon Dorman,11,Tribal Instant — Shapeshifter,Changeling (This card is every creature type at all times.)\nExile target creature. Its controller puts a 1/1 colorless Shapeshifter creature token with changeling onto the battlefield.,"LRW,C15"
+Dawnfluke,,Mark Zug,12,Creature — Elemental,"Flash\nWhen Dawnfluke enters the battlefield, prevent the next 3 damage that would be dealt to target creature or player this turn.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",LRW
+Entangling Trap,,Warren Mahy,13,Enchantment,"Whenever you clash, tap target creature an opponent controls. If you won, that creature doesn't untap during its controller's next untap step. (This ability triggers after the clash ends.)",LRW
+Favor of the Mighty,,Larry MacDougall,14,Tribal Enchantment — Giant,Each creature with the highest converted mana cost has protection from all colors.,LRW
+Galepowder Mage,,Jeremy Jarvis,15,Creature — Kithkin Wizard,"Flying\nWhenever Galepowder Mage attacks, exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.","LRW,DDI"
+Goldmeadow Dodger,,Omar Rayyan,16,Creature — Kithkin Rogue,Goldmeadow Dodger can't be blocked by creatures with power 4 or greater.,LRW
+Goldmeadow Harrier,,Steve Prescott,17,Creature — Kithkin Soldier,"{W}, {T}: Tap target creature.","LRW,DDF"
+Goldmeadow Stalwart,,Wayne Reynolds,18,Creature — Kithkin Soldier,"As an additional cost to cast Goldmeadow Stalwart, reveal a Kithkin card from your hand or pay {3}.",LRW
+Harpoon Sniper,,Dominick Domingo,19,Creature — Merfolk Archer,"{W}, {T}: Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.",LRW
+Hillcomber Giant,,Ralph Horsley,20,Creature — Giant Scout,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"LRW,MMA"
+Hoofprints of the Stag,,Anthony S. Waters,21,Tribal Enchantment — Elemental,"Whenever you draw a card, you may put a hoofprint counter on Hoofprints of the Stag.\n{2}{W}, Remove four hoofprint counters from Hoofprints of the Stag: Put a 4/4 white Elemental creature token with flying onto the battlefield. Activate this ability only during your turn.",LRW
+Judge of Currents,,Dan Scott,22,Creature — Merfolk Wizard,"Whenever a Merfolk you control becomes tapped, you may gain 1 life.",LRW
+Kinsbaile Balloonist,,Zoltan Boros & Gabor Szikszai,23,Creature — Kithkin Soldier,"Flying\nWhenever Kinsbaile Balloonist attacks, you may have target creature gain flying until end of turn.",LRW
+Kinsbaile Skirmisher,,Thomas Denmark,24,Creature — Kithkin Soldier,"When Kinsbaile Skirmisher enters the battlefield, target creature gets +1/+1 until end of turn.","LRW,M15,DDO"
+Kithkin Greatheart,,Greg Staples,25,Creature — Kithkin Soldier,"As long as you control a Giant, Kithkin Greatheart gets +1/+1 and has first strike.","LRW,MMA"
+Kithkin Harbinger,,Steve Prescott,26,Creature — Kithkin Wizard,"When Kithkin Harbinger enters the battlefield, you may search your library for a Kithkin card, reveal it, then shuffle your library and put that card on top of it.",LRW
+Kithkin Healer,,Rebecca Guay,27,Creature — Kithkin Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,LRW
+Knight of Meadowgrain,,Larry MacDougall,28,Creature — Kithkin Knight,First strike\nLifelink (Damage dealt by this creature also causes you to gain that much life.),"LRW,DDG"
+Lairwatch Giant,,Warren Mahy,29,Creature — Giant Warrior,"Lairwatch Giant can block an additional creature.\nWhenever Lairwatch Giant blocks two or more creatures, it gains first strike until end of turn.",LRW
+Militia's Pride,,Larry MacDougall,30,Tribal Enchantment — Kithkin,"Whenever a nontoken creature you control attacks, you may pay {W}. If you do, put a 1/1 white Kithkin Soldier creature token onto the battlefield tapped and attacking.",LRW
+Mirror Entity,,Zoltan Boros & Gabor Szikszai,31,Creature — Shapeshifter,"Changeling (This card is every creature type.)\n{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.","LRW,C13,MM2"
+Neck Snap,,Dominick Domingo,32,Instant,Destroy target attacking or blocking creature.,LRW
+Oaken Brawler,,Jim Murray,33,Creature — Treefolk Warrior,"When Oaken Brawler enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Oaken Brawler. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Oblivion Ring,,Wayne England,34,Enchantment,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.\nWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.","pFNM,LRW,ALA,HOP,ARC,DDG,CMD,M12,DDI,M13,MM2"
+Plover Knights,,Quinton Hoover,35,Creature — Kithkin Knight,"Flying, first strike","LRW,DDG"
+Pollen Lullaby,,Warren Mahy,36,Instant,"Prevent all combat damage that would be dealt this turn. Clash with an opponent. If you win, creatures that player controls don't untap during the player's next untap step. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)","LRW,CMD"
+Purity,,Warren Mahy,37,Creature — Elemental Incarnation,"Flying\nIf noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way.
+When Purity is put into a graveyard from anywhere, shuffle it into its owner's library.",LRW
+Sentry Oak,,Warren Mahy,38,Creature — Treefolk Warrior,"Defender\nAt the beginning of combat on your turn, you may clash with an opponent. If you win, Sentry Oak gets +2/+0 and loses defender until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Shields of Velis Vel,,Ralph Horsley,39,Tribal Instant — Shapeshifter,Changeling (This card is every creature type.)\nCreatures target player controls get +0/+1 and gain all creature types until end of turn.,LRW
+Soaring Hope,,Martina Pilcerova,40,Enchantment — Aura,"Enchant creature\nWhen Soaring Hope enters the battlefield, you gain 3 life.
+Enchanted creature has flying.
+{W}: Put Soaring Hope on top of its owner's library.",LRW
+Springjack Knight,,Steven Belledin,41,Creature — Kithkin Knight,"Whenever Springjack Knight attacks, clash with an opponent. If you win, target creature gains double strike until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Summon the School,,Dave Dorman,42,Tribal Sorcery — Merfolk,Put two 1/1 blue Merfolk Wizard creature tokens onto the battlefield.\nTap four untapped Merfolk you control: Return Summon the School from your graveyard to your hand.,LRW
+Surge of Thoughtweft,,Randy Gallegos,43,Tribal Instant — Kithkin,"Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card.",LRW
+Thoughtweft Trio,,Wayne Reynolds,44,Creature — Kithkin Soldier,"First strike, vigilance\nChampion a Kithkin (When this enters the battlefield, sacrifice it unless you exile another Kithkin you control. When this leaves the battlefield, that card returns to the battlefield.)
+Thoughtweft Trio can block any number of creatures.",LRW
+Triclopean Sight,,Scott Hampton,45,Enchantment — Aura,"Flash\nEnchant creature
+When Triclopean Sight enters the battlefield, untap enchanted creature.
+Enchanted creature gets +1/+1 and has vigilance.",LRW
+Veteran of the Depths,,Daren Bader,46,Creature — Merfolk Soldier,"Whenever Veteran of the Depths becomes tapped, you may put a +1/+1 counter on it.",LRW
+Wellgabber Apothecary,,Brandon Dorman,47,Creature — Merfolk Cleric,{1}{W}: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.,LRW
+Wispmare,,Eric Fortune,48,Creature — Elemental,"Flying\nWhen Wispmare enters the battlefield, destroy target enchantment.
+Evoke {W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",LRW
+Wizened Cenn,,Kev Walker,49,Creature — Kithkin Cleric,Other Kithkin creatures you control get +1/+1.,LRW
+Æthersnipe,,Zoltan Boros & Gabor Szikszai,50,Creature — Elemental,"When Æthersnipe enters the battlefield, return target nonland permanent to its owner's hand.\nEvoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,DD2,CMD,MMA,DD3_JVC,MM2"
+Amoeboid Changeling,,Nils Hamm,51,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{T}: Target creature gains all creature types until end of turn.
+{T}: Target creature loses all creature types until end of turn.,"LRW,H09"
+Aquitect's Will,,Jeff Easley,52,Tribal Sorcery — Merfolk,"Put a flood counter on target land. That land is an Island in addition to its other types for as long as it has a flood counter on it. If you control a Merfolk, draw a card.",LRW
+Benthicore,,Jim Nelson,53,Creature — Elemental,"When Benthicore enters the battlefield, put two 1/1 blue Merfolk Wizard creature tokens onto the battlefield.\nTap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. (It can't be the target of spells or abilities.)",LRW
+Broken Ambitions,,Franz Vohwinkel,54,Instant,"Counter target spell unless its controller pays {X}. Clash with an opponent. If you win, that spell's controller puts the top four cards of his or her library into his or her graveyard. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Captivating Glance,,Dan Dos Santos,55,Enchantment — Aura,"Enchant creature\nAt the beginning of your end step, clash with an opponent. If you win, gain control of enchanted creature. Otherwise, that player gains control of enchanted creature. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Cryptic Command,,Wayne England,56,Instant,Choose two —\n• Counter target spell.
+• Return target permanent to its owner's hand.
+• Tap all creatures your opponents control.
+• Draw a card.,"pMPR,LRW,MMA,MM2"
+Deeptread Merrow,,Terese Nielsen & Philip Tan,57,Creature — Merfolk Rogue,{U}: Deeptread Merrow gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.),LRW
+Drowner of Secrets,,Rebecca Guay,58,Creature — Merfolk Wizard,Tap an untapped Merfolk you control: Target player puts the top card of his or her library into his or her graveyard.,LRW
+Ego Erasure,,Steven Belledin,59,Tribal Instant — Shapeshifter,Changeling (This card is every creature type.)\nCreatures target player controls get -2/-0 and lose all creature types until end of turn.,LRW
+Ethereal Whiskergill,,Howard Lyon,60,Creature — Elemental,Flying\nEthereal Whiskergill can't attack unless defending player controls an Island.,LRW
+Faerie Harbinger,,Larry MacDougall,61,Creature — Faerie Wizard,"Flash\nFlying
+When Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle your library and put that card on top of it.",LRW
+Faerie Trickery,,Terese Nielsen,62,Tribal Instant — Faerie,"Counter target non-Faerie spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",LRW
+Fallowsage,,Paolo Parente,63,Creature — Merfolk Wizard,"Whenever Fallowsage becomes tapped, you may draw a card.",LRW
+Familiar's Ruse,,Eric Fortune,64,Instant,"As an additional cost to cast Familiar's Ruse, return a creature you control to its owner's hand.\nCounter target spell.",LRW
+Fathom Trawl,,Paul Chadwick,65,Sorcery,"Reveal cards from the top of your library until you reveal three nonland cards. Put the nonland cards revealed this way into your hand, then put the rest of the revealed cards on the bottom of your library in any order.",LRW
+Forced Fruition,,William O'Connor,66,Enchantment,"Whenever an opponent casts a spell, that player draws seven cards.",LRW
+Glen Elendra Pranksters,,Omar Rayyan,67,Creature — Faerie Wizard,"Flying\nWhenever you cast a spell during an opponent's turn, you may return target creature you control to its owner's hand.",LRW
+Glimmerdust Nap,,Greg Staples,68,Enchantment — Aura,Enchant tapped creature\nEnchanted creature doesn't untap during its controller's untap step.,LRW
+Guile,,Zoltan Boros & Gabor Szikszai,69,Creature — Elemental Incarnation,"Guile can't be blocked except by three or more creatures.\nIf a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.
+When Guile is put into a graveyard from anywhere, shuffle it into its owner's library.","LRW,DD2,DD3_JVC,MM2"
+Inkfathom Divers,,Steven Belledin,70,Creature — Merfolk Soldier,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen Inkfathom Divers enters the battlefield, look at the top four cards of your library, then put them back in any order.",LRW
+Jace Beleren,,Aleksi Briclot,71,Planeswalker — Jace,+2: Each player draws a card.\n−1: Target player draws a card.
+−10: Target player puts the top twenty cards of his or her library into his or her graveyard.,"pMEI,LRW,DD2,M10,M11,DD3_JVC"
+Merrow Commerce,,Steve Ellis,72,Tribal Enchantment — Merfolk,"At the beginning of your end step, untap all Merfolk you control.",LRW
+Merrow Harbinger,,Steve Prescott,73,Creature — Merfolk Wizard,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.",LRW
+Merrow Reejerey,,Greg Staples,74,Creature — Merfolk Soldier,"Other Merfolk creatures you control get +1/+1.\nWhenever you cast a Merfolk spell, you may tap or untap target permanent.","pFNM,LRW"
+Mistbind Clique,,Ben Thompson,75,Creature — Faerie Wizard,"Flash\nFlying
+Champion a Faerie (When this enters the battlefield, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)
+When a Faerie is championed with Mistbind Clique, tap all lands target player controls.",LRW
+Mulldrifter,,Eric Fortune,76,Creature — Elemental,"Flying\nWhen Mulldrifter enters the battlefield, draw two cards.
+Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","pFNM,LRW,DD2,CMD,MMA,C14,DD3_JVC,MM2,C15"
+Paperfin Rascal,,Zoltan Boros & Gabor Szikszai,77,Creature — Merfolk Rogue,"When Paperfin Rascal enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Paperfin Rascal. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Pestermite,,Christopher Moeller,78,Creature — Faerie Rogue,"Flash\nFlying
+When Pestermite enters the battlefield, you may tap or untap target permanent.","LRW,MMA"
+Ponder,,Mark Tedin,79,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.","pMPR,LRW,M10,M12"
+Protective Bubble,,Steve Ellis,80,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked and has shroud. (It can't be the target of spells or abilities.),LRW
+Ringskipper,,Heather Hudson,81,Creature — Faerie Wizard,"Flying\nWhen Ringskipper dies, clash with an opponent. If you win, return Ringskipper to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Scattering Stroke,,Franz Vohwinkel,82,Instant,"Counter target spell. Clash with an opponent. If you win, at the beginning of your next main phase, you may add {X} to your mana pool, where X is that spell's converted mana cost. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)","LRW,CMD"
+Scion of Oona,,Eric Fortune,83,Creature — Faerie Soldier,Flash\nFlying
+Other Faerie creatures you control get +1/+1.
+Other Faeries you control have shroud. (They can't be the targets of spells or abilities.),"LRW,MMA"
+Sentinels of Glen Elendra,,Howard Lyon,84,Creature — Faerie Soldier,Flash\nFlying,LRW
+Shapesharer,,Alan Pollack,85,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{2}{U}: Target Shapeshifter becomes a copy of target creature until your next turn.,LRW
+Silvergill Adept,,Matt Cavotta,86,Creature — Merfolk Wizard,"As an additional cost to cast Silvergill Adept, reveal a Merfolk card from your hand or pay {3}.\nWhen Silvergill Adept enters the battlefield, draw a card.",LRW
+Silvergill Douser,,Daren Bader,87,Creature — Merfolk Wizard,"{T}: Target creature gets -X/-0 until end of turn, where X is the number of Merfolk and/or Faeries you control.",LRW
+Sower of Temptation,,Christopher Moeller,88,Creature — Faerie Wizard,"Flying\nWhen Sower of Temptation enters the battlefield, gain control of target creature for as long as Sower of Temptation remains on the battlefield.",LRW
+Spellstutter Sprite,,Rebecca Guay,89,Creature — Faerie Wizard,"Flash\nFlying
+When Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.","pFNM,LRW,MMA"
+Stonybrook Angler,,Larry MacDougall,90,Creature — Merfolk Wizard,"{1}{U}, {T}: You may tap or untap target creature.",LRW
+Streambed Aquitects,,William O'Connor,91,Creature — Merfolk Scout,{T}: Target Merfolk creature gets +1/+1 and gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)\n{T}: Target land becomes an Island until end of turn.,LRW
+Surgespanner,,Warren Mahy,92,Creature — Merfolk Wizard,"Whenever Surgespanner becomes tapped, you may pay {1}{U}. If you do, return target permanent to its owner's hand.",LRW
+Tideshaper Mystic,,Mark Tedin,93,Creature — Merfolk Wizard,{T}: Target land becomes the basic land type of your choice until end of turn. Activate this ability only during your turn.,LRW
+Turtleshell Changeling,,Ron Spencer,94,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{1}{U}: Switch Turtleshell Changeling's power and toughness until end of turn.,LRW
+Wanderwine Prophets,,Alex Horley-Orlandelli,95,Creature — Merfolk Wizard,"Champion a Merfolk (When this enters the battlefield, sacrifice it unless you exile another Merfolk you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhenever Wanderwine Prophets deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one.",LRW
+Whirlpool Whelm,,Cyril Van Der Haegen,96,Instant,"Clash with an opponent, then return target creature to its owner's hand. If you win, you may put that creature on top of its owner's library instead. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)","LRW,CMD"
+Wings of Velis Vel,,Jim Pavelec,97,Tribal Instant — Shapeshifter,"Changeling (This card is every creature type.)\nUntil end of turn, target creature has base power and toughness 4/4, gains all creature types, and gains flying.","LRW,MM2"
+Zephyr Net,,Heather Hudson,98,Enchantment — Aura,Enchant creature\nEnchanted creature has defender and flying.,LRW
+Black Poplar Shaman,,Mark Poole,99,Creature — Treefolk Shaman,{2}{B}: Regenerate target Treefolk.,LRW
+Bog Hoodlums,,Brandon Dorman,100,Creature — Goblin Warrior,"Bog Hoodlums can't block.\nWhen Bog Hoodlums enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Bog Hoodlums. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Boggart Birth Rite,,Ralph Horsley,101,Tribal Sorcery — Goblin,Return target Goblin card from your graveyard to your hand.,LRW
+Boggart Harbinger,,Steve Prescott,102,Creature — Goblin Shaman,"When Boggart Harbinger enters the battlefield, you may search your library for a Goblin card, reveal it, then shuffle your library and put that card on top of it.",LRW
+Boggart Loggers,,Jesper Ejsing,103,Creature — Goblin Rogue,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\n{2}{B}, Sacrifice Boggart Loggers: Destroy target Treefolk or Forest.",LRW
+Boggart Mob,,Thomas Denmark,104,Creature — Goblin Warrior,"Champion a Goblin (When this enters the battlefield, sacrifice it unless you exile another Goblin you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhenever a Goblin you control deals combat damage to a player, you may put a 1/1 black Goblin Rogue creature token onto the battlefield.",LRW
+Cairn Wanderer,,Nils Hamm,105,Creature — Shapeshifter,"Changeling (This card is every creature type.)\nAs long as a creature card with flying is in a graveyard, Cairn Wanderer has flying. The same is true for fear, first strike, double strike, deathtouch, haste, landwalk, lifelink, protection, reach, trample, shroud, and vigilance.",LRW
+Colfenor's Plans,,Darrell Riche,106,Enchantment,"When Colfenor's Plans enters the battlefield, exile the top seven cards of your library face down.\nYou may look at and play cards exiled with Colfenor's Plans.
+Skip your draw step.
+You can't cast more than one spell each turn.",LRW
+Dread,,Matt Cavotta,107,Creature — Elemental Incarnation,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever a creature deals damage to you, destroy it.
+When Dread is put into a graveyard from anywhere, shuffle it into its owner's library.",LRW
+Dreamspoiler Witches,,Jeff Easley,108,Creature — Faerie Wizard,"Flying\nWhenever you cast a spell during an opponent's turn, you may have target creature get -1/-1 until end of turn.","LRW,MMA"
+Exiled Boggart,,Pete Venters,109,Creature — Goblin Rogue,"When Exiled Boggart dies, discard a card.",LRW
+Eyeblight's Ending,,Ron Spears,110,Tribal Instant — Elf,Destroy target non-Elf creature.,"LRW,DPA"
+Facevaulter,,Wayne Reynolds,111,Creature — Goblin Warrior,"{B}, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.","LRW,MMA"
+Faerie Tauntings,,Michael Sutfin,112,Tribal Enchantment — Faerie,"Whenever you cast a spell during an opponent's turn, you may have each opponent lose 1 life.",LRW
+Final Revels,,Omar Rayyan,113,Sorcery,Choose one —\n• All creatures get +2/+0 until end of turn.
+• All creatures get -0/-2 until end of turn.,LRW
+Fodder Launch,,Nils Hamm,114,Tribal Sorcery — Goblin,"As an additional cost to cast Fodder Launch, sacrifice a Goblin.\nTarget creature gets -5/-5 until end of turn. Fodder Launch deals 5 damage to that creature's controller.",LRW
+Footbottom Feast,,Jim Nelson,115,Instant,Put any number of target creature cards from your graveyard on top of your library.\nDraw a card.,"LRW,CMD"
+Ghostly Changeling,,Chuck Lukacs,116,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.,"LRW,MM2"
+Hoarder's Greed,,Pete Venters,117,Sorcery,"You lose 2 life and draw two cards, then clash with an opponent. If you win, repeat this process. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Hornet Harasser,,Nils Hamm,118,Creature — Goblin Shaman,"When Hornet Harasser dies, target creature gets -2/-2 until end of turn.",LRW
+Hunter of Eyeblights,,Jesper Ejsing,119,Creature — Elf Assassin,"When Hunter of Eyeblights enters the battlefield, put a +1/+1 counter on target creature you don't control.\n{2}{B}, {T}: Destroy target creature with a counter on it.",LRW
+Knucklebone Witch,,Jim Pavelec,120,Creature — Goblin Shaman,"Whenever a Goblin you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on Knucklebone Witch.",LRW
+Liliana Vess,,Aleksi Briclot,121,Planeswalker — Liliana,"+1: Target player discards a card.\n−2: Search your library for a card, then shuffle your library and put that card on top of it.
+−8: Put all creature cards from all graveyards onto the battlefield under your control.","pMEI,LRW,M10,DDD,M11,M15,DD3_GVL"
+Lys Alana Scarblade,,Christopher Moeller,122,Creature — Elf Assassin,"{T}, Discard an Elf card: Target creature gets -X/-X until end of turn, where X is the number of Elves you control.",LRW
+Mad Auntie,,Wayne Reynolds,123,Creature — Goblin Shaman,Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.,"pSUS,LRW,MMA"
+Makeshift Mannequin,,Darrell Riche,124,Instant,"Return target creature card from your graveyard to the battlefield with a mannequin counter on it. For as long as that creature has a mannequin counter on it, it has "When this creature becomes the target of a spell or ability, sacrifice it."","LRW,ARC"
+Marsh Flitter,,Wayne Reynolds,125,Creature — Faerie Rogue,"Flying\nWhen Marsh Flitter enters the battlefield, put two 1/1 black Goblin Rogue creature tokens onto the battlefield.
+Sacrifice a Goblin: Marsh Flitter has base power and toughness 3/3 until end of turn.","LRW,MMA"
+Moonglove Winnower,,William O'Connor,126,Creature — Elf Rogue,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"LRW,DPA"
+Mournwhelk,,Jeremy Jarvis,127,Creature — Elemental,"When Mournwhelk enters the battlefield, target player discards two cards.\nEvoke {3}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",LRW
+Nameless Inversion,,Jeff Miracola,128,Tribal Instant — Shapeshifter,Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.,"pMPR,LRW,MM2"
+Nath's Buffoon,,Thomas Denmark,129,Creature — Goblin Rogue,Protection from Elves,LRW
+Nectar Faerie,,Thomas Denmark,130,Creature — Faerie Wizard,"Flying\n{B}, {T}: Target Faerie or Elf gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",LRW
+Nettlevine Blight,,Michael Sutfin,131,Enchantment — Aura,"Enchant creature or land\nEnchanted permanent has "At the beginning of your end step, sacrifice this permanent and attach Nettlevine Blight to a creature or land you control."",LRW
+Nightshade Stinger,,Mark Poole,132,Creature — Faerie Rogue,Flying\nNightshade Stinger can't block.,LRW
+Oona's Prowler,,Wayne Reynolds,133,Creature — Faerie Rogue,Flying\nDiscard a card: Oona's Prowler gets -2/-0 until end of turn. Any player may activate this ability.,LRW
+Peppersmoke,,Rebecca Guay,134,Tribal Instant — Faerie,"Target creature gets -1/-1 until end of turn. If you control a Faerie, draw a card.","LRW,MMA"
+Profane Command,,Wayne England,135,Sorcery,Choose two —\n• Target player loses X life. 
+• Return target creature card with converted mana cost X or less from your graveyard to the battlefield.
+• Target creature gets -X/-X until end of turn.
+• Up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.),"LRW,HOP,DDH,C14,MM2"
+Prowess of the Fair,,Jeremy Jarvis,136,Tribal Enchantment — Elf,"Whenever another nontoken Elf is put into your graveyard from the battlefield, you may put a 1/1 green Elf Warrior creature token onto the battlefield.",LRW
+Quill-Slinger Boggart,,Warren Mahy,137,Creature — Goblin Warrior,"Whenever a player casts a Kithkin spell, you may have target player lose 1 life.",LRW
+Scarred Vinebreeder,,Alex Horley-Orlandelli,138,Creature — Elf Shaman,"{2}{B}, Exile an Elf card from your graveyard: Scarred Vinebreeder gets +3/+3 until end of turn.",LRW
+Shriekmaw,,Steve Prescott,139,Creature — Elemental,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhen Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","pREL,LRW,ARC,CMD,DDH,C14,C15"
+Skeletal Changeling,,Alan Pollack,140,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{1}{B}: Regenerate Skeletal Changeling.,LRW
+Spiderwig Boggart,,Larry MacDougall,141,Creature — Goblin Shaman,"When Spiderwig Boggart enters the battlefield, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",LRW
+Squeaking Pie Sneak,,Jeff Miracola,142,Creature — Goblin Rogue,"As an additional cost to cast Squeaking Pie Sneak, reveal a Goblin card from your hand or pay {3}.\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)",LRW
+Thieving Sprite,,Dan Scott,143,Creature — Faerie Rogue,"Flying\nWhen Thieving Sprite enters the battlefield, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.","LRW,MMA"
+Thorntooth Witch,,William O'Connor,144,Creature — Treefolk Shaman,"Whenever you cast a Treefolk spell, you may have target creature get +3/-3 until end of turn.",LRW
+Thoughtseize,,Aleksi Briclot,145,Sorcery,Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.,"LRW,THS"
+Warren Pilferers,,Wayne Reynolds,146,Creature — Goblin Rogue,"When Warren Pilferers enters the battlefield, return target creature card from your graveyard to your hand. If that card is a Goblin card, Warren Pilferers gains haste until end of turn.","LRW,MMA"
+Weed Strangle,,Jesper Ejsing,147,Sorcery,"Destroy target creature. Clash with an opponent. If you win, you gain life equal to that creature's toughness. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Adder-Staff Boggart,,Jeff Miracola,148,Creature — Goblin Warrior,"When Adder-Staff Boggart enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Adder-Staff Boggart. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Ashling the Pilgrim,,Wayne Reynolds,149,Legendary Creature — Elemental Shaman,"{1}{R}: Put a +1/+1 counter on Ashling the Pilgrim. If this is the third time this ability has resolved this turn, remove all +1/+1 counters from Ashling the Pilgrim, and it deals that much damage to each creature and each player.",LRW
+Ashling's Prerogative,,Warren Mahy,150,Enchantment,"As Ashling's Prerogative enters the battlefield, choose odd or even. (Zero is even.)\nEach creature with converted mana cost of the chosen value has haste.
+Each creature without converted mana cost of the chosen value enters the battlefield tapped.",LRW
+Axegrinder Giant,,Warren Mahy,151,Creature — Giant Warrior,,LRW
+Blades of Velis Vel,,Ron Spencer,152,Tribal Instant — Shapeshifter,Changeling (This card is every creature type.)\nUp to two target creatures each get +2/+0 and gain all creature types until end of turn.,"LRW,MM2"
+Blind-Spot Giant,,Jim Murray,153,Creature — Giant Warrior,Blind-Spot Giant can't attack or block unless you control another Giant.,"LRW,MMA"
+Boggart Forager,,Ron Spencer,154,Creature — Goblin Rogue,"{R}, Sacrifice Boggart Forager: Target player shuffles his or her library.",LRW
+Boggart Shenanigans,,Warren Mahy,155,Tribal Enchantment — Goblin,"Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player.","LRW,EVG,DD3_EVG"
+Boggart Sprite-Chaser,,Mark Poole,156,Creature — Goblin Warrior,"As long as you control a Faerie, Boggart Sprite-Chaser gets +1/+1 and has flying.",LRW
+Caterwauling Boggart,,Steven Belledin,157,Creature — Goblin Shaman,Goblins you control and Elementals you control have menace. (They can't be blocked except by two or more creatures.),LRW
+Ceaseless Searblades,,Jim Murray,158,Creature — Elemental Warrior,"Whenever you activate an ability of an Elemental, Ceaseless Searblades gets +1/+0 until end of turn.",LRW
+Chandra Nalaar,,Aleksi Briclot,159,Planeswalker — Chandra,+1: Chandra Nalaar deals 1 damage to target player.\n−X: Chandra Nalaar deals X damage to target creature.
+−8: Chandra Nalaar deals 10 damage to target player and each creature he or she controls.,"LRW,DD2,M10,M11,DD3_JVC"
+Changeling Berserker,,Warren Mahy,160,Creature — Shapeshifter,"Changeling (This card is every creature type.)\nHaste
+Champion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",LRW
+Consuming Bonfire,,Randy Gallegos,161,Tribal Sorcery — Elemental,Choose one —\n• Consuming Bonfire deals 4 damage to target non-Elemental creature.
+• Consuming Bonfire deals 7 damage to target Treefolk creature.,LRW
+Crush Underfoot,,Steven Belledin,162,Tribal Instant — Giant,Choose a Giant creature you control. It deals damage equal to its power to target creature.,"LRW,MMA"
+Faultgrinder,,Anthony S. Waters,163,Creature — Elemental,"Trample\nWhen Faultgrinder enters the battlefield, destroy target land.
+Evoke {4}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,CMD"
+Fire-Belly Changeling,,Randy Gallegos,164,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.,"LRW,DDG"
+Flamekin Bladewhirl,,Mark Zug,165,Creature — Elemental Warrior,"As an additional cost to cast Flamekin Bladewhirl, reveal an Elemental card from your hand or pay {3}.",LRW
+Flamekin Brawler,,Daren Bader,166,Creature — Elemental Warrior,{R}: Flamekin Brawler gets +1/+0 until end of turn.,"LRW,DD2,DD3_JVC"
+Flamekin Harbinger,,Steve Prescott,167,Creature — Elemental Shaman,"When Flamekin Harbinger enters the battlefield, you may search your library for an Elemental card, reveal it, then shuffle your library and put that card on top of it.","LRW,HOP"
+Flamekin Spitfire,,Zoltan Boros & Gabor Szikszai,168,Creature — Elemental Shaman,{3}{R}: Flamekin Spitfire deals 1 damage to target creature or player.,LRW
+Giant Harbinger,,Steve Prescott,169,Creature — Giant Shaman,"When Giant Harbinger enters the battlefield, you may search your library for a Giant card, reveal it, then shuffle your library and put that card on top of it.",LRW
+Giant's Ire,,Alex Horley-Orlandelli,170,Tribal Sorcery — Giant,"Giant's Ire deals 4 damage to target player. If you control a Giant, draw a card.",LRW
+Glarewielder,,Nils Hamm,171,Creature — Elemental Shaman,"Haste\nWhen Glarewielder enters the battlefield, up to two target creatures can't block this turn.
+Evoke {1}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",LRW
+Goatnapper,,Ron Spencer,172,Creature — Goblin Rogue,"When Goatnapper enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.",LRW
+Hamletback Goliath,,Parente & Brian Snõddy,173,Creature — Giant Warrior,"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature's power.","pMEI,LRW,M13,C15"
+Hearthcage Giant,,Zoltan Boros & Gabor Szikszai,174,Creature — Giant Warrior,"When Hearthcage Giant enters the battlefield, put two 3/1 red Elemental Shaman creature tokens onto the battlefield.\nSacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.",LRW
+Heat Shimmer,,Franz Vohwinkel,175,Sorcery,"Put a token that's a copy of target creature onto the battlefield. That token has haste and "At the beginning of the end step, exile this permanent."",LRW
+Hostility,,Omar Rayyan,176,Creature — Elemental Incarnation,"Haste\nIf a spell you control would deal damage to an opponent, prevent that damage. Put a 3/1 red Elemental Shaman creature token with haste onto the battlefield for each 1 damage prevented this way.
+When Hostility is put into a graveyard from anywhere, shuffle it into its owner's library.","LRW,DD2,DD3_JVC,C15"
+Hurly-Burly,,Steve Prescott,177,Sorcery,Choose one —\n• Hurly-Burly deals 1 damage to each creature without flying.
+• Hurly-Burly deals 1 damage to each creature with flying.,LRW
+Incandescent Soulstoke,,Todd Lockwood,178,Creature — Elemental Shaman,"Other Elemental creatures you control get +1/+1.\n{1}{R}, {T}: You may put an Elemental creature card from your hand onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.","LRW,MM2"
+Incendiary Command,,Wayne England,179,Sorcery,"Choose two —\n• Incendiary Command deals 4 damage to target player.
+• Incendiary Command deals 2 damage to each creature.
+• Destroy target nonbasic land.
+• Each player discards all the cards in his or her hand, then draws that many cards.","LRW,C13"
+Ingot Chewer,,Kev Walker,180,Creature — Elemental,"When Ingot Chewer enters the battlefield, destroy target artifact.\nEvoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,DD2,C14,DD3_JVC"
+Inner-Flame Acolyte,,Ron Spears,181,Creature — Elemental Shaman,"When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.\nEvoke {R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,DD2,DD3_JVC"
+Inner-Flame Igniter,,Scott Hampton,182,Creature — Elemental Warrior,"{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.","LRW,MM2"
+Lash Out,,Scott Hampton,183,Instant,"Lash Out deals 3 damage to target creature. Clash with an opponent. If you win, Lash Out deals 3 damage to that creature's controller. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)","LRW,CMD"
+Lowland Oaf,,Jeff Easley,184,Creature — Giant Warrior,{T}: Target Goblin creature you control gets +1/+0 and gains flying until end of turn. Sacrifice that creature at the beginning of the next end step.,LRW
+Mudbutton Torchrunner,,Steve Ellis,185,Creature — Goblin Warrior,"When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.","LRW,EVG,DDG,PC2,DD3_EVG"
+Needle Drop,,Greg Staples,186,Instant,Needle Drop deals 1 damage to target creature or player that was dealt damage this turn.\nDraw a card.,LRW
+Nova Chaser,,Dan Scott,187,Creature — Elemental Warrior,"Trample\nChampion an Elemental (When this enters the battlefield, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)",LRW
+Rebellion of the Flamekin,,Dan Dos Santos,188,Tribal Enchantment — Elemental,"Whenever you clash, you may pay {1}. If you do, put a 3/1 red Elemental Shaman creature token onto the battlefield. If you won, that token gains haste until end of turn. (This ability triggers after the clash ends.)",LRW
+Smokebraider,,Anthony S. Waters,189,Creature — Elemental Shaman,{T}: Add two mana in any combination of colors to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.,"LRW,HOP,MM2"
+Soulbright Flamekin,,Kev Walker,190,Creature — Elemental Shaman,"{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R} to your mana pool.","LRW,DD2,DD3_JVC,MM2"
+Stinkdrinker Daredevil,,Pete Venters,191,Creature — Goblin Rogue,Giant spells you cast cost {2} less to cast.,"LRW,MMA,C15"
+Sunrise Sovereign,,William O'Connor,192,Creature — Giant Warrior,Other Giant creatures you control get +2/+2 and have trample.,"LRW,C15"
+Tar Pitcher,,Omar Rayyan,193,Creature — Goblin Shaman,"{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to target creature or player.","LRW,EVG,MMA,DD3_EVG"
+Tarfire,,Omar Rayyan,194,Tribal Instant — Goblin,Tarfire deals 2 damage to target creature or player.,"LRW,EVG,DD3_EVG"
+Thundercloud Shaman,,Greg Staples,195,Creature — Giant Shaman,"When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.","LRW,MMA,C15"
+Wild Ricochet,,Dan Scott,196,Instant,You may choose new targets for target instant or sorcery spell. Then copy that spell. You may choose new targets for the copy.,"LRW,CMD,M14,C13"
+Battlewand Oak,,Steve Prescott,197,Creature — Treefolk Warrior,"Whenever a Forest enters the battlefield under your control, Battlewand Oak gets +2/+2 until end of turn.\nWhenever you cast a Treefolk spell, Battlewand Oak gets +2/+2 until end of turn.",LRW
+Bog-Strider Ash,,Steven Belledin,198,Creature — Treefolk Shaman,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhenever a player casts a Goblin spell, you may pay {G}. If you do, you gain 2 life.",LRW
+Briarhorn,,Nils Hamm,199,Creature — Elemental,"Flash\nWhen Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.
+Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,HOP,DDH"
+Changeling Titan,,Jesper Ejsing,200,Creature — Shapeshifter,"Changeling (This card is every creature type.)\nChampion a creature (When this enters the battlefield, sacrifice it unless you exile another creature you control. When this leaves the battlefield, that card returns to the battlefield.)",LRW
+Cloudcrown Oak,,Rebecca Guay,201,Creature — Treefolk Warrior,Reach (This creature can block creatures with flying.),LRW
+Cloudthresher,,Christopher Moeller,202,Creature — Elemental,"Flash\nReach
+When Cloudthresher enters the battlefield, it deals 2 damage to each creature with flying and each player.
+Evoke {2}{G}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,C15"
+Dauntless Dourbark,,Jeremy Jarvis,203,Creature — Treefolk Warrior,Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.\nDauntless Dourbark has trample as long as you control another Treefolk.,"pGTW,LRW"
+Elvish Branchbender,,Ralph Horsley,204,Creature — Elf Druid,"{T}: Until end of turn, target Forest becomes an X/X Treefolk creature in addition to its other types, where X is the number of Elves you control.",LRW
+Elvish Eulogist,,Ben Thompson,205,Creature — Elf Shaman,Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.,"LRW,EVG,DPA,DD3_EVG"
+Elvish Handservant,,Steve Prescott,206,Creature — Elf Warrior,"Whenever a player casts a Giant spell, you may put a +1/+1 counter on Elvish Handservant.",LRW
+Elvish Harbinger,,Larry MacDougall,207,Creature — Elf Druid,"When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it.\n{T}: Add one mana of any color to your mana pool.","LRW,EVG,DD3_EVG"
+Elvish Promenade,,Steve Ellis,208,Tribal Sorcery — Elf,Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.,"LRW,EVG,DPA,DD3_EVG"
+Epic Proportions,,Jesper Ejsing,209,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets +5/+5 and has trample.,LRW
+Eyes of the Wisent,,Aleksi Briclot,210,Tribal Enchantment — Elemental,"Whenever an opponent casts a blue spell during your turn, you may put a 4/4 green Elemental creature token onto the battlefield.",LRW
+Fertile Ground,,Mark Tedin,211,Enchantment — Aura,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).","USG,BRB,INV,8ED,LRW,HOP,DDE"
+Fistful of Force,,Ralph Horsley,212,Instant,"Target creature gets +2/+2 until end of turn. Clash with an opponent. If you win, that creature gets an additional +2/+2 and gains trample until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Garruk Wildspeaker,,Aleksi Briclot,213,Planeswalker — Garruk,+1: Untap two target lands.\n−1: Put a 3/3 green Beast creature token onto the battlefield.
+−4: Creatures you control get +3/+3 and gain trample until end of turn.,"pMEI,LRW,M10,DDD,M11,CMD,DD3_GVL"
+Gilt-Leaf Ambush,,Steve Prescott,214,Tribal Instant — Elf,"Put two 1/1 green Elf Warrior creature tokens onto the battlefield. Clash with an opponent. If you win, those creatures gain deathtouch until end of turn. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost. Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)",LRW
+Gilt-Leaf Seer,,Darrell Riche,215,Creature — Elf Shaman,"{G}, {T}: Look at the top two cards of your library, then put them back in any order.",LRW
+Guardian of Cloverdell,,Jesper Ejsing,216,Creature — Treefolk Shaman,"When Guardian of Cloverdell enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.\n{G}, Sacrifice a Kithkin: You gain 1 life.",LRW
+Heal the Scars,,Carl Frank,217,Instant,Regenerate target creature. You gain life equal to that creature's toughness.,LRW
+Hunt Down,,Christopher Moeller,218,Sorcery,Target creature blocks target creature this turn if able.,LRW
+Immaculate Magistrate,,Jim Nelson,219,Creature — Elf Shaman,{T}: Put a +1/+1 counter on target creature for each Elf you control.,"LRW,DPA,C14"
+Imperious Perfect,,Scott M. Fischer,220,Creature — Elf Warrior,"Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.","pCMP,LRW,EVG,DPA,C14,DD3_EVG"
+Incremental Growth,,Chuck Lukacs,221,Sorcery,"Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.","LRW,MMA,KTK"
+Jagged-Scar Archers,,Paolo Parente,222,Creature — Elf Archer,Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.\n{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.,"LRW,DPA"
+Kithkin Daggerdare,,Christopher Moeller,223,Creature — Kithkin Soldier,"{G}, {T}: Target attacking creature gets +2/+2 until end of turn.",LRW
+Kithkin Mourncaller,,Dominick Domingo,224,Creature — Kithkin Scout,"Whenever an attacking Kithkin or Elf is put into your graveyard from the battlefield, you may draw a card.",LRW
+Lace with Moonglove,,Rebecca Guay,225,Instant,Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.)\nDraw a card.,LRW
+Lammastide Weave,,Howard Lyon,226,Instant,"Name a card, then target player puts the top card of his or her library into his or her graveyard. If that card is the named card, you gain life equal to its converted mana cost.\nDraw a card.",LRW
+Leaf Gilder,,Quinton Hoover,227,Creature — Elf Druid,{T}: Add {G} to your mana pool.,"LRW,ARC,ORI"
+Lignify,,Jesper Ejsing,228,Tribal Enchantment — Treefolk Aura,Enchant creature\nEnchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.,"LRW,DDD,DD3_GVL"
+Lys Alana Huntmaster,,Pete Venters,229,Creature — Elf Warrior,"Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.","LRW,EVG,DPA,C14,DD3_EVG"
+Masked Admirers,,Eric Fortune,230,Creature — Elf Shaman,"When Masked Admirers enters the battlefield, draw a card.\nWhenever you cast a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.","LRW,MMA,C14"
+Nath's Elite,,Wayne Reynolds,231,Creature — Elf Warrior,"All creatures able to block Nath's Elite do so.\nWhen Nath's Elite enters the battlefield, clash with an opponent. If you win, put a +1/+1 counter on Nath's Elite. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Oakgnarl Warrior,,Jim Nelson,232,Creature — Treefolk Warrior,"Vigilance, trample",LRW
+Primal Command,,Wayne England,233,Sorcery,"Choose two —\n• Target player gains 7 life.
+• Put target noncreature permanent on top of its owner's library.
+• Target player shuffles his or her graveyard into his or her library.
+• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.","LRW,ARC,DDP"
+Rootgrapple,,Alan Pollack,234,Tribal Instant — Treefolk,"Destroy target noncreature permanent. If you control a Treefolk, draw a card.",LRW
+Seedguide Ash,,John Avon,235,Creature — Treefolk Druid,"When Seedguide Ash dies, you may search your library for up to three Forest cards and put them onto the battlefield tapped. If you do, shuffle your library.",LRW
+Spring Cleaning,,Michael Sutfin,236,Instant,"Destroy target enchantment. Clash with an opponent. If you win, destroy all enchantments your opponents control. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",LRW
+Sylvan Echoes,,Rebecca Guay,237,Enchantment,"Whenever you clash and win, you may draw a card. (This ability triggers after the clash ends.)",LRW
+Timber Protector,,Terese Nielsen & Philip Tan,238,Creature — Treefolk Warrior,Other Treefolk creatures you control get +1/+1.\nOther Treefolk and Forests you control have indestructible.,LRW
+Treefolk Harbinger,,Larry MacDougall,239,Creature — Treefolk Druid,"When Treefolk Harbinger enters the battlefield, you may search your library for a Treefolk or Forest card, reveal it, then shuffle your library and put that card on top of it.",LRW
+Vigor,,Jim Murray,240,Creature — Elemental Incarnation,"Trample\nIf damage would be dealt to a creature you control other than Vigor, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.
+When Vigor is put into a graveyard from anywhere, shuffle it into its owner's library.","LRW,DPA"
+Warren-Scourge Elf,,Christopher Moeller,241,Creature — Elf Warrior,Protection from Goblins,LRW
+Woodland Changeling,,Franz Vohwinkel,242,Creature — Shapeshifter,Changeling (This card is every creature type.),LRW
+Woodland Guidance,,Richard Sardinha,243,Sorcery,"Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)\nExile Woodland Guidance.",LRW
+Wren's Run Packmaster,,Mark Zug,244,Creature — Elf Warrior,"Champion an Elf (When this creature enters the battlefield, sacrifice it unless you exile another Elf you control. When this creature leaves the battlefield, that card returns to the battlefield.)\n{2}{G}: Put a 2/2 green Wolf creature token onto the battlefield.
+Wolves you control have deathtouch.","pPRE,LRW,C14"
+Wren's Run Vanquisher,,Paolo Parente,245,Creature — Elf Warrior,"As an additional cost to cast Wren's Run Vanquisher, reveal an Elf card from your hand or pay {3}.\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)","pFNM,LRW,EVG,DD3_EVG"
+Brion Stoutarm,,Zoltan Boros & Gabor Szikszai,246,Legendary Creature — Giant Warrior,"Lifelink\n{R}, {T}, Sacrifice a creature other than Brion Stoutarm: Brion Stoutarm deals damage equal to the sacrificed creature's power to target player.","pMEI,LRW,CMD"
+"Doran, the Siege Tower",,Mark Zug,247,Legendary Creature — Treefolk Shaman,Each creature assigns combat damage equal to its toughness rather than its power.,"pCMP,LRW,V11"
+Gaddock Teeg,,Greg Staples,248,Legendary Creature — Kithkin Advisor,Noncreature spells with converted mana cost 4 or greater can't be cast.\nNoncreature spells with {X} in their mana costs can't be cast.,LRW
+Horde of Notions,,Adam Rex,249,Legendary Creature — Elemental,"Vigilance, trample, haste\n{W}{U}{B}{R}{G}: You may play target Elemental card from your graveyard without paying its mana cost.","LRW,MM2"
+Nath of the Gilt-Leaf,,Kev Walker,250,Legendary Creature — Elf Warrior,"At the beginning of your upkeep, you may have target opponent discard a card at random.\nWhenever an opponent discards a card, you may put a 1/1 green Elf Warrior creature token onto the battlefield.",LRW
+"Sygg, River Guide",,Larry MacDougall,251,Legendary Creature — Merfolk Wizard,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{1}{W}: Target Merfolk you control gains protection from the color of your choice until end of turn.,LRW
+"Wort, Boggart Auntie",,Larry MacDougall,252,Legendary Creature — Goblin Shaman,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nAt the beginning of your upkeep, you may return target Goblin card from your graveyard to your hand.",LRW
+"Wydwen, the Biting Gale",,Matt Cavotta,253,Legendary Creature — Faerie Wizard,"Flash\nFlying
+{U}{B}, Pay 1 life: Return Wydwen, the Biting Gale to its owner's hand.",LRW
+Colfenor's Urn,,Jim Pavelec,254,Artifact,"Whenever a creature with toughness 4 or greater is put into your graveyard from the battlefield, you may exile it.\nAt the beginning of the end step, if three or more cards have been exiled with Colfenor's Urn, sacrifice it. If you do, return those cards to the battlefield under their owner's control.",LRW
+Deathrender,,Martina Pilcerova,255,Artifact — Equipment,"Equipped creature gets +2/+2.\nWhenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.
+Equip {2}","LRW,CNS"
+Dolmen Gate,,Richard Sardinha,256,Artifact,Prevent all combat damage that would be dealt to attacking creatures you control.,LRW
+Herbal Poultice,,Scott Hampton,257,Artifact,"{3}, Sacrifice Herbal Poultice: Regenerate target creature.",LRW
+Moonglove Extract,,Terese Nielsen,258,Artifact,Sacrifice Moonglove Extract: Moonglove Extract deals 2 damage to target creature or player.,"LRW,EVG,DDF,DD3_EVG"
+Rings of Brighthearth,,Howard Lyon,259,Artifact,"Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.",LRW
+Runed Stalactite,,Jim Pavelec,260,Artifact — Equipment,Equipped creature gets +1/+1 and is every creature type.\nEquip {2},"LRW,MMA"
+Springleaf Drum,,Cyril Van Der Haegen,261,Artifact,"{T}, Tap an untapped creature you control: Add one mana of any color to your mana pool.","LRW,BNG"
+Thorn of Amethyst,,Chuck Lukacs,262,Artifact,Noncreature spells cost {1} more to cast.,LRW
+Thousand-Year Elixir,,Richard Sardinha,263,Artifact,"You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature.","LRW,C13"
+Twinning Glass,,Franz Vohwinkel,264,Artifact,"{1}, {T}: You may cast a nonland card from your hand without paying its mana cost if it has the same name as a spell that was cast this turn.",LRW
+Wanderer's Twig,,Dave Dorman,265,Artifact,"{1}, Sacrifice Wanderer's Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",LRW
+Ancient Amphitheater,,Rob Alexander,266,Land,"As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don't, Ancient Amphitheater enters the battlefield tapped.\n{T}: Add {R} or {W} to your mana pool.","LRW,C15"
+Auntie's Hovel,,Wayne Reynolds,267,Land,"As Auntie's Hovel enters the battlefield, you may reveal a Goblin card from your hand. If you don't, Auntie's Hovel enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",LRW
+Gilt-Leaf Palace,,Christopher Moeller,268,Land,"As Gilt-Leaf Palace enters the battlefield, you may reveal an Elf card from your hand. If you don't, Gilt-Leaf Palace enters the battlefield tapped.\n{T}: Add {B} or {G} to your mana pool.",LRW
+Howltooth Hollow,,John Howe,269,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {B} to your mana pool.
+{B}, {T}: You may play the exiled card without paying its mana cost if each player has no cards in hand.",LRW
+Mosswort Bridge,,Jeremy Jarvis,270,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {G} to your mana pool.
+{G}, {T}: You may play the exiled card without paying its mana cost if creatures you control have total power 10 or greater.","LRW,ARC,C13,C15"
+Secluded Glen,,Terese Nielsen,271,Land,"As Secluded Glen enters the battlefield, you may reveal a Faerie card from your hand. If you don't, Secluded Glen enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.",LRW
+Shelldock Isle,,Mark Tedin,272,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {U} to your mana pool.
+{U}, {T}: You may play the exiled card without paying its mana cost if a library has twenty or fewer cards in it.",LRW
+Shimmering Grotto,,Alan Pollack,273,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Add one mana of any color to your mana pool.","LRW,ISD,PC2,M14"
+Spinerock Knoll,,Steve Prescott,274,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {R} to your mana pool.
+{R}, {T}: You may play the exiled card without paying its mana cost if an opponent was dealt 7 or more damage this turn.","LRW,C15"
+Vivid Crag,,Martina Pilcerova,275,Land,"Vivid Crag enters the battlefield tapped with two charge counters on it.\n{T}: Add {R} to your mana pool.
+{T}, Remove a charge counter from Vivid Crag: Add one mana of any color to your mana pool.","LRW,CMD,MMA,C13,C15"
+Vivid Creek,,Fred Fields,276,Land,"Vivid Creek enters the battlefield tapped with two charge counters on it.\n{T}: Add {U} to your mana pool.
+{T}, Remove a charge counter from Vivid Creek: Add one mana of any color to your mana pool.","LRW,H09,CMD,PC2,MMA,C13,C15"
+Vivid Grove,,Howard Lyon,277,Land,"Vivid Grove enters the battlefield tapped with two charge counters on it.\n{T}: Add {G} to your mana pool.
+{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.","LRW,H09,CMD,MMA,C13,C15"
+Vivid Marsh,,John Avon,278,Land,"Vivid Marsh enters the battlefield tapped with two charge counters on it.\n{T}: Add {B} to your mana pool.
+{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.","LRW,CMD,MMA,C13,C15"
+Vivid Meadow,,Rob Alexander,279,Land,"Vivid Meadow enters the battlefield tapped with two charge counters on it.\n{T}: Add {W} to your mana pool.
+{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color to your mana pool.","LRW,CMD,MMA,C15"
+Wanderwine Hub,,Warren Mahy,280,Land,"As Wanderwine Hub enters the battlefield, you may reveal a Merfolk card from your hand. If you don't, Wanderwine Hub enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.",LRW
+Windbrisk Heights,,Omar Rayyan,281,Land,"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)\n{T}: Add {W} to your mana pool.
+{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.","LRW,V12,MD1"
+Plains,,Warren Mahy,282,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Fred Fields,283,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Larry MacDougall,284,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Omar Rayyan,285,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Warren Mahy,286,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Ron Spears,287,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Martina Pilcerova,288,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Rob Alexander,289,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Fred Fields,290,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Ron Spears,291,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Wayne Reynolds,292,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Steve Prescott,293,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Larry MacDougall,294,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Martina Pilcerova,295,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Wayne Reynolds,296,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Darrell Riche,297,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Omar Rayyan,298,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,299,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Steve Prescott,300,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Darrell Riche,301,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

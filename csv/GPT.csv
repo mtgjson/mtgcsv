@@ -1,0 +1,201 @@
+name,cost,artist,number,type,text,printings
+Absolver Thrull,,Rob Alexander,1,Creature — Thrull Cleric,"Haunt (When this creature dies, exile it haunting target creature.)\nWhen Absolver Thrull enters the battlefield or the creature it haunts dies, destroy target enchantment.",GPT
+Belfry Spirit,,Daren Bader,2,Creature — Spirit,"Flying\nHaunt (When this creature dies, exile it haunting target creature.)
+When Belfry Spirit enters the battlefield or the creature it haunts dies, put two 1/1 black Bat creature tokens with flying onto the battlefield.",GPT
+Benediction of Moons,,Matt Cavotta,3,Sorcery,"You gain 1 life for each player.\nHaunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Benediction of Moons haunts dies, you gain 1 life for each player.",GPT
+Droning Bureaucrats,,Kev Walker,4,Creature — Human Advisor,"{X}, {T}: Each creature with converted mana cost X can't attack or block this turn.",GPT
+Ghost Warden,,Ittoku,5,Creature — Spirit,{T}: Target creature gets +1/+1 until end of turn.,"GPT,10E"
+Ghostway,,Jim Murray,6,Instant,Exile each creature you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.,GPT
+Graven Dominator,,Carl Critchlow,7,Creature — Gargoyle,"Flying\nHaunt (When this creature dies, exile it haunting target creature.)
+When Graven Dominator enters the battlefield or the creature it haunts dies, each other creature has base power and toughness 1/1 until end of turn.",GPT
+Guardian's Magemark,,Brandon Kitkouski,8,Enchantment — Aura,Flash\nEnchant creature
+Creatures you control that are enchanted get +1/+1.,GPT
+Harrier Griffin,,Jim Nelson,9,Creature — Griffin,"Flying\nAt the beginning of your upkeep, tap target creature.",GPT
+Leyline of the Meek,,Mark Zug,10,Enchantment,"If Leyline of the Meek is in your opening hand, you may begin the game with it on the battlefield.\nCreature tokens get +1/+1.",GPT
+Lionheart Maverick,,Hideaki Takamura,11,Creature — Human Knight,Vigilance\n{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.,"GPT,DDG"
+Martyred Rusalka,,Alex Horley-Orlandelli,12,Creature — Spirit,"{W}, Sacrifice a creature: Target creature can't attack this turn.",GPT
+Order of the Stars,,Heather Hudson,13,Creature — Human Cleric,"Defender (This creature can't attack.)\nAs Order of the Stars enters the battlefield, choose a color.
+Order of the Stars has protection from the chosen color.",GPT
+Shadow Lance,,Hideaki Takamura,14,Enchantment — Aura,Enchant creature\nEnchanted creature has first strike.
+{1}{B}: Enchanted creature gets +2/+2 until end of turn.,GPT
+Shrieking Grotesque,,Dany Orizio,15,Creature — Gargoyle,"Flying\nWhen Shrieking Grotesque enters the battlefield, if {B} was spent to cast it, target player discards a card.",GPT
+Sinstriker's Will,,Ben Thompson,16,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals damage equal to its power to target attacking or blocking creature.",GPT
+Skyrider Trainee,,Adam Rex,17,Creature — Human Soldier,Skyrider Trainee has flying as long as it's enchanted.,GPT
+Spelltithe Enforcer,,Greg Staples,18,Creature — Elephant Wizard,"Whenever an opponent casts a spell, that player sacrifices a permanent unless he or she pays {1}.",GPT
+Storm Herd,,Jim Nelson,19,Sorcery,"Put X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total.","GPT,CMD"
+To Arms!,,Aleksi Briclot,20,Instant,Untap all creatures you control.\nDraw a card.,GPT
+Withstand,,Ron Spears,21,Instant,Prevent the next 3 damage that would be dealt to target creature or player this turn.\nDraw a card.,GPT
+Ætherplasm,,Nottsuo,22,Creature — Illusion,"Whenever Ætherplasm blocks a creature, you may return Ætherplasm to its owner's hand. If you do, you may put a creature card from your hand onto the battlefield blocking that creature.",GPT
+Crystal Seer,,Glen Angus,23,Creature — Vedalken Wizard,"When Crystal Seer enters the battlefield, look at the top four cards of your library, then put them back in any order.\n{4}{U}: Return Crystal Seer to its owner's hand.",GPT
+Drowned Rusalka,,Dany Orizio,24,Creature — Spirit,"{U}, Sacrifice a creature: Discard a card, then draw a card.",GPT
+Frazzle,,Pete Venters,25,Instant,Counter target nonblue spell.,GPT
+Gigadrowse,,Alex Horley-Orlandelli,26,Instant,"Replicate {U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTap target permanent.",GPT
+Hatching Plans,,Heather Hudson,27,Enchantment,"When Hatching Plans is put into a graveyard from the battlefield, draw three cards.",GPT
+Infiltrator's Magemark,,Brandon Kitkouski,28,Enchantment — Aura,Enchant creature\nCreatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.,GPT
+Leyline of Singularity,,Zoltan Boros & Gabor Szikszai,29,Enchantment,"If Leyline of Singularity is in your opening hand, you may begin the game with it on the battlefield.\nAll nonland permanents are legendary.",GPT
+Mimeofacture,,Dan Scott,30,Sorcery,"Replicate {3}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nChoose target permanent an opponent controls. Search that player's library for a card with the same name and put it onto the battlefield under your control. Then that player shuffles his or her library.",GPT
+Quicken,,Aleksi Briclot,31,Instant,The next sorcery card you cast this turn can be cast as though it had flash. (It can be cast any time you could cast an instant.)\nDraw a card.,"GPT,M14"
+Repeal,,Dan Scott,32,Instant,Return target nonland permanent with converted mana cost X to its owner's hand.\nDraw a card.,"GPT,DDN,MM2,C15"
+Runeboggle,,Ron Spencer,33,Instant,Counter target spell unless its controller pays {1}.\nDraw a card.,GPT
+Sky Swallower,,rk post,34,Creature — Leviathan,"Flying\nWhen Sky Swallower enters the battlefield, target opponent gains control of all other permanents you control.",GPT
+Steamcore Weird,,Justin Norman,35,Creature — Weird,"When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.","GPT,DDH,DDJ"
+Stratozeppelid,,Ittoku,36,Creature — Beast,Flying\nStratozeppelid can block only creatures with flying.,GPT
+Thunderheads,,Hideaki Takamura,37,Instant,"Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)\nPut a 3/3 blue Weird creature token with defender and flying onto the battlefield. Exile it at the beginning of the next end step.","GPT,DDJ"
+Torch Drake,,Daren Bader,38,Creature — Drake,Flying\n{1}{R}: Torch Drake gets +1/+0 until end of turn.,GPT
+Train of Thought,,Matt Thompson,39,Sorcery,"Replicate {1}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)\nDraw a card.","GPT,DDJ"
+Vacuumelt,,Nottsuo,40,Sorcery,"Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nReturn target creature to its owner's hand.","GPT,DDJ"
+Vedalken Plotter,,Greg Staples,41,Creature — Vedalken Wizard,"When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.","GPT,CMD"
+Vertigo Spawn,,Ittoku,42,Creature — Illusion,"Defender (This creature can't attack.)\nWhenever Vertigo Spawn blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.",GPT
+Abyssal Nocturnus,,Jon Foster,43,Creature — Horror,"Whenever an opponent discards a card, Abyssal Nocturnus gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",GPT
+Caustic Rain,,Luca Zontini,44,Sorcery,Exile target land.,GPT
+Cremate,,Paolo Parente,45,Instant,Exile target card from a graveyard.\nDraw a card.,"INV,GPT,RTR"
+Cry of Contrition,,Daren Bader,46,Sorcery,"Target player discards a card.\nHaunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Cry of Contrition haunts dies, target player discards a card.",GPT
+Cryptwailing,,Nick Percival,47,Enchantment,"{1}, Exile two creature cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery.",GPT
+Daggerclaw Imp,,Pete Venters,48,Creature — Imp,Flying\nDaggerclaw Imp can't block.,"GPT,DDC,DD3_DVD,MM2"
+Douse in Gloom,,Kev Walker,49,Instant,Douse in Gloom deals 2 damage to target creature and you gain 2 life.,"GPT,FRF"
+Exhumer Thrull,,Warren Mahy,50,Creature — Thrull,"Haunt (When this creature dies, exile it haunting target creature.)\nWhen Exhumer Thrull enters the battlefield or the creature it haunts dies, return target creature card from your graveyard to your hand.",GPT
+Hissing Miasma,,Ben Thompson,51,Enchantment,"Whenever a creature attacks you, its controller loses 1 life.",GPT
+Leyline of the Void,,Adam Rex,52,Enchantment,"If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.\nIf a card would be put into an opponent's graveyard from anywhere, exile it instead.","GPT,M11"
+Necromancer's Magemark,,Brandon Kitkouski,53,Enchantment — Aura,"Enchant creature\nCreatures you control that are enchanted get +1/+1.
+If a creature you control that's enchanted would die, return it to its owner's hand instead.",GPT
+Orzhov Euthanist,,Zoltan Boros & Gabor Szikszai,54,Creature — Human Assassin,"Haunt (When this creature dies, exile it haunting target creature.)\nWhen Orzhov Euthanist enters the battlefield or the creature it haunts dies, destroy target creature that was dealt damage this turn.",GPT
+Ostiary Thrull,,Ron Spencer,55,Creature — Thrull,"{W}, {T}: Tap target creature.",GPT
+Plagued Rusalka,,Alex Horley-Orlandelli,56,Creature — Spirit,"{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.","GPT,DDJ,CNS,MM2"
+Poisonbelly Ogre,,Zoltan Boros & Gabor Szikszai,57,Creature — Ogre Warrior,"Whenever another creature enters the battlefield, its controller loses 1 life.",GPT
+Restless Bones,,Glenn Fabry,58,Creature — Skeleton,"{3}{B}, {T}: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)\n{1}{B}: Regenerate Restless Bones.",GPT
+Revenant Patriarch,,Nick Percival,59,Creature — Spirit,"When Revenant Patriarch enters the battlefield, if {W} was spent to cast it, target player skips his or her next combat phase.\nRevenant Patriarch can't block.","GPT,DDK"
+Sanguine Praetor,,rk post,60,Creature — Avatar Praetor,"{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.",GPT
+Seize the Soul,,Aleksi Briclot,61,Instant,"Destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.\nHaunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Seize the Soul haunts dies, destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.",GPT
+Skeletal Vampire,,Wayne Reynolds,62,Creature — Vampire Skeleton,"Flying\nWhen Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.
+{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.
+Sacrifice a Bat: Regenerate Skeletal Vampire.","GPT,DDD,MMA,DD3_GVL"
+Smogsteed Rider,,Alex Horley-Orlandelli,63,Creature — Human Wizard,"Whenever Smogsteed Rider attacks, each other attacking creature gains fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)",GPT
+Bloodscale Prowler,,Lars Grant-West,64,Creature — Viashino Warrior,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)",GPT
+Fencer's Magemark,,Brandon Kitkouski,65,Enchantment — Aura,Enchant creature\nCreatures you control that are enchanted get +1/+1 and have first strike.,GPT
+Ghor-Clan Bloodscale,,Paolo Parente,66,Creature — Viashino Warrior,First strike\n{3}{G}: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Activate this ability only once each turn.,GPT
+Hypervolt Grasp,,Mark Romanoski,67,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+{1}{U}: Return Hypervolt Grasp to its owner's hand.,GPT
+Leyline of Lightning,,Paolo Parente,68,Enchantment,"If Leyline of Lightning is in your opening hand, you may begin the game with it on the battlefield.\nWhenever you cast a spell, you may pay {1}. If you do, Leyline of Lightning deals 1 damage to target player.",GPT
+Living Inferno,,John Avon,69,Creature — Elemental,{T}: Living Inferno deals damage equal to its power divided as you choose among any number of target creatures. Each of those creatures deals damage equal to its power to Living Inferno.,GPT
+Ogre Savant,,Paolo Parente,70,Creature — Ogre Wizard,"When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.","GPT,DDH,DDJ"
+Parallectric Feedback,,Mitch Cotie,71,Instant,Parallectric Feedback deals damage to target spell's controller equal to that spell's converted mana cost.,GPT
+Pyromatics,,Glen Angus,72,Instant,"Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nPyromatics deals 1 damage to target creature or player.","GPT,DDJ"
+Rabble-Rouser,,Justin Norman,73,Creature — Goblin Shaman,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\n{R}, {T}: Attacking creatures get +X/+0 until end of turn, where X is Rabble-Rouser's power.",GPT
+Scorched Rusalka,,Luca Zontini,74,Creature — Spirit,"{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.","GPT,DDK"
+Shattering Spree,,Pat Lee,75,Sorcery,"Replicate {R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nDestroy target artifact.",GPT
+Siege of Towers,,Anthony S. Waters,76,Sorcery,"Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget Mountain becomes a 3/1 creature. It's still a land.",GPT
+Skarrgan Firebird,,Kev Walker,77,Creature — Phoenix,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying
+{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.","GPT,DDL,MM2"
+Tin Street Hooligan,,Luca Zontini,78,Creature — Goblin Rogue,"When Tin Street Hooligan enters the battlefield, if {G} was spent to cast Tin Street Hooligan, destroy target artifact.",GPT
+Battering Wurm,,Darrell Riche,79,Creature — Wurm,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nCreatures with power less than Battering Wurm's power can't block it.",GPT
+Beastmaster's Magemark,,Brandon Kitkouski,80,Enchantment — Aura,"Enchant creature\nCreatures you control that are enchanted get +1/+1.
+Whenever a creature you control that's enchanted becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",GPT
+Bioplasm,,Jon Foster,81,Creature — Ooze,"Whenever Bioplasm attacks, exile the top card of your library. If it's a creature card, Bioplasm gets +X/+Y until end of turn, where X is the exiled creature card's power and Y is its toughness.",GPT
+Crash Landing,,Darrell Riche,82,Instant,Target creature with flying loses flying until end of turn. Crash Landing deals damage to that creature equal to the number of Forests you control.,GPT
+Dryad Sophisticate,,Ron Spears,83,Creature — Dryad,Nonbasic landwalk (This creature can't be blocked as long as defending player controls a nonbasic land.),GPT
+Earth Surge,,Luca Zontini,84,Enchantment,Each land gets +2/+2 as long as it's a creature.,GPT
+Gatherer of Graces,,Heather Hudson,85,Creature — Human Druid,Gatherer of Graces gets +1/+1 for each Aura attached to it.\nSacrifice an Aura: Regenerate Gatherer of Graces.,GPT
+Ghor-Clan Savage,,Greg Staples,86,Creature — Centaur Berserker,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)","GPT,DDL"
+Gristleback,,Lars Grant-West,87,Creature — Boar Beast,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nSacrifice Gristleback: You gain life equal to Gristleback's power.",GPT
+Gruul Nodorog,,Pete Venters,88,Creature — Beast,{R}: Gruul Nodorog gains menace until end of turn. (It can't be blocked except by two or more creatures.),GPT
+Gruul Scrapper,,Liam Sharp,89,Creature — Human Berserker,"When Gruul Scrapper enters the battlefield, if {R} was spent to cast Gruul Scrapper, it gains haste until end of turn.",GPT
+Leyline of Lifeforce,,Kev Walker,90,Enchantment,"If Leyline of Lifeforce is in your opening hand, you may begin the game with it on the battlefield.\nCreature spells can't be countered.",GPT
+Petrified Wood-Kin,,Kev Walker,91,Creature — Elemental Warrior,"Petrified Wood-Kin can't be countered.\nBloodthirst X (This creature enters the battlefield with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)
+Protection from instants",GPT
+Predatory Focus,,Zoltan Boros & Gabor Szikszai,92,Sorcery,You may have creatures you control assign their combat damage this turn as though they weren't blocked.,GPT
+Primeval Light,,Jim Nelson,93,Sorcery,Destroy all enchantments target player controls.,GPT
+Silhana Ledgewalker,,James Wong,94,Creature — Elf Rogue,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nSilhana Ledgewalker can't be blocked except by creatures with flying.,"GPT,PC2"
+Silhana Starfletcher,,Alex Horley-Orlandelli,95,Creature — Elf Druid Archer,"Reach (This creature can block creatures with flying.)\nAs Silhana Starfletcher enters the battlefield, choose a color.
+{T}: Add one mana of the chosen color to your mana pool.",GPT
+Skarrgan Pit-Skulk,,Liam Sharp,96,Creature — Human Warrior,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nCreatures with power less than Skarrgan Pit-Skulk's power can't block it.",GPT
+Starved Rusalka,,Dany Orizio,97,Creature — Spirit,"{G}, Sacrifice a creature: You gain 1 life.",GPT
+Wildsize,,Jim Murray,98,Instant,Target creature gets +2/+2 and gains trample until end of turn.\nDraw a card.,"GPT,EVG,DD3_EVG"
+Wurmweaver Coil,,Mitch Cotie,99,Enchantment — Aura,"Enchant green creature\nEnchanted creature gets +6/+6.
+{G}{G}{G}, Sacrifice Wurmweaver Coil: Put a 6/6 green Wurm creature token onto the battlefield.",GPT
+Agent of Masks,,Matt Thompson,100,Creature — Human Advisor,"At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.",GPT
+Angel of Despair,,Todd Lockwood,101,Creature — Angel,"Flying\nWhen Angel of Despair enters the battlefield, destroy target permanent.","GPT,CMD"
+Blind Hunter,,Warren Mahy,102,Creature — Bat,"Flying\nHaunt (When this creature dies, exile it haunting target creature.)
+When Blind Hunter enters the battlefield or the creature it haunts dies, target player loses 2 life and you gain 2 life.",GPT
+Borborygmos,,Todd Lockwood,103,Legendary Creature — Cyclops,"Trample\nWhenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.",GPT
+Burning-Tree Bloodscale,,Kev Walker,104,Creature — Viashino Berserker,"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\n{2}{R}: Target creature can't block Burning-Tree Bloodscale this turn.
+{2}{G}: Target creature blocks Burning-Tree Bloodscale this turn if able.",GPT
+Burning-Tree Shaman,,Dan Scott,105,Creature — Centaur Shaman,"Whenever a player activates an ability that isn't a mana ability, Burning-Tree Shaman deals 1 damage to that player.",GPT
+Castigate,,Darrell Riche,106,Sorcery,Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.,"pARL,GPT"
+Cerebral Vortex,,Jeremy Jarvis,107,Instant,"Target player draws two cards, then Cerebral Vortex deals damage to that player equal to the number of cards he or she has drawn this turn.",GPT
+Conjurer's Ban,,Pete Venters,108,Sorcery,"Name a card. Until your next turn, the named card can't be played.\nDraw a card.",GPT
+Culling Sun,,Daren Bader,109,Sorcery,Destroy each creature with converted mana cost 3 or less.,GPT
+Dune-Brood Nephilim,,Jim Murray,110,Creature — Nephilim,"Whenever Dune-Brood Nephilim deals combat damage to a player, put a 1/1 colorless Sand creature token onto the battlefield for each land you control.",GPT
+Electrolyze,,Zoltan Boros & Gabor Szikszai,111,Instant,Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.\nDraw a card.,"pMEI,GPT,pCMP,CMD,MMA,MM2"
+Feral Animist,,Ron Spears,112,Creature — Goblin Shaman,"{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.","GPT,DGM"
+Gelectrode,,Dan Scott,113,Creature — Weird,"{T}: Gelectrode deals 1 damage to target creature or player.\nWhenever you cast an instant or sorcery spell, you may untap Gelectrode.","GPT,DDJ"
+Ghost Council of Orzhova,,Greg Staples,114,Legendary Creature — Spirit,"When Ghost Council of Orzhova enters the battlefield, target opponent loses 1 life and you gain 1 life.\n{1}, Sacrifice a creature: Exile Ghost Council of Orzhova. Return it to the battlefield under its owner's control at the beginning of the next end step.","GPT,MM2"
+Glint-Eye Nephilim,,Mark Zug,115,Creature — Nephilim,"Whenever Glint-Eye Nephilim deals combat damage to a player, draw that many cards.\n{1}, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn.",GPT
+Goblin Flectomancer,,Matt Cavotta,116,Creature — Goblin Wizard,Sacrifice Goblin Flectomancer: You may change the targets of target instant or sorcery spell.,GPT
+Ink-Treader Nephilim,,Christopher Moeller,117,Creature — Nephilim,"Whenever a player casts an instant or sorcery spell, if that spell targets only Ink-Treader Nephilim, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.",GPT
+Invoke the Firemind,,Zoltan Boros & Gabor Szikszai,118,Sorcery,Choose one —\n• Draw X cards.
+• Invoke the Firemind deals X damage to target creature or player.,"GPT,DDJ"
+Izzet Chronarch,,Nick Percival,119,Creature — Human Wizard,"When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.","GPT,CMD,DDJ"
+Killer Instinct,,Christopher Moeller,120,Enchantment,"At the beginning of your upkeep, reveal the top card of your library. If it's a creature card, put it onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.",GPT
+Leap of Flame,,Greg Hildebrandt,121,Instant,"Replicate {U}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget creature gets +1/+0 and gains flying and first strike until end of turn.",GPT
+Mortify,,Glen Angus,122,Instant,Destroy target creature or enchantment.,"pMPR,GPT,CMD,DDK,CNS"
+"Niv-Mizzet, the Firemind",,Todd Lockwood,123,Legendary Creature — Dragon Wizard,"Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.
+{T}: Draw a card.","GPT,pCMP,DRB,DDJ,MM2"
+Orzhov Pontiff,,Adam Rex,124,Creature — Human Cleric,"Haunt (When this creature dies, exile it haunting target creature.)\nWhen Orzhov Pontiff enters the battlefield or the creature it haunts dies, choose one —
+• Creatures you control get +1/+1 until end of turn.
+• Creatures you don't control get -1/-1 until end of turn.",GPT
+Pillory of the Sleepless,,Mark Romanoski,125,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block.
+Enchanted creature has "At the beginning of your upkeep, you lose 1 life."","GPT,MM2"
+Rumbling Slum,,Carl Critchlow,126,Creature — Elemental,"At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.","GPT,HOP"
+Savage Twister,,Luca Zontini,127,Sorcery,Savage Twister deals X damage to each creature.,"MIR,GPT,HOP,ARC,CMD,C13,MM2"
+Scab-Clan Mauler,,Liam Sharp,128,Creature — Human Berserker,"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nTrample",GPT
+Schismotivate,,Ron Spencer,129,Instant,Target creature gets +4/+0 until end of turn. Another target creature gets -4/-0 until end of turn.,GPT
+Skarrgan Skybreaker,,Dan Scott,130,Creature — Giant Shaman,"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\n{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.","GPT,DDL"
+Souls of the Faultless,,Pat Lee,131,Creature — Spirit,"Defender (This creature can't attack.)\nWhenever Souls of the Faultless is dealt combat damage, you gain that much life and attacking player loses that much life.",GPT
+Stitch in Time,,Jon Foster,132,Sorcery,"Flip a coin. If you win the flip, take an extra turn after this one.",GPT
+Streetbreaker Wurm,,Greg Hildebrandt,133,Creature — Wurm,,GPT
+"Teysa, Orzhov Scion",,Todd Lockwood,134,Legendary Creature — Human Advisor,"Sacrifice three white creatures: Exile target creature.\nWhenever another black creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",GPT
+Tibor and Lumia,,Jim Murray,135,Legendary Creature — Human Wizard,"Whenever you cast a blue spell, target creature gains flying until end of turn.\nWhenever you cast a red spell, Tibor and Lumia deals 1 damage to each creature without flying.",GPT
+"Ulasht, the Hate Seed",,Nottsuo,136,Legendary Creature — Hellion Hydra,"Ulasht, the Hate Seed enters the battlefield with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control.\n{1}, Remove a +1/+1 counter from Ulasht: Choose one —
+• Ulasht deals 1 damage to target creature.
+• Put a 1/1 green Saproling creature token onto the battlefield.",GPT
+Wee Dragonauts,,Greg Staples,137,Creature — Faerie Wizard,"Flying\nWhenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.","pARL,GPT,DDJ"
+Witch-Maw Nephilim,,Greg Staples,138,Creature — Nephilim,"Whenever you cast a spell, you may put two +1/+1 counters on Witch-Maw Nephilim.\nWhenever Witch-Maw Nephilim attacks, it gains trample until end of turn if its power is 10 or greater.",GPT
+Wreak Havoc,,Wayne Reynolds,139,Sorcery,Wreak Havoc can't be countered by spells or abilities.\nDestroy target artifact or land.,GPT
+Yore-Tiller Nephilim,,Jeremy Jarvis,140,Creature — Nephilim,"Whenever Yore-Tiller Nephilim attacks, return target creature card from your graveyard to the battlefield tapped and attacking.",GPT
+Debtors' Knell,,Kev Walker,141,Enchantment,"({W/B} can be paid with either {W} or {B}.)\nAt the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.",GPT
+Djinn Illuminatus,,Carl Critchlow,142,Creature — Djinn,"({U/R} can be paid with either {U} or {R}.)\nFlying
+Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)","pPRE,GPT,DDJ"
+Giant Solifuge,,Pat Lee,143,Creature — Insect,({R/G} can be paid with either {R} or {G}.)\nTrample; haste; shroud (This creature can't be the target of spells or abilities.),GPT
+Gruul Guildmage,,Paolo Parente,144,Creature — Human Shaman,"({R/G} can be paid with either {R} or {G}.)\n{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player.
+{3}{G}: Target creature gets +2/+2 until end of turn.","pREL,GPT"
+Izzet Guildmage,,Jim Murray,145,Creature — Human Wizard,({U/R} can be paid with either {U} or {R}.)\n{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.,"GPT,DDJ"
+Mourning Thrull,,Dany Orizio,146,Creature — Thrull,"({W/B} can be paid with either {W} or {B}.)\nFlying
+Whenever Mourning Thrull deals damage, you gain that much life.",GPT
+Orzhov Guildmage,,Greg Staples,147,Creature — Human Wizard,{2}{W}: Target player gains 1 life.\n{2}{B}: Each player loses 1 life.,"GPT,CMD"
+Petrahydrox,,Anthony S. Waters,148,Creature — Weird,"({U/R} can be paid with either {U} or {R}.)\nWhen Petrahydrox becomes the target of a spell or ability, return Petrahydrox to its owner's hand.",GPT
+Wild Cantor,,Glenn Fabry,149,Creature — Human Druid,({R/G} can be paid with either {R} or {G}.)\nSacrifice Wild Cantor: Add one mana of any color to your mana pool.,GPT
+Gruul Signet,,Tim Hildebrandt,150,Artifact,"{1}, {T}: Add {R}{G} to your mana pool.","GPT,ARC,CMD"
+Gruul War Plow,,Martina Pilcerova,151,Artifact,Creatures you control have trample.\n{1}{R}{G}: Gruul War Plow becomes a 4/4 Juggernaut artifact creature until end of turn.,GPT
+Izzet Signet,,Greg Hildebrandt,152,Artifact,"{1}, {T}: Add {U}{R} to your mana pool.","GPT,CMD,DDJ,C15"
+Mizzium Transreliquat,,John Avon,153,Artifact,{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn.\n{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.,GPT
+Moratorium Stone,,Martina Pilcerova,154,Artifact,"{2}, {T}: Exile target card from a graveyard.\n{2}{W}{B}, {T}, Sacrifice Moratorium Stone: Exile target nonland card from a graveyard, all other cards from graveyards with the same name as that card, and all permanents with that name.",GPT
+Orzhov Signet,,Tim Hildebrandt,155,Artifact,"{1}, {T}: Add {W}{B} to your mana pool.","GPT,CMD,C15"
+Sword of the Paruns,,Tim Hildebrandt,156,Artifact — Equipment,"As long as equipped creature is tapped, tapped creatures you control get +2/+0.\nAs long as equipped creature is untapped, untapped creatures you control get +0/+2.
+{3}: You may tap or untap equipped creature.
+Equip {3}","GPT,C13"
+Godless Shrine,,Rob Alexander,157,Land — Plains Swamp,"({T}: Add {W} or {B} to your mana pool.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.","GPT,GTC,EXP"
+Gruul Turf,,John Avon,158,Land,"Gruul Turf enters the battlefield tapped.\nWhen Gruul Turf enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{G} to your mana pool.","GPT,HOP,CMD,PC2,MM2"
+Izzet Boilerworks,,John Avon,159,Land,"Izzet Boilerworks enters the battlefield tapped.\nWhen Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {U}{R} to your mana pool.","GPT,CMD,DDJ,C13,MM2,C15"
+"Nivix, Aerie of the Firemind",,Martina Pilcerova,160,Land,"{T}: Add {1} to your mana pool.\n{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.","GPT,DDJ"
+Orzhov Basilica,,John Avon,161,Land,"Orzhov Basilica enters the battlefield tapped.\nWhen Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{B} to your mana pool.","GPT,CMD,C13,MM2,C15"
+"Orzhova, the Church of Deals",,Martina Pilcerova,162,Land,"{T}: Add {1} to your mana pool.\n{3}{W}{B}, {T}: Target player loses 1 life and you gain 1 life.",GPT
+"Skarrg, the Rage Pits",,Martina Pilcerova,163,Land,"{T}: Add {1} to your mana pool.\n{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.","GPT,PC2,DDL"
+Steam Vents,,Rob Alexander,164,Land — Island Mountain,"({T}: Add {U} or {R} to your mana pool.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.","GPT,RTR,EXP"
+Stomping Ground,,Rob Alexander,165,Land — Mountain Forest,"({T}: Add {R} or {G} to your mana pool.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.","GPT,GTC,EXP"

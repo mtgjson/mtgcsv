@@ -1,0 +1,200 @@
+name,cost,artist,number,type,text,printings
+Aku Djinn,,Terese Nielsen,,Creature — Djinn,"Trample\nAt the beginning of your upkeep, put a +1/+1 counter on each creature each opponent controls.",VIS
+Anvil of Bogardan,,Roger Raupp,,Artifact,"Players have no maximum hand size.\nAt the beginning of each player's draw step, that player draws an additional card, then discards a card.",VIS
+Archangel,,Christopher Rush,,Creature — Angel,"Flying, vigilance","VIS,POR,PO2,6ED,S99,AVR,C13"
+Army Ants,,G. Darrow & I. Rabarot,,Creature — Insect,"{T}, Sacrifice a land: Destroy target land.",VIS
+Betrayal,,Gary Leach,,Enchantment — Aura,"Enchant creature an opponent controls\nWhenever enchanted creature becomes tapped, you draw a card.",VIS
+Blanket of Night,,Cliff Nielsen,,Enchantment,Each land is a Swamp in addition to its other land types.,VIS
+Bogardan Phoenix,,David O'Connor,,Creature — Phoenix,"Flying\nWhen Bogardan Phoenix dies, exile it if it had a death counter on it. Otherwise, return it to the battlefield under your control and put a death counter on it.",VIS
+Brass-Talon Chimera,,Mike Dringenberg,,Artifact Creature — Chimera,First strike\nSacrifice Brass-Talon Chimera: Put a +2/+2 counter on target Chimera creature. It gains first strike. (This effect lasts indefinitely.),VIS
+Breathstealer's Crypt,,Blackie del Rio,,Enchantment,"If a player would draw a card, instead he or she draws a card and reveals it. If it's a creature card, that player discards it unless he or she pays 3 life.",VIS
+Breezekeeper,,Adam Rex,,Creature — Djinn,"Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",VIS
+Brood of Cockroaches,,G. Darrow & I. Rabarot,,Creature — Insect,"When Brood of Cockroaches is put into your graveyard from the battlefield, at the beginning of the next end step, you lose 1 life and return Brood of Cockroaches to your hand.",VIS
+Bull Elephant,,Steve White,,Creature — Elephant,"When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.","MGB,VIS"
+Chronatog,,Christopher Rush,,Creature — Atog,{0}: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn.,VIS
+City of Solitude,,Romas Kukalis,,Enchantment,Players can cast spells and activate abilities only during their own turns.,VIS
+Cloud Elemental,,Adam Rex,,Creature — Elemental,Flying\nCloud Elemental can block only creatures with flying.,"VIS,BTD,10E,M11,MM2"
+Coercion,,DiTerlizzi,,Sorcery,Target opponent reveals his or her hand. You choose a card from it. That player discards that card.,"VIS,TMP,PO2,6ED,PTK,S99,S00,BTD,8ED,9ED,TPR"
+Coral Atoll,,John Avon,,Land,"Coral Atoll enters the battlefield tapped.\nWhen Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.
+{T}: Add {1}{U} to your mana pool.","VIS,C14"
+Corrosion,,Michael Danza,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with converted mana cost less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated.
+When Corrosion leaves the battlefield, remove all rust counters from all permanents.",VIS
+Creeping Mold,,Dave Seeley,,Sorcery,"Destroy target artifact, enchantment, or land.","pARL,VIS,6ED,7ED,8ED,MRD,9ED,10E"
+Crypt Rats,,Paul Lee,,Creature — Rat,{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.,"VIS,7ED"
+Daraja Griffin,,Stuart Griffin,,Creature — Griffin,Flying\nSacrifice Daraja Griffin: Destroy target black creature.,"VIS,6ED"
+Dark Privilege,,Tom Kyffin,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1.
+Sacrifice a creature: Regenerate enchanted creature.,"MGB,VIS"
+Death Watch,,Brian Horton,,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, its controller loses life equal to its power and you gain life equal to its toughness.",VIS
+Desertion,,Richard Kane Ferguson,,Instant,"Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.","VIS,6ED,CM1"
+Desolation,,George Pratt,,Enchantment,"At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. Desolation deals 2 damage to each player who sacrificed a Plains this way.",VIS
+Diamond Kaleidoscope,,Ron Spencer,,Artifact,"{3}, {T}: Put a 0/1 colorless Prism artifact creature token onto the battlefield.\nSacrifice a Prism token: Add one mana of any color to your mana pool.",VIS
+Dormant Volcano,,John Avon,,Land,"Dormant Volcano enters the battlefield tapped.\nWhen Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.
+{T}: Add {1}{R} to your mana pool.","VIS,C14"
+Dragon Mask,,Craig Hooper,,Artifact,"{3}, {T}: Target creature you control gets +2/+2 until end of turn. Return it to its owner's hand at the beginning of the next end step. (Return it only if it's on the battlefield.)","VIS,6ED"
+Dream Tides,,Jerry Tiritilli,,Enchantment,"Creatures don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player may choose any number of tapped nongreen creatures he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.",VIS
+Dwarven Vigilantes,,Pete Venters,,Creature — Dwarf,"Whenever Dwarven Vigilantes attacks and isn't blocked, you may have it deal damage equal to its power to target creature. If you do, Dwarven Vigilantes assigns no combat damage this turn.",VIS
+Elephant Grass,,Tony Roberts,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nBlack creatures can't attack you.
+Nonblack creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.",VIS
+Elkin Lair,,Jerry Tiritilli,,World Enchantment,"At the beginning of each player's upkeep, that player exiles a card at random from his or her hand. The player may play that card this turn. At the beginning of the next end step, if the player hasn't played the card, he or she puts it into his or her graveyard.",VIS
+Elven Cache,,John Matson,,Sorcery,Return target card from your graveyard to your hand.,"VIS,POR,6ED"
+Emerald Charm,,Greg Spalenka,,Instant,Choose one —\n• Untap target permanent.
+• Destroy target non-Aura enchantment.
+• Target creature loses flying until end of turn.,VIS
+Equipoise,,Adam Rex,,Enchantment,"At the beginning of your upkeep, for each land target player controls in excess of the number you control, choose a land he or she controls, then the chosen permanents phase out. Repeat this process for artifacts and creatures. (While they're phased out, they're treated as though they don't exist. They phase in before that player untaps during his or her next untap step.)",VIS
+Everglades,,Bob Eggleton,,Land,"Everglades enters the battlefield tapped.\nWhen Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.
+{T}: Add {1}{B} to your mana pool.","VIS,C14"
+Eye of Singularity,,Eric Peterson,,World Enchantment,"When Eye of Singularity enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated.\nWhenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.",VIS
+Fallen Askari,,Adrian Smith,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nFallen Askari can't block.","VIS,VMA"
+Femeref Enchantress,,D. Alexander Gregory,,Creature — Human Druid,"Whenever an enchantment is put into a graveyard from the battlefield, draw a card.",VIS
+Feral Instinct,,Una Fricker,,Instant,Target creature gets +1/+1 until end of turn.\nDraw a card at the beginning of the next turn's upkeep.,VIS
+Fireblast,,Michael Danza,,Instant,You may sacrifice two Mountains rather than pay Fireblast's mana cost.\nFireblast deals 4 damage to target creature or player.,"VIS,pFNM,DD2,PD2,VMA,DD3_JVC"
+Firestorm Hellkite,,Pete Venters,,Creature — Dragon,"Flying, trample\nCumulative upkeep {U}{R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",VIS
+Flooded Shoreline,,Romas Kukalis,,Enchantment,"{U}{U}, Return two Islands you control to their owner's hand: Return target creature to its owner's hand.",VIS
+Forbidden Ritual,,Christopher Rush,,Sorcery,"Sacrifice a nontoken permanent. If you do, target opponent loses 2 life unless he or she sacrifices a permanent or discards a card. You may repeat this process any number of times.",VIS
+Foreshadow,,George Pratt,,Instant,"Name a card, then target opponent puts the top card of his or her library into his or her graveyard. If that card is the named card, you draw a card.\nDraw a card at the beginning of the next turn's upkeep.",VIS
+Freewind Falcon,,Una Fricker,,Creature — Bird,"Flying, protection from red","VIS,ATH"
+Funeral Charm,,Greg Spalenka,,Instant,Choose one —\n• Target player discards a card.
+• Target creature gets +2/-1 until end of turn.
+• Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.),"VIS,TSB"
+Giant Caterpillar,,Zina Saunders,,Creature — Insect,"{G}, Sacrifice Giant Caterpillar: Put a 1/1 green Insect creature token with flying named Butterfly onto the battlefield at the beginning of the next end step.","VIS,MMQ"
+Goblin Recruiter,,Scott Kirschner,,Creature — Goblin,"When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.","VIS,ATH,6ED"
+Goblin Swine-Rider,,G. Darrow & I. Rabarot,,Creature — Goblin,"Whenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.",VIS
+Gossamer Chains,,Steve Luke,,Enchantment,Return Gossamer Chains to its owner's hand: Prevent all combat damage that would be dealt by target unblocked creature this turn.,VIS
+Griffin Canyon,,Stuart Griffin,,Land,"{T}: Add {1} to your mana pool.\n{T}: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.",VIS
+Guiding Spirit,,Terese Nielsen,,Creature — Angel Spirit,"Flying\n{T}: If the top card of target player's graveyard is a creature card, put that card on top of that player's library.",VIS
+Hearth Charm,,Greg Spalenka,,Instant,Choose one —\n• Destroy target artifact creature.
+• Attacking creatures get +1/+0 until end of turn.
+• Target creature with power 2 or less can't be blocked this turn.,VIS
+Heat Wave,,Alan Rabinowitz,,Enchantment,"Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nBlue creatures can't block creatures you control.
+Nonblue creatures can't block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.",VIS
+Helm of Awakening,,Adam Rex,,Artifact,Spells cost {1} less to cast.,VIS
+Honorable Passage,,Jeff Miracola,,Instant,"The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller.","VIS,TSB"
+Hope Charm,,Greg Spalenka,,Instant,Choose one —\n• Target creature gains first strike until end of turn.
+• Target player gains 2 life.
+• Destroy target Aura.,VIS
+Hulking Cyclops,,DiTerlizzi,,Creature — Cyclops,Hulking Cyclops can't block.,"VIS,POR,6ED,BTD,8ED"
+Impulse,,Bryan Talbot,,Instant,Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,"VIS,pFNM,BTD,V13,DDN"
+Infantry Veteran,,Christopher Rush,,Creature — Human Soldier,{T}: Target attacking creature gets +1/+1 until end of turn.,"VIS,ATH,6ED,BRB,9ED,M11,DDF,DDN"
+Infernal Harvest,,Nathalie Hertz,,Sorcery,"As an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.\nInfernal Harvest deals X damage divided as you choose among any number of target creatures.",VIS
+Inspiration,,Zina Saunders,,Instant,Target player draws two cards.,"VIS,6ED,S00,7ED,8ED,RTR"
+Iron-Heart Chimera,,Mike Dringenberg,,Artifact Creature — Chimera,Vigilance\nSacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. (This effect lasts indefinitely.),VIS
+Jamuraan Lion,,Stuart Griffin,,Creature — Cat,"{W}, {T}: Target creature can't block this turn.",VIS
+Juju Bubble,,Donato Giancola,,Artifact,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen you play a card, sacrifice Juju Bubble.
+{2}: You gain 1 life.",VIS
+Jungle Basin,,John Avon,,Land,"Jungle Basin enters the battlefield tapped.\nWhen Jungle Basin enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand.
+{T}: Add {1}{G} to your mana pool.","VIS,C14"
+Kaervek's Spite,,Bryan Talbot,,Instant,"As an additional cost to cast Kaervek's Spite, sacrifice all permanents you control and discard your hand.\nTarget player loses 5 life.",VIS
+Karoo,,Zina Saunders,,Land,"Karoo enters the battlefield tapped.\nWhen Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.
+{T}: Add {1}{W} to your mana pool.","VIS,C14"
+Katabatic Winds,,Gary Gianni,,Enchantment,"Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nCreatures with flying can't attack or block, and their activated abilities with {T} in their costs can't be activated.",VIS
+Keeper of Kookus,,Scott Hampton,,Creature — Goblin,{R}: Keeper of Kookus gains protection from red until end of turn.,VIS
+King Cheetah,,Terese Nielsen,,Creature — Cat,Flash,"MGB,VIS,9ED"
+Knight of the Mists,,Harold McNeill,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhen Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.",VIS
+Knight of Valor,,Jeff Miracola,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{W}: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate this ability only once each turn.",VIS
+Kookus,,Scott Hampton,,Creature — Djinn,"Trample\nAt the beginning of your upkeep, if you don't control a creature named Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if able.
+{R}: Kookus gets +1/+0 until end of turn.",VIS
+Kyscu Drake,,G. Darrow & I. Rabarot,,Creature — Drake,Flying\n{G}: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn.
+Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library.,VIS
+Lead-Belly Chimera,,Mike Dringenberg,,Artifact Creature — Chimera,Trample\nSacrifice Lead-Belly Chimera: Put a +2/+2 counter on target Chimera creature. It gains trample. (This effect lasts indefinitely.),VIS
+Lichenthrope,,Bob Eggleton,,Creature — Plant Fungus,"If damage would be dealt to Lichenthrope, put that many -1/-1 counters on it instead.\nAt the beginning of your upkeep, remove a -1/-1 counter from Lichenthrope.",VIS
+Lightning Cloud,,John Matson,,Enchantment,"Whenever a player casts a red spell, you may pay {R}. If you do, Lightning Cloud deals 1 damage to target creature or player.",VIS
+Longbow Archer,,Eric Peterson,,Creature — Human Soldier Archer,First strike; reach (This creature can block creatures with flying.),"VIS,6ED,pFNM,7ED"
+Magma Mine,,Ron Spencer,,Artifact,"{4}: Put a pressure counter on Magma Mine.\n{T}, Sacrifice Magma Mine: Magma Mine deals damage equal to the number of pressure counters on it to target creature or player.",VIS
+Man-o'-War,,Jon J Muth,,Creature — Jellyfish,"When Man-o'-War enters the battlefield, return target creature to its owner's hand.","pARL,VIS,POR,S99,BRB,DD2,VMA,DD3_JVC,DDO"
+Matopi Golem,,Tom Kyffin,,Artifact Creature — Golem,"{1}: Regenerate Matopi Golem. When it regenerates this way, put a -1/-1 counter on it.",VIS
+Miraculous Recovery,,Brian Horton,,Instant,Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.,"VIS,DDL"
+Mob Mentality,,Douglas Shuler,,Enchantment — Aura,"Enchant creature\nEnchanted creature has trample.
+Whenever all non-Wall creatures you control attack, enchanted creature gets +X/+0 until end of turn, where X is the number of attacking creatures.",VIS
+Mortal Wound,,Kev Walker,,Enchantment — Aura,"Enchant creature\nWhen enchanted creature is dealt damage, destroy it.",VIS
+Mundungu,,Terese Nielsen,,Creature — Human Wizard,{T}: Counter target spell unless its controller pays {1} and 1 life.,VIS
+Mystic Veil,,D. Alexander Gregory,,Enchantment — Aura,"You may cast Mystic Veil as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)",VIS
+Natural Order,,Terese Nielsen,,Sorcery,"As an additional cost to cast Natural Order, sacrifice a green creature.\nSearch your library for a green creature card and put it onto the battlefield. Then shuffle your library.","VIS,POR,pJGP"
+Necromancy,,Pete Venters,,Enchantment,"You may cast Necromancy as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nWhen Necromancy enters the battlefield, if it's on the battlefield, it becomes an Aura with "enchant creature put onto the battlefield with Necromancy." Put target creature card from a graveyard onto the battlefield under your control and attach Necromancy to it. When Necromancy leaves the battlefield, that creature's controller sacrifices it.",VIS
+Necrosavant,,John Coulthart,,Creature — Zombie Giant,"{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.","MGB,VIS,6ED"
+Nekrataal,,Adrian Smith,,Creature — Human Assassin,"First strike\nWhen Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.","VIS,BRB,8ED,9ED,10E,DDM,C14"
+Ogre Enforcer,,Pete Venters,,Creature — Ogre,Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.,VIS
+Ovinomancer,,Kev Walker,,Creature — Human Wizard,"When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.\n{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.","MGB,VIS,TSB"
+Panther Warriors,,Cecil Fernando,,Creature — Cat Warrior,,"VIS,POR,6ED"
+Parapet,,Mark Poole,,Enchantment,"You may cast Parapet as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nCreatures you control get +0/+1.",VIS
+Peace Talks,,Roger Raupp,,Sorcery,"This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.","MGB,VIS"
+Phyrexian Marauder,,David Seeley,,Artifact Creature — Construct,Phyrexian Marauder enters the battlefield with X +1/+1 counters on it.\nPhyrexian Marauder can't block.
+Phyrexian Marauder can't attack unless you pay {1} for each +1/+1 counter on it.,VIS
+Phyrexian Walker,,Bryan Talbot,,Artifact Creature — Construct,,VIS
+Pillar Tombs of Aku,,Terese Nielsen,,World Enchantment,"At the beginning of each player's upkeep, that player may sacrifice a creature. If that player doesn't, he or she loses 5 life and you sacrifice Pillar Tombs of Aku.",VIS
+Prosperity,,Dan Frazier,,Sorcery,Each player draws X cards.,"VIS,POR,6ED,C13"
+Pygmy Hippo,,Steve White,,Creature — Hippo,"Whenever Pygmy Hippo attacks and isn't blocked, you may have defending player activate a mana ability of each land he or she controls and empty his or her mana pool. If you do, Pygmy Hippo assigns no combat damage this turn and at the beginning of your postcombat main phase, you add {X} to your mana pool, where X is the amount of mana emptied from defending player's mana pool this way.",VIS
+Python,,Steve White,,Creature — Snake,,"VIS,POR,6ED,S00"
+Quicksand,,Roger Raupp,,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.","VIS,9ED,10E,WWK,CNS"
+Quirion Druid,,John Matson,,Creature — Elf Druid,"{G}, {T}: Target land becomes a 2/2 green creature that's still a land. (This effect lasts indefinitely.)",VIS
+Quirion Ranger,,Tom Kyffin,,Creature — Elf,Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.,"VIS,pFNM"
+Raging Gorilla,,Tom Kyffin,,Creature — Ape,"Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn.",VIS
+Rainbow Efreet,,Nathalie Hertz,,Creature — Efreet,"Flying\n{U}{U}: Rainbow Efreet phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",VIS
+Relentless Assault,,G. Darrow & I. Rabarot,,Sorcery,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.","VIS,PO2,6ED,PTK,S99,7ED,8ED,9ED,10E,HOP"
+Relic Ward,,John Coulthart,,Enchantment — Aura,"You may cast Relic Ward as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant artifact
+Enchanted artifact has shroud. (It can't be the target of spells or abilities.)",VIS
+Remedy,,Zina Saunders,,Instant,"Prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.","VIS,6ED"
+Resistance Fighter,,Cecil Fernando,,Creature — Human Soldier,Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.,"VIS,6ED"
+Retribution of the Meek,,Nathalie Hertz,,Sorcery,Destroy all creatures with power 4 or greater. They can't be regenerated.,VIS
+Righteous Aura,,Jeff Miracola,,Enchantment,"{W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.","VIS,MMQ"
+Righteous War,,Ian Miller,,Enchantment,White creatures you control have protection from black.\nBlack creatures you control have protection from white.,VIS
+River Boa,,Steve White,,Creature — Snake,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa.,"VIS,6ED,BRB,pFNM,ZEN,DPA,DDM"
+Rock Slide,,Mike Kerr,,Instant,Rock Slide deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.,VIS
+Rowen,,Jon J Muth,,Enchantment,"Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.","VIS,6ED,7ED"
+Sands of Time,,Paul Lee,,Artifact,"Each player skips his or her untap step.\nAt the beginning of each player's upkeep, that player simultaneously untaps each tapped artifact, creature, and land he or she controls and taps each untapped artifact, creature, and land he or she controls.",VIS
+Scalebane's Elite,,Steve Luke,,Creature — Human Soldier,Protection from black,VIS
+Shimmering Efreet,,Thomas Gianni,,Creature — Efreet,"Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Whenever Shimmering Efreet phases in, target creature phases out. (It phases in before its controller untaps during his or her next untap step.)",VIS
+Shrieking Drake,,Ian Miller,,Creature — Drake,"Flying\nWhen Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.",VIS
+Simoon,,Randy Gallegos,,Instant,Simoon deals 1 damage to each creature target opponent controls.,"VIS,INV"
+Sisay's Ring,,Donato Giancola,,Artifact,{T}: Add {2} to your mana pool.,"VIS,7ED"
+Snake Basket,,Roger Raupp,,Artifact,"{X}, Sacrifice Snake Basket: Put X 1/1 green Snake creature tokens onto the battlefield. Activate this ability only any time you could cast a sorcery.","VIS,6ED"
+Solfatara,,Omaha Perez,,Instant,Target player can't play land cards this turn.\nDraw a card at the beginning of the next turn's upkeep.,VIS
+Song of Blood,,Eric Peterson,,Sorcery,"Put the top four cards of your library into your graveyard.\nWhenever a creature attacks this turn, it gets +1/+0 until end of turn for each creature card put into your graveyard this way.",VIS
+Spider Climb,,Ron Spencer,,Enchantment — Aura,"You may cast Spider Climb as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature
+Enchanted creature gets +0/+3 and has reach. (It can block creatures with flying.)",VIS
+Spitting Drake,,G. Darrow & I. Rabarot,,Creature — Drake,Flying\n{R}: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.,"VIS,6ED"
+Squandered Resources,,Romas Kukalis,,Enchantment,Sacrifice a land: Add to your mana pool one mana of any type the sacrificed land could produce.,VIS
+Stampeding Wildebeests,,Randy Gallegos,,Creature — Antelope Beast,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)\nAt the beginning of your upkeep, return a green creature you control to its owner's hand.","VIS,10E,DDD,DD3_GVL"
+Suleiman's Legacy,,Kaja Foglio,,Enchantment,"When Suleiman's Legacy enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated.\nWhenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.",VIS
+Summer Bloom,,Nicola Leonard,,Sorcery,You may play up to three additional lands this turn.,"VIS,POR,6ED,S99,9ED"
+Sun Clasp,,John Coulthart,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+3.
+{W}: Return enchanted creature to its owner's hand.,"VIS,BRB"
+Suq'Ata Assassin,,Gary Gianni,,Creature — Human Assassin,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Suq'Ata Assassin attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)",VIS
+Suq'Ata Lancer,,Jeff Miracola,,Creature — Human Knight,"Haste\nFlanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)","VIS,TSB"
+Talruum Champion,,Pete Venters,,Creature — Minotaur,"First strike\nWhenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn.",VIS
+Talruum Piper,,Pete Venters,,Creature — Minotaur,All creatures with flying able to block Talruum Piper do so.,VIS
+Tar Pit Warrior,,George Pratt,,Creature — Cyclops Warrior,"When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.","VIS,BTD"
+Teferi's Honor Guard,,Cecil Fernando,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{U}{U}: Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",VIS
+Teferi's Puzzle Box,,Kaja Foglio,,Artifact,"At the beginning of each player's draw step, that player puts the cards in his or her hand on the bottom of his or her library in any order, then draws that many cards.","VIS,6ED,7ED,8ED,9ED"
+Teferi's Realm,,Alan Rabinowitz,,World Enchantment,"At the beginning of each player's upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",VIS
+Tempest Drake,,Gerry Grace,,Creature — Drake,"Flying, vigilance",VIS
+Three Wishes,,George Pratt,,Instant,"Exile the top three cards of your library face down. You may look at those cards for as long as they remain exiled. Until your next turn, you may play those cards. At the beginning of your next upkeep, put any of those cards you didn't play into your graveyard.",VIS
+Time and Tide,,George Pratt,,Instant,"Simultaneously, all phased-out creatures phase in and all creatures with phasing phase out.",VIS
+Tin-Wing Chimera,,Mike Dringenberg,,Artifact Creature — Chimera,Flying\nSacrifice Tin-Wing Chimera: Put a +2/+2 counter on target Chimera creature. It gains flying. (This effect lasts indefinitely.),VIS
+Tithe,,Jon J Muth,,Instant,"Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.",VIS
+Tremor,,Michael Danza,,Sorcery,Tremor deals 1 damage to each creature without flying.,"VIS,PO2,6ED,S99,MMQ,7ED,8ED"
+Triangle of War,,Ian Miller,,Artifact,"{2}, Sacrifice Triangle of War: Target creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)","VIS,VMA"
+Uktabi Orangutan,,Una Fricker,,Creature — Ape,"When Uktabi Orangutan enters the battlefield, destroy target artifact.","pARL,VIS,6ED"
+Undiscovered Paradise,,David O'Connor,,Land,"{T}: Add one mana of any color to your mana pool. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.",VIS
+Undo,,Terese Nielsen,,Sorcery,Return two target creatures to their owners' hands.,"VIS,PO2,S99"
+Urborg Mindsucker,,Tony Diterlizzi,,Creature — Horror,"{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.","MGB,VIS"
+Vampiric Tutor,,Gary Leach,,Instant,"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.","VIS,pJGP,6ED,VMA"
+Vampirism,,Gary Leach,,Enchantment — Aura,"Enchant creature\nWhen Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +1/+1 for each other creature you control.
+Other creatures you control get -1/-1.","MGB,VIS"
+Vanishing,,John Matson,,Enchantment — Aura,"Enchant creature\n{U}{U}: Enchanted creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",VIS
+Viashino Sandstalker,,Andrew Robinson,,Creature — Viashino Warrior,"Haste (This creature can attack the turn it comes under your control.)\nAt the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)","MGB,VIS,8ED,9ED"
+Viashivan Dragon,,Ian Miller,,Creature — Dragon,Flying\n{R}: Viashivan Dragon gets +1/+0 until end of turn.
+{G}: Viashivan Dragon gets +0/+1 until end of turn.,VIS
+Vision Charm,,Greg Spalenka,,Instant,"Choose one —\n• Target player puts the top four cards of his or her library into his or her graveyard.
+• Choose a land type and a basic land type. Each land of the first chosen type becomes the second chosen type until end of turn.
+• Target artifact phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",VIS
+Wake of Vultures,,Jeff Miracola,,Creature — Bird,"Flying\n{1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.",VIS
+Wand of Denial,,Steve Luke,,Artifact,"{T}: Look at the top card of target player's library. If it's a nonland card, you may pay 2 life. If you do, put it into that player's graveyard.","VIS,6ED"
+Warrior's Honor,,D. Alexander Gregory,,Instant,Creatures you control get +1/+1 until end of turn.,"VIS,ATH,6ED,9ED,10E"
+Warthog,,Steve White,,Creature — Boar,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"VIS,6ED"
+Waterspout Djinn,,Thomas Gianni,,Creature — Djinn,"Flying\nAt the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.","VIS,DD2,DD3_JVC"
+Wicked Reward,,D. Alexander Gregory,,Instant,"As an additional cost to cast Wicked Reward, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.","MGB,VIS"
+Wind Shear,,John Matson,,Instant,Attacking creatures with flying get -2/-2 and lose flying until end of turn.,VIS
+Zhalfirin Crusader,,Alan Rabinowitz,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{W}: The next 1 damage that would be dealt to Zhalfirin Crusader this turn is dealt to target creature or player instead.","VIS,VMA"

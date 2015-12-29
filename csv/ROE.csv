@@ -1,0 +1,396 @@
+name,cost,artist,number,type,text,printings
+All Is Dust,,Jason Felix,1,Tribal Sorcery — Eldrazi,Each player sacrifices all colored permanents he or she controls.,"pGPX,ROE,MM2"
+Artisan of Kozilek,,Jason Felix,2,Creature — Eldrazi,"When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)","pFNM,ROE,ARC,CMD,C14,MM2,DDP"
+Eldrazi Conscription,,Jaime Jones,3,Tribal Enchantment — Eldrazi Aura,"Enchant creature\nEnchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)",ROE
+"Emrakul, the Aeons Torn",,Mark Tedin,4,Legendary Creature — Eldrazi,"Emrakul, the Aeons Torn can't be countered.\nWhen you cast Emrakul, take an extra turn after this one.
+Flying, protection from colored spells, annihilator 6
+When Emrakul is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.","pPRE,ROE,MM2"
+Hand of Emrakul,,Chippy,5,Creature — Eldrazi,"You may sacrifice four Eldrazi Spawn rather than pay Hand of Emrakul's mana cost.\nAnnihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)",ROE
+"Kozilek, Butcher of Truth",,Michael Komarck,6,Legendary Creature — Eldrazi,"When you cast Kozilek, Butcher of Truth, draw four cards.\nAnnihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+When Kozilek is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.","ROE,MM2"
+It That Betrays,,Tomasz Jedruszek,7,Creature — Eldrazi,"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)\nWhenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.","ROE,DDP"
+Not of This World,,Izzy,8,Tribal Instant — Eldrazi,Counter target spell or ability that targets a permanent you control.\nNot of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.,ROE
+Pathrazer of Ulamog,,Austin Hsu,9,Creature — Eldrazi,"Annihilator 3 (Whenever this creature attacks, defending player sacrifices three permanents.)\nPathrazer of Ulamog can't be blocked except by three or more creatures.","pWPN,ROE"
+Skittering Invasion,,Eric Deschamps,10,Tribal Sorcery — Eldrazi,Put five 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool.",ROE
+Spawnsire of Ulamog,,Izzy,11,Creature — Eldrazi,"Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)\n{4}: Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."
+{20}: Cast any number of Eldrazi cards you own from outside the game without paying their mana costs.",ROE
+"Ulamog, the Infinite Gyre",,Aleksi Briclot,12,Legendary Creature — Eldrazi,"When you cast Ulamog, the Infinite Gyre, destroy target permanent.\nIndestructible
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.","ROE,V11,MM2"
+Ulamog's Crusher,,Todd Lockwood,13,Creature — Eldrazi,"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)\nUlamog's Crusher attacks each turn if able.","ROE,MM2,DDP"
+Affa Guard Hound,,Ryan Pancoast,14,Creature — Hound,"Flash\nWhen Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.","ROE,DDP"
+Caravan Escort,,Goran Josic,15,Creature — Human Knight,Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4
+2/2
+LEVEL 5+
+5/5
+First strike,"ROE,DDG,DDP"
+Dawnglare Invoker,,Steve Argyle,16,Creature — Kor Wizard,Flying\n{8}: Tap all creatures target player controls.,"ROE,C15"
+Deathless Angel,,Johann Bodin,17,Creature — Angel,Flying\n{W}{W}: Target creature gains indestructible until end of turn.,"pWPN,ROE"
+Demystify,,Véronique Meignaud,18,Instant,Destroy target enchantment.,"ONS,8ED,9ED,10E,ROE,M12"
+Eland Umbra,,Howard Lyon,19,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +0/+4.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",ROE
+Emerge Unscathed,,Steve Argyle,20,Instant,"Target creature you control gains protection from the color of your choice until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Gideon Jura,,Aleksi Briclot,21,Planeswalker — Gideon,"+2: During target opponent's next turn, creatures that player controls attack Gideon Jura if able.\n−2: Destroy target tapped creature.
+0: Until end of turn, Gideon Jura becomes a 6/6 Human Soldier creature that's still a planeswalker. Prevent all damage that would be dealt to him this turn.","ROE,M12"
+Glory Seeker,,Matt Cavotta,22,Creature — Human Soldier,,"ONS,8ED,9ED,ROE,DDF"
+Guard Duty,,Karl Kopinski,23,Enchantment — Aura,Enchant creature\nEnchanted creature has defender.,ROE
+Harmless Assault,,Chippy,24,Instant,Prevent all combat damage that would be dealt this turn by attacking creatures.,ROE
+Hedron-Field Purists,,Scott Chou,25,Creature — Human Cleric,"Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4
+1/4
+If a source would deal damage to you or a creature you control, prevent 1 of that damage.
+LEVEL 5+
+2/5
+If a source would deal damage to you or a creature you control, prevent 2 of that damage.",ROE
+Hyena Umbra,,Howard Lyon,26,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+1 and has first strike.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)","ROE,PC2"
+Ikiral Outrider,,Kekai Kotaki,27,Creature — Human Soldier,Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+2/6
+Vigilance
+LEVEL 4+
+3/10
+Vigilance,ROE
+Kabira Vindicator,,Steven Belledin,28,Creature — Human Knight,Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-4
+3/6
+Other creatures you control get +1/+1.
+LEVEL 5+
+4/8
+Other creatures you control get +2/+2.,"ROE,DDG,DDP"
+Knight of Cliffhaven,,Matt Cavotta,29,Creature — Kor Knight,"Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+2/3
+Flying
+LEVEL 4+
+4/4
+Flying, vigilance","ROE,DDG,DDP"
+Kor Line-Slinger,,Steve Prescott,30,Creature — Kor Scout,{T}: Tap target creature with power 3 or less.,ROE
+Kor Spiritdancer,,Scott Chou,31,Creature — Kor Wizard,"Kor Spiritdancer gets +2/+2 for each Aura attached to it.\nWhenever you cast an Aura spell, you may draw a card.","ROE,PC2"
+Lightmine Field,,Eric Deschamps,32,Enchantment,"Whenever one or more creatures attack, Lightmine Field deals damage to each of those creatures equal to the number of attacking creatures.",ROE
+"Linvala, Keeper of Silence",,Igor Kieryluk,33,Legendary Creature — Angel,Flying\nActivated abilities of creatures your opponents control can't be activated.,ROE
+Lone Missionary,,Svetlin Velinov,34,Creature — Kor Monk,"When Lone Missionary enters the battlefield, you gain 4 life.","ROE,DDN"
+Luminous Wake,,Mike Bierek,35,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks or blocks, you gain 4 life.",ROE
+Makindi Griffin,,Izzy,36,Creature — Griffin,Flying,"ROE,DDP"
+Mammoth Umbra,,Howard Lyon,37,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3 and has vigilance.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)","ROE,PC2"
+Near-Death Experience,,Dan Scott,38,Enchantment,"At the beginning of your upkeep, if you have exactly 1 life, you win the game.",ROE
+Nomads' Assembly,,Erica Yang,39,Sorcery,"Put a 1/1 white Kor Soldier creature token onto the battlefield for each creature you control.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)","ROE,C14"
+Oust,,Mike Bierek,40,Sorcery,Put target creature into its owner's library second from the top. Its controller gains 3 life.,"ROE,DDP"
+Puncturing Light,,Zoltan Boros & Gabor Szikszai,41,Instant,Destroy target attacking or blocking creature with power 3 or less.,ROE
+Repel the Darkness,,Scott Chou,42,Instant,Tap up to two target creatures.\nDraw a card.,"ROE,DDP"
+Smite,,Cyril Van Der Haegen,43,Instant,Destroy target blocked creature.,"STH,ROE,GTC,TPR"
+Soul's Attendant,,Steve Prescott,44,Creature — Human Cleric,"Whenever another creature enters the battlefield, you may gain 1 life.",ROE
+Soulbound Guardians,,Erica Yang,45,Creature — Kor Spirit,"Defender, flying",ROE
+Stalwart Shield-Bearers,,Austin Hsu,46,Creature — Human Soldier,Defender\nOther creatures you control with defender get +0/+2.,ROE
+Student of Warfare,,Volkan Baga,47,Creature — Human Knight,Level up {W} ({W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-6
+3/3
+First strike
+LEVEL 7+
+4/4
+Double strike,ROE
+Survival Cache,,Scott Chou,48,Sorcery,"You gain 2 life. Then if you have more life than an opponent, draw a card.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)","ROE,C13"
+Time of Heroes,,Kekai Kotaki,49,Enchantment,Each creature you control with a level counter on it gets +2/+2.,ROE
+Totem-Guide Hartebeest,,John Avon,50,Creature — Antelope,"When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.","ROE,ORI"
+Transcendent Master,,Steven Belledin,51,Creature — Human Cleric Avatar,"Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 6-11
+6/6
+Lifelink
+LEVEL 12+
+9/9
+Lifelink, indestructible",ROE
+Umbra Mystic,,Matt Stewart,52,Creature — Human Wizard,"Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)",ROE
+Wall of Omens,,James Paick,53,Creature — Wall,"Defender\nWhen Wall of Omens enters the battlefield, draw a card.","pFNM,ROE,CMD,DDK"
+Aura Finesse,,Howard Lyon,54,Instant,Attach target Aura you control to target creature.\nDraw a card.,ROE
+Cast Through Time,,Zoltan Boros & Gabor Szikszai,55,Enchantment,"Instant and sorcery spells you control have rebound. (Exile the spell as it resolves if you cast it from your hand. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)",ROE
+Champion's Drake,,Lars Grant-West,56,Creature — Drake,Flying\nChampion's Drake gets +3/+3 as long as you control a creature with three or more level counters on it.,ROE
+Coralhelm Commander,,Jaime Jones,57,Creature — Merfolk Soldier,Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3
+3/3
+Flying
+LEVEL 4+
+4/4
+Flying
+Other Merfolk creatures you control get +1/+1.,ROE
+Crab Umbra,,Christopher Moeller,58,Enchantment — Aura,"Enchant creature\n{2}{U}: Untap enchanted creature.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",ROE
+Deprive,,Izzy,59,Instant,"As an additional cost to cast Deprive, return a land you control to its owner's hand.\nCounter target spell.",ROE
+Distortion Strike,,Goran Josic,60,Sorcery,"Target creature gets +1/+0 until end of turn and can't be blocked this turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Domestication,,Jesper Ejsing,61,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+At the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.","ROE,M14"
+Dormant Gomazoa,,Chris Rahn,62,Creature — Jellyfish,"Flying\nDormant Gomazoa enters the battlefield tapped.
+Dormant Gomazoa doesn't untap during your untap step.
+Whenever you become the target of a spell, you may untap Dormant Gomazoa.",ROE
+Drake Umbra,,Howard Lyon,63,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3 and has flying.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",ROE
+Echo Mage,,Matt Stewart,64,Creature — Human Wizard,"Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3
+2/4
+{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.
+LEVEL 4+
+2/5
+{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.","ROE,C13"
+Eel Umbra,,Howard Lyon,65,Enchantment — Aura,"Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature
+Enchanted creature gets +1/+1.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",ROE
+Enclave Cryptologist,,Igor Kieryluk,66,Creature — Merfolk Wizard,"Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2
+0/1
+{T}: Draw a card, then discard a card.
+LEVEL 3+
+0/1
+{T}: Draw a card.",ROE
+Fleeting Distraction,,Kieran Yanner,67,Instant,Target creature gets -1/-0 until end of turn.\nDraw a card.,"ROE,AVR,DDN"
+Frostwind Invoker,,Svetlin Velinov,68,Creature — Merfolk Wizard,Flying\n{8}: Creatures you control gain flying until end of turn.,ROE
+Gravitational Shift,,Svetlin Velinov,69,Enchantment,Creatures with flying get +2/+0.\nCreatures without flying get -2/-0.,ROE
+Guard Gomazoa,,Rob Alexander,70,Creature — Jellyfish,"Defender, flying\nPrevent all combat damage that would be dealt to Guard Gomazoa.","ROE,CMD,PC2,C13"
+Hada Spy Patrol,,Zoltan Boros & Gabor Szikszai,71,Creature — Human Rogue,Level up {2}{U} ({2}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2
+2/2
+Hada Spy Patrol can't be blocked.
+LEVEL 3+
+3/3
+Shroud (This creature can't be the target of spells or abilities.)
+Hada Spy Patrol can't be blocked.,"ROE,C13"
+Halimar Wavewatch,,Matt Stewart,72,Creature — Merfolk Soldier,Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4
+0/6
+LEVEL 5+
+6/6
+Islandwalk (This creature can't be blocked as long as defending player controls an Island.),ROE
+Jwari Scuttler,,Andrew Robinson,73,Creature — Crab,,ROE
+Lay Bare,,Chippy,74,Instant,Counter target spell. Look at its controller's hand.,ROE
+Lighthouse Chronologist,,Steven Belledin,75,Creature — Human Wizard,"Level up {U} ({U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 4-6
+2/4
+LEVEL 7+
+3/5
+At the beginning of each end step, if it's not your turn, take an extra turn after this one.",ROE
+Merfolk Observer,,Anthony Francisco,76,Creature — Merfolk Rogue,"When Merfolk Observer enters the battlefield, look at the top card of target player's library.",ROE
+Merfolk Skyscout,,rk post,77,Creature — Merfolk Scout,"Flying\nWhenever Merfolk Skyscout attacks or blocks, untap target permanent.",ROE
+Mnemonic Wall,,Vance Kovacs,78,Creature — Wall,"Defender\nWhen Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.","ROE,THS,C13"
+Narcolepsy,,Johann Bodin,79,Enchantment — Aura,"Enchant creature\nAt the beginning of each upkeep, if enchanted creature is untapped, tap it.","ROE,MM2"
+Phantasmal Abomination,,Goran Josic,80,Creature — Illusion,"Defender\nWhen Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.",ROE
+Reality Spasm,,Jason Felix,81,Instant,Choose one —\n• Tap X target permanents.
+• Untap X target permanents.,ROE
+Recurring Insight,,Zoltan Boros & Gabor Szikszai,82,Sorcery,"Draw cards equal to the number of cards in target opponent's hand.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Regress,,Izzy,83,Instant,Return target permanent to its owner's hand.,"MRD,ROE"
+Renegade Doppelganger,,James Ryman,84,Creature — Shapeshifter,"Whenever another creature enters the battlefield under your control, you may have Renegade Doppelganger become a copy of that creature until end of turn. (If it does, it loses this ability for the rest of the turn.)",ROE
+Sea Gate Oracle,,Daniel Ljunggren,85,Creature — Human Wizard,"When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.","ROE,DDM,C14"
+See Beyond,,Andrew Robinson,86,Sorcery,"Draw two cards, then shuffle a card from your hand into your library.","ROE,PC2"
+Shared Discovery,,Ryan Pancoast,87,Sorcery,"As an additional cost to cast Shared Discovery, tap four untapped creatures you control.\nDraw three cards.",ROE
+Skywatcher Adept,,Tomasz Jedruszek,88,Creature — Merfolk Wizard,Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2
+2/2
+Flying
+LEVEL 3+
+4/2
+Flying,ROE
+Sphinx of Magosi,,James Ryman,89,Creature — Sphinx,"Flying\n{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.","ROE,C14"
+Surrakar Spellblade,,Dave Kendall,90,Creature — Surrakar,"Whenever you cast an instant or sorcery spell, you may put a charge counter on Surrakar Spellblade.\nWhenever Surrakar Spellblade deals combat damage to a player, you may draw X cards, where X is the number of charge counters on it.","ROE,MM2"
+Training Grounds,,James Ryman,91,Enchantment,Activated abilities of creatures you control cost up to {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.,ROE
+Unified Will,,Matt Cavotta,92,Instant,Counter target spell if you control more creatures than that spell's controller.,ROE
+Venerated Teacher,,Greg Staples,93,Creature — Human Wizard,"When Venerated Teacher enters the battlefield, put two level counters on each creature you control with level up.",ROE
+Arrogant Bloodlord,,Mike Bierek,94,Creature — Vampire Knight,"Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.",ROE
+Bala Ged Scorpion,,Daarken,95,Creature — Scorpion,"When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.",ROE
+Baneful Omen,,Karl Kopinski,96,Enchantment,"At the beginning of your end step, you may reveal the top card of your library. If you do, each opponent loses life equal to that card's converted mana cost.",ROE
+Bloodrite Invoker,,Svetlin Velinov,97,Creature — Vampire Shaman,{8}: Target player loses 3 life and you gain 3 life.,"ROE,DDP"
+Bloodthrone Vampire,,Steve Argyle,98,Creature — Vampire,Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.,"pMEI,ROE,M11,M13,MM2,DDP"
+Cadaver Imp,,Dave Kendall,99,Creature — Imp,"Flying\nWhen Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.","ROE,PC2,DDP"
+Consume the Meek,,Chippy,100,Instant,Destroy each creature with converted mana cost 3 or less. They can't be regenerated.,"ROE,DDP"
+Consuming Vapors,,Trevor Claxton,101,Sorcery,"Target player sacrifices a creature. You gain life equal to that creature's toughness.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Contaminated Ground,,Rob Alexander,102,Enchantment — Aura,"Enchant land\nEnchanted land is a Swamp.
+Whenever enchanted land becomes tapped, its controller loses 2 life.","ROE,GTC"
+Corpsehatch,,Kekai Kotaki,103,Sorcery,Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool.","ROE,DDP"
+Curse of Wizardry,,Kekai Kotaki,104,Enchantment,"As Curse of Wizardry enters the battlefield, choose a color.\nWhenever a player casts a spell of the chosen color, that player loses 1 life.","pWPN,ROE"
+Death Cultist,,Igor Kieryluk,105,Creature — Human Wizard,Sacrifice Death Cultist: Target player loses 1 life and you gain 1 life.,ROE
+Demonic Appetite,,Igor Kieryluk,106,Enchantment — Aura,"Enchant creature you control\nEnchanted creature gets +3/+3.
+At the beginning of your upkeep, sacrifice a creature.",ROE
+"Drana, Kalastria Bloodchief",,Mike Bierek,107,Legendary Creature — Vampire Shaman,"Flying\n{X}{B}{B}: Target creature gets -0/-X until end of turn and Drana, Kalastria Bloodchief gets +X/+0 until end of turn.","ROE,C14"
+Dread Drone,,Raymond Swanland,108,Creature — Eldrazi Drone,"When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."","ROE,MM2"
+Escaped Null,,Ryan Pancoast,109,Creature — Zombie Berserker,"Lifelink\nWhenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.",ROE
+Essence Feed,,Daarken,110,Sorcery,Target player loses 3 life. You gain 3 life and put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool.",ROE
+Gloomhunter,,Lars Grant-West,111,Creature — Bat,Flying,ROE
+Guul Draz Assassin,,James Ryman,112,Creature — Vampire Assassin,"Level up {1}{B} ({1}{B}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3
+2/2
+{B}, {T}: Target creature gets -2/-2 until end of turn.
+LEVEL 4+
+4/4
+{B}, {T}: Target creature gets -4/-4 until end of turn.","pMEI,ROE"
+Hellcarver Demon,,Greg Staples,113,Creature — Demon,"Flying\nWhenever Hellcarver Demon deals combat damage to a player, sacrifice all other permanents you control and discard your hand. Exile the top six cards of your library. You may cast any number of nonland cards exiled this way without paying their mana costs.",ROE
+Induce Despair,,Igor Kieryluk,114,Instant,"As an additional cost to cast Induce Despair, reveal a creature card from your hand.\nTarget creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.","ROE,DDP"
+Inquisition of Kozilek,,Tomasz Jedruszek,115,Sorcery,Target player reveals his or her hand. You choose a nonland card from it with converted mana cost 3 or less. That player discards that card.,"ROE,MD1"
+Last Kiss,,Vance Kovacs,116,Instant,Last Kiss deals 2 damage to target creature and you gain 2 life.,"ROE,DDM"
+Mortician Beetle,,Lars Grant-West,117,Creature — Insect,"Whenever a player sacrifices a creature, you may put a +1/+1 counter on Mortician Beetle.",ROE
+Nighthaze,,Tomasz Jedruszek,118,Sorcery,Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)\nDraw a card.,ROE
+Nirkana Cutthroat,,Erica Yang,119,Creature — Vampire Warrior,"Level up {2}{B} ({2}{B}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2
+4/3
+Deathtouch
+LEVEL 3+
+5/4
+First strike, deathtouch",ROE
+Nirkana Revenant,,Igor Kieryluk,120,Creature — Vampire Shade,"Whenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).\n{B}: Nirkana Revenant gets +1/+1 until end of turn.",ROE
+Null Champion,,Chris Rahn,121,Creature — Zombie Warrior,Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+4/2
+LEVEL 4+
+7/3
+{B}: Regenerate Null Champion.,ROE
+Pawn of Ulamog,,Daarken,122,Creature — Vampire Shaman,"Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."","ROE,DDP"
+Perish the Thought,,Austin Hsu,123,Sorcery,Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.,ROE
+Pestilence Demon,,Justin Sweet,124,Creature — Demon,Flying\n{B}: Pestilence Demon deals 1 damage to each creature and each player.,"ROE,C14"
+Repay in Kind,,Vance Kovacs,125,Sorcery,Each player's life total becomes the lowest life total among all players.,ROE
+Shrivel,,Jung Park,126,Sorcery,All creatures get -1/-1 until end of turn.,"ROE,M14,MM2"
+Skeletal Wurm,,Zoltan Boros & Gabor Szikszai,127,Creature — Skeleton Wurm,{B}: Regenerate Skeletal Wurm.,ROE
+Suffer the Past,,Trevor Claxton,128,Instant,"Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.",ROE
+Thought Gorger,,Jason Felix,129,Creature — Horror,"Trample\nWhen Thought Gorger enters the battlefield, put a +1/+1 counter on it for each card in your hand. If you do, discard your hand.
+When Thought Gorger leaves the battlefield, draw a card for each +1/+1 counter on it.",ROE
+Vendetta,,Karl Kopinski,130,Instant,Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.,"MMQ,ROE"
+Virulent Swipe,,Raymond Swanland,131,Instant,"Target creature gets +2/+0 and gains deathtouch until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Zof Shade,,Jason A. Engle,132,Creature — Shade,{2}{B}: Zof Shade gets +2/+2 until end of turn.,"ROE,M15"
+Zulaport Enforcer,,Matt Stewart,133,Creature — Human Warrior,Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2
+3/3
+LEVEL 3+
+5/5
+Zulaport Enforcer can't be blocked except by black creatures.,ROE
+Akoum Boulderfoot,,Alex Horley-Orlandelli,134,Creature — Giant Warrior,"When Akoum Boulderfoot enters the battlefield, it deals 1 damage to target creature or player.",ROE
+Battle Rampart,,Steve Prescott,135,Creature — Wall,Defender\n{T}: Target creature gains haste until end of turn.,"MMQ,ROE"
+Battle-Rattle Shaman,,Warren Mahy,136,Creature — Goblin Shaman,"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn.",ROE
+Brimstone Mage,,Volkan Baga,137,Creature — Human Shaman,Level up {3}{R} ({3}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2
+2/3
+{T}: Brimstone Mage deals 1 damage to target creature or player.
+LEVEL 3+
+2/4
+{T}: Brimstone Mage deals 3 damage to target creature or player.,ROE
+Brood Birthing,,Anthony Francisco,138,Sorcery,"If you control an Eldrazi Spawn, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool." Otherwise, put one of those tokens onto the battlefield.",ROE
+Conquering Manticore,,Chris Rahn,139,Creature — Manticore,"Flying\nWhen Conquering Manticore enters the battlefield, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.","ROE,DDL"
+Devastating Summons,,Jung Park,140,Sorcery,"As an additional cost to cast Devastating Summons, sacrifice X lands.\nPut two X/X red Elemental creature tokens onto the battlefield.",ROE
+Disaster Radius,,James Paick,141,Sorcery,"As an additional cost to cast Disaster Radius, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.","ROE,CMD,C15"
+Emrakul's Hatcher,,Jaime Jones,142,Creature — Eldrazi Drone,"When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."","ROE,DDP"
+Explosive Revelation,,Justin Sweet,143,Sorcery,Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Explosive Revelation deals damage equal to that card's converted mana cost to that creature or player. Put the nonland card into your hand and the rest on the bottom of your library in any order.,ROE
+Fissure Vent,,Philip Straub,144,Sorcery,Choose one or both —\n• Destroy target artifact.
+• Destroy target nonbasic land.,"ROE,C13"
+Flame Slash,,Raymond Swanland,145,Sorcery,Flame Slash deals 4 damage to target creature.,"ROE,DDK"
+Forked Bolt,,Tomasz Jedruszek,146,Sorcery,Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.,"ROE,DDP"
+Goblin Arsonist,,Wayne Reynolds,147,Creature — Goblin Shaman,"When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.","ROE,M12,M13,DDK"
+Goblin Tunneler,,Jesper Ejsing,148,Creature — Goblin Rogue,{T}: Target creature with power 2 or less can't be blocked this turn.,"ROE,M11,M12"
+Grotag Siege-Runner,,Zoltan Boros & Gabor Szikszai,149,Creature — Goblin Rogue,"{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.",ROE
+Heat Ray,,Austin Hsu,150,Instant,Heat Ray deals X damage to target creature.,"USG,BRB,ROE,M15"
+Hellion Eruption,,Anthony Francisco,151,Sorcery,"Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.","ROE,PC2,DDP"
+Kargan Dragonlord,,Jason Chan,152,Creature — Human Warrior,"Level up {R} ({R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 4-7
+4/4
+Flying
+LEVEL 8+
+8/8
+Flying, trample
+{R}: Kargan Dragonlord gets +1/+0 until end of turn.",ROE
+Kiln Fiend,,Adi Granov,153,Creature — Elemental Beast,"Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn.","ROE,DDJ"
+Lagac Lizard,,Svetlin Velinov,154,Creature — Lizard,,ROE
+Lavafume Invoker,,Dave Kendall,155,Creature — Goblin Shaman,{8}: Creatures you control get +3/+0 until end of turn.,ROE
+Lord of Shatterskull Pass,,Kekai Kotaki,156,Creature — Minotaur Shaman,"Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-5
+6/6
+LEVEL 6+
+6/6
+Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.","pLPA,ROE"
+Lust for War,,Raymond Swanland,157,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature becomes tapped, Lust for War deals 3 damage to that creature's controller.
+Enchanted creature attacks each turn if able.",ROE
+Magmaw,,Karl Kopinski,158,Creature — Elemental,"{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.","ROE,DDP"
+Ogre Sentry,,Eric Deschamps,159,Creature — Ogre Warrior,Defender,ROE
+Rage Nimbus,,Vincent Proce,160,Creature — Elemental,"Defender, flying\n{1}{R}: Target creature attacks this turn if able.",ROE
+Raid Bombardment,,Matt Cavotta,161,Enchantment,"Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to defending player.",ROE
+Rapacious One,,Jason A. Engle,162,Creature — Eldrazi Drone,"Trample\nWhenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."","ROE,CMD"
+Soulsurge Elemental,,Jason A. Engle,163,Creature — Elemental,First strike\nSoulsurge Elemental's power is equal to the number of creatures you control.,ROE
+Spawning Breath,,Trevor Claxton,164,Instant,Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool.",ROE
+Splinter Twin,,Goran Josic,165,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: Put a token that's a copy of this creature onto the battlefield. That token has haste. Exile it at the beginning of the next end step.","ROE,MM2"
+Staggershock,,Raymond Swanland,166,Instant,"Staggershock deals 2 damage to target creature or player.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)","pWPN,ROE"
+Surreal Memoir,,Jaime Jones,167,Sorcery,"Return an instant card at random from your graveyard to your hand.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Traitorous Instinct,,Scott Chou,168,Sorcery,"Gain control of target creature until end of turn. Untap that creature. Until end of turn, it gets +2/+0 and gains haste.","ROE,RTR"
+Tuktuk the Explorer,,Volkan Baga,169,Legendary Creature — Goblin,"Haste\nWhen Tuktuk the Explorer dies, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.","ROE,C14"
+Valakut Fireboar,,Zoltan Boros & Gabor Szikszai,170,Creature — Elemental Boar,"Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.",ROE
+Vent Sentinel,,Chris Rahn,171,Creature — Elemental,"Defender\n{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.","ROE,CNS"
+World at War,,Igor Kieryluk,172,Sorcery,"After the first postcombat main phase this turn, there's an additional combat phase followed by an additional main phase. At the beginning of that combat, untap all creatures that attacked this turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Wrap in Flames,,Véronique Meignaud,173,Sorcery,Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.,"ROE,CNS,MM2"
+Ancient Stirrings,,Vincent Proce,174,Sorcery,Look at the top five cards of your library. You may reveal a colorless card from among them and put it into your hand. Then put the rest on the bottom of your library in any order. (Cards with no colored mana in their mana costs are colorless. Lands are also colorless.),ROE
+Aura Gnarlid,,Lars Grant-West,175,Creature — Beast,Creatures with power less than Aura Gnarlid's power can't block it.\nAura Gnarlid gets +1/+1 for each Aura on the battlefield.,"ROE,PC2"
+Awakening Zone,,Johann Bodin,176,Enchantment,"At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."","ROE,CMD,PC2"
+Bear Umbra,,Howard Lyon,177,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2 and has "Whenever this creature attacks, untap all lands you control."
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",ROE
+Beastbreaker of Bala Ged,,Karl Kopinski,178,Creature — Human Warrior,Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+4/4
+LEVEL 4+
+6/6
+Trample,"ROE,DDP"
+Boar Umbra,,Christopher Moeller,179,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)","ROE,PC2"
+Bramblesnap,,James Ryman,180,Creature — Elemental,Trample\nTap an untapped creature you control: Bramblesnap gets +1/+1 until end of turn.,ROE
+Broodwarden,,Izzy,181,Creature — Eldrazi Drone,Eldrazi Spawn creatures you control get +2/+1.,ROE
+Daggerback Basilisk,,Jesper Ejsing,182,Creature — Basilisk,Deathtouch,"ROE,DDP"
+Gelatinous Genesis,,Daniel Ljunggren,183,Sorcery,Put X X/X green Ooze creature tokens onto the battlefield.,ROE
+Gigantomancer,,Chippy,184,Creature — Human Shaman,{1}: Target creature you control has base power and toughness 7/7 until end of turn.,ROE
+Gravity Well,,Rob Alexander,185,Enchantment,"Whenever a creature with flying attacks, it loses flying until end of turn.",ROE
+Growth Spasm,,Dan Scott,186,Sorcery,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."",ROE
+Haze Frog,,Jesper Ejsing,187,Creature — Frog,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Haze Frog enters the battlefield, prevent all combat damage that other creatures would deal this turn.",ROE
+Irresistible Prey,,Jesper Ejsing,188,Sorcery,Target creature must be blocked this turn if able.\nDraw a card.,ROE
+Jaddi Lifestrider,,Vincent Proce,189,Creature — Elemental,"When Jaddi Lifestrider enters the battlefield, you may tap any number of untapped creatures you control. You gain 2 life for each creature tapped this way.",ROE
+Joraga Treespeaker,,Cyril Van Der Haegen,190,Creature — Elf Druid,Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4
+1/2
+{T}: Add {G}{G} to your mana pool.
+LEVEL 5+
+1/4
+Elves you control have "{T}: Add {G}{G} to your mana pool.",ROE
+Kazandu Tuskcaller,,Mike Bierek,191,Creature — Human Shaman,Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-5
+1/1
+{T}: Put a 3/3 green Elephant creature token onto the battlefield.
+LEVEL 6+
+1/1
+{T}: Put two 3/3 green Elephant creature tokens onto the battlefield.,"ROE,C13"
+Khalni Hydra,,Todd Lockwood,192,Creature — Hydra,Khalni Hydra costs {G} less to cast for each green creature you control.\nTrample,ROE
+Kozilek's Predator,,Steve Argyle,193,Creature — Eldrazi Drone,"When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."","ROE,MM2"
+Leaf Arrow,,Eric Deschamps,194,Instant,Leaf Arrow deals 3 damage to target creature with flying.,ROE
+Living Destiny,,James Ryman,195,Instant,"As an additional cost to cast Living Destiny, reveal a creature card from your hand.\nYou gain life equal to the revealed card's converted mana cost.",ROE
+Might of the Masses,,Johann Bodin,196,Instant,Target creature gets +1/+1 until end of turn for each creature you control.,"ROE,ORI"
+Momentous Fall,,Tomasz Jedruszek,197,Instant,"As an additional cost to cast Momentous Fall, sacrifice a creature.\nYou draw cards equal to the sacrificed creature's power, then you gain life equal to its toughness.",ROE
+Mul Daya Channelers,,Jason Chan,198,Creature — Elf Druid Shaman,"Play with the top card of your library revealed.\nAs long as the top card of your library is a creature card, Mul Daya Channelers gets +3/+3.
+As long as the top card of your library is a land card, Mul Daya Channelers has "{T}: Add two mana of any one color to your mana pool."",ROE
+Naturalize,,Howard Lyon,199,Instant,Destroy target artifact or enchantment.,"ONS,8ED,9ED,10E,ALA,M10,ROE,DPA,M11,M12,ISD,M13,GTC,M14,M15,KTK,DTK"
+Nema Siltlurker,,Wayne Reynolds,200,Creature — Lizard,,ROE
+Nest Invader,,Trevor Claxton,201,Creature — Eldrazi Drone,"When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."","ROE,PC2,MM2"
+Ondu Giant,,Igor Kieryluk,202,Creature — Giant Druid,"When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.","ROE,PC2,DDP"
+Overgrown Battlement,,Franz Vohwinkel,203,Creature — Wall,Defender\n{T}: Add {G} to your mana pool for each creature with defender you control.,ROE
+Pelakka Wurm,,Daniel Ljunggren,204,Creature — Wurm,"Trample\nWhen Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm dies, draw a card.","ROE,CNS,MM2"
+Prey's Vengeance,,Jesper Ejsing,205,Instant,"Target creature gets +2/+2 until end of turn.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",ROE
+Realms Uncharted,,Volkan Baga,206,Instant,Search your library for up to four land cards with different names and reveal them. An opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.,ROE
+Snake Umbra,,Christopher Moeller,207,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+1 and has "Whenever this creature deals damage to an opponent, you may draw a card."
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)","ROE,PC2"
+Spider Umbra,,Christopher Moeller,208,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)
+Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)","ROE,ARC"
+Sporecap Spider,,Lars Grant-West,209,Creature — Spider,Reach (This creature can block creatures with flying.),"ROE,CNS"
+Stomper Cub,,Karl Kopinski,210,Creature — Beast,Trample,ROE
+Tajuru Preserver,,rk post,211,Creature — Elf Shaman,Spells and abilities your opponents control can't cause you to sacrifice permanents.,ROE
+Vengevine,,Raymond Swanland,212,Creature — Elemental,"Haste\nWhenever you cast a spell, if it's the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield.","ROE,pWCQ"
+Wildheart Invoker,,Erica Yang,213,Creature — Elf Shaman,{8}: Target creature gets +5/+5 and gains trample until end of turn.,"ROE,DDP"
+Sarkhan the Mad,,Chippy,214,Planeswalker — Sarkhan,"0: Reveal the top card of your library and put it into your hand. Sarkhan the Mad deals damage to himself equal to that card's converted mana cost.\n−2: Target creature's controller sacrifices it, then that player puts a 5/5 red Dragon creature token with flying onto the battlefield.
+−4: Each Dragon creature you control deals damage equal to its power to target player.",ROE
+Angelheart Vial,,Chippy,215,Artifact,"Whenever you're dealt damage, you may put that many charge counters on Angelheart Vial.\n{2}, {T}, Remove four charge counters from Angelheart Vial: You gain 2 life and draw a card.",ROE
+Dreamstone Hedron,,Eric Deschamps,216,Artifact,"{T}: Add {3} to your mana pool.\n{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.","ROE,ARC,CMD,C14,C15"
+Enatu Golem,,Daniel Ljunggren,217,Artifact Creature — Golem,"When Enatu Golem dies, you gain 4 life.",ROE
+Hedron Matrix,,Jaime Jones,218,Artifact — Equipment,"Equipped creature gets +X/+X, where X is its converted mana cost.\nEquip {4}",ROE
+Keening Stone,,Jung Park,219,Artifact,"{5}, {T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in that player's graveyard.",ROE
+Ogre's Cleaver,,Adi Granov,220,Artifact — Equipment,Equipped creature gets +5/+0.\nEquip {5},ROE
+Pennon Blade,,Alex Horley-Orlandelli,221,Artifact — Equipment,Equipped creature gets +1/+1 for each creature you control.\nEquip {4},ROE
+Prophetic Prism,,John Avon,222,Artifact,"When Prophetic Prism enters the battlefield, draw a card.\n{1}, {T}: Add one mana of any color to your mana pool.","ROE,CMD,GTC"
+Reinforced Bulwark,,Ryan Pancoast,223,Artifact Creature — Wall,Defender\n{T}: Prevent the next 1 damage that would be dealt to you this turn.,ROE
+Runed Servitor,,Mike Bierek,224,Artifact Creature — Construct,"When Runed Servitor dies, each player draws a card.","ROE,DDF,CNS,MM2,ORI,DDP"
+Sphinx-Bone Wand,,Franz Vohwinkel,225,Artifact,"Whenever you cast an instant or sorcery spell, you may put a charge counter on Sphinx-Bone Wand. If you do, Sphinx-Bone Wand deals damage equal to the number of charge counters on it to target creature or player.","ROE,DDJ"
+Warmonger's Chariot,,Warren Mahy,226,Artifact — Equipment,"Equipped creature gets +2/+2.\nAs long as equipped creature has defender, it can attack as though it didn't have defender.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)","ROE,CNS"
+Eldrazi Temple,,James Paick,227,Land,{T}: Add {1} to your mana pool.\n{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.,"ROE,MM2,DDP"
+Evolving Wilds,,Steven Belledin,228,Land,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","pMEI,pFNM,ROE,CMD,DDH,DKA,M13,DDK,C13,M15,DDN,C14,DDO,DTK,MM2,ORI,DDP,BFZ,C15"
+Plains,,John Avon,229,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,John Avon,230,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,John Avon,231,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,John Avon,232,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Vincent Proce,233,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Vincent Proce,234,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Vincent Proce,235,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Vincent Proce,236,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Véronique Meignaud,237,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Véronique Meignaud,238,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Véronique Meignaud,239,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Véronique Meignaud,240,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,241,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,242,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,243,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,244,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jung Park,245,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jung Park,246,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jung Park,247,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jung Park,248,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

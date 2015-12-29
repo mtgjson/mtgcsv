@@ -1,0 +1,20 @@
+name,cost,artist,number,type,text,printings
+"Cao Cao, Lord of Wei",,Gao Jianzhang,1,Legendary Creature — Human Soldier,"{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.","PTK,V11"
+Captain Sisay,,Ray Lago,2,Legendary Creature — Human Soldier,"{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.","INV,V11"
+"Doran, the Siege Tower",,Mark Zug,3,Legendary Creature — Treefolk Shaman,Each creature assigns combat damage equal to its toughness rather than its power.,"pCMP,LRW,V11"
+"Kiki-Jiki, Mirror Breaker",,Steven Belledin,4,Legendary Creature — Goblin Shaman,Haste\n{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.,"CHK,V11,MMA,MM2"
+Kresh the Bloodbraided,,Steve Argyle,5,Legendary Creature — Human Warrior,"Whenever another creature dies, you may put X +1/+1 counters on Kresh the Bloodbraided, where X is that creature's power.","ALA,V11"
+"Mikaeus, the Lunarch",,Steven Belledin,6,Legendary Creature — Human Cleric,"Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.\n{T}: Put a +1/+1 counter on Mikaeus.
+{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.","V11,ISD"
+"Omnath, Locus of Mana",,Mike Bierek,7,Legendary Creature — Elemental,"Green mana doesn't empty from your mana pool as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.","WWK,V11"
+"Oona, Queen of the Fae",,Adam Rex,8,Legendary Creature — Faerie Wizard,"Flying\n{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.","SHM,V11,MMA"
+Progenitus,,Mike Bierek,9,Legendary Creature — Hydra Avatar,"Protection from everything\nIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","CON,V11,MMA"
+Rafiq of the Many,,Wayne Reynolds,10,Legendary Creature — Human Knight,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, it gains double strike until end of turn.","ALA,V11"
+Sharuum the Hegemon,,Todd Lockwood,11,Legendary Artifact Creature — Sphinx,"Flying\nWhen Sharuum the Hegemon enters the battlefield, you may return target artifact card from your graveyard to the battlefield.","ALA,V11,C13"
+"Sun Quan, Lord of Wu",,Xu Xiaoming,12,Legendary Creature — Human Soldier,Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.),"PTK,ME3,V11"
+"Teferi, Mage of Zhalfir",,Volkan Baga,13,Legendary Creature — Human Wizard,Flash (You may cast this spell any time you could cast an instant.)\nCreature cards you own that aren't on the battlefield have flash.
+Each opponent can cast spells only any time he or she could cast a sorcery.,"TSP,V11"
+"Ulamog, the Infinite Gyre",,Aleksi Briclot,14,Legendary Creature — Eldrazi,"When you cast Ulamog, the Infinite Gyre, destroy target permanent.\nIndestructible
+Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)
+When Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.","ROE,V11,MM2"
+Visara the Dreadful,,Brad Rigney,15,Legendary Creature — Gorgon,Flying\n{T}: Destroy target creature. It can't be regenerated.,"ONS,V11,VMA"

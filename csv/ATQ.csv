@@ -1,0 +1,116 @@
+name,cost,artist,number,type,text,printings
+Amulet of Kroog,,Margaret Organ-Kean,,Artifact,"{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.","ATQ,4ED,5ED,ME4"
+Argivian Archaeologist,,Amy Weber,,Creature — Human Artificer,"{W}{W}, {T}: Return target artifact card from your graveyard to your hand.","ATQ,MED"
+Argivian Blacksmith,,Kerstin Kaman,,Creature — Human Artificer,{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.,"ATQ,ME4"
+Argothian Pixies,,Amy Weber,,Creature — Faerie,Argothian Pixies can't be blocked by artifact creatures.\nPrevent all damage that would be dealt to Argothian Pixies by artifact creatures.,"ATQ,CHR,ME4"
+Argothian Treefolk,,Amy Weber,,Creature — Treefolk,Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.,"ATQ,ME4"
+Armageddon Clock,,Amy Weber,,Artifact,"At the beginning of your upkeep, put a doom counter on Armageddon Clock.\nAt the beginning of your draw step, Armageddon Clock deals damage equal to the number of doom counters on it to each player.
+{4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.","ATQ,3ED,4ED,ME4"
+Artifact Blast,,Mark Poole,,Instant,Counter target artifact spell.,"ATQ,MED,ME4"
+Artifact Possession,,Christopher Rush,,Enchantment — Aura,"Enchant artifact\nWhenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.",ATQ
+Artifact Ward,,Douglas Shuler,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by artifact creatures.
+Prevent all damage that would be dealt to enchanted creature by artifact sources.
+Enchanted creature can't be the target of abilities from artifact sources.,ATQ
+Ashnod's Altar,,Anson Maddocks,,Artifact,Sacrifice a creature: Add {2} to your mana pool.,"ATQ,CHR,5ED,6ED,ME4"
+Ashnod's Battle Gear,,Mark Poole,,Artifact,"You may choose not to untap Ashnod's Battle Gear during your untap step.\n{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.","ATQ,4ED"
+Ashnod's Transmogrant,,Mark Tedin,,Artifact,"{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.","ATQ,CHR,5ED,MED"
+Atog,,Jesper Myrfors,,Creature — Atog,Sacrifice an artifact: Atog gets +2/+2 until end of turn.,"ATQ,3ED,5ED,MRD,ME4"
+Battering Ram,,Jeff A. Menges,,Artifact Creature — Construct,"At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)\nWhenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.","ATQ,4ED,RQS,ITP,5ED"
+Bronze Tablet,,Tom Wänerstrand,,Artifact,"Remove Bronze Tablet from your deck before playing if you're not playing for ante.\nBronze Tablet enters the battlefield tapped.
+{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If he or she does, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.","ATQ,4ED"
+Candelabra of Tawnos,,Douglas Shuler,,Artifact,"{X}, {T}: Untap X target lands.","ATQ,ME4"
+Circle of Protection: Artifacts,,Pete Venters,,Enchantment,"{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.","ATQ,4ED,5ED,5DN"
+Citanul Druid,,Jeff A. Menges,,Creature — Human Druid,"Whenever an opponent casts an artifact spell, put a +1/+1 counter on Citanul Druid.","ATQ,ME4"
+Clay Statue,,Jesper Myrfors,,Artifact Creature — Golem,{2}: Regenerate Clay Statue.,"ATQ,4ED,5ED,ME4"
+Clockwork Avian,,Randy Asplund-Faith,,Artifact Creature — Bird,"Flying\nClockwork Avian enters the battlefield with four +1/+0 counters on it.
+At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.","ATQ,4ED,BTD,ME4"
+Colossus of Sardia,,Jesper Myrfors,,Artifact Creature — Golem,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)\nColossus of Sardia doesn't untap during your untap step.
+{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.","ATQ,4ED,5ED,10E,ME4"
+Coral Helm,,Amy Weber,,Artifact,"{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.","ATQ,4ED,5ED,ME4"
+Crumble,,Jesper Myrfors,,Instant,Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.,"ATQ,3ED,4ED,5ED,ME4"
+Cursed Rack,,Richard Thomas,,Artifact,"As Cursed Rack enters the battlefield, choose an opponent.\nThe chosen player's maximum hand size is four.","ATQ,4ED,MED"
+Damping Field,,Justin Hampton,,Enchantment,Players can't untap more than one artifact during their untap steps.,ATQ
+Detonate,,Randy Asplund-Faith,,Sorcery,Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.,"ATQ,4ED,RQS,ITP,5ED,MRD,ME4"
+Drafna's Restoration,,Amy Weber,,Sorcery,Return any number of target artifact cards from target player's graveyard to the top of his or her library in any order.,ATQ
+Dragon Engine,,Anson Maddocks,,Artifact Creature — Construct,{2}: Dragon Engine gets +1/+0 until end of turn.,"ATQ,3ED,4ED,5ED,6ED,MED,ME4"
+Dwarven Weaponsmith,,Mark Poole,,Creature — Dwarf Artificer,"{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.","ATQ,3ED"
+Energy Flux,,Kaja Foglio,,Enchantment,"All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."","ATQ,3ED,4ED,RQS,ITP,5ED,MMQ,ME4"
+Feldon's Cane,,Mark Tedin,,Artifact,"{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.","ATQ,CHR,5ED,TSB"
+Gaea's Avenger,,Pete Venters,,Creature — Treefolk,Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.,"ATQ,ME4"
+Gate to Phyrexia,,Sandra Everingham,,Enchantment,Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.,"ATQ,ME4"
+Goblin Artisans,,Julie Baroh,,Creature — Goblin Artificer,"{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.","ATQ,CHR"
+Golgothian Sylex,,Kerstin Kaman,,Artifact,"{1}, {T}: Each nontoken permanent originally printed in the Antiquities expansion is sacrificed by its controller.",ATQ
+Grapeshot Catapult,,Dan Frazier,,Artifact Creature — Construct,{T}: Grapeshot Catapult deals 1 damage to target creature with flying.,"ATQ,4ED,5ED,7ED,ME4"
+Haunting Wind,,Jeff A. Menges,,Enchantment,"Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.",ATQ
+Hurkyl's Recall,,NéNé Thomas,,Instant,Return all artifacts target player owns to his or her hand.,"ATQ,3ED,4ED,5ED,10E,MM2"
+Ivory Tower,,Margaret Organ-Kean,,Artifact,"At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.","ATQ,3ED,4ED,MED,V10,VMA"
+Jalum Tome,,Tom Wänerstrand,,Artifact,"{2}, {T}: Draw a card, then discard a card.","ATQ,CHR,5ED,ATH,6ED,7ED,C14"
+Martyrs of Korlis,,Margaret Organ-Kean,,Creature — Human,"As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.","ATQ,ME4"
+Mightstone,,Pete Venters,,Artifact,Attacking creatures get +1/+0.,"ATQ,ME4"
+Millstone,,Kaja Foglio,,Artifact,"{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.","ATQ,3ED,4ED,5ED,6ED,7ED,8ED,9ED,10E,M14"
+Mishra's Factory,,Kaja & Phil Foglio,,Land,{T}: Add {1} to your mana pool.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.,"ATQ,4ED,pJGP,MED,DDF"
+Mishra's Factory,,Kaja & Phil Foglio,,Land,{T}: Add {1} to your mana pool.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.,"ATQ,4ED,pJGP,MED,DDF"
+Mishra's Factory,,Kaja & Phil Foglio,,Land,{T}: Add {1} to your mana pool.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.,"ATQ,4ED,pJGP,MED,DDF"
+Mishra's Factory,,Kaja & Phil Foglio,,Land,{T}: Add {1} to your mana pool.\n{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.,"ATQ,4ED,pJGP,MED,DDF"
+Mishra's War Machine,,Amy Weber,,Artifact Creature — Juggernaut,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nAt the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unless you discard a card. If Mishra's War Machine deals damage to you this way, tap it.","ATQ,3ED,4ED"
+Mishra's Workshop,,Kaja Foglio,,Land,{T}: Add {3} to your mana pool. Spend this mana only to cast artifact spells.,"ATQ,ME4,VMA"
+Obelisk of Undoing,,Tom Wänerstrand,,Artifact,"{6}, {T}: Return target permanent you both own and control to your hand.","ATQ,CHR,5ED,ME4"
+Onulet,,Anson Maddocks,,Artifact Creature — Construct,"When Onulet dies, you gain 2 life.","ATQ,3ED,4ED,MED,ME4"
+Orcish Mechanics,,Pete Venters,,Creature — Orc,"{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.","ATQ,MED,ME4"
+Ornithopter,,Amy Weber,,Artifact Creature — Thopter,Flying (This creature can't be blocked except by creatures with flying or reach.),"ATQ,3ED,4ED,5ED,6ED,MRD,9ED,10E,M10,M11,M15"
+Phyrexian Gremlins,,Amy Weber,,Creature — Gremlin,You may choose not to untap Phyrexian Gremlins during your untap step.\n{T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Phyrexian Gremlins remains tapped.,ATQ
+Power Artifact,,Douglas Shuler,,Enchantment — Aura,Enchant artifact\nEnchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.,"ATQ,ME4"
+Powerleech,,Christopher Rush,,Enchantment,"Whenever an artifact an opponent controls becomes tapped or an opponent activates an artifact's ability without {T} in its activation cost, you gain 1 life.",ATQ
+Priest of Yawgmoth,,Mark Tedin,,Creature — Human Cleric,"{T}, Sacrifice an artifact: Add to your mana pool an amount of {B} equal to the sacrificed artifact's converted mana cost.",ATQ
+Primal Clay,,Kaja Foglio,,Artifact Creature — Shapeshifter,"As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can't attack.)","ATQ,3ED,4ED,5ED,6ED,ME4,M13"
+Rakalite,,Christopher Rush,,Artifact,{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.,"ATQ,CHR,ME4"
+Reconstruction,,Anson Maddocks,,Sorcery,Return target artifact card from your graveyard to your hand.,"ATQ,3ED,ME4"
+Reverse Polarity,,Justin Hampton,,Instant,"You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.","ATQ,3ED"
+Rocket Launcher,,Pete Venters,,Artifact,{2}: Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.,"ATQ,3ED"
+Sage of Lat-Nam,,Pete Venters,,Creature — Human Artificer,"{T}, Sacrifice an artifact: Draw a card.","ATQ,8ED"
+Shapeshifter,,Dan Frazier,,Artifact Creature — Shapeshifter,"As Shapeshifter enters the battlefield, choose a number between 0 and 7.\nAt the beginning of your upkeep, you may choose a number between 0 and 7.
+Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.","ATQ,4ED,5ED,ME4"
+Shatterstorm,,Mark Poole,,Sorcery,Destroy all artifacts. They can't be regenerated.,"ATQ,3ED,5ED,6ED,10E"
+Staff of Zegon,,Mark Poole,,Artifact,"{3}, {T}: Target creature gets -2/-0 until end of turn.","ATQ,ME4"
+Strip Mine,,Daniel Gelon,,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.","ATQ,4ED,ATH,V09,ME4,VMA"
+Strip Mine,,Daniel Gelon,,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.","ATQ,4ED,ATH,V09,ME4,VMA"
+Strip Mine,,Daniel Gelon,,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.","ATQ,4ED,ATH,V09,ME4,VMA"
+Strip Mine,,Daniel Gelon,,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Strip Mine: Destroy target land.","ATQ,4ED,ATH,V09,ME4,VMA"
+Su-Chi,,Christopher Rush,,Artifact Creature — Construct,"When Su-Chi dies, add {4} to your mana pool.","ATQ,MED,VMA"
+Tablet of Epityr,,Christopher Rush,,Artifact,"Whenever an artifact you control is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.","ATQ,ME4"
+Tawnos's Coffin,,Christopher Rush,,Artifact,"You may choose not to untap Tawnos's Coffin during your untap step.\n{3}, {T}: Exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves the battlefield or becomes untapped, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.","ATQ,MED"
+Tawnos's Wand,,Douglas Shuler,,Artifact,"{2}, {T}: Target creature with power 2 or less can't be blocked this turn.","ATQ,4ED,ME4"
+Tawnos's Weaponry,,Dan Frazier,,Artifact,"You may choose not to untap Tawnos's Weaponry during your untap step.\n{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.","ATQ,4ED,5ED,ME4"
+Tetravus,,Mark Tedin,,Artifact Creature — Construct,"Flying\nTetravus enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, put that many 1/1 colorless Tetravite artifact creature tokens onto the battlefield. They each have flying and "This creature can't be enchanted."
+At the beginning of your upkeep, you may exile any number of tokens put onto the battlefield with Tetravus. If you do, put that many +1/+1 counters on Tetravus.","ATQ,4ED,ME4"
+The Rack,,Richard Thomas,,Artifact,"As The Rack enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.","ATQ,3ED,4ED,TSB,DPA"
+Titania's Song,,Kerstin Kaman,,Enchantment,"Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.","ATQ,3ED,4ED,5ED,ME4"
+Transmute Artifact,,Anson Maddocks,,Sorcery,"Sacrifice an artifact. If you do, search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay {X}, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library.","ATQ,ME4"
+Triskelion,,Douglas Shuler,,Artifact Creature — Construct,Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.,"ATQ,4ED,MRD,M11,DDF"
+Urza's Avenger,,Amy Weber,,Artifact Creature — Shapeshifter,"{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","ATQ,4ED,5ED"
+Urza's Chalice,,Jeff A. Menges,,Artifact,"Whenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.","ATQ,MED,ME4"
+Urza's Mine,,Anson Maddocks,,Land — Urza’s Mine,"{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Mine,,Anson Maddocks,,Land — Urza’s Mine,"{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Mine,,Anson Maddocks,,Land — Urza’s Mine,"{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Mine,,Anson Maddocks,,Land — Urza’s Mine,"{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Miter,,Randy Asplund-Faith,,Artifact,"Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.","ATQ,ME4"
+Urza's Power Plant,,Mark Tedin,,Land — Urza’s Power-Plant,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Power Plant,,Mark Tedin,,Land — Urza’s Power-Plant,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Power Plant,,Mark Tedin,,Land — Urza’s Power-Plant,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Power Plant,,Mark Tedin,,Land — Urza’s Power-Plant,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Tower,,Mark Poole,,Land — Urza’s Tower,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Tower,,Mark Poole,,Land — Urza’s Tower,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Tower,,Mark Poole,,Land — Urza’s Tower,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Urza's Tower,,Mark Poole,,Land — Urza’s Tower,"{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.","ATQ,CHR,5ED,8ED,9ED,ME4"
+Wall of Spears,,Sandra Everingham,,Artifact Creature — Wall,Defender (This creature can't attack.)\nFirst strike,"ATQ,4ED,5ED,7ED,8ED,DPA"
+Weakstone,,Justin Hampton,,Artifact,Attacking creatures get -1/-0.,"ATQ,ME4"
+Xenic Poltergeist,,Dan Frazier,,Creature — Spirit,"{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.","ATQ,4ED,5ED,ME4"
+Yawgmoth Demon,,Sandra Everingham,,Creature — Demon,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.","ATQ,CHR,9ED"
+Yotian Soldier,,Christopher Rush,,Artifact Creature — Soldier,Vigilance,"ATQ,4ED,MRD,ME4"

@@ -1,0 +1,278 @@
+name,cost,artist,number,type,text,printings
+Abuna Acolyte,,Igor Kieryluk,1,Creature — Cat Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\n{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.,SOM
+Arrest,,Daarken,2,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.","pMEI,MMQ,MRD,SOM,RTR,MM2"
+Auriok Edgewright,,Mike Bierek,3,Creature — Human Soldier,Metalcraft — Auriok Edgewright has double strike as long as you control three or more artifacts.,SOM
+Auriok Sunchaser,,James Ryman,4,Creature — Human Soldier,"Metalcraft — As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.",SOM
+Dispense Justice,,Austin Hsu,5,Instant,Target player sacrifices an attacking creature.\nMetalcraft — That player sacrifices two attacking creatures instead if you control three or more artifacts.,SOM
+Elspeth Tirel,,Michael Komarck,6,Planeswalker — Elspeth,+2: You gain 1 life for each creature you control.\n−2: Put three 1/1 white Soldier creature tokens onto the battlefield.
+−5: Destroy all other permanents except for lands and tokens.,SOM
+Fulgent Distraction,,Nic Klein,7,Instant,"Choose two target creatures. Tap those creatures, then unattach all Equipment from them.",SOM
+Ghalma's Warden,,Mike Bierek,8,Creature — Elephant Soldier,Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.,SOM
+Glimmerpoint Stag,,Ryan Pancoast,9,Creature — Elk,"Vigilance\nWhen Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.","SOM,CNS"
+Glint Hawk,,Dave Allsop,10,Creature — Bird,"Flying\nWhen Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.",SOM
+Indomitable Archangel,,Allen Williams,11,Creature — Angel,Flying\nMetalcraft — Artifacts you control have shroud as long as you control three or more artifacts. (An artifact with shroud can't be the target of spells or abilities.),"SOM,MM2"
+"Kemba, Kha Regent",,Todd Lockwood,12,Legendary Creature — Cat Cleric,"At the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.","SOM,C14"
+Kemba's Skyguard,,Whit Brachna,13,Creature — Cat Knight,"Flying\nWhen Kemba's Skyguard enters the battlefield, you gain 2 life.","DDF,SOM"
+Leonin Arbiter,,Shelly Wan,14,Creature — Cat Cleric,Players can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.,SOM
+Loxodon Wayfarer,,Steven Belledin,15,Creature — Elephant Monk,,SOM
+Myrsmith,,Eric Deschamps,16,Creature — Human Artificer,"Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.","SOM,MM2"
+Razor Hippogriff,,David Rapoza,17,Creature — Hippogriff,"Flying\nWhen Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.","SOM,C13"
+Revoke Existence,,Allen Williams,18,Sorcery,Exile target artifact or enchantment.,"SOM,DDI,BNG"
+Salvage Scout,,Randis Albion,19,Creature — Human Scout,"{W}, Sacrifice Salvage Scout: Return target artifact card from your graveyard to your hand.",SOM
+Seize the Initiative,,Steve Argyle,20,Instant,Target creature gets +1/+1 and gains first strike until end of turn.,SOM
+Soul Parry,,Igor Kieryluk,21,Instant,Prevent all damage one or two target creatures would deal this turn.,"SOM,DDO"
+Sunblast Angel,,Jason Chan,22,Creature — Angel,"Flying\nWhen Sunblast Angel enters the battlefield, destroy all tapped creatures.","pMEI,SOM,DDI,C14"
+Sunspear Shikari,,Allen Williams,23,Creature — Cat Soldier,"As long as Sunspear Shikari is equipped, it has first strike and lifelink.","SOM,MM2"
+Tempered Steel,,Wayne Reynolds,24,Enchantment,Artifact creatures you control get +2/+2.,"pMGD,SOM"
+True Conviction,,Svetlin Velinov,25,Enchantment,Creatures you control have double strike and lifelink.,"SOM,C14"
+Vigil for the Lost,,Igor Kieryluk,26,Enchantment,"Whenever a creature you control dies, you may pay {X}. If you do, you gain X life.",SOM
+Whitesun's Passage,,John Avon,27,Instant,You gain 5 life.,SOM
+Argent Sphinx,,Chris Rahn,28,Creature — Sphinx,Flying\nMetalcraft — {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.,"SOM,MM2"
+Bonds of Quicksilver,,Steven Belledin,29,Enchantment — Aura,Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature
+Enchanted creature doesn't untap during its controller's untap step.,SOM
+Darkslick Drake,,Chippy,30,Creature — Drake,"Flying\nWhen Darkslick Drake dies, draw a card.",SOM
+Disperse,,Adrian Smith,31,Instant,Return target nonland permanent to its owner's hand.,"MOR,SOM,M14,ORI"
+Dissipation Field,,Matt Cavotta,32,Enchantment,"Whenever a permanent deals damage to you, return it to its owner's hand.",SOM
+Grand Architect,,Steven Belledin,33,Creature — Vedalken Artificer,Other blue creatures you control get +1/+1.\n{U}: Target artifact creature becomes blue until end of turn.
+Tap an untapped blue creature you control: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.,SOM
+Halt Order,,Izzy,34,Instant,Counter target artifact spell.\nDraw a card.,SOM
+Inexorable Tide,,Dave Kendall,35,Enchantment,"Whenever you cast a spell, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","SOM,MM2"
+Lumengrid Drake,,Johann Bodin,36,Creature — Drake,"Flying\nMetalcraft — When Lumengrid Drake enters the battlefield, if you control three or more artifacts, return target creature to its owner's hand.",SOM
+Neurok Invisimancer,,Izzy,37,Creature — Human Wizard,"Neurok Invisimancer can't be blocked.\nWhen Neurok Invisimancer enters the battlefield, target creature can't be blocked this turn.","SOM,DDI"
+Plated Seastrider,,Izzy,38,Creature — Beast,,"SOM,CNS"
+Quicksilver Gargantuan,,Steven Belledin,39,Creature — Shapeshifter,"You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.",SOM
+Riddlesmith,,Eric Deschamps,40,Creature — Human Artificer,"Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.",SOM
+Scrapdiver Serpent,,Adrian Smith,41,Creature — Serpent,Scrapdiver Serpent can't be blocked as long as defending player controls an artifact.,SOM
+Screeching Silcaw,,Mike Bierek,42,Creature — Bird,"Flying\nMetalcraft — Whenever Screeching Silcaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.",SOM
+Shape Anew,,Zoltan Boros & Gabor Szikszai,43,Sorcery,"The controller of target artifact sacrifices it, then reveals cards from the top of his or her library until he or she reveals an artifact card. That player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.",SOM
+Sky-Eel School,,Daniel Ljunggren,44,Creature — Fish,"Flying\nWhen Sky-Eel School enters the battlefield, draw a card, then discard a card.",SOM
+Steady Progress,,Efrem Palacios,45,Instant,"Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)\nDraw a card.","SOM,MM2"
+Stoic Rebuttal,,Chris Rahn,46,Instant,Metalcraft — Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.\nCounter target spell.,"SOM,MM2"
+Thrummingbird,,Efrem Palacios,47,Creature — Bird Horror,"Flying\nWhenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","SOM,MM2"
+Trinket Mage,,Scott Chou,48,Creature — Human Wizard,"When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.","5DN,DDF,SOM"
+Turn Aside,,Shelly Wan,49,Instant,Counter target spell that targets a permanent you control.,SOM
+Twisted Image,,Izzy,50,Instant,Switch target creature's power and toughness until end of turn.\nDraw a card.,SOM
+Vault Skyward,,Dan Scott,51,Instant,Target creature gains flying until end of turn. Untap it.,SOM
+Vedalken Certarch,,Karl Kopinski,52,Creature — Vedalken Wizard,"Metalcraft — {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.",SOM
+Volition Reins,,Svetlin Velinov,53,Enchantment — Aura,"Enchant permanent\nWhen Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it.
+You control enchanted permanent.",SOM
+Blackcleave Goblin,,Nils Hamm,54,Creature — Goblin Zombie,Haste\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Bleak Coven Vampires,,Randis Albion,55,Creature — Vampire Warrior,"Metalcraft — When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.",SOM
+Blistergrub,,Daarken,56,Creature — Horror,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhen Blistergrub dies, each opponent loses 2 life.",SOM
+Carnifex Demon,,Aleksi Briclot,57,Creature — Demon,"Flying\nCarnifex Demon enters the battlefield with two -1/-1 counters on it.
+{B}, Remove a -1/-1 counter from Carnifex Demon: Put a -1/-1 counter on each other creature.",SOM
+Contagious Nim,,Efrem Palacios,58,Creature — Zombie,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Corrupted Harvester,,Nils Hamm,59,Creature — Horror,"{B}, Sacrifice a creature: Regenerate Corrupted Harvester.",SOM
+Dross Hopper,,Dave Allsop,60,Creature — Insect Horror,Sacrifice a creature: Dross Hopper gains flying until end of turn.,SOM
+Exsanguinate,,Carl Critchlow,61,Sorcery,Each opponent loses X life. You gain life equal to the life lost this way.,SOM
+Flesh Allergy,,Vance Kovacs,62,Sorcery,"As an additional cost to cast Flesh Allergy, sacrifice a creature.\nDestroy target creature. Its controller loses life equal to the number of creatures that died this turn.",SOM
+Fume Spitter,,Nils Hamm,63,Creature — Horror,Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.,SOM
+"Geth, Lord of the Vault",,Whit Brachna,64,Legendary Creature — Zombie,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\n{X}{B}: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player puts the top X cards of his or her library into his or her graveyard.,SOM
+Grasp of Darkness,,Johann Bodin,65,Instant,Target creature gets -4/-4 until end of turn.,SOM
+Hand of the Praetors,,Izzy,66,Creature — Zombie,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nOther creatures you control with infect get +1/+1.
+Whenever you cast a creature spell with infect, target player gets a poison counter.",SOM
+Ichor Rats,,Matt Stewart,67,Creature — Rat,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Ichor Rats enters the battlefield, each player gets a poison counter.",SOM
+Instill Infection,,Chris Rahn,68,Instant,Put a -1/-1 counter on target creature.\nDraw a card.,"SOM,MM2"
+Memoricide,,James Ryman,69,Sorcery,"Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.","pMEI,SOM"
+Moriok Reaver,,Marc Simonetti,70,Creature — Human Warrior,,SOM
+Necrogen Scudder,,Raymond Swanland,71,Creature — Horror,"Flying\nWhen Necrogen Scudder enters the battlefield, you lose 3 life.","SOM,M15"
+Necrotic Ooze,,James Ryman,72,Creature — Ooze,"As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.",SOM
+Painful Quandary,,Whit Brachna,73,Enchantment,"Whenever an opponent casts a spell, that player loses 5 life unless he or she discards a card.",SOM
+Painsmith,,Eric Deschamps,74,Creature — Human Artificer,"Whenever you cast an artifact spell, you may have target creature get +2/+0 and gain deathtouch until end of turn.",SOM
+Plague Stinger,,Ryan Pancoast,75,Creature — Insect Horror,Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),"pWPN,SOM"
+Psychic Miasma,,Svetlin Velinov,76,Sorcery,"Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.",SOM
+Relic Putrescence,,Allen Williams,77,Enchantment — Aura,"Enchant artifact\nWhenever enchanted artifact becomes tapped, its controller gets a poison counter.",SOM
+Skinrender,,David Rapoza,78,Creature — Zombie,"When Skinrender enters the battlefield, put three -1/-1 counters on target creature.","pWPN,SOM"
+"Skithiryx, the Blight Dragon",,Chippy,79,Legendary Creature — Dragon Skeleton,"Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{B}: Skithiryx, the Blight Dragon gains haste until end of turn.
+{B}{B}: Regenerate Skithiryx.",SOM
+Tainted Strike,,James Ryman,80,Instant,Target creature gets +1/+0 and gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Arc Trail,,Marc Simonetti,81,Sorcery,Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.,"SOM,PC2,DDN"
+Assault Strobe,,Kev Walker,82,Sorcery,Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.),SOM
+Barrage Ogre,,David Rapoza,83,Creature — Ogre Warrior,"{T}, Sacrifice an artifact: Barrage Ogre deals 2 damage to target creature or player.",SOM
+Blade-Tribe Berserkers,,Kev Walker,84,Creature — Human Berserker,"Metalcraft — When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.",SOM
+Bloodshot Trainee,,Matt Stewart,85,Creature — Goblin Warrior,{T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.,"FUT,SOM,MM2"
+Cerebral Eruption,,Kev Walker,86,Sorcery,"Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.",SOM
+Embersmith,,Eric Deschamps,87,Creature — Human Artificer,"Whenever you cast an artifact spell, you may pay {1}. If you do, Embersmith deals 1 damage to target creature or player.",SOM
+Ferrovore,,Austin Hsu,88,Creature — Beast,"{R}, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.",SOM
+Flameborn Hellion,,Aleksi Briclot,89,Creature — Hellion,Haste\nFlameborn Hellion attacks each turn if able.,SOM
+Furnace Celebration,,Svetlin Velinov,90,Enchantment,"Whenever you sacrifice another permanent, you may pay {2}. If you do, Furnace Celebration deals 2 damage to target creature or player.","SOM,C13"
+Galvanic Blast,,Marc Simonetti,91,Instant,Galvanic Blast deals 2 damage to target creature or player.\nMetalcraft — Galvanic Blast deals 4 damage to that creature or player instead if you control three or more artifacts.,SOM
+Goblin Gaveleer,,Svetlin Velinov,92,Creature — Goblin Warrior,Trample\nGoblin Gaveleer gets +2/+0 for each Equipment attached to it.,SOM
+Hoard-Smelter Dragon,,Eric Deschamps,93,Creature — Dragon,"Flying\n{3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.","SOM,C14"
+Koth of the Hammer,,Jason Chan,94,Planeswalker — Koth,+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.\n−2: Add {R} to your mana pool for each Mountain you control.
+−5: You get an emblem with "Mountains you control have ‘{T}: This land deals 1 damage to target creature or player.'","SOM,DDI"
+Kuldotha Phoenix,,Mike Bierek,95,Creature — Phoenix,"Flying, haste\nMetalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.",SOM
+Kuldotha Rebirth,,Goran Josic,96,Sorcery,"As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.\nPut three 1/1 red Goblin creature tokens onto the battlefield.",SOM
+Melt Terrain,,John Avon,97,Sorcery,Destroy target land. Melt Terrain deals 2 damage to that land's controller.,SOM
+Molten Psyche,,Ryan Yee,98,Sorcery,"Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.\nMetalcraft — If you control three or more artifacts, Molten Psyche deals damage to each opponent equal to the number of cards that player has drawn this turn.",SOM
+Ogre Geargrabber,,David Rapoza,99,Creature — Ogre Warrior,"Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.",SOM
+Oxidda Daredevil,,Pete Venters,100,Creature — Goblin Artificer,Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.,SOM
+Oxidda Scrapmelter,,Igor Kieryluk,101,Creature — Beast,"When Oxidda Scrapmelter enters the battlefield, destroy target artifact.",SOM
+Scoria Elemental,,Karl Kopinski,102,Creature — Elemental,,SOM
+Shatter,,jD,103,Instant,Destroy target artifact.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,DKM,8ED,MRD,9ED,M10,SOM,KTK,TPR"
+Spikeshot Elder,,Izzy,104,Creature — Goblin Shaman,{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.,"SOM,MM2"
+Tunnel Ignus,,Scott Chou,105,Creature — Elemental,"Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under his or her control this turn, Tunnel Ignus deals 3 damage to that player.",SOM
+Turn to Slag,,Zoltan Boros & Gabor Szikszai,106,Sorcery,Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.,"SOM,M13"
+Vulshok Heartstoker,,Shelly Wan,107,Creature — Human Shaman,"When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.",SOM
+Acid Web Spider,,Austin Hsu,108,Creature — Spider,"Reach\nWhen Acid Web Spider enters the battlefield, you may destroy target Equipment.",SOM
+Alpha Tyrranax,,Dave Kendall,109,Creature — Beast,,SOM
+Asceticism,,Daarken,110,Enchantment,Creatures you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)\n{1}{G}: Regenerate target creature.,SOM
+Bellowing Tanglewurm,,jD,111,Creature — Wurm,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nOther green creatures you control have intimidate.,SOM
+Blight Mamba,,Drew Baker,112,Creature — Snake,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{1}{G}: Regenerate Blight Mamba.,SOM
+Blunt the Assault,,Matt Stewart,113,Instant,You gain 1 life for each creature on the battlefield. Prevent all combat damage that would be dealt this turn.,SOM
+Carapace Forger,,Matt Cavotta,114,Creature — Elf Artificer,Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more artifacts.,SOM
+Carrion Call,,Adrian Smith,115,Instant,Put two 1/1 green Insect creature tokens with infect onto the battlefield. (They deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Copperhorn Scout,,Shelly Wan,116,Creature — Elf Scout,"Whenever Copperhorn Scout attacks, untap each other creature you control.","SOM,CNS"
+Cystbearer,,Kev Walker,117,Creature — Beast,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Engulfing Slagwurm,,Jaime Jones,118,Creature — Wurm,"Whenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy that creature. You gain life equal to that creature's toughness.",SOM
+"Ezuri, Renegade Leader",,Karl Kopinski,119,Legendary Creature — Elf Warrior,{G}: Regenerate another target Elf.\n{2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.,"SOM,C14"
+Ezuri's Archers,,Shelly Wan,120,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)\nWhenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.",SOM
+Ezuri's Brigade,,Nic Klein,121,Creature — Elf Warrior,"Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.",SOM
+Genesis Wave,,James Paick,122,Sorcery,Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.,SOM
+Liege of the Tangle,,Jason Chan,123,Creature — Elemental,"Trample\nWhenever Liege of the Tangle deals combat damage to a player, you may choose any number of target lands you control and put an awakening counter on each of them. Each of those lands is an 8/8 green Elemental creature for as long as it has an awakening counter on it. They're still lands.",SOM
+Lifesmith,,Eric Deschamps,124,Creature — Human Artificer,"Whenever you cast an artifact spell, you may pay {1}. If you do, you gain 3 life.",SOM
+Molder Beast,,Randis Albion,125,Creature — Beast,"Trample\nWhenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.",SOM
+Putrefax,,Steven Belledin,126,Creature — Horror,"Trample, haste\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+At the beginning of the end step, sacrifice Putrefax.",SOM
+Slice in Twain,,Efrem Palacios,127,Instant,Destroy target artifact or enchantment.\nDraw a card.,"SOM,C13"
+Tangle Angler,,Igor Kieryluk,128,Creature — Horror,Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{G}: Target creature blocks Tangle Angler this turn if able.,SOM
+Tel-Jilad Defiance,,Goran Josic,129,Instant,Target creature gains protection from artifacts until end of turn.\nDraw a card.,SOM
+Tel-Jilad Fallen,,James Ryman,130,Creature — Elf Warrior,Protection from artifacts\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Untamed Might,,Erica Yang,131,Instant,Target creature gets +X/+X until end of turn.,SOM
+Viridian Revel,,rk post,132,Enchantment,"Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card.",SOM
+Wing Puncture,,jD,133,Instant,Target creature you control deals damage equal to its power to target creature with flying.,SOM
+Withstand Death,,Tomasz Jedruszek,134,Instant,"Target creature gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)",SOM
+"Venser, the Sojourner",,Eric Deschamps,135,Planeswalker — Venser,"+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.\n−1: Creatures can't be blocked this turn.
+−8: You get an emblem with "Whenever you cast a spell, exile target permanent."","SOM,DDI"
+Accorder's Shield,,Alan Pollack,136,Artifact — Equipment,Equipped creature gets +0/+3 and has vigilance. (Attacking doesn't cause it to tap.)\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),"SOM,M14"
+Argentum Armor,,Matt Cavotta,137,Artifact — Equipment,"Equipped creature gets +6/+6.\nWhenever equipped creature attacks, destroy target permanent.
+Equip {6}","SOM,C14"
+Auriok Replica,,Zoltan Boros & Gabor Szikszai,138,Artifact Creature — Cleric,"{W}, Sacrifice Auriok Replica: Prevent all damage a source of your choice would deal to you this turn.",SOM
+Barbed Battlegear,,Steve Argyle,139,Artifact — Equipment,Equipped creature gets +4/-1.\nEquip {2},SOM
+Bladed Pinions,,Steve Argyle,140,Artifact — Equipment,Equipped creature has flying and first strike.\nEquip {2},SOM
+Chimeric Mass,,David Palumbo,141,Artifact,"Chimeric Mass enters the battlefield with X charge counters on it.\n{1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with "This creature's power and toughness are each equal to the number of charge counters on it."","SOM,MM2"
+Chrome Steed,,Jana Schirmer & Johannes Voss,142,Artifact Creature — Horse,Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.,SOM
+Clone Shell,,Volkan Baga,143,Artifact Creature — Shapeshifter,"Imprint — When Clone Shell enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in any order.\nWhen Clone Shell dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.",SOM
+Contagion Clasp,,Anthony Palumbo,144,Artifact,"When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.\n{4}, {T}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)","pFNM,DDF,SOM"
+Contagion Engine,,Daarken,145,Artifact,"When Contagion Engine enters the battlefield, put a -1/-1 counter on each creature target player controls.\n{4}, {T}: Proliferate, then proliferate again. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there. Then do it again.)",SOM
+Copper Myr,,Alan Pollack,146,Artifact Creature — Myr,{T}: Add {G} to your mana pool.,"MRD,HOP,SOM"
+Corpse Cur,,Pete Venters,147,Artifact Creature — Hound,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Corpse Cur enters the battlefield, you may return target creature card with infect from your graveyard to your hand.",SOM
+Culling Dais,,Anthony Palumbo,148,Artifact,"{T}, Sacrifice a creature: Put a charge counter on Culling Dais.\n{1}, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais.","SOM,MM2"
+Darksteel Axe,,Daniel Ljunggren,149,Artifact — Equipment,Indestructible (Effects that say "destroy" don't destroy this artifact.)\nEquipped creature gets +2/+0.
+Equip {2},"SOM,MM2"
+Darksteel Juggernaut,,Randis Albion,150,Artifact Creature — Juggernaut,Indestructible\nDarksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+Darksteel Juggernaut attacks each turn if able.,SOM
+Darksteel Myr,,Randis Albion,151,Artifact Creature — Myr,"Indestructible (Damage and effects that say "destroy" don't destroy this creature. If its toughness is 0 or less, it's still put into its owner's graveyard.)",SOM
+Darksteel Sentinel,,Erica Yang,152,Artifact Creature — Golem,"Flash (You may cast this spell any time you could cast an instant.)\nVigilance
+Indestructible (Damage and effects that say "destroy" don't destroy this creature. If its toughness is 0 or less, it's still put into its owner's graveyard.)",SOM
+Echo Circlet,,Daarken,153,Artifact — Equipment,Equipped creature can block an additional creature.\nEquip {1},SOM
+Etched Champion,,Matt Cavotta,154,Artifact Creature — Soldier,Metalcraft — Etched Champion has protection from all colors as long as you control three or more artifacts.,"SOM,MM2"
+Flight Spellbomb,,Franz Vohwinkel,155,Artifact,"{T}, Sacrifice Flight Spellbomb: Target creature gains flying until end of turn.\nWhen Flight Spellbomb is put into a graveyard from the battlefield, you may pay {U}. If you do, draw a card.",SOM
+Glint Hawk Idol,,Dave Allsop,156,Artifact,"Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn.\n{W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.","SOM,MM2"
+Gold Myr,,Alan Pollack,157,Artifact Creature — Myr,{T}: Add {W} to your mana pool.,"MRD,HOP,SOM"
+Golden Urn,,Charles Urbach,158,Artifact,"At the beginning of your upkeep, you may put a charge counter on Golden Urn.\n{T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.",SOM
+Golem Artisan,,Nic Klein,159,Artifact Creature — Golem,"{2}: Target artifact creature gets +1/+1 until end of turn.\n{2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.",SOM
+Golem Foundry,,Nic Klein,160,Artifact,"Whenever you cast an artifact spell, you may put a charge counter on Golem Foundry.\nRemove three charge counters from Golem Foundry: Put a 3/3 colorless Golem artifact creature token onto the battlefield.",SOM
+Golem's Heart,,Matt Cavotta,161,Artifact,"Whenever a player casts an artifact spell, you may gain 1 life.","pWPN,SOM"
+Grafted Exoskeleton,,Allen Williams,162,Artifact — Equipment,"Equipped creature gets +2/+2 and has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent.
+Equip {2}",SOM
+Grindclock,,Nils Hamm,163,Artifact,"{T}: Put a charge counter on Grindclock.\n{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.","SOM,M15"
+Heavy Arbalest,,David Rapoza,164,Artifact — Equipment,Equipped creature doesn't untap during its controller's untap step.\nEquipped creature has "{T}: This creature deals 2 damage to target creature or player."
+Equip {4},SOM
+Horizon Spellbomb,,Franz Vohwinkel,165,Artifact,"{2}, {T}, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.\nWhen Horizon Spellbomb is put into a graveyard from the battlefield, you may pay {G}. If you do, draw a card.",SOM
+Ichorclaw Myr,,Eric Deschamps,166,Artifact Creature — Myr,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.",SOM
+Infiltration Lens,,Izzy,167,Artifact — Equipment,"Whenever equipped creature becomes blocked by a creature, you may draw two cards.\nEquip {1}",SOM
+Iron Myr,,Alan Pollack,168,Artifact Creature — Myr,{T}: Add {R} to your mana pool.,"MRD,HOP,SOM"
+Kuldotha Forgemaster,,jD,169,Artifact Creature — Construct,"{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.",SOM
+Leaden Myr,,Alan Pollack,170,Artifact Creature — Myr,{T}: Add {B} to your mana pool.,"MRD,HOP,SOM"
+Liquimetal Coating,,Johann Bodin,171,Artifact,{T}: Target permanent becomes an artifact in addition to its other types until end of turn.,"SOM,C14"
+Livewire Lash,,Daniel Ljunggren,172,Artifact — Equipment,"Equipped creature gets +2/+0 and has "Whenever this creature becomes the target of a spell, this creature deals 2 damage to target creature or player."\nEquip {2}",SOM
+Lux Cannon,,Martina Pilcerova,173,Artifact,"{T}: Put a charge counter on Lux Cannon.\n{T}, Remove three charge counters from Lux Cannon: Destroy target permanent.",SOM
+Memnite,,Svetlin Velinov,174,Artifact Creature — Construct,,"pMGD,SOM"
+Mimic Vat,,Matt Cavotta,175,Artifact,"Imprint — Whenever a nontoken creature dies, you may exile that card. If you do, return each other card exiled with Mimic Vat to its owner's graveyard.\n{3}, {T}: Put a token onto the battlefield that's a copy of the exiled card. It gains haste. Exile it at the beginning of the next end step.",SOM
+Mindslaver,,Volkan Baga,176,Legendary Artifact,"{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)","MRD,SOM"
+Molten-Tail Masticore,,Whit Brachna,177,Artifact Creature — Masticore,"At the beginning of your upkeep, sacrifice Molten-Tail Masticore unless you discard a card.\n{4}, Exile a creature card from your graveyard: Molten-Tail Masticore deals 4 damage to target creature or player.
+{2}: Regenerate Molten-Tail Masticore.",SOM
+Moriok Replica,,Zoltan Boros & Gabor Szikszai,178,Artifact Creature — Warrior,"{1}{B}, Sacrifice Moriok Replica: You draw two cards and you lose 2 life.",SOM
+Mox Opal,,Volkan Baga,179,Legendary Artifact,Metalcraft — {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.,"SOM,MM2"
+Myr Battlesphere,,Franz Vohwinkel,180,Artifact Creature — Myr Construct,"When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.\nWhenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.","SOM,C13,C14"
+Myr Galvanizer,,Greg Staples,181,Artifact Creature — Myr,"Other Myr creatures you control get +1/+1.\n{1}, {T}: Untap each other Myr you control.",SOM
+Myr Propagator,,Ryan Pancoast,182,Artifact Creature — Myr,"{3}, {T}: Put a token that's a copy of Myr Propagator onto the battlefield.",SOM
+Myr Reservoir,,Jung Park,183,Artifact,"{T}: Add {2} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.\n{3}, {T}: Return target Myr card from your graveyard to your hand.",SOM
+Necrogen Censer,,Pete Venters,184,Artifact,"Necrogen Censer enters the battlefield with two charge counters on it.\n{T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.",SOM
+Necropede,,Nic Klein,185,Artifact Creature — Insect,"Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Necropede dies, you may put a -1/-1 counter on target creature.",SOM
+Neurok Replica,,Zoltan Boros & Gabor Szikszai,186,Artifact Creature — Wizard,"{1}{U}, Sacrifice Neurok Replica: Return target creature to its owner's hand.",SOM
+Nihil Spellbomb,,Franz Vohwinkel,187,Artifact,"{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.\nWhen Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.","SOM,C13"
+Nim Deathmantle,,Karl Kopinski,188,Artifact — Equipment,"Equipped creature gets +2/+2, has intimidate, and is a black Zombie. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhenever a nontoken creature is put into your graveyard from the battlefield, you may pay {4}. If you do, return that card to the battlefield and attach Nim Deathmantle to it.
+Equip {4}",SOM
+Origin Spellbomb,,Franz Vohwinkel,189,Artifact,"{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.\nWhen Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.",SOM
+Palladium Myr,,Alan Pollack,190,Artifact Creature — Myr,{T}: Add {2} to your mana pool.,"SOM,C14"
+Panic Spellbomb,,Franz Vohwinkel,191,Artifact,"{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.\nWhen Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.","SOM,C14"
+Perilous Myr,,Jason Felix,192,Artifact Creature — Myr,"When Perilous Myr dies, it deals 2 damage to target creature or player.",SOM
+Platinum Emperion,,Chris Rahn,193,Artifact Creature — Golem,Your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.),SOM
+Precursor Golem,,Chippy,194,Artifact Creature — Golem,"When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.\nWhenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.","SOM,MM2"
+Prototype Portal,,Drew Baker,195,Artifact,"Imprint — When Prototype Portal enters the battlefield, you may exile an artifact card from your hand.\n{X}, {T}: Put a token that's a copy of the exiled card onto the battlefield. X is the converted mana cost of that card.",SOM
+Ratchet Bomb,,Austin Hsu,196,Artifact,"{T}: Put a charge counter on Ratchet Bomb.\n{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.","pMEI,SOM,M14"
+Razorfield Thresher,,Karl Kopinski,197,Artifact Creature — Construct,,SOM
+Rust Tick,,Carl Critchlow,198,Artifact Creature — Insect,"You may choose not to untap Rust Tick during your untap step.\n{1}, {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.",SOM
+Rusted Relic,,Igor Kieryluk,199,Artifact,Metalcraft — Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.,"SOM,MM2"
+Saberclaw Golem,,Mike Bierek,200,Artifact Creature — Golem,{R}: Saberclaw Golem gains first strike until end of turn.,SOM
+Semblance Anvil,,Dan Scott,201,Artifact,"Imprint — When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand.\nSpells you cast that share a card type with the exiled card cost {2} less to cast.",SOM
+Silver Myr,,Alan Pollack,202,Artifact Creature — Myr,{T}: Add {U} to your mana pool.,"MRD,HOP,DDF,SOM"
+Snapsail Glider,,Efrem Palacios,203,Artifact Creature — Construct,Metalcraft — Snapsail Glider has flying as long as you control three or more artifacts.,SOM
+Soliton,,Jason Felix,204,Artifact Creature — Construct,{U}: Untap Soliton.,SOM
+Steel Hellkite,,James Paick,205,Artifact Creature — Dragon,Flying\n{2}: Steel Hellkite gets +1/+0 until end of turn.
+{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.,"pLPA,SOM,C14"
+Strata Scythe,,Scott Chou,206,Artifact — Equipment,"Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.\nEquipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.
+Equip {3}","SOM,C14"
+Strider Harness,,Matt Stewart,207,Artifact — Equipment,Equipped creature gets +1/+1 and has haste.\nEquip {1},SOM
+Sword of Body and Mind,,Chris Rahn,208,Artifact — Equipment,"Equipped creature gets +2/+2 and has protection from green and from blue.\nWhenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.
+Equip {2}","V10,SOM"
+Sylvok Lifestaff,,Martina Pilcerova,209,Artifact — Equipment,"Equipped creature gets +1/+0.\nWhenever equipped creature dies, you gain 3 life.
+Equip {1}",SOM
+Sylvok Replica,,Zoltan Boros & Gabor Szikszai,210,Artifact Creature — Shaman,"{G}, Sacrifice Sylvok Replica: Destroy target artifact or enchantment.",SOM
+Throne of Geth,,Jana Schirmer & Johannes Voss,211,Artifact,"{T}, Sacrifice an artifact: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",SOM
+Tower of Calamities,,Aleksi Briclot,212,Artifact,"{8}, {T}: Tower of Calamities deals 12 damage to target creature.",SOM
+Trigon of Corruption,,Nils Hamm,213,Artifact,"Trigon of Corruption enters the battlefield with three charge counters on it.\n{B}{B}, {T}: Put a charge counter on Trigon of Corruption.
+{2}, {T}, Remove a charge counter from Trigon of Corruption: Put a -1/-1 counter on target creature.",SOM
+Trigon of Infestation,,Dave Allsop,214,Artifact,"Trigon of Infestation enters the battlefield with three charge counters on it.\n{G}{G}, {T}: Put a charge counter on Trigon of Infestation.
+{2}, {T}, Remove a charge counter from Trigon of Infestation: Put a 1/1 green Insect creature token with infect onto the battlefield.",SOM
+Trigon of Mending,,Igor Kieryluk,215,Artifact,"Trigon of Mending enters the battlefield with three charge counters on it.\n{W}{W}, {T}: Put a charge counter on Trigon of Mending.
+{2}, {T}, Remove a charge counter from Trigon of Mending: Target player gains 3 life.",SOM
+Trigon of Rage,,Marc Simonetti,216,Artifact,"Trigon of Rage enters the battlefield with three charge counters on it.\n{R}{R}, {T}: Put a charge counter on Trigon of Rage.
+{2}, {T}, Remove a charge counter from Trigon of Rage: Target creature gets +3/+0 until end of turn.",SOM
+Trigon of Thought,,Mike Bierek,217,Artifact,"Trigon of Thought enters the battlefield with three charge counters on it.\n{U}{U}, {T}: Put a charge counter on Trigon of Thought.
+{2}, {T}, Remove a charge counter from Trigon of Thought: Draw a card.",SOM
+Tumble Magnet,,Drew Baker,218,Artifact,"Tumble Magnet enters the battlefield with three charge counters on it.\n{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.","SOM,MM2"
+Vector Asp,,Erica Yang,219,Artifact Creature — Snake,{B}: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.),SOM
+Venser's Journal,,Christopher Moeller,220,Artifact,"You have no maximum hand size.\nAt the beginning of your upkeep, you gain 1 life for each card in your hand.",SOM
+Vulshok Replica,,Zoltan Boros & Gabor Szikszai,221,Artifact Creature — Berserker,"{1}{R}, Sacrifice Vulshok Replica: Vulshok Replica deals 3 damage to target player.",SOM
+Wall of Tanglecord,,Vance Kovacs,222,Artifact Creature — Wall,Defender\n{G}: Wall of Tanglecord gains reach until end of turn. (It can block creatures with flying.),SOM
+Wurmcoil Engine,,Raymond Swanland,223,Artifact Creature — Wurm,"Deathtouch, lifelink\nWhen Wurmcoil Engine dies, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.","pPRE,SOM,C14"
+Blackcleave Cliffs,,Dave Kendall,224,Land,Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R} to your mana pool.,SOM
+Copperline Gorge,,Zoltan Boros & Gabor Szikszai,225,Land,Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G} to your mana pool.,SOM
+Darkslick Shores,,Charles Urbach,226,Land,Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {B} to your mana pool.,SOM
+Glimmerpost,,Matt Cavotta,227,Land — Locus,"When Glimmerpost enters the battlefield, you gain 1 life for each Locus on the battlefield.\n{T}: Add {1} to your mana pool.",SOM
+Razorverge Thicket,,James Paick,228,Land,Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {G} or {W} to your mana pool.,SOM
+Seachrome Coast,,Lars Grant-West,229,Land,Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U} to your mana pool.,SOM
+Plains,,James Paick,230,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,James Paick,231,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,James Paick,232,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,James Paick,233,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Jung Park,234,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Jung Park,235,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Jung Park,236,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Jung Park,237,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Lars Grant-West,238,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Lars Grant-West,239,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Lars Grant-West,240,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Lars Grant-West,241,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tomasz Jedruszek,242,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tomasz Jedruszek,243,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tomasz Jedruszek,244,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tomasz Jedruszek,245,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Mark Tedin,246,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Mark Tedin,247,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Mark Tedin,248,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Mark Tedin,249,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

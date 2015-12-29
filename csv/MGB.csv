@@ -1,0 +1,14 @@
+name,cost,artist,number,type,text,printings
+Bull Elephant,,Steve White,,Creature — Elephant,"When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.","MGB,VIS"
+Dark Privilege,,Tom Kyffin,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1.
+Sacrifice a creature: Regenerate enchanted creature.,"MGB,VIS"
+King Cheetah,,Terese Nielsen,,Creature — Cat,Flash,"MGB,VIS,9ED"
+Necrosavant,,John Coulthart,,Creature — Zombie Giant,"{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.","MGB,VIS,6ED"
+Ovinomancer,,Kev Walker,,Creature — Human Wizard,"When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.\n{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.","MGB,VIS,TSB"
+Peace Talks,,Roger Raupp,,Sorcery,"This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.","MGB,VIS"
+Urborg Mindsucker,,Tony Diterlizzi,,Creature — Horror,"{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.","MGB,VIS"
+Vampirism,,Gary Leach,,Enchantment — Aura,"Enchant creature\nWhen Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +1/+1 for each other creature you control.
+Other creatures you control get -1/-1.","MGB,VIS"
+Viashino Sandstalker,,Andrew Robinson,,Creature — Viashino Warrior,"Haste (This creature can attack the turn it comes under your control.)\nAt the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)","MGB,VIS,8ED,9ED"
+Wicked Reward,,D. Alexander Gregory,,Instant,"As an additional cost to cast Wicked Reward, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.","MGB,VIS"

@@ -1,0 +1,167 @@
+name,cost,artist,number,type,text,printings
+Ardent Plea,,Chippy,1,Enchantment,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",ARB
+Aven Mimeomancer,,Jesper Ejsing,2,Creature — Bird Wizard,"Flying\nAt the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature has base power and toughness 3/1 and has flying for as long as it has a feather counter on it.",ARB
+Ethercaste Knight,,Steven Belledin,3,Artifact Creature — Human Knight,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","ARB,MM2"
+Ethersworn Shieldmage,,Daarken,4,Artifact Creature — Vedalken Wizard,"Flash\nWhen Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.","ARB,ARC"
+Fieldmist Borderpost,,Michael Bruinsma,5,Artifact,You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.\nFieldmist Borderpost enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.,"ARB,ARC"
+Filigree Angel,,Richard Whitters,6,Artifact Creature — Angel,"Flying\nWhen Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.","ARB,C13"
+Glassdust Hulk,,Franz Vohwinkel,7,Artifact Creature — Golem,"Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and can't be blocked this turn.\nCycling {W/U} ({W/U}, Discard this card: Draw a card.)","ARB,MM2"
+Meddling Mage,,Todd Lockwood,8,Creature — Human Wizard,"As Meddling Mage enters the battlefield, name a nonland card.\nThe named card can't be cast.","pJGP,PLS,ARB"
+Offering to Asha,,Daarken,9,Instant,Counter target spell unless its controller pays {4}. You gain 4 life.,ARB
+Sanctum Plowbeast,,Anthony Francisco,10,Artifact Creature — Beast,"Defender\nPlainscycling {2}, islandcycling {2} ({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)",ARB
+Shield of the Righteous,,David Palumbo,11,Artifact — Equipment,"Equipped creature gets +0/+2 and has vigilance.\nWhenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.
+Equip {2}",ARB
+Sovereigns of Lost Alara,,Donato Giancola,12,Creature — Spirit,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.",ARB
+Stormcaller's Boon,,Brandon Kitkouski,13,Enchantment,"Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",ARB
+Talon Trooper,,Matt Stewart,14,Creature — Bird Scout,Flying,ARB
+Unbender Tine,,Greg Hildebrandt,15,Artifact,{T}: Untap another target permanent.,"ARB,ARC"
+Wall of Denial,,Howard Lyon,16,Creature — Wall,"Defender, flying\nShroud (This creature can't be the target of spells or abilities.)","ARB,CMD,DDI"
+Architects of Will,,Matt Stewart,17,Artifact Creature — Human Wizard,"When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.\nCycling {U/B} ({U/B}, Discard this card: Draw a card.)","ARB,ARC"
+Brainbite,,Mark Hyzer,18,Sorcery,Target opponent reveals his or her hand. You choose a card from it. That player discards that card.\nDraw a card.,ARB
+Deny Reality,,Jean-Sébastien Rossbach,19,Sorcery,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nReturn target permanent to its owner's hand.","ARB,PC2"
+Etherium Abomination,,Mitch Cotie,20,Artifact Creature — Horror,Unearth {1}{U}{B} ({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.),ARB
+Illusory Demon,,Nils Hamm,21,Creature — Demon Illusion,"Flying\nWhen you cast a spell, sacrifice Illusory Demon.",ARB
+Jhessian Zombies,,Ash Wood,22,Creature — Zombie,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nIslandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)","ARB,DDH"
+Kathari Remnant,,Anthony S. Waters,23,Creature — Bird Skeleton,"Flying\n{B}: Regenerate Kathari Remnant.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)","ARB,PC2"
+Lich Lord of Unx,,Dave Allsop,24,Creature — Zombie Wizard,"{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.\n{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.",ARB
+Mask of Riddles,,Matt Cavotta,25,Artifact — Equipment,"Equipped creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)\nWhenever equipped creature deals combat damage to a player, you may draw a card.
+Equip {2}",ARB
+Mind Funeral,,rk post,26,Sorcery,Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.,"ARB,MMA"
+Mistvein Borderpost,,Pete Venters,27,Artifact,You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.\nMistvein Borderpost enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.,"ARB,ARC"
+Nemesis of Reason,,Mark Tedin,28,Creature — Leviathan Horror,"Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.",ARB
+Soul Manipulation,,Carl Critchlow,29,Instant,Choose one or both —\n• Counter target creature spell.
+• Return target creature card from your graveyard to your hand.,"ARB,C13"
+Soulquake,,Warren Mahy,30,Sorcery,Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.,ARB
+Time Sieve,,Franz Vohwinkel,31,Artifact,"{T}, Sacrifice five artifacts: Take an extra turn after this one.",ARB
+Vedalken Ghoul,,Dave Kendall,32,Creature — Vedalken Zombie,"Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.",ARB
+Anathemancer,,Richard Whitters,33,Creature — Zombie Wizard,"When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.\nUnearth {5}{B}{R} ({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","pFNM,ARB"
+Bituminous Blast,,Raymond Swanland,34,Instant,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nBituminous Blast deals 4 damage to target creature.","pMPR,ARB,ARC,PC2"
+Breath of Malfegor,,Vance Kovacs,35,Instant,Breath of Malfegor deals 5 damage to each opponent.,"pMEI,ARB"
+Deathbringer Thoctar,,Karl Kopinski,36,Creature — Zombie Beast,"Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar.\nRemove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.","ARB,C13"
+Defiler of Souls,,Paul Bonner,37,Creature — Demon,"Flying\nAt the beginning of each player's upkeep, that player sacrifices a monocolored creature.",ARB
+Demonic Dread,,Thomas M. Baxa,38,Sorcery,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nTarget creature can't block this turn.",ARB
+Demonspine Whip,,Mark Hyzer,39,Artifact — Equipment,{X}: Equipped creature gets +X/+0 until end of turn.\nEquip {1},ARB
+Igneous Pouncer,,Chippy,40,Creature — Elemental,"Haste\nSwampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)","ARB,DDH"
+Kathari Bomber,,Carl Critchlow,41,Creature — Bird Shaman,"Flying\nWhen Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.
+Unearth {3}{B}{R} ({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","ARB,DDN"
+Lightning Reaver,,Cyril Van Der Haegen,42,Creature — Zombie Beast,"Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Lightning Reaver deals combat damage to a player, put a charge counter on it.
+At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.",ARB
+Monstrous Carabid,,Pete Venters,43,Creature — Insect,"Monstrous Carabid attacks each turn if able.\nCycling {B/R} ({B/R}, Discard this card: Draw a card.)",ARB
+Sanity Gnawers,,Pete Venters,44,Creature — Rat,"When Sanity Gnawers enters the battlefield, target player discards a card at random.",ARB
+Singe-Mind Ogre,,Daarken,45,Creature — Ogre Mutant,"When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.",ARB
+Terminate,,Wayne Reynolds,46,Instant,Destroy target creature. It can't be regenerated.,"pFNM,PLS,pMPR,ARB,ARC,CMD,DDK"
+Thought Hemorrhage,,Chippy,47,Sorcery,"Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.",ARB
+Veinfire Borderpost,,Ralph Horsley,48,Artifact,You may pay {1} and return a basic land you control to its owner's hand rather than pay Veinfire Borderpost's mana cost.\nVeinfire Borderpost enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.,ARB
+Blitz Hellion,,Anthony S. Waters,49,Creature — Hellion,"Trample, haste\nAt the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.",ARB
+Bloodbraid Elf,,Dominick Domingo,50,Creature — Elf Berserker,"Haste\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)","pFNM,ARB,PC2"
+Colossal Might,,Justin Sweet,51,Instant,Target creature gets +4/+2 and gains trample until end of turn.,"ARB,ARC,CMD"
+Deadshot Minotaur,,Jason Chan,52,Creature — Minotaur,"When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.\nCycling {R/G} ({R/G}, Discard this card: Draw a card.)",ARB
+Dragon Broodmother,,Jaime Jones,53,Creature — Dragon,"Flying\nAt the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)","pPRE,ARB"
+Firewild Borderpost,,Jean-Sébastien Rossbach,54,Artifact,You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.\nFirewild Borderpost enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.,ARB
+Godtracker of Jund,,Justin Sweet,55,Creature — Elf Shaman,"Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.",ARB
+Gorger Wurm,,Paolo Parente,56,Creature — Wurm,"Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)",ARB
+Mage Slayer,,Lars Grant-West,57,Artifact — Equipment,"Whenever equipped creature attacks, it deals damage equal to its power to defending player.\nEquip {3}","ARB,HOP"
+Predatory Advantage,,Raymond Swanland,58,Enchantment,"At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.",ARB
+Rhox Brute,,Raymond Swanland,59,Creature — Rhino Warrior,,ARB
+Spellbreaker Behemoth,,Jason Chan,60,Creature — Beast,Spellbreaker Behemoth can't be countered.\nCreature spells you control with power 5 or greater can't be countered.,"ARB,C13"
+Valley Rannet,,Dave Allsop,61,Creature — Beast,"Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)","ARB,CMD,DDL,C13"
+Vengeful Rebirth,,Vance Kovacs,62,Sorcery,"Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.\nExile Vengeful Rebirth.","ARB,CMD,MM2"
+Violent Outburst,,Richard Whitters,63,Instant,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nCreatures you control get +1/+0 until end of turn.",ARB
+Vithian Renegades,,rk post,64,Creature — Human Shaman,"When Vithian Renegades enters the battlefield, destroy target artifact.",ARB
+Behemoth Sledge,,Steve Prescott,65,Artifact — Equipment,Equipped creature gets +2/+2 and has lifelink and trample.\nEquip {3},"ARB,DDH,C13"
+Captured Sunlight,,Nils Hamm,66,Sorcery,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nYou gain 4 life.",ARB
+Dauntless Escort,,Volkan Baga,67,Creature — Rhino Soldier,Sacrifice Dauntless Escort: Creatures you control gain indestructible until end of turn.,ARB
+Enlisted Wurm,,Steve Prescott,68,Creature — Wurm,"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)","ARB,PC2"
+Grizzled Leotau,,Lars Grant-West,69,Creature — Cat,,ARB
+Knight of New Alara,,Chris Rahn,70,Creature — Human Knight,Each other multicolored creature you control gets +1/+1 for each of its colors.,"pLPA,ARB"
+Knotvine Paladin,,Matt Stewart,71,Creature — Human Knight,"Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.","ARB,DDG"
+Leonin Armorguard,,Steven Belledin,72,Creature — Cat Soldier,"When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn.",ARB
+Mycoid Shepherd,,Trevor Claxton,73,Creature — Fungus,"Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life.","pWPN,ARB"
+Pale Recluse,,Cyril Van Der Haegen,74,Creature — Spider,"Reach (This creature can block creatures with flying.)\nForestcycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)","ARB,ARC"
+Qasali Pridemage,,Chris Rahn,75,Creature — Cat Wizard,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.","pFNM,ARB,DDH"
+Reborn Hope,,Warren Mahy,76,Sorcery,Return target multicolored card from your graveyard to your hand.,ARB
+Sigil Captain,,Howard Lyon,77,Creature — Rhino Soldier,"Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.","ARB,CMD"
+Sigil of the Nayan Gods,,Warren Mahy,78,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+1 for each creature you control.
+Cycling {G/W} ({G/W}, Discard this card: Draw a card.)",ARB
+Sigiled Behemoth,,Donato Giancola,79,Creature — Beast,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",ARB
+Wildfield Borderpost,,Zoltan Boros & Gabor Szikszai,80,Artifact,You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.\nWildfield Borderpost enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.,ARB
+Identity Crisis,,Thomas M. Baxa,81,Sorcery,Exile all cards from target player's hand and graveyard.,ARB
+Necromancer's Covenant,,Thomas M. Baxa,82,Enchantment,"When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then put a 2/2 black Zombie creature token onto the battlefield for each card exiled this way.\nZombies you control have lifelink.","ARB,C15"
+Tainted Sigil,,Chippy,83,Artifact,"{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)",ARB
+Vectis Dominator,,Zoltan Boros & Gabor Szikszai,84,Artifact Creature — Human Wizard,{T}: Tap target creature unless its controller pays 2 life.,ARB
+Zealous Persecution,,Christopher Moeller,85,Instant,"Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.","ARB,DDK,MD1"
+Cloven Casting,,Vance Kovacs,86,Enchantment,"Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.",ARB
+Double Negative,,Paolo Parente,87,Instant,Counter up to two target spells.,ARB
+Magefire Wings,,Zoltan Boros & Gabor Szikszai,88,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+0 and has flying.,ARB
+Skyclaw Thrash,,Jaime Jones,89,Artifact Creature — Viashino Warrior,"Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.",ARB
+Spellbound Dragon,,Jesper Ejsing,90,Creature — Dragon,"Flying\nWhenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.",ARB
+Lord of Extinction,,Izzy,91,Creature — Elemental,Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.,ARB
+Maelstrom Pulse,,Anthony Francisco,92,Sorcery,Destroy target nonland permanent and all other permanents with the same name as that permanent.,"pGPX,ARB,MMA"
+Marrow Chomper,,Lars Grant-West,93,Creature — Zombie Lizard,"Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)\nWhen Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.",ARB
+Morbid Bloom,,Trevor Claxton,94,Sorcery,"Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.",ARB
+Putrid Leech,,Dave Allsop,95,Creature — Zombie Leech,Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.,"ARB,DDJ,DDM"
+Cerodon Yearling,,Christopher Moeller,96,Creature — Beast,"Vigilance, haste","ARB,HOP"
+Fight to the Death,,Michael Komarck,97,Instant,Destroy all blocking creatures and all blocked creatures.,ARB
+Glory of Warfare,,Paolo Parente,98,Enchantment,"As long as it's your turn, creatures you control get +2/+0.\nAs long as it's not your turn, creatures you control get +0/+2.","ARB,HOP"
+Intimidation Bolt,,Michael Bruinsma,99,Instant,Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.,ARB
+Stun Sniper,,Steve Prescott,100,Creature — Human Archer,"{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.","ARB,DDL"
+Lorescale Coatl,,Greg Staples,101,Creature — Snake,"Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.","ARB,DDO,MM2,C15"
+Nulltread Gargantuan,,Anthony Francisco,102,Creature — Beast,"When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.",ARB
+Sages of the Anima,,Kev Walker,103,Creature — Elf Wizard,"If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.",ARB
+Vedalken Heretic,,Greg Staples,104,Creature — Vedalken Rogue,"Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.",ARB
+Winged Coatl,,Izzy,105,Creature — Snake,Flash (You may cast this spell any time you could cast an instant.)\nFlying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"ARB,C13"
+Enigma Sphinx,,Chris Rahn,106,Artifact Creature — Sphinx,"Flying\nWhen Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)","ARB,PC2"
+Esper Sojourners,,John Avon,107,Artifact Creature — Vedalken Wizard,"When you cycle Esper Sojourners or it dies, you may tap or untap target permanent.\nCycling {2}{U} ({2}{U}, Discard this card: Draw a card.)",ARB
+Etherwrought Page,,Howard Lyon,108,Artifact,"At the beginning of your upkeep, choose one —\n• You gain 2 life.
+• Look at the top card of your library. You may put that card into your graveyard.
+• Each opponent loses 1 life.",ARB
+Sen Triplets,,Greg Staples,109,Legendary Artifact Creature — Human Wizard,"At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.",ARB
+Sphinx of the Steel Wind,,Kev Walker,110,Artifact Creature — Sphinx,"Flying, first strike, vigilance, lifelink, protection from red and from green","ARB,PD3,C13"
+Drastic Revelation,,Trevor Claxton,111,Sorcery,"Discard your hand. Draw seven cards, then discard three cards at random.",ARB
+Grixis Sojourners,,John Avon,112,Creature — Zombie Ogre,"When you cycle Grixis Sojourners or it dies, you may exile target card from a graveyard.\nCycling {2}{B} ({2}{B}, Discard this card: Draw a card.)",ARB
+Thraximundar,,Raymond Swanland,113,Legendary Creature — Zombie Assassin,"Haste\nWhenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.","ARB,C13"
+"Unscythe, Killer of Kings",,Karl Kopinski,114,Legendary Artifact — Equipment,"Equipped creature gets +3/+3 and has first strike.\nWhenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.
+Equip {2}",ARB
+Dragon Appeasement,,Paul Bonner,115,Enchantment,"Skip your draw step.\nWhenever you sacrifice a creature, you may draw a card.",ARB
+Jund Sojourners,,John Avon,116,Creature — Viashino Shaman,"When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to target creature or player.\nCycling {2}{R} ({2}{R}, Discard this card: Draw a card.)",ARB
+"Karrthus, Tyrant of Jund",,Dave Kendall,117,Legendary Creature — Dragon,"Flying, haste\nWhen Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.
+Other Dragon creatures you control have haste.",ARB
+Lavalanche,,Steve Argyle,118,Sorcery,Lavalanche deals X damage to target player and each creature he or she controls.,ARB
+Madrush Cyclops,,Wayne Reynolds,119,Creature — Cyclops Warrior,Creatures you control have haste.,ARB
+Gloryscale Viashino,,Volkan Baga,120,Creature — Viashino Soldier,"Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.",ARB
+Mayael's Aria,,Steve Argyle,121,Enchantment,"At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.",ARB
+Naya Sojourners,,John Avon,122,Creature — Elf Shaman,"When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature.\nCycling {2}{G} ({2}{G}, Discard this card: Draw a card.)","pWPN,ARB"
+Retaliator Griffin,,Jesper Ejsing,123,Creature — Griffin,"Flying\nWhenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.","pMEI,ARB"
+"Uril, the Miststalker",,Jaime Jones,124,Legendary Creature — Beast,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nUril, the Miststalker gets +2/+2 for each Aura attached to it.",ARB
+Bant Sojourners,,John Avon,125,Creature — Human Soldier,"When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)",ARB
+Finest Hour,,Michael Komarck,126,Enchantment,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.",ARB
+Flurry of Wings,,Matt Cavotta,127,Instant,"Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.",ARB
+"Jenara, Asura of War",,Chris Rahn,128,Legendary Creature — Angel,"Flying\n{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.","ARB,V15"
+Wargate,,Franz Vohwinkel,129,Sorcery,"Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.",ARB
+Maelstrom Nexus,,Steven Belledin,130,Enchantment,"The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",ARB
+Arsenal Thresher,,Ralph Horsley,131,Artifact Creature — Construct,"As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.","ARB,HOP"
+Esper Stormblade,,Matt Stewart,132,Artifact Creature — Vedalken Wizard,"As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.",ARB
+Thopter Foundry,,Ralph Horsley,133,Artifact,"{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.","ARB,C13"
+Grixis Grimblade,,Trevor Claxton,134,Creature — Zombie Warrior,"As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.)",ARB
+Sewn-Eye Drake,,Anthony S. Waters,135,Creature — Zombie Drake,"Flying, haste",ARB
+Slave of Bolas,,Steve Argyle,136,Sorcery,Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.,"pWPN,ARB,DDH"
+Giant Ambush Beetle,,Carl Critchlow,137,Creature — Insect,"Haste\nWhen Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.",ARB
+Jund Hackblade,,Dan Dos Santos,138,Creature — Goblin Berserker,"As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.",ARB
+Sangrite Backlash,,Cyril Van Der Haegen,139,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/-3.,ARB
+Marisi's Twinclaws,,Izzy,140,Creature — Cat Warrior,Double strike,"pWPN,ARB,DDH"
+Naya Hushblade,,Jason Chan,141,Creature — Elf Rogue,"As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)",ARB
+Trace of Abundance,,Dave Kendall,142,Enchantment — Aura,"Enchant land\nEnchanted land has shroud. (It can't be the target of spells or abilities.)
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).",ARB
+Bant Sureblade,,Michael Komarck,143,Creature — Human Soldier,"As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.",ARB
+Crystallization,,Zoltan Boros & Gabor Szikszai,144,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block.
+When enchanted creature becomes the target of a spell or ability, exile that creature.",ARB
+Messenger Falcons,,David Palumbo,145,Creature — Bird,"Flying\nWhen Messenger Falcons enters the battlefield, draw a card.",ARB

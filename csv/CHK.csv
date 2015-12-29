@@ -1,0 +1,345 @@
+name,cost,artist,number,type,text,printings
+Blessed Breath,,Tsutomu Kawade,1,Instant — Arcane,"Target creature you control gains protection from the color of your choice until end of turn.\nSplice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Bushi Tenderfoot,,Mark Zug,2a,Creature — Human Soldier,"When a creature dealt damage by Bushi Tenderfoot this turn dies, flip Bushi Tenderfoot.",CHK
+Kenzo the Hardhearted,,Mark Zug,2b,Legendary Creature — Human Samurai,"Double strike; bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",CHK
+Cage of Hands,,Mark Tedin,3,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack or block.
+{1}{W}: Return Cage of Hands to its owner's hand.,"CHK,PC2,C15"
+Call to Glory,,Wayne Reynolds,4,Instant,Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.,CHK
+Candles' Glow,,Alan Pollack,5,Instant — Arcane,"Prevent the next 3 damage that would be dealt to target creature or player this turn. You gain life equal to the damage prevented this way.\nSplice onto Arcane {1}{W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Cleanfall,,Daren Bader,6,Sorcery — Arcane,Destroy all enchantments.,CHK
+Devoted Retainer,,Greg Hildebrandt,7,Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",CHK
+Eight-and-a-Half-Tails,,Daren Bader,8,Legendary Creature — Fox Cleric,{1}{W}: Target permanent you control gains protection from white until end of turn.\n{1}: Target spell or permanent becomes white until end of turn.,CHK
+Ethereal Haze,,Chris Appelhans,9,Instant — Arcane,Prevent all damage that would be dealt by creatures this turn.,CHK
+Ghostly Prison,,Lars Grant-West,10,Enchantment,Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.,"pFNM,CHK,CMD,PC2"
+Harsh Deceiver,,Heather Hudson,11,Creature — Spirit,"{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, untap Harsh Deceiver and it gets +1/+1 until end of turn. Activate this ability only once each turn.",CHK
+"Hikari, Twilight Guardian",,Glen Angus,12,Legendary Creature — Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, you may exile Hikari, Twilight Guardian. If you do, return it to the battlefield under its owner's control at the beginning of the next end step.","CHK,MM2"
+Hold the Line,,Ron Spears,13,Instant,Blocking creatures get +7/+7 until end of turn.,"CHK,DDN"
+Honden of Cleansing Fire,,Greg Staples,14,Legendary Enchantment — Shrine,"At the beginning of your upkeep, you gain 2 life for each Shrine you control.",CHK
+Horizon Seed,,Matt Cavotta,15,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, regenerate target creature.",CHK
+Hundred-Talon Kami,,Paolo Parente,16,Creature — Spirit,"Flying\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",CHK
+Indomitable Will,,Christopher Rush,17,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets +1/+2.,CHK
+Innocence Kami,,Mark Zug,18,Creature — Spirit,"{W}, {T}: Tap target creature.\nWhenever you cast a Spirit or Arcane spell, untap Innocence Kami.",CHK
+"Isamaru, Hound of Konda",,Christopher Moeller,19,Legendary Creature — Hound,,CHK
+Kabuto Moth,,Tomas Giorello,20,Creature — Spirit,Flying\n{T}: Target creature gets +1/+2 until end of turn.,CHK
+Kami of Ancient Law,,Mark Tedin,21,Creature — Spirit,Sacrifice Kami of Ancient Law: Destroy target enchantment.,"CHK,MM2"
+Kami of Old Stone,,Stephen Tappin,22,Creature — Spirit,,"CHK,9ED"
+Kami of the Painted Road,,Ron Spencer,23,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, Kami of the Painted Road gains protection from the color of your choice until end of turn.",CHK
+Kami of the Palace Fields,,Matt Cavotta,24,Creature — Spirit,"Flying, first strike\nSoulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)",CHK
+Kitsune Blademaster,,Keith Garletts,25,Creature — Fox Samurai,"First strike\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",CHK
+Kitsune Diviner,,Pete Venters,26,Creature — Fox Cleric,{T}: Tap target Spirit.,CHK
+Kitsune Healer,,Michael Sutfin,27,Creature — Fox Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\n{T}: Prevent all damage that would be dealt to target legendary creature this turn.,CHK
+Kitsune Mystic,,Jim Murray,28a,Creature — Fox Wizard,"At the beginning of the end step, if Kitsune Mystic is enchanted by two or more Auras, flip it.",CHK
+"Autumn-Tail, Kitsune Sage",,Jim Murray,28b,Legendary Creature — Fox Wizard,{1}: Attach target Aura attached to a creature to another creature.,CHK
+Kitsune Riftwalker,,Pete Venters,29,Creature — Fox Wizard,Protection from Spirits and from Arcane,CHK
+"Konda, Lord of Eiganjo",,John Bolton,30,Legendary Creature — Human Samurai,"Indestructible\nVigilance (Attacking doesn't cause this creature to tap.)
+Bushido 5 (Whenever this creature blocks or becomes blocked, it gets +5/+5 until end of turn.)",CHK
+Konda's Hatamoto,,Lars Grant-West,31,Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nAs long as you control a legendary Samurai, Konda's Hatamoto gets +1/+2 and has vigilance. (Attacking doesn't cause this creature to tap.)",CHK
+Lantern Kami,,John Avon,32,Creature — Spirit,Flying,CHK
+Masako the Humorless,,Ben Thompson,33,Legendary Creature — Human Advisor,Flash\nTapped creatures you control can block as though they were untapped.,CHK
+Mothrider Samurai,,Mark Zug,34,Creature — Human Samurai,"Flying\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",CHK
+Myojin of Cleansing Fire,,Kev Walker,35,Legendary Creature — Spirit,Myojin of Cleansing Fire enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Cleansing Fire has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Cleansing Fire: Destroy all other creatures.,CHK
+"Nagao, Bound by Honor",,Dave Dorman,36,Legendary Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever Nagao, Bound by Honor attacks, Samurai creatures you control get +1/+1 until end of turn.",CHK
+Otherworldly Journey,,Vance Kovacs,37,Instant — Arcane,"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.","CHK,DDC,MMA,DD3_DVD,MM2"
+Pious Kitsune,,Anthony S. Waters,38,Creature — Fox Cleric,"At the beginning of your upkeep, put a devotion counter on Pious Kitsune. Then if a creature named Eight-and-a-Half-Tails is on the battlefield, you gain 1 life for each devotion counter on Pious Kitsune.\n{T}, Remove a devotion counter from Pious Kitsune: You gain 1 life.",CHK
+Quiet Purity,,Shishizaru,39,Instant — Arcane,Destroy target enchantment.,CHK
+Reciprocate,,Pat Lee,40,Instant,Exile target creature that dealt damage to you this turn.,"pMPR,CHK,DDG"
+Reverse the Sands,,Jeremy Jarvis,41,Sorcery,Redistribute any number of players' life totals. (Each of those players gets one life total back.),CHK
+Samurai Enforcers,,Mitch Cotie,42,Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",CHK
+Samurai of the Pale Curtain,,Christopher Moeller,43,Creature — Fox Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf a permanent would be put into a graveyard, exile it instead.",CHK
+Sensei Golden-Tail,,Stephen Tappin,44,Legendary Creature — Fox Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{1}{W}, {T}: Put a training counter on target creature. That creature gains bushido 1 and becomes a Samurai in addition to its other creature types. Activate this ability only any time you could cast a sorcery.",CHK
+Silent-Chant Zubera,,Ben Thompson,45,Creature — Zubera Spirit,"When Silent-Chant Zubera dies, you gain 2 life for each Zubera that died this turn.",CHK
+"Takeno, Samurai General",,Matt Cavotta,46,Legendary Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\nEach other Samurai creature you control gets +1/+1 for each point of bushido it has.",CHK
+Terashi's Cry,,Jim Murray,47,Sorcery — Arcane,Tap up to three target creatures.,CHK
+Vassal's Duty,,Dave Dorman,48,Enchantment,{1}: The next 1 damage that would be dealt to target legendary creature you control this turn is dealt to you instead.,CHK
+Vigilance,,Tsutomu Kawade,49,Enchantment — Aura,Enchant creature\nEnchanted creature has vigilance. (Attacking doesn't cause it to tap.),CHK
+"Yosei, the Morning Star",,Hiro Izawa,50,Legendary Creature — Dragon Spirit,"Flying\nWhen Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.","CHK,MMA"
+Aura of Dominion,,Randy Gallegos,51,Enchantment — Aura,"Enchant creature\n{1}, Tap an untapped creature you control: Untap enchanted creature.",CHK
+"Azami, Lady of Scrolls",,Ittoku,52,Legendary Creature — Human Wizard,Tap an untapped Wizard you control: Draw a card.,"CHK,C13"
+Callous Deceiver,,Kensuke Okabayashi,53,Creature — Spirit,"{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, Callous Deceiver gets +1/+0 and gains flying until end of turn. Activate this ability only once each turn.",CHK
+Consuming Vortex,,Pete Venters,54,Instant — Arcane,"Return target creature to its owner's hand.\nSplice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Counsel of the Soratami,,Randy Gallegos,55,Sorcery,Draw two cards.,"CHK,9ED,10E"
+Cut the Tethers,,Ron Spears,56,Sorcery,"For each Spirit, return it to its owner's hand unless that player pays {3}.",CHK
+Dampen Thought,,Arnie Swekel,57,Instant — Arcane,"Target player puts the top four cards of his or her library into his or her graveyard.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)","CHK,MMA"
+Eerie Procession,,Jim Murray,58,Sorcery — Arcane,"Search your library for an Arcane card, reveal that card, and put it into your hand. Then shuffle your library.",CHK
+Eye of Nowhere,,Alan Pollack,59,Sorcery — Arcane,Return target permanent to its owner's hand.,CHK
+Field of Reality,,Christopher Rush,60,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by Spirits.
+{1}{U}: Return Field of Reality to its owner's hand.,CHK
+Floating-Dream Zubera,,Shishizaru,61,Creature — Zubera Spirit,"When Floating-Dream Zubera dies, draw a card for each Zubera that died this turn.",CHK
+Gifts Ungiven,,D. Alexander Gregory,62,Instant,Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.,"CHK,V09,MMA"
+Graceful Adept,,Scott M. Fischer,63,Creature — Human Wizard,You have no maximum hand size.,CHK
+Guardian of Solitude,,Stephen Tappin,64,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, target creature gains flying until end of turn.",CHK
+Hinder,,Wayne Reynolds,65,Instant,"Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner's library instead of into that player's graveyard.","pMPR,CHK"
+"Hisoka, Minamo Sensei",,Donato Giancola,66,Legendary Creature — Human Wizard,"{2}{U}, Discard a card: Counter target spell if it has the same converted mana cost as the discarded card.",CHK
+Hisoka's Defiance,,Greg Hildebrandt,67,Instant,Counter target Spirit or Arcane spell.,CHK
+Hisoka's Guard,,Wayne England,68,Creature — Human Wizard,"You may choose not to untap Hisoka's Guard during your untap step.\n{1}{U}, {T}: Target creature you control other than Hisoka's Guard has shroud for as long as Hisoka's Guard remains tapped. (It can't be the target of spells or abilities.)",CHK
+Honden of Seeing Winds,,Martina Pilcerova,69,Legendary Enchantment — Shrine,"At the beginning of your upkeep, draw a card for each Shrine you control.",CHK
+Jushi Apprentice,,Glen Angus,70a,Creature — Human Wizard,"{2}{U}, {T}: Draw a card. If you have nine or more cards in hand, flip Jushi Apprentice.",CHK
+Tomoya the Revealer,,Glen Angus,70b,Legendary Creature — Human Wizard,"{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.",CHK
+Kami of Twisted Reflection,,Mark Tedin,71,Creature — Spirit,Sacrifice Kami of Twisted Reflection: Return target creature you control to its owner's hand.,CHK
+"Keiga, the Tide Star",,Ittoku,72,Legendary Creature — Dragon Spirit,"Flying\nWhen Keiga, the Tide Star dies, gain control of target creature.","CHK,MMA"
+Lifted by Clouds,,Darrell Riche,73,Instant — Arcane,"Target creature gains flying until end of turn.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Meloku the Clouded Mirror,,Scott M. Fischer,74,Legendary Creature — Moonfolk Wizard,"Flying\n{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.","CHK,MMA"
+Myojin of Seeing Winds,,Kev Walker,75,Legendary Creature — Spirit,Myojin of Seeing Winds enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Seeing Winds has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Seeing Winds: Draw a card for each permanent you control.,CHK
+Mystic Restraints,,Christopher Rush,76,Enchantment — Aura,"Flash\nEnchant creature
+When Mystic Restraints enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",CHK
+Part the Veil,,Arnie Swekel,77,Instant — Arcane,Return all creatures you control to their owner's hand.,CHK
+Peer Through Depths,,Anthony S. Waters,78,Instant — Arcane,Look at the top five cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,"CHK,MMA"
+Petals of Insight,,Anthony S. Waters,79,Sorcery — Arcane,"Look at the top three cards of your library. You may put those cards on the bottom of your library in any order. If you do, return Petals of Insight to its owner's hand. Otherwise, draw three cards.","CHK,MMA"
+Psychic Puppetry,,Joel Thomas,80,Instant — Arcane,"You may tap or untap target permanent.\nSplice onto Arcane {U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Reach Through Mists,,Anthony S. Waters,81,Instant — Arcane,Draw a card.,"CHK,MMA"
+Reweave,,Alex Horley-Orlandelli,82,Instant — Arcane,"Target permanent's controller sacrifices it. If he or she does, that player reveals cards from the top of his or her library until he or she reveals a permanent card that shares a card type with the sacrificed permanent, puts that card onto the battlefield, then shuffles his or her library.\nSplice onto Arcane {2}{U}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+River Kaijin,,Luca Zontini,83,Creature — Spirit,,CHK
+Sift Through Sands,,Anthony S. Waters,84,Instant — Arcane,"Draw two cards, then discard a card.\nIf you've cast a spell named Peer Through Depths and a spell named Reach Through Mists this turn, you may search your library for a card named The Unspeakable, put it onto the battlefield, then shuffle your library.",CHK
+Sire of the Storm,,Arnie Swekel,85,Creature — Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, you may draw a card.",CHK
+Soratami Cloudskater,,Michael Sutfin,86,Creature — Moonfolk Rogue,"Flying\n{2}, Return a land you control to its owner's hand: Draw a card, then discard a card.",CHK
+Soratami Mirror-Guard,,Wayne England,87,Creature — Moonfolk Wizard,"Flying\n{2}, Return a land you control to its owner's hand: Target creature with power 2 or less can't be blocked this turn.",CHK
+Soratami Mirror-Mage,,Ron Spears,88,Creature — Moonfolk Wizard,"Flying\n{3}, Return three lands you control to their owner's hand: Return target creature to its owner's hand.",CHK
+Soratami Rainshaper,,Ittoku,89,Creature — Moonfolk Wizard,"Flying\n{3}, Return a land you control to its owner's hand: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)",CHK
+Soratami Savant,,Jim Nelson,90,Creature — Moonfolk Wizard,"Flying\n{3}, Return a land you control to its owner's hand: Counter target spell unless its controller pays {3}.",CHK
+Soratami Seer,,Glen Angus,91,Creature — Moonfolk Wizard,"Flying\n{4}, Return two lands you control to their owner's hand: Discard all the cards in your hand, then draw that many cards.",CHK
+Squelch,,Matt Cavotta,92,Instant,Counter target activated ability. (Mana abilities can't be targeted.)\nDraw a card.,CHK
+Student of Elements,,Ittoku,93a,Creature — Human Wizard,"When Student of Elements has flying, flip it.",CHK
+"Tobita, Master of Winds",,Ittoku,93b,Legendary Creature — Human Wizard,Creatures you control have flying.,CHK
+Swirl the Mists,,Arnie Swekel,94,Enchantment,"As Swirl the Mists enters the battlefield, choose a color word.\nAll instances of color words in the text of spells and permanents are changed to the chosen color word.",CHK
+Teller of Tales,,Jim Murray,95,Creature — Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, you may tap or untap target creature.",CHK
+Thoughtbind,,Rob Alexander,96,Instant,Counter target spell with converted mana cost 4 or less.,CHK
+Time Stop,,Scott M. Fischer,97,Instant,"End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)","CHK,10E"
+The Unspeakable,,Khang Le,98,Legendary Creature — Spirit,"Flying, trample\nWhenever The Unspeakable deals combat damage to a player, you may return target Arcane card from your graveyard to your hand.",CHK
+"Uyo, Silent Prophet",,John Bolton,99,Legendary Creature — Moonfolk Wizard,"Flying\n{2}, Return two lands you control to their owner's hand: Copy target instant or sorcery spell. You may choose new targets for the copy.","CHK,C13"
+Wandering Ones,,Heather Hudson,100,Creature — Spirit,,CHK
+Ashen-Skin Zubera,,Wayne Reynolds,101,Creature — Zubera Spirit,"When Ashen-Skin Zubera dies, target opponent discards a card for each Zubera that died this turn.",CHK
+Befoul,,Luca Zontini,102,Sorcery,Destroy target land or nonblack creature. It can't be regenerated.,"USG,7ED,CHK"
+Blood Speaker,,Adam Rex,103,Creature — Ogre Shaman,"At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library.\nWhenever a Demon enters the battlefield under your control, return Blood Speaker from your graveyard to your hand.",CHK
+Bloodthirsty Ogre,,Thomas M. Baxa,104,Creature — Ogre Warrior Shaman,"{T}: Put a devotion counter on Bloodthirsty Ogre.\n{T}: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate this ability only if you control a Demon.",CHK
+Cranial Extraction,,Dave Allsop,105,Sorcery — Arcane,"Name a nonland card. Search target player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.",CHK
+Cruel Deceiver,,Nottsuo,106,Creature — Spirit,"{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, Cruel Deceiver gains "Whenever Cruel Deceiver deals damage to a creature, destroy that creature" until end of turn. Activate this ability only once each turn.",CHK
+Cursed Ronin,,Carl Critchlow,107,Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{B}: Cursed Ronin gets +1/+1 until end of turn.",CHK
+Dance of Shadows,,Chippy,108,Sorcery — Arcane,Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.),CHK
+Deathcurse Ogre,,Mark Tedin,109,Creature — Ogre Warrior,"When Deathcurse Ogre dies, each player loses 3 life.",CHK
+Devouring Greed,,Vance Kovacs,110,Sorcery — Arcane,"As an additional cost to cast Devouring Greed, you may sacrifice any number of Spirits.\nTarget player loses 2 life plus 2 life for each Spirit sacrificed this way. You gain that much life.","CHK,MM2"
+Distress,,Michael Sutfin,111,Sorcery,Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.,"CHK,10E,M12"
+Gibbering Kami,,Jim Pavelec,112,Creature — Spirit,"Flying\nSoulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)",CHK
+Gutwrencher Oni,,Hideaki Takamura,113,Creature — Demon Spirit,"Trample\nAt the beginning of your upkeep, discard a card if you don't control an Ogre.",CHK
+He Who Hungers,,Kev Walker,114,Legendary Creature — Spirit,"Flying\n{1}, Sacrifice a Spirit: Target opponent reveals his or her hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.
+Soulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",CHK
+Hideous Laughter,,Greg Staples,115,Instant — Arcane,"All creatures get -2/-2 until end of turn.\nSplice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Honden of Night's Reach,,Jim Nelson,116,Legendary Enchantment — Shrine,"At the beginning of your upkeep, target opponent discards a card for each Shrine you control.",CHK
+"Horobi, Death's Wail",,John Bolton,117,Legendary Creature — Spirit,"Flying\nWhenever a creature becomes the target of a spell or ability, destroy that creature.",CHK
+"Iname, Death Aspect",,Justin Sweet,118,Legendary Creature — Spirit,"When Iname, Death Aspect enters the battlefield, you may search your library for any number of Spirit cards and put them into your graveyard. If you do, shuffle your library.",CHK
+Kami of Lunacy,,Daren Bader,119,Creature — Spirit,"Flying\nSoulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)",CHK
+Kami of the Waning Moon,,Matt Thompson,120,Creature — Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",CHK
+"Kiku, Night's Flower",,Jim Murray,121,Legendary Creature — Human Assassin,"{2}{B}{B}, {T}: Target creature deals damage to itself equal to its power.",CHK
+"Kokusho, the Evening Star",,Tsutomu Kawade,122,Legendary Creature — Dragon Spirit,"Flying\nWhen Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.","CHK,DRB,MMA"
+"Kuro, Pitlord",,Jon Foster,123,Legendary Creature — Demon Spirit,"At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.","CHK,DDC,DD3_DVD"
+Marrow-Gnawer,,Wayne Reynolds,124,Legendary Creature — Rat Rogue,"Rat creatures have fear. (They can't be blocked except by artifact creatures and/or black creatures.)\n{T}, Sacrifice a Rat: Put X 1/1 black Rat creature tokens onto the battlefield, where X is the number of Rats you control.",CHK
+Midnight Covenant,,Pete Venters,125,Enchantment — Aura,Enchant creature\nEnchanted creature has "{B}: This creature gets +1/+1 until end of turn.",CHK
+Myojin of Night's Reach,,Kev Walker,126,Legendary Creature — Spirit,Myojin of Night's Reach enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Night's Reach has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Night's Reach: Each opponent discards his or her hand.,CHK
+Nezumi Bone-Reader,,Dan Scott,127,Creature — Rat Shaman,"{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery.",CHK
+Nezumi Cutthroat,,Carl Critchlow,128,Creature — Rat Warrior,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nNezumi Cutthroat can't block.,CHK
+Nezumi Graverobber,,Jim Nelson,129a,Creature — Rat Rogue,"{1}{B}: Exile target card from an opponent's graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.","CHK,CMD"
+Nighteyes the Desecrator,,Jim Nelson,129b,Legendary Creature — Rat Wizard,{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.,"CHK,CMD"
+Nezumi Ronin,,Scott M. Fischer,130,Creature — Rat Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",CHK
+Nezumi Shortfang,,Daren Bader,131a,Creature — Rat Rogue,"{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.",CHK
+Stabwhisker the Odious,,Daren Bader,131b,Legendary Creature — Rat Shaman,"At the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.",CHK
+Night Dealings,,Darrell Riche,132,Enchantment,"Whenever a source you control deals damage to another player, put that many theft counters on Night Dealings.\n{2}{B}{B}, Remove X theft counters from Night Dealings: Search your library for a nonland card with converted mana cost X, reveal it, and put it into your hand. Then shuffle your library.",CHK
+Night of Souls' Betrayal,,Greg Staples,133,Legendary Enchantment,All creatures get -1/-1.,CHK
+Numai Outcast,,Adam Rex,134,Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\n{B}, Pay 5 life: Regenerate Numai Outcast.",CHK
+Oni Possession,,Aleksi Briclot,135,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, sacrifice a creature.
+Enchanted creature gets +3/+3 and has trample.
+Enchanted creature is a Demon Spirit.","CHK,DDC,DD3_DVD"
+Painwracker Oni,,Hideaki Takamura,136,Creature — Demon Spirit,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nAt the beginning of your upkeep, sacrifice a creature if you don't control an Ogre.",CHK
+Pull Under,,Ron Spencer,137,Instant — Arcane,Target creature gets -5/-5 until end of turn.,CHK
+Rag Dealer,,Ralph Horsley,138,Creature — Human Rogue,"{2}{B}, {T}: Exile up to three target cards from a single graveyard.",CHK
+Ragged Veins,,Chippy,139,Enchantment — Aura,"Flash\nEnchant creature
+Whenever enchanted creature is dealt damage, its controller loses that much life.",CHK
+Rend Flesh,,Stephen Tappin,140,Instant — Arcane,Destroy target non-Spirit creature.,CHK
+Rend Spirit,,Stephen Tappin,141,Instant,Destroy target Spirit.,CHK
+Scuttling Death,,Thomas M. Baxa,142,Creature — Spirit,"Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)","CHK,MM2"
+"Seizan, Perverter of Truth",,Kev Walker,143,Legendary Creature — Demon Spirit,"At the beginning of each player's upkeep, that player loses 2 life and draws two cards.",CHK
+Soulless Revival,,Ron Spencer,144,Instant — Arcane,"Return target creature card from your graveyard to your hand.\nSplice onto Arcane {1}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Struggle for Sanity,,Randy Gallegos,145,Sorcery,"Target opponent reveals his or her hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards he or she exiled this way to his or her hand and puts the rest into his or her graveyard.",CHK
+Swallowing Plague,,Dave Dorman,146,Sorcery — Arcane,Swallowing Plague deals X damage to target creature and you gain X life.,CHK
+Thief of Hope,,Tim Hildebrandt,147,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, target opponent loses 1 life and you gain 1 life.\nSoulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)","CHK,MM2"
+Villainous Ogre,,Tony Szczudlo,148,Creature — Ogre Warrior,"Villainous Ogre can't block.\nAs long as you control a Demon, Villainous Ogre has "{B}: Regenerate Villainous Ogre."",CHK
+Waking Nightmare,,Mitch Cotie,149,Sorcery — Arcane,Target player discards two cards.,"CHK,MM2"
+Wicked Akuba,,Ittoku,150,Creature — Spirit,{B}: Target player dealt damage by Wicked Akuba this turn loses 1 life.,CHK
+Akki Avalanchers,,Matt Thompson,151,Creature — Goblin Warrior,Sacrifice a land: Akki Avalanchers gets +2/+0 until end of turn. Activate this ability only once each turn.,CHK
+Akki Coalflinger,,Nottsuo,152,Creature — Goblin Shaman,"First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn.","CHK,EVG,DD3_EVG"
+Akki Lavarunner,,Matt Cavotta,153a,Creature — Goblin Warrior,"Haste\nWhenever Akki Lavarunner deals damage to an opponent, flip it.",CHK
+"Tok-Tok, Volcano Born",,Matt Cavotta,153b,Legendary Creature — Goblin Shaman,"Protection from red\nIf a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.",CHK
+Akki Rockspeaker,,David Martin,154,Creature — Goblin Shaman,"When Akki Rockspeaker enters the battlefield, add {R} to your mana pool.",CHK
+Akki Underminer,,Thomas M. Baxa,155,Creature — Goblin Rogue Shaman,"Whenever Akki Underminer deals combat damage to a player, that player sacrifices a permanent.",CHK
+Battle-Mad Ronin,,Wayne England,156,Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\nBattle-Mad Ronin attacks each turn if able.",CHK
+"Ben-Ben, Akki Hermit",,Greg Staples,157,Legendary Creature — Goblin Shaman,"{T}: Ben-Ben, Akki Hermit deals damage to target attacking creature equal to the number of untapped Mountains you control.",CHK
+Blind with Anger,,Dave Dorman,158,Instant — Arcane,Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn.,CHK
+Blood Rites,,Paolo Parente,159,Enchantment,"{1}{R}, Sacrifice a creature: Blood Rites deals 2 damage to target creature or player.","CHK,C13"
+Brothers Yamazaki,,Ron Spears,160a,Legendary Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the "legend rule" doesn't apply to them.
+Each other creature named Brothers Yamazaki gets +2/+2 and has haste.",CHK
+Brothers Yamazaki,,Ron Spears,160b,Legendary Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the "legend rule" doesn't apply to them.
+Each other creature named Brothers Yamazaki gets +2/+2 and has haste.",CHK
+Brutal Deceiver,,Jon Foster,161,Creature — Spirit,"{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, Brutal Deceiver gets +1/+0 and gains first strike until end of turn. Activate this ability only once each turn.",CHK
+Crushing Pain,,Carl Critchlow,162,Instant — Arcane,Crushing Pain deals 6 damage to target creature that was dealt damage this turn.,CHK
+Desperate Ritual,,Darrell Riche,163,Instant — Arcane,"Add {R}{R}{R} to your mana pool.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)","CHK,MMA"
+Devouring Rage,,Vance Kovacs,164,Instant — Arcane,"As an additional cost to cast Devouring Rage, you may sacrifice any number of Spirits.\nTarget creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn.",CHK
+Earthshaker,,Ron Spencer,165,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.",CHK
+Ember-Fist Zubera,,Ron Spencer,166,Creature — Zubera Spirit,"When Ember-Fist Zubera dies, it deals damage to target creature or player equal to the number of Zubera that died this turn.",CHK
+Frostwielder,,Christopher Moeller,167,Creature — Human Shaman,"{T}: Frostwielder deals 1 damage to target creature or player.\nIf a creature dealt damage by Frostwielder this turn would die, exile it instead.",CHK
+Glacial Ray,,Jim Murray,168,Instant — Arcane,"Glacial Ray deals 2 damage to target creature or player.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)","pARL,CHK,MMA"
+"Godo, Bandit Warlord",,Paolo Parente,169,Legendary Creature — Human Barbarian,"When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.\nWhenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.",CHK
+Hanabi Blast,,Paolo Parente,170,Instant,"Hanabi Blast deals 2 damage to target creature or player. Return Hanabi Blast to its owner's hand, then discard a card at random.",CHK
+Hearth Kami,,Luca Zontini,171,Creature — Spirit,"{X}, Sacrifice Hearth Kami: Destroy target artifact with converted mana cost X.",CHK
+Honden of Infinite Rage,,John Avon,172,Legendary Enchantment — Shrine,"At the beginning of your upkeep, Honden of Infinite Rage deals damage to target creature or player equal to the number of Shrines you control.",CHK
+Initiate of Blood,,Carl Critchlow,173a,Creature — Ogre Shaman,"{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.",CHK
+Goka the Unjust,,Carl Critchlow,173b,Legendary Creature — Ogre Shaman,{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.,CHK
+Kami of Fire's Roar,,Dave Dorman,174,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, target creature can't block this turn.",CHK
+"Kiki-Jiki, Mirror Breaker",,Pete Venters,175,Legendary Creature — Goblin Shaman,Haste\n{T}: Put a token that's a copy of target nonlegendary creature you control onto the battlefield. That token has haste. Sacrifice it at the beginning of the next end step.,"CHK,V11,MMA,MM2"
+"Kumano, Master Yamabushi",,Adam Rex,176,Legendary Creature — Human Shaman,"{1}{R}: Kumano, Master Yamabushi deals 1 damage to target creature or player.\nIf a creature dealt damage by Kumano this turn would die, exile it instead.",CHK
+Kumano's Pupils,,Greg Hildebrandt,177,Creature — Human Shaman,"If a creature dealt damage by Kumano's Pupils this turn would die, exile it instead.",CHK
+Lava Spike,,Mark Tedin,178,Sorcery — Arcane,Lava Spike deals 3 damage to target player.,"CHK,MMA"
+Mana Seism,,"Edward P. Beard, Jr.",179,Sorcery,Sacrifice any number of lands. Add {1} to your mana pool for each land sacrificed this way.,CHK
+Mindblaze,,John Avon,180,Sorcery,"Name a nonland card and choose a number greater than 0. Target player reveals his or her library. If that library contains exactly the chosen number of the named card, Mindblaze deals 8 damage to that player. Then that player shuffles his or her library.",CHK
+Myojin of Infinite Rage,,Kev Walker,181,Legendary Creature — Spirit,Myojin of Infinite Rage enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Infinite Rage has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Infinite Rage: Destroy all lands.,CHK
+Ore Gorger,,rk post,182,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land.",CHK
+Pain Kami,,Tomas Giorello,183,Creature — Spirit,"{X}{R}, Sacrifice Pain Kami: Pain Kami deals X damage to target creature.",CHK
+Ronin Houndmaster,,"Edward P. Beard, Jr.",184,Creature — Human Samurai,"Haste\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",CHK
+"Ryusei, the Falling Star",,Nottsuo,185,Legendary Creature — Dragon Spirit,"Flying\nWhen Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.","pPRE,CHK,ARC,MMA"
+Shimatsu the Bloodcloaked,,Dave Allsop,186,Legendary Creature — Demon Spirit,"As Shimatsu the Bloodcloaked enters the battlefield, sacrifice any number of permanents. Shimatsu enters the battlefield with that many +1/+1 counters on it.",CHK
+Sideswipe,,Ron Spears,187,Instant,You may change any targets of target Arcane spell.,CHK
+Sokenzan Bruiser,,Paolo Parente,188,Creature — Ogre Warrior,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),CHK
+Soul of Magma,,Darrell Riche,189,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, Soul of Magma deals 1 damage to target creature.",CHK
+Soulblast,,Wayne Reynolds,190,Instant,"As an additional cost to cast Soulblast, sacrifice all creatures you control.\nSoulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.","CHK,10E"
+Stone Rain,,Greg Staples,191,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED"
+Strange Inversion,,Khang Le,192,Instant — Arcane,"Switch target creature's power and toughness until end of turn.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Through the Breach,,Hugh Jamieson,193,Instant — Arcane,"You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.\nSplice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Tide of War,,Wayne Reynolds,194,Enchantment,"Whenever one or more creatures block, flip a coin. If you win the flip, each blocking creature is sacrificed by its controller. If you lose the flip, each blocked creature is sacrificed by its controller.",CHK
+Uncontrollable Anger,,Matt Thompson,195,Enchantment — Aura,Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.,"CHK,10E,CNS"
+Unearthly Blizzard,,Joel Thomas,196,Sorcery — Arcane,Up to three target creatures can't block this turn.,CHK
+Unnatural Speed,,Wayne Reynolds,197,Instant — Arcane,Target creature gains haste until end of turn.,CHK
+Yamabushi's Flame,,Christopher Moeller,198,Instant,"Yamabushi's Flame deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.",CHK
+Yamabushi's Storm,,Wayne England,199,Sorcery,"Yamabushi's Storm deals 1 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.",CHK
+Zo-Zu the Punisher,,Matt Cavotta,200,Legendary Creature — Goblin Warrior,"Whenever a land enters the battlefield, Zo-Zu the Punisher deals 2 damage to that land's controller.",CHK
+"Azusa, Lost but Seeking",,Todd Lockwood,201,Legendary Creature — Human Monk,You may play two additional lands on each of your turns.,CHK
+Budoka Gardener,,Kev Walker,202a,Creature — Human Monk,"{T}: You may put a land card from your hand onto the battlefield. If you control ten or more lands, flip Budoka Gardener.",CHK
+"Dokai, Weaver of Life",,Kev Walker,202b,Legendary Creature — Human Monk,"{4}{G}{G}, {T}: Put an X/X green Elemental creature token onto the battlefield, where X is the number of lands you control.",CHK
+Burr Grafter,,Heather Hudson,203,Creature — Spirit,"Sacrifice Burr Grafter: Target creature gets +2/+2 until end of turn.\nSoulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)",CHK
+Commune with Nature,,"Edward P. Beard, Jr.",204,Sorcery,Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.,"CHK,10E,MM2"
+Dosan the Falling Leaf,,Mark Zug,205,Legendary Creature — Human Monk,Players can cast spells only during their own turns.,CHK
+Dripping-Tongue Zubera,,Tsutomu Kawade,206,Creature — Zubera Spirit,"When Dripping-Tongue Zubera dies, put a 1/1 colorless Spirit creature token onto the battlefield for each Zubera that died this turn.",CHK
+Feast of Worms,,Chippy,207,Sorcery — Arcane,"Destroy target land. If that land was legendary, its controller sacrifices another land.",CHK
+Feral Deceiver,,Glen Angus,208,Creature — Spirit,"{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.",CHK
+Gale Force,,Lars Grant-West,209,Sorcery,Gale Force deals 5 damage to each creature with flying.,CHK
+Glimpse of Nature,,Shishizaru,210,Sorcery,"Whenever you cast a creature spell this turn, draw a card.",CHK
+Hana Kami,,Rebecca Guay,211,Creature — Spirit,"{1}{G}, Sacrifice Hana Kami: Return target Arcane card from your graveyard to your hand.","CHK,MMA"
+Heartbeat of Spring,,Rob Alexander,212,Enchantment,"Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.",CHK
+Honden of Life's Web,,Rob Alexander,213,Legendary Enchantment — Shrine,"At the beginning of your upkeep, put a 1/1 colorless Spirit creature token onto the battlefield for each Shrine you control.",CHK
+Humble Budoka,,Christopher Moeller,214,Creature — Human Monk,Shroud (This creature can't be the target of spells or abilities.),CHK
+"Iname, Life Aspect",,Justin Sweet,215,Legendary Creature — Spirit,"When Iname, Life Aspect dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand.",CHK
+Joyous Respite,,Rebecca Guay,216,Sorcery — Arcane,You gain 1 life for each land you control.,CHK
+"Jugan, the Rising Star",,Shishizaru,217,Legendary Creature — Dragon Spirit,"Flying\nWhen Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures.","CHK,MMA"
+Jukai Messenger,,Terese Nielsen,218,Creature — Human Monk,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),CHK
+Kami of the Hunt,,Alex Horley-Orlandelli,219,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, Kami of the Hunt gets +1/+1 until end of turn.",CHK
+Kashi-Tribe Reaver,,Anthony S. Waters,220,Creature — Snake Warrior,"Whenever Kashi-Tribe Reaver deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.\n{1}{G}: Regenerate Kashi-Tribe Reaver.",CHK
+Kashi-Tribe Warriors,,Stephen Tappin,221,Creature — Snake Warrior,"Whenever Kashi-Tribe Warriors deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",CHK
+Kodama of the North Tree,,Shishizaru,222,Legendary Creature — Spirit,Trample\nShroud (This creature can't be the target of spells or abilities.),CHK
+Kodama of the South Tree,,Ron Spears,223,Legendary Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, each other creature you control gets +1/+1 and gains trample until end of turn.",CHK
+Kodama's Might,,Terese Nielsen,224,Instant — Arcane,"Target creature gets +2/+2 until end of turn.\nSplice onto Arcane {G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+Kodama's Reach,,Heather Hudson,225,Sorcery — Arcane,"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.","CHK,CMD,MMA,C15"
+Lure,,D. Alexander Gregory,226,Enchantment — Aura,Enchant creature\nAll creatures able to block enchanted creature do so.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,6ED,MMQ,7ED,8ED,CHK,10E,M12"
+Matsu-Tribe Decoy,,Alan Pollack,227,Creature — Snake Warrior,"{2}{G}: Target creature blocks Matsu-Tribe Decoy this turn if able.\nWhenever Matsu-Tribe Decoy deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",CHK
+Moss Kami,,Hugh Jamieson,228,Creature — Spirit,Trample,CHK
+Myojin of Life's Web,,Kev Walker,229,Legendary Creature — Spirit,Myojin of Life's Web enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Life's Web has indestructible as long as it has a divinity counter on it.
+Remove a divinity counter from Myojin of Life's Web: Put any number of creature cards from your hand onto the battlefield.,CHK
+Nature's Will,,Mitch Cotie,230,Enchantment,"Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control.",CHK
+Orbweaver Kumo,,Dan Scott,231,Creature — Spirit,"Reach (This creature can block creatures with flying.)\nWhenever you cast a Spirit or Arcane spell, Orbweaver Kumo gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",CHK
+Order of the Sacred Bell,,Carl Critchlow,232,Creature — Human Monk,,"CHK,9ED"
+Orochi Eggwatcher,,Dan Scott,233a,Creature — Snake Shaman,"{2}{G}, {T}: Put a 1/1 green Snake creature token onto the battlefield. If you control ten or more creatures, flip Orochi Eggwatcher.",CHK
+"Shidako, Broodmistress",,Dan Scott,233b,Legendary Creature — Snake Shaman,"{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.",CHK
+Orochi Leafcaller,,Joel Thomas,234,Creature — Snake Shaman,{G}: Add one mana of any color to your mana pool.,CHK
+Orochi Ranger,,Greg Hildebrandt,235,Creature — Snake Warrior,"Whenever Orochi Ranger deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",CHK
+Orochi Sustainer,,rk post,236,Creature — Snake Shaman,{T}: Add {G} to your mana pool.,CHK
+Rootrunner,,Adam Rex,237,Creature — Spirit,"{G}{G}, Sacrifice Rootrunner: Put target land on top of its owner's library.\nSoulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)",CHK
+"Sachi, Daughter of Seshiro",,Nottsuo,238,Legendary Creature — Snake Shaman,Other Snake creatures you control get +0/+1.\nShamans you control have "{T}: Add {G}{G} to your mana pool.",CHK
+Sakura-Tribe Elder,,Carl Critchlow,239,Creature — Snake Shaman,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.","pSUS,pFNM,CHK,ARC,CMD,C13,CNS,C15"
+Serpent Skin,,Rob Alexander,240,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets +1/+1.
+{G}: Regenerate enchanted creature.,CHK
+Seshiro the Anointed,,Daren Bader,241,Legendary Creature — Snake Monk,"Other Snake creatures you control get +2/+2.\nWhenever a Snake you control deals combat damage to a player, you may draw a card.",CHK
+"Shisato, Whispering Hunter",,John Bolton,242,Legendary Creature — Snake Warrior,"At the beginning of your upkeep, sacrifice a Snake.\nWhenever Shisato, Whispering Hunter deals combat damage to a player, that player skips his or her next untap step.",CHK
+Soilshaper,,Thomas M. Baxa,243,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, target land becomes a 3/3 creature until end of turn. It's still a land.",CHK
+"Sosuke, Son of Seshiro",,Carl Critchlow,244,Legendary Creature — Snake Warrior,"Other Snake creatures you control get +1/+0.\nWhenever a Warrior you control deals combat damage to a creature, destroy that creature at end of combat.",CHK
+Strength of Cedars,,"Edward P. Beard, Jr.",245,Instant — Arcane,"Target creature gets +X/+X until end of turn, where X is the number of lands you control.",CHK
+Thousand-legged Kami,,Nottsuo,246,Creature — Spirit,"Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)",CHK
+Time of Need,,Dany Orizio,247,Sorcery,"Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.",CHK
+Venerable Kumo,,Carl Critchlow,248,Creature — Spirit,"Reach (This creature can block creatures with flying.)\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",CHK
+Vine Kami,,Tsutomu Kawade,249,Creature — Spirit,"Menace (This creature can't be blocked except by two or more creatures.)\nSoulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",CHK
+Wear Away,,Tim Hildebrandt,250,Instant — Arcane,"Destroy target artifact or enchantment.\nSplice onto Arcane {3}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",CHK
+General's Kabuto,,Alex Horley-Orlandelli,251,Artifact — Equipment,Equipped creature has shroud. (It can't be the target of spells or abilities.)\nPrevent all combat damage that would be dealt to equipped creature.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),CHK
+Hair-Strung Koto,,Rebecca Guay,252,Artifact,Tap an untapped creature you control: Target player puts the top card of his or her library into his or her graveyard.,CHK
+Hankyu,,Ben Thompson,253,Artifact — Equipment,"Equipped creature has "{T}: Put an aim counter on Hankyu" and "{T}, Remove all aim counters from Hankyu: This creature deals damage to target creature or player equal to the number of aim counters removed this way."\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery.)",CHK
+Honor-Worn Shaku,,Tony Szczudlo,254,Artifact,{T}: Add {1} to your mana pool.\nTap an untapped legendary permanent you control: Untap Honor-Worn Shaku.,CHK
+Imi Statue,,Todd Lockwood,255,Artifact,Players can't untap more than one artifact during their untap steps.,CHK
+Jade Idol,,Ben Thompson,256,Artifact,"Whenever you cast a Spirit or Arcane spell, Jade Idol becomes a 4/4 Spirit artifact creature until end of turn.",CHK
+Journeyer's Kite,,Hiro Izawa,257,Artifact,"{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.","CHK,DDI"
+Junkyo Bell,,Kensuke Okabayashi,258,Artifact,"At the beginning of your upkeep, you may have target creature you control get +X/+X until end of turn, where X is the number of creatures you control. If you do, sacrifice that creature at the beginning of the next end step.",CHK
+Konda's Banner,,Donato Giancola,259,Legendary Artifact — Equipment,Konda's Banner can be attached only to a legendary creature.\nCreatures that share a color with equipped creature get +1/+1.
+Creatures that share a creature type with equipped creature get +1/+1.
+Equip {2},CHK
+Kusari-Gama,,Tomas Giorello,260,Artifact — Equipment,"Equipped creature has "{2}: This creature gets +1/+0 until end of turn."\nWhenever equipped creature deals damage to a blocking creature, Kusari-Gama deals that much damage to each other creature defending player controls.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",CHK
+Long-Forgotten Gohei,,Alan Pollack,261,Artifact,Arcane spells you cast cost {1} less to cast.\nSpirit creatures you control get +1/+1.,"CHK,MM2"
+Moonring Mirror,,Christopher Rush,262,Artifact,"Whenever you draw a card, exile the top card of your library face down.\nAt the beginning of your upkeep, you may exile all cards from your hand face down. If you do, put all other cards you own exiled with Moonring Mirror into your hand.",CHK
+Nine-Ringed Bo,,Ralph Horsley,263,Artifact,"{T}: Nine-Ringed Bo deals 1 damage to target Spirit creature. If that creature would die this turn, exile it instead.",CHK
+No-Dachi,,Christopher Rush,264,Artifact — Equipment,Equipped creature gets +2/+0 and has first strike.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),CHK
+"Oathkeeper, Takeno's Daisho",,Arnie Swekel,265,Legendary Artifact — Equipment,"Equipped creature gets +3/+1.\nWhenever equipped creature dies, return that card to the battlefield under your control if it's a Samurai card.
+When Oathkeeper, Takeno's Daisho is put into a graveyard from the battlefield, exile equipped creature.
+Equip {2}",CHK
+Orochi Hatchery,,Alex Horley-Orlandelli,266,Artifact,"Orochi Hatchery enters the battlefield with X charge counters on it.\n{5}, {T}: Put a 1/1 green Snake creature token onto the battlefield for each charge counter on Orochi Hatchery.","CHK,C15"
+Reito Lantern,,Tim Hildebrandt,267,Artifact,{3}: Put target card from a graveyard on the bottom of its owner's library.,"CHK,CNS"
+Sensei's Divining Top,,Michael Sutfin,268,Artifact,"{1}: Look at the top three cards of your library, then put them back in any order.\n{T}: Draw a card, then put Sensei's Divining Top on top of its owner's library.","CHK,V09"
+Shell of the Last Kappa,,David Martin,269,Legendary Artifact,"{3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.)\n{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a card exiled with Shell of the Last Kappa without paying its mana cost.",CHK
+"Tatsumasa, the Dragon's Fang",,Martina Pilcerova,270,Legendary Artifact — Equipment,"Equipped creature gets +5/+5.\n{6}, Exile Tatsumasa, the Dragon's Fang: Put a 5/5 blue Dragon Spirit creature token with flying onto the battlefield. Return Tatsumasa to the battlefield under its owner's control when that token dies.
+Equip {3}",CHK
+"Tenza, Godo's Maul",,Paolo Parente,271,Legendary Artifact — Equipment,"Equipped creature gets +1/+1. As long as it's legendary, it gets an additional +2/+2. As long as it's red, it has trample.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",CHK
+Uba Mask,,Randy Gallegos,272,Artifact,"If a player would draw a card, that player exiles that card face up instead.\nEach player may play cards he or she exiled with Uba Mask this turn.",CHK
+"Boseiju, Who Shelters All",,Ralph Horsley,273,Legendary Land,"Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {1} to your mana pool. If that mana is spent on an instant or sorcery spell, that spell can't be countered by spells or abilities.","CHK,V12"
+Cloudcrest Lake,,John Avon,274,Land,{T}: Add {1} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Cloudcrest Lake doesn't untap during your next untap step.,CHK
+Eiganjo Castle,,Wayne England,275,Legendary Land,"{T}: Add {W} to your mana pool.\n{W}, {T}: Prevent the next 2 damage that would be dealt to target legendary creature this turn.",CHK
+Forbidden Orchard,,Dany Orizio,276,Land,"{T}: Add one mana of any color to your mana pool.\nWhenever you tap Forbidden Orchard for mana, target opponent puts a 1/1 colorless Spirit creature token onto the battlefield.","CHK,V12"
+Hall of the Bandit Lord,,Paolo Parente,277,Legendary Land,"Hall of the Bandit Lord enters the battlefield tapped.\n{T}, Pay 3 life: Add {1} to your mana pool. If that mana is spent on a creature spell, it gains haste.",CHK
+Lantern-Lit Graveyard,,John Avon,278,Land,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Lantern-Lit Graveyard doesn't untap during your next untap step.,CHK
+"Minamo, School at Water's Edge",,Jeremy Jarvis,279,Legendary Land,"{T}: Add {U} to your mana pool.\n{U}, {T}: Untap target legendary permanent.",CHK
+"Okina, Temple to the Grandfathers",,Keith Garletts,280,Legendary Land,"{T}: Add {G} to your mana pool.\n{G}, {T}: Target legendary creature gets +1/+1 until end of turn.",CHK
+Pinecrest Ridge,,John Avon,281,Land,{T}: Add {1} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Pinecrest Ridge doesn't untap during your next untap step.,CHK
+"Shinka, the Bloodsoaked Keep",,Thomas M. Baxa,282,Legendary Land,"{T}: Add {R} to your mana pool.\n{R}, {T}: Target legendary creature gains first strike until end of turn.",CHK
+"Shizo, Death's Storehouse",,John Matson,283,Legendary Land,"{T}: Add {B} to your mana pool.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",CHK
+Tranquil Garden,,John Avon,284,Land,{T}: Add {1} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Tranquil Garden doesn't untap during your next untap step.,CHK
+"Untaidake, the Cloud Keeper",,John Avon,285,Legendary Land,"Untaidake, the Cloud Keeper enters the battlefield tapped.\n{T}, Pay 2 life: Add {2} to your mana pool. Spend this mana only to cast legendary spells.",CHK
+Waterveil Cavern,,John Avon,286,Land,{T}: Add {1} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Waterveil Cavern doesn't untap during your next untap step.,CHK
+Plains,,Greg Staples,287,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Greg Staples,288,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Greg Staples,289,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Greg Staples,290,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Martina Pilcerova,291,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Martina Pilcerova,292,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Martina Pilcerova,293,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Martina Pilcerova,294,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Jim Nelson,295,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Jim Nelson,296,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Jim Nelson,297,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Jim Nelson,298,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,299,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,300,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,301,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,302,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,303,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,304,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,305,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,306,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

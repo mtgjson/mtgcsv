@@ -1,0 +1,163 @@
+name,cost,artist,number,type,text,printings
+Aerie Mystics,,Mark Zug,1,Creature — Bird Wizard,Flying\n{1}{G}{U}: Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.),"CON,C13"
+Asha's Favor,,Donato Giancola,2,Enchantment — Aura,"Enchant creature\nEnchanted creature has flying, first strike, and vigilance.",CON
+Aven Squire,,David Palumbo,3,Creature — Bird Soldier,"Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)","CON,M13"
+Aven Trailblazer,,Chris Rahn,4,Creature — Bird Soldier,Flying\nDomain — Aven Trailblazer's toughness is equal to the number of basic land types among lands you control.,CON
+Celestial Purge,,David Palumbo,5,Instant,Exile target black or red permanent.,"pMPR,CON,M10,M11,M12,MM2"
+Court Homunculus,,Matt Cavotta,6,Artifact Creature — Homunculus,Court Homunculus gets +1/+1 as long as you control another artifact.,"CON,MMA,MM2"
+Darklit Gargoyle,,Howard Lyon,7,Artifact Creature — Gargoyle,Flying\n{B}: Darklit Gargoyle gets +2/-1 until end of turn.,CON
+Gleam of Resistance,,Matt Stewart,8,Instant,"Creatures you control get +1/+2 until end of turn. Untap those creatures.\nBasic landcycling {1}{W} ({1}{W}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,MMA"
+Lapse of Certainty,,Anthony Francisco,9,Instant,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.",CON
+Mark of Asylum,,Sal Villagran,10,Enchantment,Prevent all noncombat damage that would be dealt to creatures you control.,CON
+Martial Coup,,Greg Staples,11,Sorcery,"Put X 1/1 white Soldier creature tokens onto the battlefield. If X is 5 or more, destroy all other creatures.","CON,V14,C14"
+Mirror-Sigil Sergeant,,Chris Rahn,12,Creature — Rhino Soldier,"Trample\nAt the beginning of your upkeep, if you control a blue permanent, you may put a token that's a copy of Mirror-Sigil Sergeant onto the battlefield.",CON
+Nacatl Hunt-Pride,,Steve Prescott,13,Creature — Cat Warrior,"Vigilance\n{R}, {T}: Target creature can't block this turn.
+{G}, {T}: Target creature blocks this turn if able.","CON,DDH"
+Paragon of the Amesha,,Chris Rahn,14,Creature — Human Knight,"First strike\n{W}{U}{B}{R}{G}: Until end of turn, Paragon of the Amesha becomes an Angel, gets +3/+3, and gains flying and lifelink.",CON
+Path to Exile,,Todd Lockwood,15,Instant,"Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.","pWPN,CON,ARC,CMD,DDI,MMA,MD1"
+Rhox Meditant,,Donato Giancola,16,Creature — Rhino Monk,"When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.",CON
+Scepter of Dominance,,Howard Lyon,17,Artifact,"{W}, {T}: Tap target permanent.",CON
+Sigil of the Empty Throne,,Cyril Van Der Haegen,18,Enchantment,"Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.","CON,PC2,ORI,C15"
+Valiant Guard,,Chris Rahn,19,Creature — Human Soldier,,CON
+Wall of Reverence,,Wayne Reynolds,20,Creature — Spirit Wall,"Defender, flying\nAt the beginning of your end step, you may gain life equal to the power of target creature you control.","CON,C13"
+Brackwater Elemental,,Thomas M. Baxa,21,Creature — Elemental,"When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.\nUnearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","CON,DDH"
+Constricting Tendrils,,David Palumbo,22,Instant,"Target creature gets -3/-0 until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",CON
+Controlled Instincts,,Ralph Horsley,23,Enchantment — Aura,Enchant red or green creature\nEnchanted creature doesn't untap during its controller's untap step.,CON
+Cumber Stone,,Warren Mahy,24,Artifact,Creatures your opponents control get -1/-0.,CON
+Esperzoa,,Warren Mahy,25,Artifact Creature — Jellyfish,"Flying\nAt the beginning of your upkeep, return an artifact you control to its owner's hand.","CON,DDF,MMA"
+Ethersworn Adjudicator,,Dan Scott,26,Artifact Creature — Vedalken Knight,"Flying\n{1}{W}{B}, {T}: Destroy target creature or enchantment.
+{2}{U}: Untap Ethersworn Adjudicator.",CON
+Faerie Mechanist,,Matt Cavotta,27,Artifact Creature — Faerie Artificer,"Flying\nWhen Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.","CON,DDF,MMA,MM2"
+Frontline Sage,,Volkan Baga,28,Creature — Human Wizard,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{U}, {T}: Draw a card, then discard a card.",CON
+Grixis Illusionist,,Mark Tedin,29,Creature — Human Wizard,{T}: Target land you control becomes the basic land type of your choice until end of turn.,"CON,CNS"
+Inkwell Leviathan,,Anthony Francisco,30,Artifact Creature — Leviathan,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nTrample
+Shroud (This creature can't be the target of spells or abilities.),"CON,PD3,DDO"
+Master Transmuter,,Chippy,31,Artifact Creature — Human Artificer,"{U}, {T}, Return an artifact you control to its owner's hand: You may put an artifact card from your hand onto the battlefield.","CON,ARC"
+Parasitic Strix,,Steven Belledin,32,Artifact Creature — Bird,"Flying\nWhen Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.",CON
+Scepter of Insight,,Steven Belledin,33,Artifact,"{3}{U}, {T}: Draw a card.",CON
+Scornful Æther-Lich,,Steven Belledin,34,Artifact Creature — Zombie Wizard,"{W}{B}: Scornful Æther-Lich gains fear and vigilance until end of turn. (Attacking doesn't cause it to tap, and it can't be blocked except by artifact creatures and/or black creatures.)",CON
+Telemin Performance,,Izzy,35,Sorcery,"Target opponent reveals cards from the top of his or her library until he or she reveals a creature card. That player puts all noncreature cards revealed this way into his or her graveyard, then you put the creature card onto the battlefield under your control.",CON
+Traumatic Visions,,Cyril Van Der Haegen,36,Instant,"Counter target spell.\nBasic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,MMA,DDN"
+Unsummon,,Izzy,37,Instant,Return target creature to its owner's hand.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,6ED,7ED,8ED,10E,CON,M10,DPA,M11,M12,M13"
+View from Above,,Howard Lyon,38,Instant,"Target creature gains flying until end of turn. If you control a white permanent, return View from Above to its owner's hand.",CON
+Worldly Counsel,,Matt Cavotta,39,Instant,"Domain — Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.","INV,CON"
+Absorb Vis,,Brandon Kitkouski,40,Sorcery,"Target player loses 4 life and you gain 4 life.\nBasic landcycling {1}{B} ({1}{B}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,DDK,MMA"
+Corrupted Roots,,Mark Hyzer,41,Enchantment — Aura,"Enchant Forest or Plains\nWhenever enchanted land becomes tapped, its controller loses 2 life.",CON
+Drag Down,,Trevor Claxton,42,Instant,Domain — Target creature gets -1/-1 until end of turn for each basic land type among lands you control.,"CON,MMA"
+Dreadwing,,Mark Hyzer,43,Creature — Zombie,{1}{U}{R}: Dreadwing gets +3/+0 and gains flying until end of turn.,CON
+Extractor Demon,,Carl Critchlow,44,Creature — Demon,"Flying\nWhenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.
+Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","CON,ARC,CMD,C15"
+Fleshformer,,Dave Kendall,45,Creature — Human Wizard,{W}{U}{B}{R}{G}: Fleshformer gets +2/+2 and gains fear until end of turn. Target creature gets -2/-2 until end of turn. Activate this ability only during your turn. (A creature with fear can't be blocked except by artifact creatures and/or black creatures.),CON
+Grixis Slavedriver,,Dave Kendall,46,Creature — Zombie Giant,"When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.\nUnearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",CON
+Infectious Horror,,Pete Venters,47,Creature — Zombie Horror,"Whenever Infectious Horror attacks, each opponent loses 2 life.","CON,ARC,CNS"
+Kederekt Parasite,,Dan Scott,48,Creature — Horror,"Whenever an opponent draws a card, if you control a red permanent, you may have Kederekt Parasite deal 1 damage to that player.",CON
+Nyxathid,,Raymond Swanland,49,Creature — Elemental,"As Nyxathid enters the battlefield, choose an opponent.\nNyxathid gets -1/-1 for each card in the chosen player's hand.",CON
+Pestilent Kathari,,Dave Kendall,50,Creature — Bird Warrior,Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+{2}{R}: Pestilent Kathari gains first strike until end of turn.,CON
+Rotting Rats,,Dave Allsop,51,Creature — Zombie Rat,"When Rotting Rats enters the battlefield, each player discards a card.\nUnearth {1}{B} ({1}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","CON,HOP"
+Salvage Slasher,,Anthony Francisco,52,Artifact Creature — Human Rogue,Salvage Slasher gets +1/+0 for each artifact card in your graveyard.,CON
+Scepter of Fugue,,Franz Vohwinkel,53,Artifact,"{1}{B}, {T}: Target player discards a card. Activate this ability only during your turn.",CON
+Sedraxis Alchemist,,Karl Kopinski,54,Creature — Zombie Wizard,"When Sedraxis Alchemist enters the battlefield, if you control a blue permanent, return target nonland permanent to its owner's hand.",CON
+Voices from the Void,,rk post,55,Sorcery,Domain — Target player discards a card for each basic land type among lands you control.,CON
+Wretched Banquet,,Nils Hamm,56,Sorcery,Destroy target creature if it has the least power or is tied for least power among creatures on the battlefield.,CON
+Yoke of the Damned,,Paul Bonner,57,Enchantment — Aura,"Enchant creature\nWhen a creature dies, destroy enchanted creature.","CON,DDJ"
+Banefire,,Raymond Swanland,58,Sorcery,"Banefire deals X damage to target creature or player.\nIf X is 5 or more, Banefire can't be countered by spells or abilities and the damage can't be prevented.","CON,DPA,DDN,MM2"
+Bloodhall Ooze,,Jaime Jones,59,Creature — Ooze,"At the beginning of your upkeep, if you control a black permanent, you may put a +1/+1 counter on Bloodhall Ooze.\nAt the beginning of your upkeep, if you control a green permanent, you may put a +1/+1 counter on Bloodhall Ooze.",CON
+Canyon Minotaur,,Steve Prescott,60,Creature — Minotaur Warrior,,"CON,M10,M11,M13,M14"
+Dark Temper,,Jaime Jones,61,Instant,"Dark Temper deals 2 damage to target creature. If you control a black permanent, destroy the creature instead.",CON
+Dragonsoul Knight,,Justin Sweet,62,Creature — Human Knight,"First strike\n{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.","CON,MM2"
+Fiery Fall,,Daarken,63,Instant,"Fiery Fall deals 5 damage to target creature.\nBasic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,DDG,PC2,MMA,DDN,MM2"
+Goblin Razerunners,,Raymond Swanland,64,Creature — Goblin Warrior,"{1}{R}, Sacrifice a land: Put a +1/+1 counter on Goblin Razerunners.\nAt the beginning of your end step, you may have Goblin Razerunners deal damage equal to the number of +1/+1 counters on it to target player.",CON
+Hellspark Elemental,,Justin Sweet,65,Creature — Elemental,"Trample, haste\nAt the beginning of the end step, sacrifice Hellspark Elemental.
+Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","pWPN,CON,PD2,DDK"
+Ignite Disorder,,Zoltan Boros & Gabor Szikszai,66,Instant,"Ignite Disorder deals 3 damage divided as you choose among one, two, or three target white and/or blue creatures.","CON,M10"
+Kranioceros,,Steve Argyle,67,Creature — Beast,{1}{W}: Kranioceros gets +0/+3 until end of turn.,CON
+Maniacal Rage,,Brandon Kitkouski,68,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and can't block.,"EXO,BRB,INV,CON,TPR"
+Molten Frame,,Izzy,69,Instant,"Destroy target artifact creature.\nCycling {2} ({2}, Discard this card: Draw a card.)",CON
+Quenchable Fire,,Jean-Sébastien Rossbach,70,Sorcery,Quenchable Fire deals 3 damage to target player. It deals an additional 3 damage to that player at the beginning of your next upkeep step unless he or she pays {U} before that step.,CON
+Rakka Mar,,Jason Chan,71,Legendary Creature — Human Shaman,"Haste\n{R}, {T}: Put a 3/1 red Elemental creature token with haste onto the battlefield.",CON
+Toxic Iguanar,,Brandon Kitkouski,72,Creature — Lizard,Toxic Iguanar has deathtouch as long as you control a green permanent. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.),CON
+Viashino Slaughtermaster,,Raymond Swanland,73,Creature — Viashino Warrior,Double strike\n{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.,"CON,MM2"
+Volcanic Fallout,,Zoltan Boros & Gabor Szikszai,74,Instant,Volcanic Fallout can't be countered.\nVolcanic Fallout deals 2 damage to each creature and each player.,"pMPR,CON,ARC,CNS"
+Voracious Dragon,,Dominick Domingo,75,Creature — Dragon,"Flying\nDevour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.","CON,DDG"
+Wandering Goblins,,Karl Kopinski,76,Creature — Goblin Warrior,Domain — {3}: Wandering Goblins gets +1/+0 until end of turn for each basic land type among lands you control.,CON
+Worldheart Phoenix,,Aleksi Briclot,77,Creature — Phoenix,"Flying\nYou may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.","CON,MM2"
+Beacon Behemoth,,Jesper Ejsing,78,Creature — Beast,{1}: Target creature with power 5 or greater gains vigilance until end of turn.,CON
+Cliffrunner Behemoth,,Wayne Reynolds,79,Creature — Rhino Beast,Cliffrunner Behemoth has haste as long as you control a red permanent.\nCliffrunner Behemoth has lifelink as long as you control a white permanent.,CON
+Cylian Sunsinger,,Jesper Ejsing,80,Creature — Elf Shaman,{R}{G}{W}: Cylian Sunsinger and each other creature with the same name as it get +3/+3 until end of turn.,CON
+Ember Weaver,,Steve Prescott,81,Creature — Spider,"Reach (This creature can block creatures with flying.)\nAs long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.",CON
+Filigree Fracture,,Howard Lyon,82,Instant,"Destroy target artifact or enchantment. If that permanent was blue or black, draw a card.",CON
+Gluttonous Slime,,Trevor Claxton,83,Creature — Ooze,"Flash\nDevour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)","CON,PC2"
+Matca Rioters,,Steve Argyle,84,Creature — Human Warrior,Domain — Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.,"CON,MM2"
+Might of Alara,,Steve Prescott,85,Instant,Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.,CON
+Nacatl Savage,,Paolo Parente,86,Creature — Cat Warrior,Protection from artifacts,CON
+Noble Hierarch,,Mark Zug,87,Creature — Human Druid,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {G}, {W}, or {U} to your mana pool.","pJGP,CON,MM2"
+Paleoloth,,Christopher Moeller,88,Creature — Beast,"Whenever another creature with power 5 or greater enters the battlefield under your control, you may return target creature card from your graveyard to your hand.",CON
+Sacellum Archers,,Kev Walker,89,Creature — Elf Archer,"{R}{W}, {T}: Sacellum Archers deals 2 damage to target attacking or blocking creature.",CON
+Scattershot Archer,,Steve Argyle,90,Creature — Elf Archer,{T}: Scattershot Archer deals 1 damage to each creature with flying.,CON
+Shard Convergence,,Vance Kovacs,91,Sorcery,"Search your library for a Plains card, an Island card, a Swamp card, and a Mountain card. Reveal those cards and put them into your hand. Then shuffle your library.",CON
+Soul's Majesty,,Jesper Ejsing,92,Sorcery,Draw cards equal to the power of target creature you control.,CON
+Spore Burst,,Daarken,93,Sorcery,Domain — Put a 1/1 green Saproling creature token onto the battlefield for each basic land type among lands you control.,CON
+Sylvan Bounty,,Chris Rahn,94,Instant,"Target player gains 8 life.\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,DDH,MMA,MM2"
+Thornling,,Kev Walker,95,Creature — Elemental Shapeshifter,{G}: Thornling gains haste until end of turn.\n{G}: Thornling gains trample until end of turn.
+{G}: Thornling gains indestructible until end of turn.
+{1}: Thornling gets +1/-1 until end of turn.
+{1}: Thornling gets -1/+1 until end of turn.,CON
+Tukatongue Thallid,,Vance Kovacs,96,Creature — Fungus,"When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.","CON,PC2,MM2"
+Wild Leotau,,Michael Komarck,97,Creature — Cat,"At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.",CON
+Apocalypse Hydra,,Jason Chan,98,Creature — Hydra,"Apocalypse Hydra enters the battlefield with X +1/+1 counters on it. If X is 5 or more, it enters the battlefield with an additional X +1/+1 counters on it.\n{1}{R}, Remove a +1/+1 counter from Apocalypse Hydra: Apocalypse Hydra deals 1 damage to target creature or player.","CON,MM2"
+Blood Tyrant,,Karl Kopinski,99,Creature — Vampire,"Flying, trample\nAt the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.
+Whenever a player loses the game, put five +1/+1 counters on Blood Tyrant.",CON
+Charnelhoard Wurm,,Lars Grant-West,100,Creature — Wurm,"Trample\nWhenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.","CON,C13"
+Child of Alara,,Steve Argyle,101,Legendary Creature — Avatar,"Trample\nWhen Child of Alara dies, destroy all nonland permanents. They can't be regenerated.","CON,V14"
+Conflux,,Karl Kopinski,102,Sorcery,"Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.",CON
+Countersquall,,Anthony Francisco,103,Instant,Counter target noncreature spell. Its controller loses 2 life.,"CON,DDH"
+Elder Mastery,,Dave Allsop,104,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3 and has flying.
+Whenever enchanted creature deals damage to a player, that player discards two cards.","CON,DDH"
+Esper Cormorants,,Warren Mahy,105,Artifact Creature — Bird,Flying,CON
+Exploding Borders,,Zoltan Boros & Gabor Szikszai,106,Sorcery,"Domain — Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Exploding Borders deals X damage to target player, where X is the number of basic land types among lands you control.",CON
+Fusion Elemental,,Michael Komarck,107,Creature — Elemental,,"CON,PC2"
+Giltspire Avenger,,Chris Rahn,108,Creature — Human Soldier,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Destroy target creature that dealt damage to you this turn.",CON
+Goblin Outlander,,Trevor Claxton,109,Creature — Goblin Scout,Protection from white,CON
+"Gwafa Hazid, Profiteer",,Todd Lockwood,110,Legendary Creature — Human Rogue,"{W}{U}, {T}: Put a bribery counter on target creature you don't control. Its controller draws a card.\nCreatures with bribery counters on them can't attack or block.",CON
+Hellkite Hatchling,,Daarken,111,Creature — Dragon,"Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)\nHellkite Hatchling has flying and trample if it devoured a creature.","CON,PC2"
+Jhessian Balmgiver,,David Palumbo,112,Creature — Human Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\n{T}: Target creature can't be blocked this turn.,CON
+Knight of the Reliquary,,Michael Komarck,113,Creature — Human Knight,"Knight of the Reliquary gets +1/+1 for each land card in your graveyard.\n{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.","CON,DDG,MMA"
+Knotvine Mystic,,Ariel Olivetti,114,Creature — Elf Druid,"{1}, {T}: Add {R}{G}{W} to your mana pool.",CON
+Maelstrom Archangel,,Cyril Van Der Haegen,115,Creature — Angel,"Flying\nWhenever Maelstrom Archangel deals combat damage to a player, you may cast a nonland card from your hand without paying its mana cost.",CON
+Magister Sphinx,,Steven Belledin,116,Artifact Creature — Sphinx,"Flying\nWhen Magister Sphinx enters the battlefield, target player's life total becomes 10.","CON,ARC"
+Malfegor,,Jason Chan,117,Legendary Creature — Demon Dragon,"Flying\nWhen Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.","pPRE,CON,CMD"
+Meglonoth,,Steve Prescott,118,Creature — Beast,"Vigilance, trample\nWhenever Meglonoth blocks a creature, Meglonoth deals damage to that creature's controller equal to Meglonoth's power.",CON
+Nacatl Outlander,,Zoltan Boros & Gabor Szikszai,119,Creature — Cat Scout,Protection from blue,CON
+"Nicol Bolas, Planeswalker",,D. Alexander Gregory,120,Planeswalker — Bolas,"+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.
+−9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.","CON,DDH,M13"
+Progenitus,,Jaime Jones,121,Legendary Creature — Hydra Avatar,"Protection from everything\nIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.","CON,V11,MMA"
+Rhox Bodyguard,,Sal Villagran,122,Creature — Rhino Monk Soldier,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhen Rhox Bodyguard enters the battlefield, you gain 3 life.",CON
+Scarland Thrinax,,Daarken,123,Creature — Lizard,Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.,"CON,C13"
+Shambling Remains,,Nils Hamm,124,Creature — Zombie Horror,Shambling Remains can't block.\nUnearth {B}{R} ({B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.),"CON,DDK,DDN"
+Skyward Eye Prophets,,Matt Stewart,125,Creature — Human Wizard,"Vigilance\n{T}: Reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put it into your hand.","CON,C13"
+Sludge Strider,,Franz Vohwinkel,126,Artifact Creature — Insect,"Whenever another artifact enters the battlefield under your control or another artifact you control leaves the battlefield, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.","CON,HOP"
+Sphinx Summoner,,Jaime Jones,127,Artifact Creature — Sphinx,"Flying\nWhen Sphinx Summoner enters the battlefield, you may search your library for an artifact creature card, reveal it, and put it into your hand. If you do, shuffle your library.",CON
+Suicidal Charge,,Daarken,128,Enchantment,Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.,CON
+Vagrant Plowbeasts,,Zoltan Boros & Gabor Szikszai,129,Creature — Beast,{1}: Regenerate target creature with power 5 or greater.,CON
+Valeron Outlander,,Matt Stewart,130,Creature — Human Scout,Protection from black,CON
+Vectis Agents,,Chippy,131,Artifact Creature — Human Rogue,{U}{B}: Vectis Agents gets -2/-0 until end of turn and can't be blocked this turn.,CON
+Vedalken Outlander,,Izzy,132,Artifact Creature — Vedalken Scout,Protection from red,CON
+Zombie Outlander,,Nils Hamm,133,Creature — Zombie Scout,Protection from green,CON
+Armillary Sphere,,Franz Vohwinkel,134,Artifact,"{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.","CON,DDG,CMD,DDI,PC2,C13"
+Bone Saw,,Pete Venters,135,Artifact — Equipment,Equipped creature gets +1/+0.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),CON
+Font of Mythos,,Dave Allsop,136,Artifact,"At the beginning of each player's draw step, that player draws two additional cards.",CON
+Kaleidostone,,Chippy,137,Artifact,"When Kaleidostone enters the battlefield, draw a card.\n{5}, {T}, Sacrifice Kaleidostone: Add {W}{U}{B}{R}{G} to your mana pool.",CON
+Mana Cylix,,Howard Lyon,138,Artifact,"{1}, {T}: Add one mana of any color to your mana pool.","PLS,CON"
+Manaforce Mace,,Jeremy Jarvis,139,Artifact — Equipment,Domain — Equipped creature gets +1/+1 for each basic land type among lands you control.\nEquip {3},CON
+Obelisk of Alara,,Jeremy Jarvis,140,Artifact,"{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}: Target creature gets -2/-2 until end of turn.
+{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.
+{1}{G}, {T}: Target creature gets +4/+4 until end of turn.","pLPA,CON"
+Ancient Ziggurat,,John Avon,141,Land,{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.,"pFNM,CON,H09"
+Exotic Orchard,,Steven Belledin,142,Land,{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.,"CON,PC2"
+Reliquary Tower,,Jesper Ejsing,143,Land,You have no maximum hand size.\n{T}: Add {1} to your mana pool.,"pFNM,CON,M13,C14,C15"
+Rupture Spire,,Jaime Jones,144,Land,"Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color to your mana pool.","CON,H09,CMD,DDH,PC2,C13"
+Unstable Frontier,,John Avon,145,Land,{T}: Add {1} to your mana pool.\n{T}: Target land you control becomes the basic land type of your choice until end of turn.,CON

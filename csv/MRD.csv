@@ -1,0 +1,349 @@
+name,cost,artist,number,type,text,printings
+Altar's Light,,Daren Bader,1,Instant,Exile target artifact or enchantment.,MRD
+Arrest,,Tim Hildebrandt,2,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.","pMEI,MMQ,MRD,SOM,RTR,MM2"
+Auriok Bladewarden,,Dave Dorman,3,Creature — Human Soldier,"{T}: Target creature gets +X/+X until end of turn, where X is Auriok Bladewarden's power.",MRD
+Auriok Steelshaper,,Dany Orizio,4,Creature — Human Soldier,"Equip costs you pay cost {1} less.\nAs long as Auriok Steelshaper is equipped, each creature you control that's a Soldier or a Knight gets +1/+1.",MRD
+Auriok Transfixer,,Stephen Tappin,5,Creature — Human Scout,"{W}, {T}: Tap target artifact.",MRD
+Awe Strike,,Scott M. Fischer,6,Instant,"The next time target creature would deal damage this turn, prevent that damage. You gain life equal to the damage prevented this way.",MRD
+Blinding Beam,,Doug Chaffee,7,Instant,Choose one —\n• Tap two target creatures.
+• Creatures don't untap during target player's next untap step.
+Entwine {1} (Choose both if you pay the entwine cost.),"MRD,DDF,MMA"
+Leonin Abunas,,Darrell Riche,8,Creature — Cat Cleric,Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.),"MRD,ARC"
+Leonin Den-Guard,,Todd Lockwood,9,Creature — Cat Soldier,"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance.",MRD
+Leonin Elder,,Todd Lockwood,10,Creature — Cat Cleric,"Whenever an artifact enters the battlefield, you may gain 1 life.",MRD
+Leonin Skyhunter,,Kev Walker,11,Creature — Cat Knight,Flying,"MRD,9ED,MBS,DDG"
+Loxodon Mender,,Heather Hudson,12,Creature — Elephant Cleric,"{W}, {T}: Regenerate target artifact.",MRD
+Loxodon Peacekeeper,,Michael Sutfin,13,Creature — Elephant Soldier,"At the beginning of your upkeep, the player with the lowest life total gains control of Loxodon Peacekeeper. If two or more players are tied for lowest life total, you choose one of them, and that player gains control of Loxodon Peacekeeper.",MRD
+Loxodon Punisher,,Terese Nielsen,14,Creature — Elephant Soldier,Loxodon Punisher gets +2/+2 for each Equipment attached to it.,MRD
+Luminous Angel,,Matthew D. Wilson,15,Creature — Angel,"Flying\nAt the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.","MRD,DDC,DD3_DVD"
+Raise the Alarm,,John Matson,16,Instant,Put two 1/1 white Soldier creature tokens onto the battlefield.,"MRD,DDF,MD1,M15,DDO,MM2"
+Razor Barrier,,Ron Spencer,17,Instant,Target permanent you control gains protection from artifacts or from the color of your choice until end of turn.,"MRD,DDF"
+Roar of the Kha,,Matt Cavotta,18,Instant,Choose one —\n• Creatures you control get +1/+1 until end of turn.
+• Untap all creatures you control.
+Entwine {1}{W} (Choose both if you pay the entwine cost.),MRD
+Rule of Law,,Scott M. Fischer,19,Enchantment,Each player can't cast more than one spell each turn.,"MRD,10E"
+Second Sunrise,,Greg Staples,20,Instant,"Each player returns to the battlefield all artifact, creature, enchantment, and land cards in his or her graveyard that were put there from the battlefield this turn.",MRD
+Skyhunter Cub,,Pete Venters,21,Creature — Cat Knight,"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying.",MRD
+Skyhunter Patrol,,Matt Cavotta,22,Creature — Cat Knight,"Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)","MRD,10E,DDG"
+Slith Ascendant,,Justin Sweet,23,Creature — Slith,"Flying\nWhenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it.",MRD
+Solar Tide,,Dave Dorman,24,Sorcery,Choose one —\n• Destroy all creatures with power 2 or less.
+• Destroy all creatures with power 3 or greater.
+Entwine—Sacrifice two lands. (Choose both if you pay the entwine cost.),MRD
+Soul Nova,,Keith Garletts,25,Instant,Exile target attacking creature and all Equipment attached to it.,MRD
+Sphere of Purity,,Thomas Gianni,26,Enchantment,"If an artifact would deal damage to you, prevent 1 of that damage.",MRD
+Taj-Nar Swordsmith,,Todd Lockwood,27,Creature — Cat Soldier,"When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.","MRD,MM2"
+Tempest of Light,,Wayne England,28,Instant,Destroy all enchantments.,"MRD,9ED,10E,M10"
+Annul,,Brian Snõddy,29,Instant,Counter target artifact or enchantment spell.,"USG,MRD,THS"
+Assert Authority,,Greg Hildebrandt,30,Instant,"Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",MRD
+Broodstar,,Glen Angus,31,Creature — Beast,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying
+Broodstar's power and toughness are each equal to the number of artifacts you control.,"MRD,HOP"
+Disarm,,Alex Horley-Orlandelli,32,Instant,Unattach all Equipment from target creature.,MRD
+Domineer,,Jon Foster,33,Enchantment — Aura,Enchant artifact creature\nYou control enchanted artifact creature.,MRD
+Dream's Grip,,Jim Nelson,34,Instant,Choose one —\n• Tap target permanent.
+• Untap target permanent.
+Entwine {1} (Choose both if you pay the entwine cost.),MRD
+Fabricate,,Glen Angus,35,Sorcery,"Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library.","MRD,M10,HOP"
+Fatespinner,,rk post,36,Creature — Human Wizard,"At the beginning of each opponent's upkeep, that player chooses draw step, main phase, or combat phase. The player skips each instance of the chosen step or phase this turn.",MRD
+Inertia Bubble,,Hugh Jamieson,37,Enchantment — Aura,Enchant artifact\nEnchanted artifact doesn't untap during its controller's untap step.,MRD
+Looming Hoverguard,,Scott M. Fischer,38,Creature — Drone,"Flying\nWhen Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library.",MRD
+Lumengrid Augur,,rk post,39,Creature — Vedalken Wizard,"{1}, {T}: Target player draws a card, then discards a card. If that player discards an artifact card this way, untap Lumengrid Augur.",MRD
+Lumengrid Sentinel,,Scott M. Fischer,40,Creature — Human Wizard,"Flying\nWhenever an artifact enters the battlefield under your control, you may tap target permanent.",MRD
+Lumengrid Warden,,Matt Thompson,41,Creature — Human Wizard,,"MRD,9ED,10E"
+March of the Machines,,Ben Thompson,42,Enchantment,Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.),"MRD,10E,ARC"
+Neurok Familiar,,"Edward P. Beard, Jr.",43,Creature — Bird,"Flying\nWhen Neurok Familiar enters the battlefield, reveal the top card of your library. If it's an artifact card, put it into your hand. Otherwise, put it into your graveyard.",MRD
+Neurok Spy,,Daren Bader,44,Creature — Human Rogue,Neurok Spy can't be blocked as long as defending player controls an artifact.,MRD
+Override,,Hugh Jamieson,45,Instant,Counter target spell unless its controller pays {1} for each artifact you control.,MRD
+Psychic Membrane,,Tony Szczudlo,46,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Psychic Membrane blocks, you may draw a card.",MRD
+Quicksilver Elemental,,Tony Szczudlo,47,Creature — Elemental,"{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)\nYou may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.",MRD
+Regress,,Randy Gallegos,48,Instant,Return target permanent to its owner's hand.,"MRD,ROE"
+Shared Fate,,Matt Cavotta,49,Enchantment,"If a player would draw a card, that player exiles the top card of one of his or her opponents' libraries face down instead.\nEach player may look at and play cards he or she exiled with Shared Fate.",MRD
+Slith Strider,,Justin Sweet,50,Creature — Slith,"Whenever Slith Strider becomes blocked, draw a card.\nWhenever Slith Strider deals combat damage to a player, put a +1/+1 counter on it.","MRD,DDI"
+Somber Hoverguard,,Adam Rex,51,Creature — Drone,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying,"MRD,MM2"
+Temporal Cascade,,Puddnhead,52,Sorcery,Choose one —\n• Each player shuffles his or her hand and graveyard into his or her library.
+• Each player draws seven cards.
+Entwine {2} (Choose both if you pay the entwine cost.),MRD
+Thirst for Knowledge,,Ben Thompson,53,Instant,Draw three cards. Then discard two cards unless you discard an artifact card.,"pFNM,MRD,HOP,DDF,MMA"
+Thoughtcast,,Greg Hildebrandt,54,Sorcery,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nDraw two cards.,"MRD,DDF,MM2"
+Vedalken Archmage,,Kev Walker,55,Creature — Vedalken Wizard,"Whenever you cast an artifact spell, draw a card.",MRD
+Wanderguard Sentry,,Luca Zontini,56,Creature — Drone,"When Wanderguard Sentry enters the battlefield, look at target opponent's hand.","MRD,9ED"
+Barter in Blood,,Paolo Parente,57,Sorcery,Each player sacrifices two creatures.,"MRD,DDC,AVR,DD3_DVD,C15"
+Betrayal of Flesh,,Wayne England,58,Instant,Choose one —\n• Destroy target creature.
+• Return target creature card from your graveyard to the battlefield.
+Entwine—Sacrifice three lands. (Choose both if you pay the entwine cost.),MRD
+Chimney Imp,,Christopher Moeller,59,Creature — Imp,"Flying\nWhen Chimney Imp dies, target opponent puts a card from his or her hand on top of his or her library.",MRD
+Consume Spirit,,Matt Thompson,60,Sorcery,Spend only black mana on X.\nConsume Spirit deals X damage to target creature or player and you gain X life.,"pMEI,MRD,9ED,10E,DDC,M10,HOP,DPA,M12,DD3_DVD"
+Contaminated Bond,,Thomas M. Baxa,61,Enchantment — Aura,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature attacks or blocks, its controller loses 3 life.","MRD,9ED,10E"
+Disciple of the Vault,,Matt Thompson,62,Creature — Human Cleric,"Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.",MRD
+Dross Harvester,,Michael Sutfin,63,Creature — Horror,"Protection from white\nAt the beginning of your end step, you lose 4 life.
+Whenever a creature dies, you gain 2 life.",MRD
+Dross Prowler,,Michael Sutfin,64,Creature — Zombie,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),MRD
+Flayed Nim,,Trevor Hairsine,65,Creature — Skeleton,"Whenever Flayed Nim deals combat damage to a creature, that creature's controller loses that much life.\n{2}{B}: Regenerate Flayed Nim.",MRD
+Grim Reminder,,Wayne England,66,Instant,Search your library for a nonland card and reveal it. Each opponent who cast a card this turn with the same name as that card loses 6 life. Then shuffle your library.\n{B}{B}: Return Grim Reminder from your graveyard to your hand. Activate this ability only during your upkeep.,MRD
+Irradiate,,Dave Dorman,67,Instant,Target creature gets -1/-1 until end of turn for each artifact you control.,MRD
+Moriok Scavenger,,Puddnhead,68,Creature — Human Rogue,"When Moriok Scavenger enters the battlefield, you may return target artifact creature card from your graveyard to your hand.",MRD
+Necrogen Mists,,Alex Horley-Orlandelli,69,Enchantment,"At the beginning of each player's upkeep, that player discards a card.",MRD
+Nim Devourer,,Adam Rex,70,Creature — Zombie,"Nim Devourer gets +1/+0 for each artifact you control.\n{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.",MRD
+Nim Lasher,,Adam Rex,71,Creature — Zombie,Nim Lasher gets +1/+0 for each artifact you control.,MRD
+Nim Shambler,,Adam Rex,72,Creature — Zombie,Nim Shambler gets +1/+0 for each artifact you control.\nSacrifice a creature: Regenerate Nim Shambler.,MRD
+Nim Shrieker,,Adam Rex,73,Creature — Zombie,Flying\nNim Shrieker gets +1/+0 for each artifact you control.,MRD
+Promise of Power,,Kev Walker,74,Sorcery,"Choose one —\n• You draw five cards and you lose 5 life.
+• Put an X/X black Demon creature token with flying onto the battlefield, where X is the number of cards in your hand.
+Entwine {4} (Choose both if you pay the entwine cost.)","MRD,DDC,C14,DD3_DVD"
+Reiver Demon,,Brom,75,Creature — Demon,"Flying\nWhen Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.","MRD,DDC,CMD,DD3_DVD"
+Relic Bane,,Eric Peterson,76,Enchantment — Aura,"Enchant artifact\nEnchanted artifact has "At the beginning of your upkeep, you lose 2 life."",MRD
+Slith Bloodletter,,Justin Sweet,77,Creature — Slith,"Whenever Slith Bloodletter deals combat damage to a player, put a +1/+1 counter on it.\n{1}{B}: Regenerate Slith Bloodletter.",MRD
+Spoils of the Vault,,Thomas M. Baxa,78,Instant,"Name a card. Reveal cards from the top of your library until you reveal the named card, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.",MRD
+Terror,,Puddnhead,79,Instant,"Destroy target nonartifact, nonblack creature. It can't be regenerated.","LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,ATH,6ED,BRB,pFNM,S00,BTD,pMPR,MRD,10E,DPA,ME4"
+Vermiculos,,Daren Bader,80,Creature — Horror,"Whenever an artifact enters the battlefield, Vermiculos gets +4/+4 until end of turn.",MRD
+Wail of the Nim,,John Matson,81,Instant,Choose one —\n• Regenerate each creature you control.
+• Wail of the Nim deals 1 damage to each creature and each player.
+Entwine {B} (Choose both if you pay the entwine cost.),MRD
+Wall of Blood,,Tony Szczudlo,82,Creature — Wall,Defender (This creature can't attack.)\nPay 1 life: Wall of Blood gets +1/+1 until end of turn.,MRD
+Woebearer,,Matt Thompson,83,Creature — Zombie,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand.",MRD
+Wrench Mind,,Pete Venters,84,Sorcery,Target player discards two cards unless he or she discards an artifact card.,MRD
+Arc-Slogger,,Jeff Easley,85,Creature — Beast,"{R}, Exile the top ten cards of your library: Arc-Slogger deals 2 damage to target creature or player.",MRD
+Atog,,Puddnhead,86,Creature — Atog,Sacrifice an artifact: Atog gets +2/+2 until end of turn.,"ATQ,3ED,5ED,MRD,ME4"
+Confusion in the Ranks,,Ron Spencer,87,Enchantment,"Whenever an artifact, creature, or enchantment enters the battlefield, its controller chooses target permanent another player controls that shares a card type with it. Exchange control of those permanents.",MRD
+Detonate,,Dave Dorman,88,Sorcery,Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.,"ATQ,4ED,RQS,ITP,5ED,MRD,ME4"
+Electrostatic Bolt,,Randy Gallegos,89,Instant,"Electrostatic Bolt deals 2 damage to target creature. If it's an artifact creature, Electrostatic Bolt deals 4 damage to it instead.",MRD
+Fiery Gambit,,Scott M. Fischer,90,Sorcery,"Flip a coin until you lose a flip or choose to stop flipping. If you lose a flip, Fiery Gambit has no effect. If you win one or more flips, Fiery Gambit deals 3 damage to target creature. If you win two or more flips, Fiery Gambit deals 6 damage to each opponent. If you win three or more flips, draw nine cards and untap all lands you control.",MRD
+Fists of the Anvil,,Pete Venters,91,Instant,Target creature gets +4/+0 until end of turn.,"MRD,10E"
+Forge Armor,,Tony Szczudlo,92,Instant,"As an additional cost to cast Forge Armor, sacrifice an artifact.\nPut X +1/+1 counters on target creature, where X is the sacrificed artifact's converted mana cost.",MRD
+Fractured Loyalty,,Greg Staples,93,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature becomes the target of a spell or ability, that spell or ability's controller gains control of that creature. (This effect lasts indefinitely.)",MRD
+Goblin Striker,,Kevin Dobler,94,Creature — Goblin Berserker,"First strike, haste",MRD
+Grab the Reins,,Michael Sutfin,95,Instant,"Choose one —\n• Until end of turn, you gain control of target creature and it gains haste.
+• Sacrifice a creature. Grab the Reins deals damage equal to that creature's power to target creature or player.
+Entwine {2}{R} (Choose both if you pay the entwine cost.)",MRD
+Incite War,,Alex Horley-Orlandelli,96,Instant,Choose one —\n• Creatures target player controls attack this turn if able.
+• Creatures you control gain first strike until end of turn.
+Entwine {2} (Choose both if you pay the entwine cost.),MRD
+Krark-Clan Grunt,,Thomas M. Baxa,97,Creature — Goblin Warrior,Sacrifice an artifact: Krark-Clan Grunt gets +1/+0 and gains first strike until end of turn.,MRD
+Krark-Clan Shaman,,Thomas M. Baxa,98,Creature — Goblin Shaman,Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.,MRD
+Mass Hysteria,,Adam Rex,99,Enchantment,All creatures have haste.,MRD
+Megatog,,Pete Venters,100,Creature — Atog,Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.,MRD
+Molten Rain,,Hugh Jamieson,101,Sorcery,"Destroy target land. If that land was nonbasic, Molten Rain deals 2 damage to the land's controller.",MRD
+Ogre Leadfoot,,Heather Hudson,102,Creature — Ogre,"Whenever Ogre Leadfoot becomes blocked by an artifact creature, destroy that creature.",MRD
+Rustmouth Ogre,,Brian Snõddy,103,Creature — Ogre,"Whenever Rustmouth Ogre deals combat damage to a player, you may destroy target artifact that player controls.",MRD
+Seething Song,,Martina Pilcerova,104,Instant,Add {R}{R}{R}{R}{R} to your mana pool.,"MRD,9ED,ARC,DDG"
+Shatter,,Tim Hildebrandt,105,Instant,Destroy target artifact.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,DKM,8ED,MRD,9ED,M10,SOM,KTK,TPR"
+Shrapnel Blast,,Dave Dorman,106,Instant,"As an additional cost to cast Shrapnel Blast, sacrifice an artifact.\nShrapnel Blast deals 5 damage to target creature or player.","pFNM,MRD,MMA,M15"
+Slith Firewalker,,Justin Sweet,107,Creature — Slith,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.","pSUS,MRD,DD2,DD3_JVC"
+Spikeshot Goblin,,Alan Pollack,108,Creature — Goblin Shaman,"{R}, {T}: Spikeshot Goblin deals damage equal to its power to target creature or player.",MRD
+Trash for Treasure,,Lars Grant-West,109,Sorcery,"As an additional cost to cast Trash for Treasure, sacrifice an artifact.\nReturn target artifact card from your graveyard to the battlefield.",MRD
+Vulshok Battlemaster,,Kev Walker,110,Creature — Human Warrior,"Haste\nWhen Vulshok Battlemaster enters the battlefield, attach all Equipment on the battlefield to it. (Control of the Equipment doesn't change.)",MRD
+Vulshok Berserker,,Pete Venters,111,Creature — Human Berserker,Haste (This creature can attack and {T} as soon as it comes under your control.),"MRD,M11,DDI"
+War Elemental,,Anthony S. Waters,112,Creature — Elemental,"When War Elemental enters the battlefield, sacrifice it unless an opponent was dealt damage this turn.\nWhenever an opponent is dealt damage, put that many +1/+1 counters on War Elemental.",MRD
+Battlegrowth,,John Matson,113,Instant,Put a +1/+1 counter on target creature.,MRD
+Bloodscent,,Matt Cavotta,114,Instant,All creatures able to block target creature this turn do so.,MRD
+Brown Ouphe,,Greg Hildebrandt,115,Creature — Ouphe,"{1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)","ICE,MRD"
+Copperhoof Vorrac,,Matt Cavotta,116,Creature — Boar Beast,Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.,MRD
+Creeping Mold,,Dany Orizio,117,Sorcery,"Destroy target artifact, enchantment, or land.","pARL,VIS,6ED,7ED,8ED,MRD,9ED,10E"
+Deconstruct,,D. Alexander Gregory,118,Sorcery,Destroy target artifact. Add {G}{G}{G} to your mana pool.,MRD
+Fangren Hunter,,Darrell Riche,119,Creature — Beast,Trample,MRD
+Glissa Sunseeker,,Brom,120,Legendary Creature — Elf,First strike\n{T}: Destroy target artifact if its converted mana cost is equal to the amount of mana in your mana pool.,MRD
+Groffskithur,,John Matson,121,Creature — Beast,"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand.",MRD
+Hum of the Radix,,John Avon,122,Enchantment,Each artifact spell costs {1} more to cast for each artifact its controller controls.,MRD
+Journey of Discovery,,John Matson,123,Sorcery,"Choose one —\n• Search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.
+• You may play up to two additional lands this turn.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)",MRD
+Living Hive,,Anthony S. Waters,124,Creature — Elemental Insect,"Trample\nWhenever Living Hive deals combat damage to a player, put that many 1/1 green Insect creature tokens onto the battlefield.","MRD,HOP"
+Molder Slug,,Heather Hudson,125,Creature — Slug Beast,"At the beginning of each player's upkeep, that player sacrifices an artifact.",MRD
+One Dozen Eyes,,Darrell Riche,126,Sorcery,Choose one —\n• Put a 5/5 green Beast creature token onto the battlefield.
+• Put five 1/1 green Insect creature tokens onto the battlefield.
+Entwine {G}{G}{G} (Choose both if you pay the entwine cost.),"MRD,C13"
+Plated Slagwurm,,Justin Sweet,127,Creature — Wurm,Hexproof (This creature can't be the target of spells or abilities your opponents control.),"MRD,DDD,DD3_GVL"
+Predator's Strike,,Tony Szczudlo,128,Instant,Target creature gets +3/+3 and gains trample until end of turn.,MRD
+Slith Predator,,Justin Sweet,129,Creature — Slith,"Trample\nWhenever Slith Predator deals combat damage to a player, put a +1/+1 counter on it.",MRD
+Sylvan Scrying,,Scott M. Fischer,130,Sorcery,"Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.","MRD,10E,BFZ"
+Tel-Jilad Archers,,Marcelo Vignali,131,Creature — Elf Archer,Protection from artifacts; reach (This creature can block creatures with flying.),MRD
+Tel-Jilad Chosen,,Matthew D. Wilson,132,Creature — Elf Warrior,Protection from artifacts,MRD
+Tel-Jilad Exile,,Justin Sweet,133,Creature — Troll Warrior,{1}{G}: Regenerate Tel-Jilad Exile.,MRD
+Tooth and Nail,,Greg Hildebrandt,134,Sorcery,"Choose one —\n• Search your library for up to two creature cards, reveal them, put them into your hand, then shuffle your library.
+• Put up to two creature cards from your hand onto the battlefield.
+Entwine {2} (Choose both if you pay the entwine cost.)","MRD,MMA"
+Troll Ascetic,,Puddnhead,135,Creature — Troll Shaman,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate Troll Ascetic.,"MRD,10E,DPA,CMD,DDL"
+Trolls of Tel-Jilad,,Marcelo Vignali,136,Creature — Troll Shaman,{1}{G}: Regenerate target green creature.,MRD
+Turn to Dust,,Wayne England,137,Instant,Destroy target Equipment. Add {G} to your mana pool.,MRD
+Viridian Joiner,,Daren Bader,138,Creature — Elf Druid,{T}: Add to your mana pool an amount of {G} equal to Viridian Joiner's power.,MRD
+Viridian Shaman,,Scott M. Fischer,139,Creature — Elf Shaman,"When Viridian Shaman enters the battlefield, destroy target artifact.","MRD,9ED,10E,C15"
+Wurmskin Forger,,Justin Sweet,140,Creature — Elf Warrior,"When Wurmskin Forger enters the battlefield, distribute three +1/+1 counters among one, two, or three target creatures.",MRD
+Æther Spellbomb,,Jim Nelson,141,Artifact,"{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.\n{1}, Sacrifice Æther Spellbomb: Draw a card.","MRD,ARC,DDF,MMA"
+Alpha Myr,,Dany Orizio,142,Artifact Creature — Myr,,MRD
+Altar of Shadows,,Sam Wood,143,Artifact,"At the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Altar of Shadows.\n{7}, {T}: Destroy target creature. Then put a charge counter on Altar of Shadows.",MRD
+Banshee's Blade,,Bradley Williams,144,Artifact — Equipment,"Equipped creature gets +1/+1 for each charge counter on Banshee's Blade.\nWhenever equipped creature deals combat damage, put a charge counter on Banshee's Blade.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",MRD
+Blinkmoth Urn,,David Martin,145,Artifact,"At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {1} to his or her mana pool for each artifact he or she controls.",MRD
+Bonesplitter,,Darrell Riche,146,Artifact — Equipment,Equipped creature gets +2/+0.\nEquip {1},"pARL,MRD,MMA"
+"Bosh, Iron Golem",,Brom,147,Legendary Artifact Creature — Golem,"Trample\n{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player.","MRD,HOP,C14"
+Bottle Gnomes,,Ben Thompson,148,Artifact Creature — Gnome,Sacrifice Bottle Gnomes: You gain 3 life.,"TMP,pFNM,MRD,9ED,10E,DD2,C14,DD3_JVC,TPR"
+Cathodion,,Eric Peterson,149,Artifact Creature — Construct,"When Cathodion dies, add {3} to your mana pool.","USG,MRD,C14,MM2"
+Chalice of the Void,,Mark Zug,150,Artifact,"Chalice of the Void enters the battlefield with X charge counters on it.\nWhenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell.","MRD,MMA"
+Chromatic Sphere,,Brian Snõddy,151,Artifact,"{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.","INV,MRD"
+Chrome Mox,,Donato Giancola,152,Artifact,"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors to your mana pool.","MRD,pGPX"
+Clockwork Beetle,,Arnie Swekel,153,Artifact Creature — Insect,"Clockwork Beetle enters the battlefield with two +1/+1 counters on it.\nWhenever Clockwork Beetle attacks or blocks, remove a +1/+1 counter from it at end of combat.",MRD
+Clockwork Condor,,Arnie Swekel,154,Artifact Creature — Bird,"Flying\nClockwork Condor enters the battlefield with three +1/+1 counters on it.
+Whenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat.","MRD,DDF"
+Clockwork Dragon,,Arnie Swekel,155,Artifact Creature — Dragon,"Flying\nClockwork Dragon enters the battlefield with six +1/+1 counters on it.
+Whenever Clockwork Dragon attacks or blocks, remove a +1/+1 counter from it at end of combat.
+{3}: Put a +1/+1 counter on Clockwork Dragon.",MRD
+Clockwork Vorrac,,Arnie Swekel,156,Artifact Creature — Boar Beast,"Trample\nClockwork Vorrac enters the battlefield with four +1/+1 counters on it.
+Whenever Clockwork Vorrac attacks or blocks, remove a +1/+1 counter from it at end of combat.
+{T}: Put a +1/+1 counter on Clockwork Vorrac.",MRD
+Cobalt Golem,,Paolo Parente,157,Artifact Creature — Golem,{1}{U}: Cobalt Golem gains flying until end of turn.,MRD
+Copper Myr,,Kev Walker,158,Artifact Creature — Myr,{T}: Add {G} to your mana pool.,"MRD,HOP,SOM"
+Crystal Shard,,Doug Chaffee,159,Artifact,"{3}, {T} or {U}, {T}: Return target creature to its owner's hand unless its controller pays {1}.",MRD
+Culling Scales,,Daren Bader,160,Artifact,"At the beginning of your upkeep, destroy target nonland permanent with the lowest converted mana cost. (If two or more permanents are tied for lowest cost, target any one of them.)",MRD
+Damping Matrix,,Mike Dringenberg,161,Artifact,Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.,MRD
+Dead-Iron Sledge,,Ray Lago,162,Artifact — Equipment,"Whenever equipped creature blocks or becomes blocked by a creature, destroy both creatures.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",MRD
+Dragon Blood,,Ron Spencer,163,Artifact,"{3}, {T}: Put a +1/+1 counter on target creature.","USG,MRD,DDL"
+Dross Scorpion,,Jim Nelson,164,Artifact Creature — Scorpion,"Whenever Dross Scorpion or another artifact creature dies, you may untap target artifact.",MRD
+Duplicant,,Thomas M. Baxa,165,Artifact Creature — Shapeshifter,"Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.","MRD,ARC,CM1"
+Duskworker,,Greg Staples,166,Artifact Creature — Construct,"Whenever Duskworker becomes blocked, regenerate it.\n{3}: Duskworker gets +1/+0 until end of turn.",MRD
+Elf Replica,,Carl Critchlow,167,Artifact Creature — Elf,"{1}{G}, Sacrifice Elf Replica: Destroy target enchantment.",MRD
+Empyrial Plate,,Paolo Parente,168,Artifact — Equipment,Equipped creature gets +1/+1 for each card in your hand.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Extraplanar Lens,,Lars Grant-West,169,Artifact,"Imprint — When Extraplanar Lens enters the battlefield, you may exile target land you control.\nWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.",MRD
+Farsight Mask,,Ben Thompson,170,Artifact,"Whenever a source an opponent controls deals damage to you, if Farsight Mask is untapped, you may draw a card.","MRD,PC2"
+Fireshrieker,,Christopher Moeller,171,Artifact — Equipment,Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),"MRD,M14,CNS"
+Frogmite,,Terese Nielsen,172,Artifact Creature — Frog,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.),"MRD,DDF,MMA,MM2"
+Galvanic Key,,Tony Szczudlo,173,Artifact,"Flash\n{3}, {T}: Untap target artifact.",MRD
+Gate to the Æther,,Pete Venters,174,Artifact,"At the beginning of each player's upkeep, that player reveals the top card of his or her library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.",MRD
+Gilded Lotus,,Martina Pilcerova,175,Artifact,{T}: Add three mana of any one color to your mana pool.,"MRD,M13,V13"
+Goblin Charbelcher,,Stephen Tappin,176,Artifact,"{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to target creature or player. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order.",MRD
+Goblin Dirigible,,Michael Sutfin,177,Artifact Creature — Construct,"Flying\nGoblin Dirigible doesn't untap during your untap step.
+At the beginning of your upkeep, you may pay {4}. If you do, untap Goblin Dirigible.",MRD
+Goblin Replica,,Carl Critchlow,178,Artifact Creature — Goblin,"{3}{R}, Sacrifice Goblin Replica: Destroy target artifact.",MRD
+Goblin War Wagon,,Doug Chaffee,179,Artifact Creature — Juggernaut,"Goblin War Wagon doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {2}. If you do, untap Goblin War Wagon.",MRD
+Gold Myr,,Kev Walker,180,Artifact Creature — Myr,{T}: Add {W} to your mana pool.,"MRD,HOP,SOM"
+Golem-Skin Gauntlets,,Alan Pollack,181,Artifact — Equipment,Equipped creature gets +1/+0 for each Equipment attached to it.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Granite Shard,,Doug Chaffee,182,Artifact,"{3}, {T} or {R}, {T}: Granite Shard deals 1 damage to target creature or player.",MRD
+Grid Monitor,,Arnie Swekel,183,Artifact Creature — Construct,You can't cast creature spells.,MRD
+Heartwood Shard,,Doug Chaffee,184,Artifact,"{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.",MRD
+Hematite Golem,,Paolo Parente,185,Artifact Creature — Golem,{1}{R}: Hematite Golem gets +2/+0 until end of turn.,MRD
+Icy Manipulator,,Mark Zug,186,Artifact,"{1}, {T}: Tap target artifact, creature, or land.","LEA,LEB,2ED,CED,CEI,ICE,pFNM,DKM,MRD,9ED,10E,ME4,DDH"
+Iron Myr,,Kev Walker,187,Artifact Creature — Myr,{T}: Add {R} to your mana pool.,"MRD,HOP,SOM"
+Isochron Scepter,,Mark Harrison,188,Artifact,"Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.","pFNM,MRD,V10,DDJ"
+Jinxed Choker,,Mike Dringenberg,189,Artifact,"At the beginning of your end step, target opponent gains control of Jinxed Choker and puts a charge counter on it.\nAt the beginning of your upkeep, Jinxed Choker deals damage to you equal to the number of charge counters on it.
+{3}: Put a charge counter on Jinxed Choker or remove one from it.",MRD
+Krark's Thumb,,Ron Spencer,190,Legendary Artifact,"If you would flip a coin, instead flip two coins and ignore one.",MRD
+Leaden Myr,,Kev Walker,191,Artifact Creature — Myr,{T}: Add {B} to your mana pool.,"MRD,HOP,SOM"
+Leonin Bladetrap,,Randy Gallegos,192,Artifact,"Flash (You may cast this spell any time you could cast an instant.)\n{2}, Sacrifice Leonin Bladetrap: Leonin Bladetrap deals 2 damage to each attacking creature without flying.","MRD,C13"
+Leonin Scimitar,,Doug Chaffee,193,Artifact — Equipment,Equipped creature gets +1/+1.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),"MRD,10E"
+Leonin Sun Standard,,Jim Nelson,194,Artifact,{1}{W}: Creatures you control get +1/+1 until end of turn.,MRD
+Leveler,,Carl Critchlow,195,Artifact Creature — Juggernaut,"When Leveler enters the battlefield, exile all cards from your library.",MRD
+Liar's Pendulum,,Christopher Moeller,196,Artifact,"{2}, {T}: Name a card. Target opponent guesses whether a card with that name is in your hand. You may reveal your hand. If you do and your opponent guessed wrong, draw a card.",MRD
+Lifespark Spellbomb,,Jim Nelson,197,Artifact,"{G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.\n{1}, Sacrifice Lifespark Spellbomb: Draw a card.",MRD
+Lightning Coils,,Brian Snõddy,198,Artifact,"Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils.\nAt the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and put that many 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.",MRD
+Lightning Greaves,,Jeremy Jarvis,199,Artifact — Equipment,Equipped creature has haste and shroud. (It can't be the target of spells or abilities.)\nEquip {0},"pFNM,MRD,DDE,ARC,CMD,C15"
+Lodestone Myr,,Greg Staples,200,Artifact Creature — Myr,Trample\nTap an untapped artifact you control: Lodestone Myr gets +1/+1 until end of turn.,"MRD,HOP,MM2"
+Loxodon Warhammer,,Jeremy Jarvis,201,Artifact — Equipment,Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3},"MRD,9ED,10E,HOP,DPA,DDG,C14,C15"
+Malachite Golem,,Paolo Parente,202,Artifact Creature — Golem,{1}{G}: Malachite Golem gains trample until end of turn.,MRD
+Mask of Memory,,Alan Pollack,203,Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1}","MRD,HOP,C14"
+Mesmeric Orb,,David Martin,204,Artifact,"Whenever a permanent becomes untapped, that permanent's controller puts the top card of his or her library into his or her graveyard.",MRD
+Mind's Eye,,"Edward P. Beard, Jr.",205,Artifact,"Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.","MRD,CM1"
+Mindslaver,,Glen Angus,206,Legendary Artifact,"{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)","MRD,SOM"
+Mindstorm Crown,,Ben Thompson,207,Artifact,"At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, Mindstorm Crown deals 1 damage to you.",MRD
+Mirror Golem,,Franz Vohwinkel,208,Artifact Creature — Golem,"Imprint — When Mirror Golem enters the battlefield, you may exile target card from a graveyard.\nMirror Golem has protection from each of the exiled card's card types. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",MRD
+Mourner's Shield,,Carl Critchlow,209,Artifact,"Imprint — When Mourner's Shield enters the battlefield, you may exile target card from a graveyard.\n{2}, {T}: Prevent all damage that would be dealt this turn by a source of your choice that shares a color with the exiled card.",MRD
+Myr Adapter,,Ben Thompson,210,Artifact Creature — Myr,Myr Adapter gets +1/+1 for each Equipment attached to it.,MRD
+Myr Enforcer,,Greg Staples,211,Artifact Creature — Myr,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.),"pFNM,MRD,HOP,MMA,MM2"
+Myr Incubator,,Alex Horley-Orlandelli,212,Artifact,"{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then put that many 1/1 colorless Myr artifact creature tokens onto the battlefield. Then shuffle your library.",MRD
+Myr Mindservant,,Dave Dorman,213,Artifact Creature — Myr,"{2}, {T}: Shuffle your library.",MRD
+Myr Prototype,,Dave Dorman,214,Artifact Creature — Myr,"At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.\nMyr Prototype can't attack or block unless you pay {1} for each +1/+1 counter on it.",MRD
+Myr Retriever,,Trevor Hairsine,215,Artifact Creature — Myr,"When Myr Retriever dies, return another target artifact card from your graveyard to your hand.","MRD,MMA,C14"
+Necrogen Spellbomb,,Jim Nelson,216,Artifact,"{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.\n{1}, Sacrifice Necrogen Spellbomb: Draw a card.",MRD
+Needlebug,,Paolo Parente,217,Artifact Creature — Insect,Flash\nProtection from artifacts,MRD
+Neurok Hoversail,,Alan Pollack,218,Artifact — Equipment,Equipped creature has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Nightmare Lash,,Puddnhead,219,Artifact — Equipment,Equipped creature gets +1/+1 for each Swamp you control.\nEquip—Pay 3 life. (Pay 3 life: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Nim Replica,,Carl Critchlow,220,Artifact Creature — Zombie,"{2}{B}, Sacrifice Nim Replica: Target creature gets -1/-1 until end of turn.",MRD
+Nuisance Engine,,Stephen Tappin,221,Artifact,"{2}, {T}: Put a 0/1 colorless Pest artifact creature token onto the battlefield.","MRD,HOP"
+Oblivion Stone,,Sam Wood,222,Artifact,"{4}, {T}: Put a fate counter on target permanent.\n{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.","MRD,CMD"
+Omega Myr,,Dany Orizio,223,Artifact Creature — Myr,,MRD
+Ornithopter,,Dana Knutson,224,Artifact Creature — Thopter,Flying (This creature can't be blocked except by creatures with flying or reach.),"ATQ,3ED,4ED,5ED,6ED,MRD,9ED,10E,M10,M11,M15"
+Pearl Shard,,Doug Chaffee,225,Artifact,"{3}, {T} or {W}, {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.",MRD
+Pentavus,,Greg Staples,226,Artifact Creature — Construct,"Pentavus enters the battlefield with five +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.
+{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.","MRD,HOP,DDF,M12,C14"
+Pewter Golem,,Paolo Parente,227,Artifact Creature — Golem,{1}{B}: Regenerate Pewter Golem.,MRD
+Platinum Angel,,Brom,228,Artifact Creature — Angel,Flying\nYou can't lose the game and your opponents can't win the game.,"MRD,10E,M10,M11,V15"
+Power Conduit,,Todd Lockwood,229,Artifact,"{T}, Remove a counter from a permanent you control: Choose one —\n• Put a charge counter on target artifact.
+• Put a +1/+1 counter on target creature.",MRD
+Proteus Staff,,Trevor Hairsine,230,Artifact,"{2}{U}, {T}: Put target creature on the bottom of its owner's library. That creature's controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield and the rest on the bottom of his or her library in any order. Activate this ability only any time you could cast a sorcery.",MRD
+Psychogenic Probe,,Jeremy Jarvis,231,Artifact,"Whenever a spell or ability causes a player to shuffle his or her library, Psychogenic Probe deals 2 damage to him or her.",MRD
+Pyrite Spellbomb,,Jim Nelson,232,Artifact,"{R}, Sacrifice Pyrite Spellbomb: Pyrite Spellbomb deals 2 damage to target creature or player.\n{1}, Sacrifice Pyrite Spellbomb: Draw a card.","MRD,MMA"
+Quicksilver Fountain,,Trevor Hairsine,233,Artifact,"At the beginning of each player's upkeep, that player puts a flood counter on target non-Island land he or she controls of his or her choice. That land is an Island for as long as it has a flood counter on it.\nAt the beginning of each end step, if all lands on the battlefield are Islands, remove all flood counters from them.",MRD
+Rust Elemental,,Arnie Swekel,234,Artifact Creature — Elemental,"Flying\nAt the beginning of your upkeep, sacrifice an artifact other than Rust Elemental. If you can't, tap Rust Elemental and you lose 4 life.",MRD
+Rustspore Ram,,Arnie Swekel,235,Artifact Creature — Sheep,"When Rustspore Ram enters the battlefield, destroy target Equipment.",MRD
+Scale of Chiss-Goria,,Alan Pollack,236,Artifact,Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{T}: Target creature gets +0/+1 until end of turn.,MRD
+Scrabbling Claws,,Thomas M. Baxa,237,Artifact,"{T}: Target player exiles a card from his or her graveyard.\n{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.",MRD
+Sculpting Steel,,Heather Hudson,238,Artifact,You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.,"MRD,10E"
+Scythe of the Wretched,,Matt Cavotta,239,Artifact — Equipment,"Equipped creature gets +2/+2.\nWhenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.
+Equip {4}",MRD
+Serum Tank,,Corey D. Macourek,240,Artifact,"Whenever Serum Tank or another artifact enters the battlefield, put a charge counter on Serum Tank.\n{3}, {T}, Remove a charge counter from Serum Tank: Draw a card.","MRD,HOP"
+Silver Myr,,Kev Walker,241,Artifact Creature — Myr,{T}: Add {U} to your mana pool.,"MRD,HOP,DDF,SOM"
+Skeleton Shard,,Doug Chaffee,242,Artifact,"{3}, {T} or {B}, {T}: Return target artifact creature card from your graveyard to your hand.","MRD,HOP"
+Slagwurm Armor,,Justin Sweet,243,Artifact — Equipment,Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Soldier Replica,,Carl Critchlow,244,Artifact Creature — Soldier,"{1}{W}, Sacrifice Soldier Replica: Soldier Replica deals 3 damage to target attacking or blocking creature.",MRD
+Solemn Simulacrum,,Greg Staples,245,Artifact Creature — Golem,"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.\nWhen Solemn Simulacrum dies, you may draw a card.","MRD,CMD,M12,C14,C15"
+Soul Foundry,,Arnie Swekel,246,Artifact,"Imprint — When Soul Foundry enters the battlefield, you may exile a creature card from your hand.\n{X}, {T}: Put a token that's a copy of the exiled card onto the battlefield. X is the converted mana cost of that card.",MRD
+Spellweaver Helix,,Luca Zontini,247,Artifact,"Imprint — When Spellweaver Helix enters the battlefield, you may exile two target sorcery cards from a single graveyard.\nWhenever a player casts a card, if it has the same name as one of the cards exiled with Spellweaver Helix, you may copy the other. If you do, you may cast the copy without paying its mana cost.",MRD
+Steel Wall,,David Day,248,Artifact Creature — Wall,Defender (This creature can't attack.),"MRD,DDF"
+Sun Droplet,,Tim Hildebrandt,249,Artifact,"Whenever you're dealt damage, put that many charge counters on Sun Droplet.\nAt the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.","MRD,ARC,C13"
+Sunbeam Spellbomb,,Jim Nelson,250,Artifact,"{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.\n{1}, Sacrifice Sunbeam Spellbomb: Draw a card.",MRD
+Sword of Kaldra,,Donato Giancola,251,Legendary Artifact — Equipment,"Equipped creature gets +5/+5.\nWhenever equipped creature deals damage to a creature, exile that creature.
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)","pPRE,MRD"
+Synod Sanctum,,Dana Knutson,252,Artifact,"{2}, {T}: Exile target permanent you control.\n{2}, Sacrifice Synod Sanctum: Return all cards exiled with Synod Sanctum to the battlefield under your control.","MRD,ARC"
+Talisman of Dominance,,Mike Dringenberg,253,Artifact,{T}: Add {1} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Talisman of Dominance deals 1 damage to you.,MRD
+Talisman of Impulse,,Mike Dringenberg,254,Artifact,{T}: Add {1} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Talisman of Impulse deals 1 damage to you.,MRD
+Talisman of Indulgence,,Mike Dringenberg,255,Artifact,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Talisman of Indulgence deals 1 damage to you.,MRD
+Talisman of Progress,,Mike Dringenberg,256,Artifact,{T}: Add {1} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Talisman of Progress deals 1 damage to you.,MRD
+Talisman of Unity,,Mike Dringenberg,257,Artifact,{T}: Add {1} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Talisman of Unity deals 1 damage to you.,MRD
+Tanglebloom,,Val Mayerik,258,Artifact,"{1}, {T}: You gain 1 life.","MRD,9ED"
+Tangleroot,,Dana Knutson,259,Artifact,"Whenever a player casts a creature spell, that player adds {G} to his or her mana pool.",MRD
+Tel-Jilad Stylus,,Darrell Riche,260,Artifact,{T}: Put target permanent you own on the bottom of your library.,MRD
+Thought Prison,,Glen Angus,261,Artifact,"Imprint — When Thought Prison enters the battlefield, you may have target player reveal his or her hand. If you do, choose a nonland card from it and exile that card.\nWhenever a player casts a spell that shares a color or converted mana cost with the exiled card, Thought Prison deals 2 damage to that player.",MRD
+Timesifter,,Dany Orizio,262,Artifact,"At the beginning of each upkeep, each player exiles the top card of his or her library. The player who exiled the card with the highest converted mana cost takes an extra turn after this one. If two or more players' cards are tied for highest cost, the tied players repeat this process until the tie is broken.",MRD
+Titanium Golem,,Paolo Parente,263,Artifact Creature — Golem,{1}{W}: Titanium Golem gains first strike until end of turn.,MRD
+Tooth of Chiss-Goria,,Alan Pollack,264,Artifact,Flash\nAffinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+{T}: Target creature gets +1/+0 until end of turn.,MRD
+Tower of Champions,,Greg Staples,265,Artifact,"{8}, {T}: Target creature gets +6/+6 until end of turn.",MRD
+Tower of Eons,,John Avon,266,Artifact,"{8}, {T}: You gain 10 life.",MRD
+Tower of Fortunes,,Matt Cavotta,267,Artifact,"{8}, {T}: Draw four cards.","MRD,C13"
+Tower of Murmurs,,Glen Angus,268,Artifact,"{8}, {T}: Target player puts the top eight cards of his or her library into his or her graveyard.",MRD
+Triskelion,,Christopher Moeller,269,Artifact Creature — Construct,Triskelion enters the battlefield with three +1/+1 counters on it.\nRemove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.,"ATQ,4ED,MRD,M11,DDF"
+Viridian Longbow,,Jeremy Jarvis,270,Artifact — Equipment,Equipped creature has "{T}: This creature deals 1 damage to target creature or player."\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Vorrac Battlehorns,,David Martin,271,Artifact — Equipment,Equipped creature has trample and can't be blocked by more than one creature.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Vulshok Battlegear,,Kevin Dobler,272,Artifact — Equipment,Equipped creature gets +3/+3.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),"MRD,DDI"
+Vulshok Gauntlets,,Richard Sardinha,273,Artifact — Equipment,Equipped creature gets +4/+2 and doesn't untap during its controller's untap step.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.),MRD
+Welding Jar,,Mark Brill,274,Artifact,Sacrifice Welding Jar: Regenerate target artifact.,MRD
+Wizard Replica,,Carl Critchlow,275,Artifact Creature — Wizard,"Flying\n{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}.","MRD,HOP"
+Worldslayer,,Greg Staples,276,Artifact — Equipment,"Whenever equipped creature deals combat damage to a player, destroy all permanents other than Worldslayer.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)","MRD,M12"
+Yotian Soldier,,Luca Zontini,277,Artifact Creature — Soldier,Vigilance,"ATQ,4ED,MRD,ME4"
+Ancient Den,,Rob Alexander,278,Artifact Land,(Ancient Den isn't a spell.)\n{T}: Add {W} to your mana pool.,"MRD,HOP"
+Blinkmoth Well,,David Martin,279,Land,"{T}: Add {1} to your mana pool.\n{2}, {T}: Tap target noncreature artifact.",MRD
+Cloudpost,,Martina Pilcerova,280,Land — Locus,Cloudpost enters the battlefield tapped.\n{T}: Add {1} to your mana pool for each Locus on the battlefield.,"pFNM,MRD"
+Glimmervoid,,Lars Grant-West,281,Land,"At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid.\n{T}: Add one mana of any color to your mana pool.","MRD,MMA"
+Great Furnace,,Rob Alexander,282,Artifact Land,{T}: Add {R} to your mana pool.,"MRD,HOP,C14"
+Seat of the Synod,,John Avon,283,Artifact Land,(Seat of the Synod isn't a spell.)\n{T}: Add {U} to your mana pool.,"MRD,HOP,DDF"
+Stalking Stones,,David Day,284,Land,{T}: Add {1} to your mana pool.\n{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that's still a land. (This effect lasts indefinitely.),"TMP,MRD,DDF,TPR"
+Tree of Tales,,John Avon,285,Artifact Land,(Tree of Tales isn't a spell.)\n{T}: Add {G} to your mana pool.,"MRD,HOP"
+Vault of Whispers,,Rob Alexander,286,Artifact Land,(Vault of Whispers isn't a spell.)\n{T}: Add {B} to your mana pool.,"MRD,HOP"
+Plains,,Mark Tedin,287,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Rob Alexander,288,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Martina Pilcerova,289,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,John Avon,290,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Mark Tedin,291,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Rob Alexander,292,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Martina Pilcerova,293,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,John Avon,294,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Mark Tedin,295,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Rob Alexander,296,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Martina Pilcerova,297,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,John Avon,298,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Mark Tedin,299,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Rob Alexander,300,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Martina Pilcerova,301,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,302,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Mark Tedin,303,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,304,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Martina Pilcerova,305,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,John Avon,306,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

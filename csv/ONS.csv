@@ -1,0 +1,400 @@
+name,cost,artist,number,type,text,printings
+Akroma's Blessing,,Adam Rex,1,Instant,"Choose a color. Creatures you control gain protection from the chosen color until end of turn.\nCycling {W} ({W}, Discard this card: Draw a card.)","ONS,VMA"
+Akroma's Vengeance,,Greg & Tim Hildebrandt,2,Sorcery,"Destroy all artifacts, creatures, and enchantments.\nCycling {3} ({3}, Discard this card: Draw a card.)","ONS,HOP,CMD,V13"
+Ancestor's Prophet,,Kev Walker,3,Creature — Human Cleric,Tap five untapped Clerics you control: You gain 10 life.,ONS
+Astral Slide,,Ron Spears,4,Enchantment,"Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.","pFNM,ONS,VMA"
+Aura Extraction,,Luca Zontini,5,Instant,"Put target enchantment on top of its owner's library.\nCycling {2} ({2}, Discard this card: Draw a card.)",ONS
+Aurification,,Gary Ruddell,6,Enchantment,"Whenever a creature deals damage to you, put a gold counter on it.\nEach creature with a gold counter on it is a Wall in addition to its other creature types and has defender. (Those creatures can't attack.)
+When Aurification leaves the battlefield, remove all gold counters from all creatures.",ONS
+Aven Brigadier,,Greg Staples,7,Creature — Bird Soldier,Flying\nOther Bird creatures get +1/+1.
+Other Soldier creatures get +1/+1.,ONS
+Aven Soulgazer,,John Avon,8,Creature — Bird Cleric,Flying\n{2}{W}: Look at target face-down creature.,ONS
+Battlefield Medic,,Matt Thompson,9,Creature — Human Cleric,"{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield.",ONS
+Catapult Master,,Terese Nielsen,10,Creature — Human Soldier,Tap five untapped Soldiers you control: Exile target creature.,"ONS,DDF"
+Catapult Squad,,Brian Snõddy,11,Creature — Human Soldier,Tap two untapped Soldiers you control: Catapult Squad deals 2 damage to target attacking or blocking creature.,ONS
+Chain of Silence,,Randy Gallegos,12,Instant,"Prevent all damage target creature would deal this turn. That creature's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.",ONS
+Circle of Solace,,Greg & Tim Hildebrandt,13,Enchantment,"As Circle of Solace enters the battlefield, choose a creature type.\n{1}{W}: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.",ONS
+Convalescent Care,,Greg & Tim Hildebrandt,14,Enchantment,"At the beginning of your upkeep, if you have 5 or less life, you gain 3 life and draw a card.",ONS
+Crowd Favorites,,Roger Raupp,15,Creature — Human Soldier,{3}{W}: Tap target creature.\n{3}{W}: Crowd Favorites gets +0/+5 until end of turn.,ONS
+Crown of Awe,,Randy Elliott,16,Enchantment — Aura,Enchant creature\nEnchanted creature has protection from black and from red.
+Sacrifice Crown of Awe: Enchanted creature and other creatures that share a creature type with it gain protection from black and from red until end of turn.,ONS
+Crude Rampart,,Sam Wood,17,Creature — Wall,Defender (This creature can't attack.)\nMorph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Daru Cavalier,,Dany Orizio,18,Creature — Human Soldier,"First strike\nWhen Daru Cavalier enters the battlefield, you may search your library for a card named Daru Cavalier, reveal it, and put it into your hand. If you do, shuffle your library.",ONS
+Daru Healer,,Dany Orizio,19,Creature — Human Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\nMorph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Daru Lancer,,Brian Snõddy,20,Creature — Human Soldier,First strike\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Daunting Defender,,Carl Critchlow,21,Creature — Human Cleric,"If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.",ONS
+Dawning Purist,,Brian Snõddy,22,Creature — Human Cleric,"Whenever Dawning Purist deals combat damage to a player, you may destroy target enchantment that player controls.\nMorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Defensive Maneuvers,,Luca Zontini,23,Instant,Creatures of the creature type of your choice get +0/+4 until end of turn.,ONS
+Demystify,,Christopher Rush,24,Instant,Destroy target enchantment.,"ONS,8ED,9ED,10E,ROE,M12"
+Disciple of Grace,,Thomas M. Baxa,25,Creature — Human Cleric,"Protection from black\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,ONS"
+Dive Bomber,,Randy Gallegos,26,Creature — Bird Soldier,"Flying\n{T}, Sacrifice Dive Bomber: Dive Bomber deals 2 damage to target attacking or blocking creature.",ONS
+Doubtless One,,Justin Sweet,27,Creature — Cleric Avatar,"Doubtless One's power and toughness are each equal to the number of Clerics on the battlefield.\nWhenever Doubtless One deals damage, you gain that much life.",ONS
+Exalted Angel,,Michael Sutfin,28,Creature — Angel,"Flying\nWhenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","pJGP,ONS,V15"
+Foothill Guide,,Eric Peterson,29,Creature — Human Cleric,Protection from Goblins\nMorph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Glarecaster,,Dan Frazier,30,Creature — Bird Cleric,"Flying\n{5}{W}: The next time damage would be dealt to Glarecaster and/or you this turn, that damage is dealt to target creature or player instead.",ONS
+Glory Seeker,,Dave Dorman,31,Creature — Human Soldier,,"ONS,8ED,9ED,ROE,DDF"
+Grassland Crusader,,Mark Tedin,32,Creature — Human Cleric Soldier,{T}: Target Elf or Soldier creature gets +2/+2 until end of turn.,ONS
+Gravel Slinger,,Kev Walker,33,Creature — Human Soldier,{T}: Gravel Slinger deals 1 damage to target attacking or blocking creature.\nMorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Gustcloak Harrier,,Dan Frazier,34,Creature — Bird Soldier,"Flying\nWhenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.","ONS,VMA,DDO"
+Gustcloak Runner,,Glen Angus,35,Creature — Human Soldier,"Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.",ONS
+Gustcloak Savior,,Jim Nelson,36,Creature — Bird Soldier,"Flying\nWhenever a creature you control becomes blocked, you may untap that creature and remove it from combat.","ONS,DDO"
+Gustcloak Sentinel,,Mark Zug,37,Creature — Human Soldier,"Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.","ONS,DDL,DDO"
+Gustcloak Skirmisher,,Dan Frazier,38,Creature — Bird Soldier,"Flying\nWhenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.","ONS,DDO"
+Harsh Mercy,,John Matson,39,Sorcery,Each player chooses a creature type. Destroy all creatures that aren't of a type chosen this way. They can't be regenerated.,ONS
+Improvised Armor,,Alan Pollack,40,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+5.
+Cycling {3} ({3}, Discard this card: Draw a card.)",ONS
+Inspirit,,Keith Garletts,41,Instant,Untap target creature. It gets +2/+4 until end of turn.,"ONS,9ED"
+Ironfist Crusher,,Iain McCaig,42,Creature — Human Soldier,Ironfist Crusher can block any number of creatures.\nMorph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+"Jareth, Leonine Titan",,Daren Bader,43,Legendary Creature — Cat Giant,"Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.\n{W}: Jareth gains protection from the color of your choice until end of turn.","ONS,VMA,C15"
+Mobilization,,Carl Critchlow,44,Enchantment,Soldier creatures have vigilance.\n{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.,"ONS,10E,C14"
+Nova Cleric,,Alan Pollack,45,Creature — Human Cleric,"{2}{W}, {T}, Sacrifice Nova Cleric: Destroy all enchantments.",ONS
+Oblation,,Doug Chaffee,46,Instant,"The owner of target nonland permanent shuffles it into his or her library, then draws two cards.","ONS,CMD,C14"
+Pacifism,,Matthew D. Wilson,47,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack or block.,"MIR,TMP,USG,ATH,6ED,BRB,7ED,ONS,8ED,9ED,10E,DDC,M10,M11,M12,M13,M14,DD3_DVD,DTK,TPR"
+Pearlspear Courier,,Dany Orizio,48,Creature — Human Soldier,"You may choose not to untap Pearlspear Courier during your untap step.\n{2}{W}, {T}: Target Soldier creature gets +2/+2 and has vigilance for as long as Pearlspear Courier remains tapped.",ONS
+Piety Charm,,David Martin,49,Instant,Choose one —\n• Destroy target Aura attached to a creature.
+• Target Soldier creature gets +2/+2 until end of turn.
+• Creatures you control gain vigilance until end of turn.,ONS
+Renewed Faith,,Dave Dorman,50,Instant,"You gain 6 life.\nCycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Renewed Faith, you may gain 2 life.","ONS,VMA"
+Righteous Cause,,Scott M. Fischer,51,Enchantment,"Whenever a creature attacks, you gain 1 life.","ONS,DDC,CMD,DD3_DVD"
+Sandskin,,Glen Angus,52,Enchantment — Aura,Enchant creature\nPrevent all combat damage that would be dealt to and dealt by enchanted creature.,ONS
+Shared Triumph,,Mark Brill,53,Enchantment,"As Shared Triumph enters the battlefield, choose a creature type.\nCreatures of the chosen type get +1/+1.",ONS
+Shieldmage Elder,,Christopher Moeller,54,Creature — Human Cleric Wizard,Tap two untapped Clerics you control: Prevent all damage target creature would deal this turn.\nTap two untapped Wizards you control: Prevent all damage target spell would deal this turn.,ONS
+Sigil of the New Dawn,,Tony Szczudlo,55,Enchantment,"Whenever a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return that card to your hand.",ONS
+Sunfire Balm,,Monte Michael Moore,56,Instant,"Prevent the next 4 damage that would be dealt to target creature or player this turn.\nCycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Sunfire Balm, you may prevent the next 1 damage that would be dealt to target creature or player this turn.",ONS
+True Believer,,Alex Horley-Orlandelli,57,Creature — Human Cleric,You have shroud. (You can't be the target of spells or abilities.),"ONS,10E"
+Unified Strike,,Dave Dorman,58,Instant,Exile target attacking creature if its power is less than or equal to the number of Soldiers on the battlefield.,ONS
+Weathered Wayfarer,,Greg & Tim Hildebrandt,59,Creature — Human Nomad Cleric,"{W}, {T}: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.","ONS,9ED"
+Whipcorder,,Ron Spencer,60,Creature — Human Soldier Rebel,"{W}, {T}: Tap target creature.\nMorph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","pFNM,ONS"
+Words of Worship,,Rebecca Guay,61,Enchantment,"{1}: The next time you would draw a card this turn, you gain 5 life instead.",ONS
+Airborne Aid,,Bradley Williams,62,Sorcery,Draw a card for each Bird on the battlefield.,ONS
+Annex,,John Avon,63,Enchantment — Aura,Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)\nYou control enchanted land.,"ONS,9ED"
+Aphetto Alchemist,,Ron Spears,64,Creature — Human Wizard,{T}: Untap target artifact or creature.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Aphetto Grifter,,Greg Staples,65,Creature — Human Wizard,Tap two untapped Wizards you control: Tap target permanent.,ONS
+Arcanis the Omnipotent,,Justin Sweet,66,Legendary Creature — Wizard,{T}: Draw three cards.\n{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.,"ONS,10E,DDN"
+Artificial Evolution,,Greg Staples,67,Instant,Change the text of target spell or permanent by replacing all instances of one creature type with another. The new creature type can't be Wall. (This effect lasts indefinitely.),ONS
+Ascending Aven,,Ron Spencer,68,Creature — Bird Soldier,Flying\nAscending Aven can block only creatures with flying.
+Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Aven Fateshaper,,Anthony S. Waters,69,Creature — Bird Wizard,"Flying\nWhen Aven Fateshaper enters the battlefield, look at the top four cards of your library, then put them back in any order.
+{4}{U}: Look at the top four cards of your library, then put them back in any order.",ONS
+Backslide,,Pete Venters,70,Instant,"Turn target creature with a morph ability face down.\nCycling {U} ({U}, Discard this card: Draw a card.)",ONS
+Blatant Thievery,,Ron Spencer,71,Sorcery,"For each opponent, gain control of target permanent that player controls.","ONS,C15"
+Callous Oppressor,,Justin Sweet,72,Creature — Cephalid,"You may choose not to untap Callous Oppressor during your untap step.\nAs Callous Oppressor enters the battlefield, an opponent chooses a creature type.
+{T}: Gain control of target creature that isn't of the chosen type for as long as Callous Oppressor remains tapped.",ONS
+Chain of Vapor,,Carl Critchlow,73,Instant,"Return target nonland permanent to its owner's hand. Then that permanent's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.",ONS
+Choking Tethers,,Carl Critchlow,74,Instant,"Tap up to four target creatures.\nCycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle Choking Tethers, you may tap target creature.","ONS,VMA"
+Clone,,Carl Critchlow,75,Creature — Shapeshifter,You may have Clone enter the battlefield as a copy of any creature on the battlefield.,"LEA,LEB,2ED,CED,CEI,3ED,ONS,9ED,10E,M10,M11,DDI,M13,M14"
+Complicate,,Scott M. Fischer,76,Instant,"Counter target spell unless its controller pays {3}.\nCycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle Complicate, you may counter target spell unless its controller pays {1}.",ONS
+Crafty Pathmage,,Wayne England,77,Creature — Human Wizard,{T}: Target creature with power 2 or less can't be blocked this turn.,"ONS,9ED,10E"
+Crown of Ascension,,Bradley Williams,78,Enchantment — Aura,Enchant creature\nEnchanted creature has flying.
+Sacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.,ONS
+Discombobulate,,Alex Horley-Orlandelli,79,Instant,"Counter target spell. Look at the top four cards of your library, then put them back in any order.","ONS,10E"
+Dispersing Orb,,Rebecca Guay,80,Enchantment,"{3}{U}, Sacrifice a permanent: Return target permanent to its owner's hand.",ONS
+Disruptive Pitmage,,Darrell Riche,81,Creature — Human Wizard,{T}: Counter target spell unless its controller pays {1}.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Essence Fracture,,Wayne England,82,Sorcery,"Return two target creatures to their owners' hands.\nCycling {2}{U} ({2}{U}, Discard this card: Draw a card.)",ONS
+Fleeting Aven,,Iain McCaig,83,Creature — Bird Wizard,"Flying\nWhenever a player cycles a card, return Fleeting Aven to its owner's hand.",ONS
+Future Sight,,Matt Cavotta,84,Enchantment,Play with the top card of your library revealed.\nYou may play the top card of your library.,"ONS,DDM,VMA"
+Ghosthelm Courier,,"Edward P. Beard, Jr.",85,Creature — Human Wizard,"You may choose not to untap Ghosthelm Courier during your untap step.\n{2}{U}, {T}: Target Wizard creature gets +2/+2 and has shroud for as long as Ghosthelm Courier remains tapped. (It can't be the target of spells or abilities.)",ONS
+Graxiplon,,Iain McCaig,86,Creature — Beast,Graxiplon can't be blocked unless defending player controls three or more creatures that share a creature type.,ONS
+Imagecrafter,,Terese Nielsen,87,Creature — Human Wizard,{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.,ONS
+Information Dealer,,Jerry Tiritilli,88,Creature — Human Wizard,"{T}: Look at the top X cards of your library, where X is the number of Wizards on the battlefield, then put them back in any order.",ONS
+"Ixidor, Reality Sculptor",,Kev Walker,89,Legendary Creature — Human Wizard,Face-down creatures get +1/+1.\n{2}{U}: Turn target face-down creature face up.,ONS
+Ixidor's Will,,Eric Peterson,90,Instant,Counter target spell unless its controller pays {2} for each Wizard on the battlefield.,ONS
+Mage's Guile,,"Edward P. Beard, Jr.",91,Instant,"Target creature gains shroud until end of turn. (It can't be the target of spells or abilities.)\nCycling {U} ({U}, Discard this card: Draw a card.)",ONS
+Meddle,,Brian Snõddy,92,Instant,"If target spell has only one target and that target is a creature, change that spell's target to another creature.","MIR,ONS"
+Mistform Dreamer,,Matthew Mitchell,93,Creature — Illusion,Flying\n{1}: Mistform Dreamer becomes the creature type of your choice until end of turn.,ONS
+Mistform Mask,,Monte Michael Moore,94,Enchantment — Aura,Enchant creature\n{1}: Enchanted creature becomes the creature type of your choice until end of turn.,ONS
+Mistform Mutant,,John Avon,95,Creature — Illusion Mutant,{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.,ONS
+Mistform Shrieker,,Glen Angus,96,Creature — Illusion,Flying\n{1}: Mistform Shrieker becomes the creature type of your choice until end of turn.
+Morph {3}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Mistform Skyreaver,,Anthony S. Waters,97,Creature — Illusion,Flying\n{1}: Mistform Skyreaver becomes the creature type of your choice until end of turn.,ONS
+Mistform Stalker,,Randy Gallegos,98,Creature — Illusion,{1}: Mistform Stalker becomes the creature type of your choice until end of turn.\n{2}{U}{U}: Mistform Stalker gets +2/+2 and gains flying until end of turn.,ONS
+Mistform Wall,,Franz Vohwinkel,99,Creature — Illusion Wall,Mistform Wall has defender as long as it's a Wall.\n{1}: Mistform Wall becomes the creature type of your choice until end of turn.,ONS
+Nameless One,,Mark Tedin,100,Creature — Wizard Avatar,Nameless One's power and toughness are each equal to the number of Wizards on the battlefield.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Peer Pressure,,"Edward P. Beard, Jr.",101,Sorcery,"Choose a creature type. If you control more creatures of that type than each other player, you gain control of all creatures of that type. (This effect lasts indefinitely.)",ONS
+Psychic Trance,,Rebecca Guay,102,Instant,"Until end of turn, Wizards you control gain "{T}: Counter target spell."",ONS
+Quicksilver Dragon,,Ron Spencer,103,Creature — Dragon,"Flying\n{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.
+Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","ONS,DD2,DD3_JVC"
+Read the Runes,,Alan Pollack,104,Instant,"Draw X cards. For each card drawn this way, discard a card unless you sacrifice a permanent.",ONS
+Reminisce,,Bradley Williams,105,Sorcery,Target player shuffles his or her graveyard into his or her library.,"ONS,9ED,10E,DDJ"
+Riptide Biologist,,Justin Sweet,106,Creature — Human Wizard,Protection from Beasts\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Riptide Chronologist,,Roger Raupp,107,Creature — Human Wizard,"{U}, Sacrifice Riptide Chronologist: Untap all creatures of the creature type of your choice.",ONS
+Riptide Entrancer,,Scott Hampton,108,Creature — Human Wizard,"Whenever Riptide Entrancer deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. (This effect lasts indefinitely.)\nMorph {U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Riptide Shapeshifter,,Arnie Swekel,109,Creature — Shapeshifter,"{2}{U}{U}, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.",ONS
+Rummaging Wizard,,Jerry Tiritilli,110,Creature — Human Wizard,{2}{U}: Look at the top card of your library. You may put that card into your graveyard.,ONS
+Sage Aven,,Randy Gallegos,111,Creature — Bird Wizard,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.","ONS,9ED"
+Screaming Seahawk,,Heather Hudson,112,Creature — Bird,"Flying\nWhen Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.","ONS,CNS"
+Sea's Claim,,Alan Pollack,113,Enchantment — Aura,Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)\nEnchanted land is an Island.,"ONS,9ED"
+Slipstream Eel,,Mark Tedin,114,Creature — Fish Beast,"Slipstream Eel can't attack unless defending player controls an Island.\nCycling {1}{U} ({1}{U}, Discard this card: Draw a card.)","ONS,CMD"
+Spy Network,,Ron Spears,115,Instant,"Look at target player's hand, the top card of that player's library, and any face-down creatures he or she controls. Look at the top four cards of your library, then put them back in any order.",ONS
+Standardize,,Justin Sweet,116,Instant,Choose a creature type other than Wall. Each creature becomes that type until end of turn.,ONS
+Supreme Inquisitor,,rk post,117,Creature — Human Wizard,Tap five untapped Wizards you control: Search target player's library for up to five cards and exile them. Then that player shuffles his or her library.,ONS
+Trade Secrets,,Ron Spears,118,Sorcery,"Target opponent draws two cards, then you draw up to four cards. That opponent may repeat this process as many times as he or she chooses.","ONS,CMD"
+Trickery Charm,,David Martin,119,Instant,"Choose one —\n• Target creature gains flying until end of turn.
+• Target creature becomes the creature type of your choice until end of turn.
+• Look at the top four cards of your library, then put them back in any order.",ONS
+Voidmage Prodigy,,Scott M. Fischer,120,Creature — Human Wizard,"{U}{U}, Sacrifice a Wizard: Counter target spell.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","pMPR,ONS,TSB"
+Wheel and Deal,,Alan Pollack,121,Instant,"Any number of target opponents each discards his or her hand, then draws seven cards.\nDraw a card.",ONS
+Words of Wind,,Eric Peterson,122,Enchantment,"{1}: The next time you would draw a card this turn, each player returns a permanent he or she controls to its owner's hand instead.",ONS
+Accursed Centaur,,Jerry Tiritilli,123,Creature — Zombie Centaur,"When Accursed Centaur enters the battlefield, sacrifice a creature.",ONS
+Anurid Murkdiver,,Dany Orizio,124,Creature — Zombie Frog Beast,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),ONS
+Aphetto Dredging,,Monte Michael Moore,125,Sorcery,Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.,"ONS,H09"
+Aphetto Vulture,,Tony Szczudlo,126,Creature — Zombie Bird,"Flying\nWhen Aphetto Vulture dies, you may put target Zombie card from your graveyard on top of your library.",ONS
+Blackmail,,Christopher Moeller,127,Sorcery,Target player reveals three cards from his or her hand and you choose one of them. That player discards that card.,"ONS,9ED"
+Boneknitter,,Pete Venters,128,Creature — Zombie Cleric,{1}{B}: Regenerate target Zombie.\nMorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Cabal Archon,,Pete Venters,129,Creature — Human Cleric,"{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.",ONS
+Cabal Executioner,,Rebecca Guay,130,Creature — Human Cleric,"Whenever Cabal Executioner deals combat damage to a player, that player sacrifices a creature.\nMorph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Cabal Slaver,,Pete Venters,131,Creature — Human Cleric,"Whenever a Goblin deals combat damage to a player, that player discards a card.",ONS
+Chain of Smog,,Greg Staples,132,Sorcery,Target player discards two cards. That player may copy this spell and may choose a new target for that copy.,ONS
+Cover of Darkness,,Kev Walker,133,Enchantment,"As Cover of Darkness enters the battlefield, choose a creature type.\nCreatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)",ONS
+Crown of Suspicion,,Wayne England,134,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/-1.
+Sacrifice Crown of Suspicion: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.,ONS
+Cruel Revival,,Greg Staples,135,Instant,Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.,"ONS,HOP,ORI"
+Death Match,,rk post,136,Enchantment,"Whenever a creature enters the battlefield, that creature's controller may have target creature of his or her choice get -3/-3 until end of turn.",ONS
+Death Pulse,,Tony Szczudlo,137,Instant,"Target creature gets -4/-4 until end of turn.\nCycling {1}{B}{B} ({1}{B}{B}, Discard this card: Draw a card.)
+When you cycle Death Pulse, you may have target creature get -1/-1 until end of turn.",ONS
+Dirge of Dread,,Heather Hudson,138,Sorcery,"All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.","ONS,C13"
+Disciple of Malice,,Matt Cavotta,139,Creature — Human Cleric,"Protection from white\nCycling {2} ({2}, Discard this card: Draw a card.)",ONS
+Doomed Necromancer,,Mark Brill,140,Creature — Human Cleric Mercenary,"{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.","ONS,10E"
+Ebonblade Reaper,,Wayne England,141,Creature — Human Cleric,"Whenever Ebonblade Reaper attacks, you lose half your life, rounded up.\nWhenever Ebonblade Reaper deals combat damage to a player, that player loses half his or her life, rounded up.
+Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Endemic Plague,,Nelson DeCastro,142,Sorcery,"As an additional cost to cast Endemic Plague, sacrifice a creature.\nDestroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.",ONS
+Entrails Feaster,,John Matson,143,Creature — Zombie Cat,"At the beginning of your upkeep, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on Entrails Feaster. If you don't, tap Entrails Feaster.",ONS
+Fade from Memory,,David Martin,144,Instant,"Exile target card from a graveyard.\nCycling {B} ({B}, Discard this card: Draw a card.)",ONS
+Fallen Cleric,,Dave Dorman,145,Creature — Zombie Cleric,Protection from Clerics\nMorph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+False Cure,,Bradley Williams,146,Instant,"Until end of turn, whenever a player gains life, that player loses 2 life for each 1 life he or she gained.",ONS
+Feeding Frenzy,,Nelson DeCastro,147,Instant,"Target creature gets -X/-X until end of turn, where X is the number of Zombies on the battlefield.",ONS
+Festering Goblin,,Thomas M. Baxa,148,Creature — Zombie Goblin,"When Festering Goblin dies, target creature gets -1/-1 until end of turn.","ONS,9ED,10E,HOP,ARC,MMA"
+Frightshroud Courier,,Ron Spears,149,Creature — Zombie,"You may choose not to untap Frightshroud Courier during your untap step.\n{2}{B}, {T}: Target Zombie creature gets +2/+2 and has fear for as long as Frightshroud Courier remains tapped. (It can't be blocked except by artifact creatures and/or black creatures.)",ONS
+Gangrenous Goliath,,Justin Sweet,150,Creature — Zombie Giant,Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.,ONS
+Gluttonous Zombie,,Thomas M. Baxa,151,Creature — Zombie,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),"ONS,8ED,9ED"
+Gravespawn Sovereign,,Adam Rex,152,Creature — Zombie,Tap five untapped Zombies you control: Put target creature card from a graveyard onto the battlefield under your control.,ONS
+Grinning Demon,,Mark Zug,153,Creature — Demon,"At the beginning of your upkeep, you lose 2 life.\nMorph {2}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Haunted Cadaver,,Randy Gallegos,154,Creature — Zombie,"Whenever Haunted Cadaver deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards.\nMorph {1}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Head Games,,Terese Nielsen,155,Sorcery,"Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.","ONS,10E"
+Headhunter,,Matt Cavotta,156,Creature — Human Cleric,"Whenever Headhunter deals combat damage to a player, that player discards a card.\nMorph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Infest,,Ben Thompson,157,Sorcery,All creatures get -2/-2 until end of turn.,"pMPR,ONS,ALA,ARC,C13"
+Misery Charm,,David Martin,158,Instant,Choose one —\n• Destroy target Cleric.
+• Return target Cleric card from your graveyard to your hand.
+• Target player loses 2 life.,ONS
+Nantuko Husk,,Carl Critchlow,159,Creature — Zombie Insect,Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.,"ONS,9ED,10E,CMD,ORI"
+Oversold Cemetery,,Thomas M. Baxa,160,Enchantment,"At the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.",ONS
+Patriarch's Bidding,,Ben Thompson,161,Sorcery,Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from his or her graveyard to the battlefield.,ONS
+Profane Prayers,,Alan Pollack,162,Sorcery,"Profane Prayers deals X damage to target creature or player and you gain X life, where X is the number of Clerics on the battlefield.",ONS
+Prowling Pangolin,,Heather Hudson,163,Creature — Beast,"When Prowling Pangolin enters the battlefield, any player may sacrifice two creatures. If a player does, sacrifice Prowling Pangolin.",ONS
+Rotlung Reanimator,,Thomas M. Baxa,164,Creature — Zombie Cleric,"Whenever Rotlung Reanimator or another Cleric dies, put a 2/2 black Zombie creature token onto the battlefield.",ONS
+Screeching Buzzard,,Heather Hudson,165,Creature — Bird,"Flying\nWhen Screeching Buzzard dies, each opponent discards a card.",ONS
+Severed Legion,,Dany Orizio,166,Creature — Zombie,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),"ONS,8ED,10E,DPA"
+Shade's Breath,,Franz Vohwinkel,167,Instant,"Until end of turn, each creature you control becomes a black Shade and gains "{B}: This creature gets +1/+1 until end of turn."",ONS
+Shepherd of Rot,,Greg Staples,168,Creature — Zombie Cleric,{T}: Each player loses 1 life for each Zombie on the battlefield.,"ONS,HOP"
+Silent Specter,,Daren Bader,169,Creature — Specter,"Flying\nWhenever Silent Specter deals combat damage to a player, that player discards two cards.
+Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","pPRE,ONS"
+Smother,,Carl Critchlow,170,Instant,Destroy target creature with converted mana cost 3 or less. It can't be regenerated.,"pFNM,ONS,WWK,DDP"
+Soulless One,,Thomas M. Baxa,171,Creature — Zombie Avatar,Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.,"ONS,HOP"
+Spined Basher,,Thomas M. Baxa,172,Creature — Zombie Beast,Morph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Strongarm Tactics,,Greg & Tim Hildebrandt,173,Sorcery,Each player discards a card. Then each player who didn't discard a creature card this way loses 4 life.,ONS
+Swat,,rk post,174,Instant,"Destroy target creature with power 2 or less.\nCycling {2} ({2}, Discard this card: Draw a card.)","ULG,ONS"
+Syphon Mind,,Jeff Easley,175,Sorcery,Each other player discards a card. You draw a card for each card discarded this way.,"ONS,pWPN,HOP,CMD,C14"
+Syphon Soul,,Ron Spears,176,Sorcery,Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.,"LEG,6ED,BRB,ONS,HOP,CNS"
+Thrashing Mudspawn,,Thomas M. Baxa,177,Creature — Beast,"Whenever Thrashing Mudspawn is dealt damage, you lose that much life.\nMorph {1}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Undead Gladiator,,Jeff Easley,178,Creature — Zombie Barbarian,"{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep.\nCycling {1}{B} ({1}{B}, Discard this card: Draw a card.)",ONS
+Visara the Dreadful,,Kev Walker,179,Legendary Creature — Gorgon,Flying\n{T}: Destroy target creature. It can't be regenerated.,"ONS,V11,VMA"
+Walking Desecration,,Daren Bader,180,Creature — Zombie,"{B}, {T}: Creatures of the creature type of your choice attack this turn if able.",ONS
+Withering Hex,,Greg & Tim Hildebrandt,181,Enchantment — Aura,"Enchant creature\nWhenever a player cycles a card, put a plague counter on Withering Hex.
+Enchanted creature gets -1/-1 for each plague counter on Withering Hex.",ONS
+Words of Waste,,Jerry Tiritilli,182,Enchantment,"{1}: The next time you would draw a card this turn, each opponent discards a card instead.",ONS
+Wretched Anurid,,Glen Angus,183,Creature — Zombie Frog Beast,"Whenever another creature enters the battlefield, you lose 1 life.",ONS
+Æther Charge,,Mark Brill,184,Enchantment,"Whenever a Beast enters the battlefield under your control, you may have it deal 4 damage to target opponent.",ONS
+Aggravated Assault,,Greg Staples,185,Enchantment,"{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.",ONS
+Airdrop Condor,,Glen Angus,186,Creature — Bird,"Flying\n{1}{R}, Sacrifice a Goblin creature: Airdrop Condor deals damage equal to the sacrificed creature's power to target creature or player.",ONS
+Avarax,,Greg Staples,187,Creature — Beast,"Haste\nWhen Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.
+{1}{R}: Avarax gets +1/+0 until end of turn.",ONS
+Battering Craghorn,,Matt Cavotta,188,Creature — Goat Beast,First strike\nMorph {1}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),"ONS,ARC"
+Blistering Firecat,,Arnie Swekel,189,Creature — Elemental Cat,"Trample, haste\nAt the beginning of the end step, sacrifice Blistering Firecat.
+Morph {R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Break Open,,Alex Horley-Orlandelli,190,Instant,Turn target face-down creature an opponent controls face up.,ONS
+Brightstone Ritual,,Wayne England,191,Instant,Add {R} to your mana pool for each Goblin on the battlefield.,ONS
+Butcher Orgg,,Kev Walker,192,Creature — Orgg,You may assign Butcher Orgg's combat damage divided as you choose among defending player and/or any number of creatures he or she controls.,ONS
+Chain of Plasma,,Gary Ruddell,193,Instant,"Chain of Plasma deals 3 damage to target creature or player. Then that player or that creature's controller may discard a card. If the player does, he or she may copy this spell and may choose a new target for that copy.",ONS
+Charging Slateback,,Mark Tedin,194,Creature — Beast,Charging Slateback can't block.\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Commando Raid,,Ron Spencer,195,Instant,"Until end of turn, target creature you control gains "When this creature deals combat damage to a player, you may have it deal damage equal to its power to target creature that player controls."",ONS
+Crown of Fury,,Bradley Williams,196,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+0 and has first strike.
+Sacrifice Crown of Fury: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.,ONS
+Custody Battle,,Greg & Tim Hildebrandt,197,Enchantment — Aura,"Enchant creature\nEnchanted creature has "At the beginning of your upkeep, target opponent gains control of this creature unless you sacrifice a land."",ONS
+Dragon Roost,,Luca Zontini,198,Enchantment,{5}{R}{R}: Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.),"ONS,10E"
+Dwarven Blastminer,,Gary Ruddell,199,Creature — Dwarf,"{2}{R}, {T}: Destroy target nonbasic land.\nMorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Embermage Goblin,,Pete Venters,200,Creature — Goblin Wizard,"When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library.\n{T}: Embermage Goblin deals 1 damage to target creature or player.",ONS
+Erratic Explosion,,Gary Ruddell,201,Sorcery,Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.,"ONS,PC2"
+Fever Charm,,David Martin,202,Instant,Choose one —\n• Target creature gains haste until end of turn.
+• Target creature gets +2/+0 until end of turn.
+• Fever Charm deals 3 damage to target Wizard creature.,ONS
+Flamestick Courier,,Luca Zontini,203,Creature — Goblin,"You may choose not to untap Flamestick Courier during your untap step.\n{2}{R}, {T}: Target Goblin creature gets +2/+2 and has haste for as long as Flamestick Courier remains tapped.",ONS
+Goblin Machinist,,Doug Chaffee,204,Creature — Goblin,"{2}{R}: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.",ONS
+Goblin Piledriver,,Matt Cavotta,205,Creature — Goblin Warrior,"Protection from blue (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue.)\nWhenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.","pJGP,ONS,VMA,ORI"
+Goblin Pyromancer,,"Edward P. Beard, Jr.",206,Creature — Goblin Wizard,"When Goblin Pyromancer enters the battlefield, Goblin creatures get +3/+0 until end of turn.\nAt the beginning of the end step, destroy all Goblins.",ONS
+Goblin Sharpshooter,,Greg Staples,207,Creature — Goblin,"Goblin Sharpshooter doesn't untap during your untap step.\nWhenever a creature dies, untap Goblin Sharpshooter.
+{T}: Goblin Sharpshooter deals 1 damage to target creature or player.","ONS,C13"
+Goblin Sky Raider,,Daren Bader,208,Creature — Goblin Warrior,Flying (This creature can't be blocked except by creatures with flying or reach.),"ONS,9ED,10E,DPA"
+Goblin Sledder,,Ron Spencer,209,Creature — Goblin,Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.,"ONS,EVG,DD3_EVG"
+Goblin Taskmaster,,Trevor Hairsine,210,Creature — Goblin,{1}{R}: Target Goblin creature gets +1/+0 until end of turn.\nMorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Grand Melee,,Trevor Hairsine,211,Enchantment,All creatures attack each turn if able.\nAll creatures block each turn if able.,ONS
+Gratuitous Violence,,Christopher Moeller,212,Enchantment,"If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.",ONS
+Insurrection,,Mark Zug,213,Sorcery,Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.,"ONS,HOP,CMD"
+Kaboom!,,Glen Angus,214,Sorcery,"Choose any number of target players. For each of those players, reveal cards from the top of your library until you reveal a nonland card. Kaboom! deals damage equal to that card's converted mana cost to that player, then you put the revealed cards on the bottom of your library in any order.",ONS
+Lavamancer's Skill,,Monte Michael Moore,215,Enchantment — Aura,"Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target creature."
+As long as enchanted creature is a Wizard, it has "{T}: This creature deals 2 damage to target creature."",ONS
+Lay Waste,,Carl Critchlow,216,Sorcery,"Destroy target land.\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,ONS"
+Lightning Rift,,Eric Peterson,217,Enchantment,"Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to target creature or player.","pFNM,ONS,VMA"
+Mana Echoes,,Christopher Moeller,218,Enchantment,"Whenever a creature enters the battlefield, you may add {X} to your mana pool, where X is the number of creatures you control that share a creature type with it.",ONS
+Menacing Ogre,,Ron Spencer,219,Creature — Ogre,"Trample, haste\nWhen Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.","ONS,HOP"
+Nosy Goblin,,Thomas M. Baxa,220,Creature — Goblin,"{T}, Sacrifice Nosy Goblin: Destroy target face-down creature.",ONS
+Pinpoint Avalanche,,Darrell Riche,221,Instant,Pinpoint Avalanche deals 4 damage to target creature. The damage can't be prevented.,ONS
+Reckless One,,Ron Spencer,222,Creature — Goblin Avatar,Haste\nReckless One's power and toughness are each equal to the number of Goblins on the battlefield.,"ONS,EVG,DD3_EVG"
+Risky Move,,Jerry Tiritilli,223,Enchantment,"At the beginning of each player's upkeep, that player gains control of Risky Move.\nWhen you gain control of Risky Move from another player, choose a creature you control and an opponent. Flip a coin. If you lose the flip, that opponent gains control of that creature.",ONS
+Rorix Bladewing,,Darrell Riche,224,Legendary Creature — Dragon,"Flying, haste","ONS,HOP,VMA"
+Searing Flesh,,Pete Venters,225,Sorcery,Searing Flesh deals 7 damage to target opponent.,ONS
+Shaleskin Bruiser,,Mark Zug,226,Creature — Beast,"Trample\nWhenever Shaleskin Bruiser attacks, it gets +3/+0 until end of turn for each other attacking Beast.",ONS
+Shock,,"Edward P. Beard, Jr.",227,Instant,Shock deals 2 damage to target creature or player.,"STH,6ED,pFNM,S00,BTD,7ED,ONS,8ED,9ED,10E,DPA,M12,M14,DDN"
+Skirk Commando,,Dave Dorman,228,Creature — Goblin,"Whenever Skirk Commando deals combat damage to a player, you may have it deal 2 damage to target creature that player controls.\nMorph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","ONS,ARC"
+Skirk Fire Marshal,,Greg & Tim Hildebrandt,229,Creature — Goblin,Protection from red\nTap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.,"ONS,EVG,DD3_EVG"
+Skirk Prospector,,Doug Chaffee,230,Creature — Goblin,Sacrifice a Goblin: Add {R} to your mana pool.,"ONS,EVG,DDG,VMA,DD3_EVG"
+Skittish Valesk,,Alan Pollack,231,Creature — Beast,"At the beginning of your upkeep, flip a coin. If you lose the flip, turn Skittish Valesk face down.\nMorph {5}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Slice and Dice,,Mark Brill,232,Sorcery,"Slice and Dice deals 4 damage to each creature.\nCycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.","pFNM,ONS,C13"
+Snapping Thragg,,Iain McCaig,233,Creature — Beast,"Whenever Snapping Thragg deals combat damage to a player, you may have it deal 3 damage to target creature that player controls.\nMorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Solar Blast,,Greg Staples,234,Instant,"Solar Blast deals 3 damage to target creature or player.\nCycling {1}{R}{R} ({1}{R}{R}, Discard this card: Draw a card.)
+When you cycle Solar Blast, you may have it deal 1 damage to target creature or player.","ONS,VMA"
+Sparksmith,,Jim Nelson,235,Creature — Goblin,"{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.","pFNM,ONS"
+Spitfire Handler,,Jim Nelson,236,Creature — Goblin,Spitfire Handler can't block creatures with power greater than Spitfire Handler's power.\n{R}: Spitfire Handler gets +1/+0 until end of turn.,ONS
+Spurred Wolverine,,Daren Bader,237,Creature — Wolverine Beast,Tap two untapped Beasts you control: Target creature gains first strike until end of turn.,ONS
+Starstorm,,David Martin,238,Instant,"Starstorm deals X damage to each creature.\nCycling {3} ({3}, Discard this card: Draw a card.)","ONS,C13,VMA,C14"
+Tephraderm,,Paolo Parente,239,Creature — Beast,"Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature.\nWhenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell's controller.",ONS
+Thoughtbound Primoc,,Jeff Miracola,240,Creature — Bird Beast,"Flying\nAt the beginning of your upkeep, if a player controls more Wizards than each other player, the player who controls the most Wizards gains control of Thoughtbound Primoc.",ONS
+Threaten,,Mark Brill,241,Sorcery,Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.),"ONS,9ED,10E"
+Thunder of Hooves,,Jim Nelson,242,Sorcery,"Thunder of Hooves deals X damage to each creature without flying and each player, where X is the number of Beasts on the battlefield.",ONS
+Wave of Indifference,,Greg & Tim Hildebrandt,243,Sorcery,X target creatures can't block this turn.,ONS
+Words of War,,Justin Sweet,244,Enchantment,"{1}: The next time you would draw a card this turn, Words of War deals 2 damage to target creature or player instead.",ONS
+Animal Magnetism,,Ron Spears,245,Sorcery,Reveal the top five cards of your library. An opponent chooses a creature card from among them. Put that card onto the battlefield and the rest into your graveyard.,ONS
+Barkhide Mauler,,Iain McCaig,246,Creature — Beast,"Cycling {2} ({2}, Discard this card: Draw a card.)",ONS
+Biorhythm,,Ron Spears,247,Sorcery,Each player's life total becomes the number of creatures he or she controls.,"ONS,9ED"
+Birchlore Rangers,,Dany Orizio,248,Creature — Elf Druid,Tap two untapped Elves you control: Add one mana of any color to your mana pool.\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Bloodline Shaman,,Rebecca Guay,249,Creature — Elf Wizard Shaman,"{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard.",ONS
+Broodhatch Nantuko,,Keith Garletts,250,Creature — Insect Druid,"Whenever Broodhatch Nantuko is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield.\nMorph {2}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Centaur Glade,,Alex Horley-Orlandelli,251,Enchantment,{2}{G}{G}: Put a 3/3 green Centaur creature token onto the battlefield.,ONS
+Chain of Acid,,Ron Spencer,252,Sorcery,Destroy target noncreature permanent. Then that permanent's controller may copy this spell and may choose a new target for that copy.,ONS
+Crown of Vigor,,Matt Cavotta,253,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1.
+Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.,ONS
+Elven Riders,,Darrell Riche,254,Creature — Elf,Elven Riders can't be blocked except by Walls and/or creatures with flying.,"LEG,4ED,RQS,ITP,5ED,6ED,ONS,10E,DPA"
+Elvish Guidance,,Greg & Tim Hildebrandt,255,Enchantment — Aura,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool for each Elf on the battlefield (in addition to the mana the land produces).",ONS
+Elvish Pathcutter,,Todd Lockwood,256,Creature — Elf Scout,{2}{G}: Target Elf creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.),ONS
+Elvish Pioneer,,Christopher Rush,257,Creature — Elf Druid,"When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.","ONS,8ED"
+Elvish Scrapper,,"Edward P. Beard, Jr.",258,Creature — Elf,"{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.","ONS,8ED"
+Elvish Vanguard,,Glen Angus,259,Creature — Elf Warrior,"Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard.",ONS
+Elvish Warrior,,Christopher Moeller,260,Creature — Elf Warrior,,"ONS,9ED,EVG,MOR,DPA,DD3_EVG"
+Enchantress's Presence,,Rebecca Guay,261,Enchantment,"Whenever you cast an enchantment spell, draw a card.",ONS
+Everglove Courier,,Darrell Riche,262,Creature — Elf,"You may choose not to untap Everglove Courier during your untap step.\n{2}{G}, {T}: Target Elf creature gets +2/+2 and has trample for as long as Everglove Courier remains tapped.",ONS
+Explosive Vegetation,,John Avon,263,Sorcery,Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.,"ONS,HOP,CMD,DDO,DTK"
+Gigapede,,Glen Angus,264,Creature — Insect,"Shroud (This creature can't be the target of spells or abilities.)\nAt the beginning of your upkeep, if Gigapede is in your graveyard, you may discard a card. If you do, return Gigapede to your hand.","ONS,VMA"
+Heedless One,,Mark Zug,265,Creature — Elf Avatar,Trample\nHeedless One's power and toughness are each equal to the number of Elves on the battlefield.,"ONS,EVG,DD3_EVG"
+Hystrodon,,Anthony S. Waters,266,Creature — Beast,"Trample\nWhenever Hystrodon deals combat damage to a player, you may draw a card.
+Morph {1}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Invigorating Boon,,"Edward P. Beard, Jr.",267,Enchantment,"Whenever a player cycles a card, you may put a +1/+1 counter on target creature.",ONS
+"Kamahl, Fist of Krosa",,Matthew D. Wilson,268,Legendary Creature — Human Druid,{G}: Target land becomes a 1/1 creature until end of turn. It's still a land.\n{2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.,"ONS,ARC"
+Kamahl's Summons,,Anthony S. Waters,269,Sorcery,Each player may reveal any number of creature cards from his or her hand. Then each player puts a 2/2 green Bear creature token onto the battlefield for each card he or she revealed this way.,ONS
+Krosan Colossus,,Kev Walker,270,Creature — Beast,Morph {6}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Krosan Groundshaker,,Wayne England,271,Creature — Beast,{G}: Target Beast creature gains trample until end of turn.,ONS
+Krosan Tusker,,Kev Walker,272,Creature — Boar Beast,"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.","pFNM,ONS,DDD,ARC,CMD,DDL,C13,VMA,DD3_GVL"
+Leery Fogbeast,,Matt Cavotta,273,Creature — Beast,"Whenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.",ONS
+Mythic Proportions,,Jim Nelson,274,Enchantment — Aura,Enchant creature\nEnchanted creature gets +8/+8 and has trample.,ONS
+Naturalize,,Ron Spears,275,Instant,Destroy target artifact or enchantment.,"ONS,8ED,9ED,10E,ALA,M10,ROE,DPA,M11,M12,ISD,M13,GTC,M14,M15,KTK,DTK"
+Overwhelming Instinct,,Ron Spears,276,Enchantment,"Whenever you attack with three or more creatures, draw a card.",ONS
+Primal Boost,,Eric Peterson,277,Instant,"Target creature gets +4/+4 until end of turn.\nCycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Primal Boost, you may have target creature get +1/+1 until end of turn.",ONS
+Ravenous Baloth,,Arnie Swekel,278,Creature — Beast,Sacrifice a Beast: You gain 4 life.,"pJGP,ONS,DDD,C13,DD3_GVL"
+Run Wild,,Alan Pollack,279,Instant,"Until end of turn, target creature gains trample and "{G}: Regenerate this creature."",ONS
+Serpentine Basilisk,,Franz Vohwinkel,280,Creature — Basilisk,"Whenever Serpentine Basilisk deals combat damage to a creature, destroy that creature at end of combat.\nMorph {1}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Silklash Spider,,Iain McCaig,281,Creature — Spider,Reach\n{X}{G}{G}: Silklash Spider deals X damage to each creature with flying.,"ONS,9ED,M13,C13,C14"
+"Silvos, Rogue Elemental",,Carl Critchlow,282,Legendary Creature — Elemental,"Trample\n{G}: Regenerate Silvos, Rogue Elemental.","ONS,VMA"
+Snarling Undorak,,Justin Sweet,283,Creature — Beast,{2}{G}: Target Beast creature gets +1/+1 until end of turn.\nMorph {1}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Spitting Gourna,,Heather Hudson,284,Creature — Beast,Reach (This creature can block creatures with flying.)\nMorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Stag Beetle,,Anthony S. Waters,285,Creature — Insect,"Stag Beetle enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.",ONS
+Steely Resolve,,Greg Staples,286,Enchantment,"As Steely Resolve enters the battlefield, choose a creature type.\nCreatures of the chosen type have shroud. (They can't be the targets of spells or abilities.)",ONS
+Symbiotic Beast,,Franz Vohwinkel,287,Creature — Insect Beast,"When Symbiotic Beast dies, put four 1/1 green Insect creature tokens onto the battlefield.",ONS
+Symbiotic Elf,,Wayne England,288,Creature — Elf,"When Symbiotic Elf dies, put two 1/1 green Insect creature tokens onto the battlefield.",ONS
+Symbiotic Wurm,,Matt Cavotta,289,Creature — Wurm,"When Symbiotic Wurm dies, put seven 1/1 green Insect creature tokens onto the battlefield.","ONS,CMD,VMA"
+Taunting Elf,,Rebecca Guay,290,Creature — Elf,All creatures able to block Taunting Elf do so.,"UDS,ONS"
+Tempting Wurm,,Bob Petillo,291,Creature — Wurm,"When Tempting Wurm enters the battlefield, each opponent may put any number of artifact, creature, enchantment, and/or land cards from his or her hand onto the battlefield.",ONS
+Towering Baloth,,Arnie Swekel,292,Creature — Beast,Morph {6}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Treespring Lorian,,Heather Hudson,293,Creature — Beast,Morph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),ONS
+Tribal Unity,,Ron Spears,294,Instant,Creatures of the creature type of your choice get +X/+X until end of turn.,"ONS,HOP"
+Venomspout Brackus,,Ron Spencer,295,Creature — Beast,"{1}{G}, {T}: Venomspout Brackus deals 5 damage to target attacking or blocking creature with flying.\nMorph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",ONS
+Vitality Charm,,David Martin,296,Instant,Choose one —\n• Put a 1/1 green Insect creature token onto the battlefield.
+• Target creature gets +1/+1 and gains trample until end of turn.
+• Regenerate target Beast.,ONS
+Voice of the Woods,,Pete Venters,297,Creature — Elf,Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.,"ONS,EVG,DD3_EVG"
+Wall of Mulch,,Anthony S. Waters,298,Creature — Wall,"Defender (This creature can't attack.)\n{G}, Sacrifice a Wall: Draw a card.","ONS,M15"
+Weird Harvest,,Bob Petillo,299,Sorcery,"Each player may search his or her library for up to X creature cards, reveal those cards, and put them into his or her hand. Then each player who searched his or her library this way shuffles it.","ONS,9ED"
+Wellwisher,,Christopher Rush,300,Creature — Elf,{T}: You gain 1 life for each Elf on the battlefield.,"ONS,EVG,C14,DD3_EVG"
+Wirewood Elf,,Jerry Tiritilli,301,Creature — Elf Druid,{T}: Add {G} to your mana pool.,ONS
+Wirewood Herald,,Alex Horley-Orlandelli,302,Creature — Elf,"When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.","ONS,EVG,DD3_EVG"
+Wirewood Pride,,Dave Dorman,303,Instant,"Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.",ONS
+Wirewood Savage,,DiTerlizzi,304,Creature — Elf,"Whenever a Beast enters the battlefield, you may draw a card.","ONS,DDD,DD3_GVL"
+Words of Wilding,,Wayne England,305,Enchantment,"{1}: The next time you would draw a card this turn, put a 2/2 green Bear creature token onto the battlefield instead.",ONS
+Cryptic Gateway,,David Martin,306,Artifact,Tap two untapped creatures you control: You may put a creature card from your hand that shares a creature type with each creature tapped this way onto the battlefield.,ONS
+Doom Cannon,,Matthew Mitchell,307,Artifact,"As Doom Cannon enters the battlefield, choose a creature type.\n{3}, {T}, Sacrifice a creature of the chosen type: Doom Cannon deals 3 damage to target creature or player.",ONS
+Dream Chisel,,Ron Spears,308,Artifact,Face-down creature spells you cast cost {1} less to cast.,ONS
+Riptide Replicator,,Doug Chaffee,309,Artifact,"As Riptide Replicator enters the battlefield, choose a color and a creature type.\nRiptide Replicator enters the battlefield with X charge counters on it.
+{4}, {T}: Put an X/X creature token of the chosen color and type onto the battlefield, where X is the number of charge counters on Riptide Replicator.",ONS
+Slate of Ancestry,,Corey D. Macourek,310,Artifact,"{4}, {T}, Discard your hand: Draw a card for each creature you control.","ONS,9ED,EVG,DD3_EVG"
+Tribal Golem,,"Edward P. Beard, Jr.",311,Artifact Creature — Golem,"Tribal Golem has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and "{B}: Regenerate Tribal Golem" as long as you control a Zombie.",ONS
+Barren Moor,,Heather Hudson,312,Land,"Barren Moor enters the battlefield tapped.\n{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)","ONS,DDC,ARC,CMD,DDJ,C13,VMA,C14,DD3_DVD,C15"
+Bloodstained Mire,,Rob Alexander,313,Land,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Contested Cliffs,,Anthony S. Waters,314,Land,"{T}: Add {1} to your mana pool.\n{R}{G}, {T}: Target Beast creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)","ONS,C13"
+Daru Encampment,,Tony Szczudlo,315,Land,"{T}: Add {1} to your mana pool.\n{W}, {T}: Target Soldier creature gets +1/+1 until end of turn.","ONS,DDF"
+Flooded Strand,,Rob Alexander,316,Land,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Forgotten Cave,,Tony Szczudlo,317,Land,"Forgotten Cave enters the battlefield tapped.\n{T}: Add {R} to your mana pool.
+Cycling {R} ({R}, Discard this card: Draw a card.)","ONS,EVG,CMD,DDJ,C13,VMA,C14,DD3_EVG,C15"
+Goblin Burrows,,David Martin,318,Land,"{T}: Add {1} to your mana pool.\n{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.","ONS,EVG,DD3_EVG"
+Grand Coliseum,,Carl Critchlow,319,Land,Grand Coliseum enters the battlefield tapped.\n{T}: Add {1} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Grand Coliseum deals 1 damage to you.,"ONS,VMA"
+Lonely Sandbar,,Heather Hudson,320,Land,"Lonely Sandbar enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
+Cycling {U} ({U}, Discard this card: Draw a card.)","ONS,CMD,DDJ,C13,VMA,C14"
+Polluted Delta,,Rob Alexander,321,Land,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Riptide Laboratory,,John Avon,322,Land,"{T}: Add {1} to your mana pool.\n{1}{U}, {T}: Return target Wizard you control to its owner's hand.",ONS
+Seaside Haven,,Mark Brill,323,Land,"{T}: Add {1} to your mana pool.\n{W}{U}, {T}, Sacrifice a Bird: Draw a card.",ONS
+Secluded Steppe,,Heather Hudson,324,Land,"Secluded Steppe enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)","ONS,DDC,ARC,CMD,C13,VMA,C14,DD3_DVD,DDO,C15"
+Starlit Sanctum,,Ben Thompson,325,Land,"{T}: Add {1} to your mana pool.\n{W}, {T}, Sacrifice a Cleric creature: You gain life equal to the sacrificed creature's toughness.
+{B}, {T}, Sacrifice a Cleric creature: Target player loses life equal to the sacrificed creature's power.",ONS
+Tranquil Thicket,,Heather Hudson,326,Land,"Tranquil Thicket enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+Cycling {G} ({G}, Discard this card: Draw a card.)","ONS,EVG,ARC,CMD,DDJ,C13,VMA,C14,DD3_EVG"
+Unholy Grotto,,John Avon,327,Land,"{T}: Add {1} to your mana pool.\n{B}, {T}: Put target Zombie card from your graveyard on top of your library.",ONS
+Windswept Heath,,Anthony S. Waters,328,Land,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Wirewood Lodge,,Anthony S. Waters,329,Land,"{T}: Add {1} to your mana pool.\n{G}, {T}: Untap target Elf.","ONS,EVG,DD3_EVG"
+Wooded Foothills,,Rob Alexander,330,Land,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Plains,,Rob Alexander,331,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Matthew Mitchell,332,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,David Martin,333,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,David Day,334,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Tony Szczudlo,335,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Bradley Williams,336,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Matt Thompson,337,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Randy Elliott,338,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Tony Szczudlo,339,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Doug Chaffee,340,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Dan Frazier,341,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Pete Venters,342,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tony Szczudlo,343,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Sam Wood,344,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,David Day,345,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Heather Hudson,346,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,John Avon,347,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,John Matson,348,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,John Avon,349,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,David Martin,350,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

@@ -1,0 +1,178 @@
+name,cost,artist,number,type,text,printings
+Ballyrush Banneret,,Ralph Horsley,1,Creature — Kithkin Soldier,Kithkin spells and Soldier spells you cast cost {1} less to cast.,MOR
+Battletide Alchemist,,Steve Prescott,2,Creature — Kithkin Cleric,"If a source would deal damage to a player, you may prevent X of that damage, where X is the number of Clerics you control.",MOR
+Burrenton Bombardier,,Ron Spencer,3,Creature — Kithkin Soldier,"Flying\nReinforce 2—{2}{W} ({2}{W}, Discard this card: Put two +1/+1 counters on target creature.)","MOR,DDF"
+Burrenton Shield-Bearers,,Daren Bader,4,Creature — Kithkin Soldier,"Whenever Burrenton Shield-Bearers attacks, target creature gets +0/+3 until end of turn.",MOR
+Cenn's Tactician,,Zoltan Boros & Gabor Szikszai,5,Creature — Kithkin Soldier,"{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature.","pGTW,MOR"
+Changeling Sentinel,,Chuck Lukacs,6,Creature — Shapeshifter,Changeling (This card is every creature type.)\nVigilance,MOR
+Coordinated Barrage,,Franz Vohwinkel,7,Instant,Choose a creature type. Coordinated Barrage deals damage to target attacking or blocking creature equal to the number of permanents you control of the chosen type.,MOR
+Daily Regimen,,Warren Mahy,8,Enchantment — Aura,Enchant creature\n{1}{W}: Put a +1/+1 counter on enchanted creature.,"MOR,DDL"
+Feudkiller's Verdict,,Dan Scott,9,Tribal Sorcery — Giant,"You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.","MOR,MMA"
+Forfend,,Franz Vohwinkel,10,Instant,Prevent all damage that would be dealt to creatures this turn.,MOR
+Graceful Reprieve,,William O'Connor,11,Instant,"When target creature dies this turn, return that card to the battlefield under its owner's control.",MOR
+Idyllic Tutor,,Howard Lyon,12,Sorcery,"Search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.",MOR
+Indomitable Ancients,,Pete Venters,13,Creature — Treefolk Warrior,,MOR
+Kinsbaile Borderguard,,Christopher Moeller,14,Creature — Kithkin Soldier,"Kinsbaile Borderguard enters the battlefield with a +1/+1 counter on it for each other Kithkin you control.\nWhen Kinsbaile Borderguard dies, put a 1/1 white Kithkin Soldier creature token onto the battlefield for each counter on it.",MOR
+Kinsbaile Cavalier,,Wayne Reynolds,15,Creature — Kithkin Knight,Knight creatures you control have double strike.,"MOR,DDG"
+Kithkin Zephyrnaut,,Quinton Hoover & Val Mayerik,16,Creature — Kithkin Soldier,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Kithkin Zephyrnaut, you may reveal it. If you do, Kithkin Zephyrnaut gets +2/+2 and gains flying and vigilance until end of turn.",MOR
+Meadowboon,,Steven Belledin,17,Creature — Elemental,"When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.\nEvoke {3}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","MOR,MMA"
+Mosquito Guard,,Randy Gallegos,18,Creature — Kithkin Soldier,"First strike\nReinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target creature.)","MOR,DDF"
+Order of the Golden Cricket,,Mark Zug,19,Creature — Kithkin Knight,"Whenever Order of the Golden Cricket attacks, you may pay {W}. If you do, it gains flying until end of turn.",MOR
+Preeminent Captain,,Greg Staples,20,Creature — Kithkin Soldier,"First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Preeminent Captain attacks, you may put a Soldier creature card from your hand onto the battlefield tapped and attacking.","MOR,M15"
+Redeem the Lost,,Scott M. Fischer,21,Instant,"Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Reveillark,,Jim Murray,22,Creature — Elemental,"Flying\nWhen Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.
+Evoke {5}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","MOR,MMA"
+Shinewend,,Terese Nielsen,23,Creature — Elemental,"Flying\nShinewend enters the battlefield with a +1/+1 counter on it.
+{1}{W}, Remove a +1/+1 counter from Shinewend: Destroy target enchantment.",MOR
+Stonehewer Giant,,Steve Prescott,24,Creature — Giant Warrior,"Vigilance\n{1}{W}, {T}: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.","MOR,MMA"
+Stonybrook Schoolmaster,,Quinton Hoover & Val Mayerik,25,Creature — Merfolk Wizard,"Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token onto the battlefield.",MOR
+Swell of Courage,,Jim Nelson,26,Instant,"Creatures you control get +2/+2 until end of turn.\nReinforce X—{X}{W}{W} ({X}{W}{W}, Discard this card: Put X +1/+1 counters on target creature.)","MOR,DDF"
+Wandering Graybeard,,Nils Hamm,27,Creature — Giant Wizard,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wandering Graybeard, you may reveal it. If you do, you gain 4 life.",MOR
+Weight of Conscience,,Heather Hudson,28,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack.
+Tap two untapped creatures you control that share a creature type: Exile enchanted creature.,MOR
+Declaration of Naught,,Rob Alexander,29,Enchantment,"As Declaration of Naught enters the battlefield, name a card.\n{U}: Counter target spell with the chosen name.",MOR
+Dewdrop Spy,,Wayne England,30,Creature — Faerie Rogue,"Flash\nFlying
+When Dewdrop Spy enters the battlefield, look at the top card of target player's library.",MOR
+Disperse,,Steve Ellis,31,Instant,Return target nonland permanent to its owner's hand.,"MOR,SOM,M14,ORI"
+Distant Melody,,Omar Rayyan,32,Sorcery,Choose a creature type. Draw a card for each permanent you control of that type.,"MOR,H09"
+Fencer Clique,,William O'Connor,33,Creature — Faerie Soldier,Flying\n{U}: Put Fencer Clique on top of its owner's library.,MOR
+Floodchaser,,Eric Fortune,34,Creature — Elemental,"Floodchaser enters the battlefield with six +1/+1 counters on it.\nFloodchaser can't attack unless defending player controls an Island.
+{U}, Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.",MOR
+Grimoire Thief,,Randy Gallegos,35,Creature — Merfolk Rogue,"Whenever Grimoire Thief becomes tapped, exile the top three cards of target opponent's library face down.\nYou may look at cards exiled with Grimoire Thief.
+{U}, Sacrifice Grimoire Thief: Turn all cards exiled with Grimoire Thief face up. Counter all spells with those names.",MOR
+Ink Dissolver,,Brandon Dorman,36,Creature — Merfolk Wizard,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Ink Dissolver, you may reveal it. If you do, each opponent puts the top three cards of his or her library into his or her graveyard.",MOR
+Inspired Sprite,,Michael Sutfin,37,Creature — Faerie Wizard,"Flash\nFlying
+Whenever you cast a Wizard spell, you may untap Inspired Sprite.
+{T}: Draw a card, then discard a card.",MOR
+Knowledge Exploitation,,Darrell Riche,38,Tribal Sorcery — Rogue,Prowl {3}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nSearch target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles his or her library.,MOR
+Latchkey Faerie,,Warren Mahy,39,Creature — Faerie Rogue,"Flying\nProwl {2}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)
+When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card.","MOR,MMA"
+Merrow Witsniper,,Steve Prescott,40,Creature — Merfolk Rogue,"When Merrow Witsniper enters the battlefield, target player puts the top card of his or her library into his or her graveyard.",MOR
+Mind Spring,,Mark Zug,41,Sorcery,Draw X cards.,"MOR,M10,DPA"
+Mothdust Changeling,,Shelly Wan,42,Creature — Shapeshifter,Changeling (This card is every creature type.)\nTap an untapped creature you control: Mothdust Changeling gains flying until end of turn.,"MOR,MMA"
+Negate,,Jeremy Jarvis,43,Instant,Counter target noncreature spell.,"pMPR,MOR,M10,DPA,M11,M12,M13,M14,M15,DTK,ORI"
+Nevermaker,,Chuck Lukacs,44,Creature — Elemental,"Flying\nWhen Nevermaker leaves the battlefield, put target nonland permanent on top of its owner's library.
+Evoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",MOR
+Notorious Throng,,Thomas Denmark,45,Tribal Sorcery — Rogue,"Prowl {5}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nPut X 1/1 black Faerie Rogue creature tokens with flying onto the battlefield, where X is the damage dealt to your opponents this turn. If Notorious Throng's prowl cost was paid, take an extra turn after this one.",MOR
+Research the Deep,,Eric Fortune,46,Sorcery,"Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Sage of Fables,,Shelly Wan,47,Creature — Merfolk Wizard,"Each other Wizard creature you control enters the battlefield with an additional +1/+1 counter on it.\n{2}, Remove a +1/+1 counter from a creature you control: Draw a card.",MOR
+Sage's Dousing,,Richard Sardinha,48,Tribal Instant — Wizard,"Counter target spell unless its controller pays {3}. If you control a Wizard, draw a card.",MOR
+Sigil Tracer,,Dan Scott,49,Creature — Merfolk Wizard,"{1}{U}, Tap two untapped Wizards you control: Copy target instant or sorcery spell. You may choose new targets for the copy.",MOR
+Slithermuse,,Steven Belledin,50,Creature — Elemental,"When Slithermuse leaves the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.\nEvoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",MOR
+Stonybrook Banneret,,Ralph Horsley,51,Creature — Merfolk Wizard,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nMerfolk spells and Wizard spells you cast cost {1} less to cast.,MOR
+Stream of Unconsciousness,,Rebecca Guay,52,Tribal Instant — Wizard,"Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.",MOR
+Supreme Exemplar,,Mark Tedin,53,Creature — Elemental,"Flying\nChampion an Elemental (When this enters the battlefield, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)",MOR
+Thieves' Fortune,,Zoltan Boros & Gabor Szikszai,54,Tribal Instant — Rogue,Prowl {U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nLook at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.,MOR
+Vendilion Clique,,Michael Sutfin,55,Legendary Creature — Faerie Wizard,"Flash\nFlying
+When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.","pJGP,MOR,MMA,MM2"
+Waterspout Weavers,,Eric Fortune,56,Creature — Merfolk Wizard,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Waterspout Weavers, you may reveal it. If you do, each creature you control gains flying until end of turn.",MOR
+Auntie's Snitch,,Warren Mahy,57,Creature — Goblin Rogue,"Auntie's Snitch can't block.\nProwl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.","MOR,MMA"
+Bitterblossom,,Rebecca Guay,58,Tribal Enchantment — Faerie,"At the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.","pJGP,MOR,MM2"
+Blightsoil Druid,,Nils Hamm,59,Creature — Elf Druid,"{T}, Pay 1 life: Add {G} to your mana pool.",MOR
+Earwig Squad,,Warren Mahy,60,Creature — Goblin Rogue,"Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.","MOR,pLPA,MMA"
+Fendeep Summoner,,Jesper Ejsing,61,Creature — Treefolk Shaman,{T}: Up to two target Swamps each become 3/5 Treefolk Warrior creatures in addition to their other types until end of turn.,MOR
+Festercreep,,Jeff Easley,62,Creature — Elemental,"Festercreep enters the battlefield with a +1/+1 counter on it.\n{1}{B}, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.",MOR
+Final-Sting Faerie,,Wayne Reynolds,63,Creature — Faerie Assassin,"Flying\nWhen Final-Sting Faerie enters the battlefield, destroy target creature that was dealt damage this turn.",MOR
+Frogtosser Banneret,,Ralph Horsley,64,Creature — Goblin Rogue,Haste\nGoblin spells and Rogue spells you cast cost {1} less to cast.,MOR
+Maralen of the Mornsong,,Mark Zug,65,Legendary Creature — Elf Wizard,"Players can't draw cards.\nAt the beginning of each player's draw step, that player loses 3 life, searches his or her library for a card, puts it into his or her hand, then shuffles his or her library.",MOR
+Mind Shatter,,Michael Sutfin,66,Sorcery,Target player discards X cards at random.,"MOR,M10,DPA"
+Moonglove Changeling,,Wayne England,67,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{B}: Moonglove Changeling gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy that creature.),MOR
+Morsel Theft,,Darrell Riche,68,Tribal Sorcery — Rogue,"Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nTarget player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.",MOR
+Nightshade Schemers,,Paolo Parente,69,Creature — Faerie Wizard,"Flying\nKinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Nightshade Schemers, you may reveal it. If you do, each opponent loses 2 life.",MOR
+Noggin Whack,,Alan Pollack,70,Tribal Sorcery — Rogue,Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nTarget player reveals three cards from his or her hand. You choose two of them. That player discards those cards.,MOR
+Offalsnout,,Alex Horley-Orlandelli,71,Creature — Elemental,"Flash\nWhen Offalsnout leaves the battlefield, exile target card from a graveyard.
+Evoke {B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",MOR
+Oona's Blackguard,,Kev Walker,72,Creature — Faerie Rogue,"Flying\nEach other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.","pGTW,MOR"
+Pack's Disdain,,Pete Venters,73,Instant,Choose a creature type. Target creature gets -1/-1 until end of turn for each permanent of the chosen type you control.,MOR
+Prickly Boggart,,Jesper Ejsing,74,Creature — Goblin Rogue,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),MOR
+Pulling Teeth,,Jim Pavelec,75,Sorcery,"Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Revive the Fallen,,Steven Belledin,76,Sorcery,"Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Scarblade Elite,,Greg Staples,77,Creature — Elf Assassin,"{T}, Exile an Assassin card from your graveyard: Destroy target creature.",MOR
+Squeaking Pie Grubfellows,,Jim Pavelec,78,Creature — Goblin Shaman,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Squeaking Pie Grubfellows, you may reveal it. If you do, each opponent discards a card.",MOR
+Stenchskipper,,Howard Lyon,79,Creature — Elemental,"Flying\nAt the beginning of the end step, if you control no Goblins, sacrifice Stenchskipper.",MOR
+Stinkdrinker Bandit,,Brandon Dorman,80,Creature — Goblin Rogue,"Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhenever a Rogue you control attacks and isn't blocked, it gets +2/+1 until end of turn.",MOR
+Violet Pall,,Jeff Miracola,81,Tribal Instant — Faerie,Destroy target nonblack creature. Put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.,MOR
+Warren Weirding,,Matt Cavotta,82,Tribal Sorcery — Goblin,"Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens onto the battlefield, and those tokens gain haste until end of turn.","MOR,MMA"
+Weed-Pruner Poplar,,Jeff Miracola,83,Creature — Treefolk Assassin,"At the beginning of your upkeep, target creature other than Weed-Pruner Poplar gets -1/-1 until end of turn.",MOR
+Weirding Shaman,,Matt Cavotta,84,Creature — Goblin Shaman,"{3}{B}, Sacrifice a Goblin: Put two 1/1 black Goblin Rogue creature tokens onto the battlefield.",MOR
+Boldwyr Heavyweights,,Wayne Reynolds,85,Creature — Giant Warrior,"Trample\nWhen Boldwyr Heavyweights enters the battlefield, each opponent may search his or her library for a creature card and put it onto the battlefield. Then each player who searched his or her library this way shuffles it.",MOR
+Boldwyr Intimidator,,Christopher Moeller,86,Creature — Giant Warrior,Cowards can't block Warriors.\n{R}: Target creature becomes a Coward until end of turn.
+{2}{R}: Target creature becomes a Warrior until end of turn.,"FUT,MOR,CNS"
+Borderland Behemoth,,Jesper Ejsing,87,Creature — Giant Warrior,Trample\nBorderland Behemoth gets +4/+4 for each other Giant you control.,"MOR,C15"
+Brighthearth Banneret,,Ralph Horsley,88,Creature — Elemental Warrior,"Elemental spells and Warrior spells you cast cost {1} less to cast.\nReinforce 1—{1}{R} ({1}{R}, Discard this card: Put a +1/+1 counter on target creature.)",MOR
+Countryside Crusher,,Brian Snõddy,89,Creature — Giant Warrior,"At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.\nWhenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.","MOR,MMA"
+Fire Juggler,,Thomas Denmark,90,Creature — Goblin Shaman,"Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Hostile Realm,,John Avon,91,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Target creature can't block this turn.",MOR
+Kindled Fury,,Shelly Wan,92,Instant,Target creature gets +1/+0 and gains first strike until end of turn.,"MOR,M10,M13,DTK"
+Lightning Crafter,,Dan Scott,93,Creature — Goblin Shaman,"Champion a Goblin or Shaman (When this enters the battlefield, sacrifice it unless you exile another Goblin or Shaman you control. When this leaves the battlefield, that card returns to the battlefield.)\n{T}: Lightning Crafter deals 3 damage to target creature or player.",MOR
+Lunk Errant,,Warren Mahy,94,Creature — Giant Warrior,"Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until end of turn.",MOR
+Mudbutton Clanger,,Larry MacDougall,95,Creature — Goblin Warrior,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Mudbutton Clanger, you may reveal it. If you do, Mudbutton Clanger gets +1/+1 until end of turn.",MOR
+Pyroclast Consul,,Christopher Moeller,96,Creature — Elemental Shaman,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Pyroclast Consul, you may reveal it. If you do, Pyroclast Consul deals 2 damage to each creature.",MOR
+Rage Forger,,Dominick Domingo,97,Creature — Elemental Shaman,"When Rage Forger enters the battlefield, put a +1/+1 counter on each other Shaman creature you control.\nWhenever a creature you control with a +1/+1 counter on it attacks, you may have that creature deal 1 damage to target player.",MOR
+Release the Ants,,Ron Spencer,98,Instant,"Release the Ants deals 1 damage to target creature or player. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Rivals' Duel,,Zoltan Boros & Gabor Szikszai,99,Sorcery,Choose two target creatures that share no creature types. Those creatures fight each other. (Each deals damage equal to its power to the other.),"MOR,PC2"
+Roar of the Crowd,,Dave Dorman,100,Sorcery,Choose a creature type. Roar of the Crowd deals damage to target creature or player equal to the number of permanents you control of the chosen type.,MOR
+Seething Pathblazer,,Steve Prescott,101,Creature — Elemental Warrior,Sacrifice an Elemental: Seething Pathblazer gets +2/+0 and gains first strike until end of turn.,MOR
+Sensation Gorger,,Matt Cavotta,102,Creature — Goblin Shaman,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Sensation Gorger, you may reveal it. If you do, each player discards his or her hand, then draws four cards.",MOR
+Shard Volley,,Franz Vohwinkel,103,Instant,"As an additional cost to cast Shard Volley, sacrifice a land.\nShard Volley deals 3 damage to target creature or player.",MOR
+Shared Animosity,,Chuck Lukacs,104,Enchantment,"Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.",MOR
+Spitebellows,,Larry MacDougall,105,Creature — Elemental,"When Spitebellows leaves the battlefield, it deals 6 damage to target creature.\nEvoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","MOR,CMD,C13,C14,MM2"
+Stingmoggie,,Omar Rayyan,106,Creature — Elemental,"Stingmoggie enters the battlefield with two +1/+1 counters on it.\n{3}{R}, Remove a +1/+1 counter from Stingmoggie: Destroy target artifact or land.",MOR
+Stomping Slabs,,Alex Horley-Orlandelli,107,Sorcery,"Reveal the top seven cards of your library, then put those cards on the bottom of your library in any order. If a card named Stomping Slabs was revealed this way, Stomping Slabs deals 7 damage to target creature or player.",MOR
+Sunflare Shaman,,Dave Dorman,108,Creature — Elemental Shaman,"{1}{R}, {T}: Sunflare Shaman deals X damage to target creature or player and X damage to itself, where X is the number of Elemental cards in your graveyard.",MOR
+Taurean Mauler,,Dominick Domingo,109,Creature — Shapeshifter,"Changeling (This card is every creature type at all times.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.","MOR,HOP,ARC,C15"
+Titan's Revenge,,Christopher Moeller,110,Sorcery,"Titan's Revenge deals X damage to target creature or player. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Vengeful Firebrand,,William O'Connor,111,Creature — Elemental Warrior,Vengeful Firebrand has haste as long as a Warrior card is in your graveyard.\n{R}: Vengeful Firebrand gets +1/+0 until end of turn.,MOR
+War-Spike Changeling,,Mark Poole,112,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{R}: War-Spike Changeling gains first strike until end of turn.,"MOR,MMA"
+Ambassador Oak,,Steve Prescott,113,Creature — Treefolk Warrior,"When Ambassador Oak enters the battlefield, put a 1/1 green Elf Warrior creature token onto the battlefield.",MOR
+Bosk Banneret,,Ralph Horsley,114,Creature — Treefolk Shaman,Treefolk spells and Shaman spells you cast cost {1} less to cast.,MOR
+Bramblewood Paragon,,Jim Murray,115,Creature — Elf Warrior,Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.,"pCMP,MOR"
+Chameleon Colossus,,Darrell Riche,116,Creature — Shapeshifter,"Changeling (This card is every creature type at all times.)\nProtection from black
+{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.","MOR,ARC,V13,C15"
+Cream of the Crop,,Howard Lyon,117,Enchantment,"Whenever a creature enters the battlefield under your control, you may look at the top X cards of your library, where X is that creature's power. If you do, put one of those cards on top of your library and the rest on the bottom of your library in any order.",MOR
+Deglamer,,Zoltan Boros & Gabor Szikszai,118,Instant,Choose target artifact or enchantment. Its owner shuffles it into his or her library.,MOR
+Earthbrawn,,Kev Walker,119,Instant,"Target creature gets +3/+3 until end of turn.\nReinforce 1—{1}{G} ({1}{G}, Discard this card: Put a +1/+1 counter on target creature.)",MOR
+Elvish Warrior,,Kev Walker,120,Creature — Elf Warrior,,"ONS,9ED,EVG,MOR,DPA,DD3_EVG"
+Everbark Shaman,,Larry MacDougall,121,Creature — Treefolk Shaman,"{T}, Exile a Treefolk card from your graveyard: Search your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.",MOR
+Fertilid,,Wayne Reynolds,122,Creature — Elemental,"Fertilid enters the battlefield with two +1/+1 counters on it.\n{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches his or her library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles his or her library.","MOR,HOP,ARC,CMD"
+Game-Trail Changeling,,Martina Pilcerova,123,Creature — Shapeshifter,Changeling (This card is every creature type.)\nTrample,MOR
+Gilt-Leaf Archdruid,,Steve Prescott,124,Creature — Elf Druid,"Whenever you cast a Druid spell, you may draw a card.\nTap seven untapped Druids you control: Gain control of all lands target player controls.",MOR
+Greatbow Doyen,,Steven Belledin,125,Creature — Elf Archer,"Other Archer creatures you control get +1/+1.\nWhenever an Archer you control deals damage to a creature, that Archer deals that much damage to that creature's controller.",MOR
+Heritage Druid,,Larry MacDougall,126,Creature — Elf Druid,Tap three untapped Elves you control: Add {G}{G}{G} to your mana pool.,MOR
+Hunting Triad,,Jim Nelson,127,Tribal Sorcery — Elf,"Put three 1/1 green Elf Warrior creature tokens onto the battlefield.\nReinforce 3—{3}{G} ({3}{G}, Discard this card: Put three +1/+1 counters on target creature.)","MOR,C14"
+Leaf-Crowned Elder,,Wayne Reynolds,128,Creature — Treefolk Shaman,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Leaf-Crowned Elder, you may reveal it. If you do, you may play that card without paying its mana cost.",MOR
+Luminescent Rain,,John Avon,129,Instant,Choose a creature type. You gain 2 life for each permanent you control of that type.,MOR
+Lys Alana Bowmaster,,Dan Scott,130,Creature — Elf Archer,"Reach (This creature can block creatures with flying.)\nWhenever you cast an Elf spell, you may have Lys Alana Bowmaster deal 2 damage to target creature with flying.",MOR
+Orchard Warden,,Rebecca Guay,131,Creature — Treefolk Shaman,"Whenever another Treefolk creature enters the battlefield under your control, you may gain life equal to that creature's toughness.",MOR
+Reach of Branches,,Scott Hampton,132,Tribal Instant — Treefolk,"Put a 2/5 green Treefolk Shaman creature token onto the battlefield.\nWhenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.","MOR,MMA"
+Recross the Paths,,Greg Hildebrandt,133,Sorcery,"Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",MOR
+Reins of the Vinesteed,,Jim Pavelec,134,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2.
+When enchanted creature dies, you may return Reins of the Vinesteed from your graveyard to the battlefield attached to a creature that shares a creature type with that creature.",MOR
+Rhys the Exiled,,Steve Prescott,135,Legendary Creature — Elf Warrior,"Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you control.\n{B}, Sacrifice an Elf: Regenerate Rhys the Exiled.",MOR
+Scapeshift,,Fred Fields,136,Sorcery,"Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.",MOR
+Unstoppable Ash,,Brian Snõddy,137,Creature — Treefolk Warrior,"Trample\nChampion a Treefolk or Warrior (When this enters the battlefield, sacrifice it unless you exile another Treefolk or Warrior you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever a creature you control becomes blocked, it gets +0/+5 until end of turn.",MOR
+Walker of the Grove,,Todd Lockwood,138,Creature — Elemental,"When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.\nEvoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","MOR,MMA,C13"
+Winnower Patrol,,Eric Fortune,139,Creature — Elf Warrior,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Winnower Patrol, you may reveal it. If you do, put a +1/+1 counter on Winnower Patrol.",MOR
+Wolf-Skull Shaman,,Jim Murray,140,Creature — Elf Shaman,"Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wolf-Skull Shaman, you may reveal it. If you do, put a 2/2 green Wolf creature token onto the battlefield.",MOR
+Cloak and Dagger,,Daren Bader,141,Tribal Artifact — Rogue Equipment,"Equipped creature gets +2/+0 and has shroud. (It can't be the target of spells or abilities.)\nWhenever a Rogue creature enters the battlefield, you may attach Cloak and Dagger to it.
+Equip {3}",MOR
+Diviner's Wand,,Wayne England,142,Tribal Artifact — Wizard Equipment,"Equipped creature has "Whenever you draw a card, this creature gets +1/+1 and gains flying until end of turn" and "{4}: Draw a card."\nWhenever a Wizard creature enters the battlefield, you may attach Diviner's Wand to it.
+Equip {3}",MOR
+Door of Destinies,,Larry MacDougall,143,Artifact,"As Door of Destinies enters the battlefield, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.
+Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.","pPRE,MOR,M14"
+Obsidian Battle-Axe,,Jeff Easley,144,Tribal Artifact — Warrior Equipment,"Equipped creature gets +2/+1 and has haste.\nWhenever a Warrior creature enters the battlefield, you may attach Obsidian Battle-Axe to it.
+Equip {3}",MOR
+Thornbite Staff,,Jesper Ejsing,145,Tribal Artifact — Shaman Equipment,"Equipped creature has "{2}, {T}: This creature deals 1 damage to target creature or player" and "Whenever a creature dies, untap this creature."\nWhenever a Shaman creature enters the battlefield, you may attach Thornbite Staff to it.
+Equip {4}",MOR
+Veteran's Armaments,,Alan Pollack,146,Tribal Artifact — Soldier Equipment,"Equipped creature has "Whenever this creature attacks or blocks, it gets +1/+1 until end of turn for each attacking creature."\nWhenever a Soldier creature enters the battlefield, you may attach Veteran's Armaments to it.
+Equip {2}",MOR
+Murmuring Bosk,,John Avon,147,Land — Forest,"({T}: Add {G} to your mana pool.)\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.
+{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.","MOR,V12"
+Mutavault,,Fred Fields,148,Land,{T}: Add {1} to your mana pool.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.,"pCMP,MOR,M14"
+Primal Beyond,,Mark Tedin,149,Land,"As Primal Beyond enters the battlefield, you may reveal an Elemental card from your hand. If you don't, Primal Beyond enters the battlefield tapped.\n{T}: Add {1} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast an Elemental spell or activate an ability of an Elemental.",MOR
+Rustic Clachan,,Fred Fields,150,Land,"As Rustic Clachan enters the battlefield, you may reveal a Kithkin card from your hand. If you don't, Rustic Clachan enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
+Reinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target creature.)","MOR,DDF"

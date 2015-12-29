@@ -1,0 +1,186 @@
+name,cost,artist,number,type,text,printings
+Boros Mastiff,,Kev Walker,1,Creature — Hound,"Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",DGM
+Haazda Snare Squad,,David Palumbo,2,Creature — Human Soldier,"Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.",DGM
+Lyev Decree,,Kev Walker,3,Sorcery,"Detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)",DGM
+Maze Sentinel,,Yeong-Hao Han,4,Creature — Elemental,Vigilance\nMulticolored creatures you control have vigilance.,DGM
+Renounce the Guilds,,Daarken,5,Instant,Each player sacrifices a multicolored permanent.,DGM
+Riot Control,,Slawomir Maniak,6,Instant,You gain 1 life for each creature your opponents control. Prevent all damage that would be dealt to you this turn.,DGM
+Scion of Vitu-Ghazi,,Willian Murai,7,Creature — Elemental,"When Scion of Vitu-Ghazi enters the battlefield, if you cast it from your hand, put a 1/1 white Bird creature token with flying onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",DGM
+Steeple Roc,,David Palumbo,8,Creature — Bird,"Flying, first strike",DGM
+Sunspire Gatekeepers,,Chippy,9,Creature — Human Soldier,"When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.",DGM
+Wake the Reflections,,Cynthia Sheppard,10,Sorcery,Populate. (Put a token onto the battlefield that's a copy of a creature token you control.),DGM
+Ætherling,,Tyler Jacobson,11,Creature — Shapeshifter,{U}: Exile Ætherling. Return it to the battlefield under its owner's control at the beginning of the next end step.\n{U}: Ætherling can't be blocked this turn.
+{1}: Ætherling gets +1/-1 until end of turn.
+{1}: Ætherling gets -1/+1 until end of turn.,DGM
+Hidden Strings,,Daarken,12,Sorcery,"You may tap or untap target permanent, then you may tap or untap another target permanent.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",DGM
+Maze Glider,,Yeong-Hao Han,13,Creature — Elemental,Flying\nMulticolored creatures you control have flying.,DGM
+Mindstatic,,Johann Bodin,14,Instant,Counter target spell unless its controller pays {6}.,DGM
+Murmuring Phantasm,,Peter Mohrbacher,15,Creature — Spirit,Defender,DGM
+Opal Lake Gatekeepers,,Seb McKinnon,16,Creature — Vedalken Soldier,"When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.",DGM
+Runner's Bane,,Karl Kopinski,17,Enchantment — Aura,"Enchant creature with power 3 or less\nWhen Runner's Bane enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.",DGM
+Trait Doctoring,,Clint Cearley,18,Sorcery,"Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",DGM
+Uncovered Clues,,Jaime Jones,19,Sorcery,Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.,DGM
+Wind Drake,,John Severin Brassell,20,Creature — Drake,Flying,"POR,TMP,6ED,S99,BRB,S00,7ED,8ED,9ED,M10,M13,DGM,TPR"
+Bane Alley Blackguard,,Mike Bierek,21,Creature — Human Rogue,,DGM
+Blood Scrivener,,Peter Mohrbacher,22,Creature — Zombie Wizard,"If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.",DGM
+Crypt Incursion,,Svetlin Velinov,23,Instant,Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.,DGM
+Fatal Fumes,,Kev Walker,24,Instant,Target creature gets -4/-2 until end of turn.,DGM
+Hired Torturer,,Winona Nelson,25,Creature — Human Rogue,"Defender\n{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random from his or her hand.",DGM
+Maze Abomination,,Yeong-Hao Han,26,Creature — Elemental,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nMulticolored creatures you control have deathtouch.,DGM
+Pontiff of Blight,,Seb McKinnon,27,Creature — Zombie Cleric,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nOther creatures you control have extort. (If a creature has multiple instances of extort, each triggers separately.)","DGM,C14"
+Rakdos Drake,,Karl Kopinski,28,Creature — Drake,Flying\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.),DGM
+Sinister Possession,,Anthony Palumbo,29,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks or blocks, its controller loses 2 life.",DGM
+Ubul Sar Gatekeepers,,Volkan Baga,30,Creature — Zombie Soldier,"When Ubul Sar Gatekeepers enters the battlefield, if you control two or more Gates, target creature an opponent controls gets -2/-2 until end of turn.",DGM
+Awe for the Guilds,,Mathias Kollros,31,Sorcery,Monocolored creatures can't block this turn.,DGM
+Clear a Path,,Karl Kopinski,32,Sorcery,Destroy target creature with defender.,"DGM,M15"
+Maze Rusher,,Yeong-Hao Han,33,Creature — Elemental,Haste\nMulticolored creatures you control have haste.,DGM
+Possibility Storm,,Jason Felix,34,Enchantment,"Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.",DGM
+Punish the Enemy,,Slawomir Maniak,35,Instant,Punish the Enemy deals 3 damage to target player and 3 damage to target creature.,DGM
+Pyrewild Shaman,,Lucas Graciano,36,Creature — Goblin Shaman,"Bloodrush — {1}{R}, Discard Pyrewild Shaman: Target attacking creature gets +3/+1 until end of turn.\nWhenever one or more creatures you control deal combat damage to a player, if Pyrewild Shaman is in your graveyard, you may pay {3}. If you do, return Pyrewild Shaman to your hand.",DGM
+Riot Piker,,Christopher Moeller,37,Creature — Goblin Berserker,First strike\nRiot Piker attacks each turn if able.,DGM
+Rubblebelt Maaka,,Eric Velhagen,38,Creature — Cat,"Bloodrush — {R}, Discard Rubblebelt Maaka: Target attacking creature gets +3/+3 until end of turn.",DGM
+Smelt-Ward Gatekeepers,,Daarken,39,Creature — Human Warrior,"When Smelt-Ward Gatekeepers enters the battlefield, if you control two or more Gates, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.",DGM
+Weapon Surge,,Jason Felix,40,Instant,"Target creature you control gets +1/+0 and gains first strike until end of turn.\nOverload {1}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")",DGM
+Battering Krasis,,Jack Wang,41,Creature — Fish Beast,"Trample\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",DGM
+Kraul Warrior,,David Rapoza,42,Creature — Insect Warrior,{5}{G}: Kraul Warrior gets +3/+3 until end of turn.,DGM
+Maze Behemoth,,Yeong-Hao Han,43,Creature — Elemental,Trample\nMulticolored creatures you control have trample.,DGM
+Mending Touch,,Karla Ortiz,44,Instant,Regenerate target creature.,DGM
+Mutant's Prey,,Ryan Barger,45,Instant,Target creature you control with a +1/+1 counter on it fights target creature an opponent controls. (Each deals damage equal to its power to the other.),DGM
+Phytoburst,,Izzy,46,Sorcery,Target creature gets +5/+5 until end of turn.,DGM
+Renegade Krasis,,Howard Lyon,47,Creature — Beast Mutant,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nWhenever Renegade Krasis evolves, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.",DGM
+Saruli Gatekeepers,,Chris Rahn,48,Creature — Elf Warrior,"When Saruli Gatekeepers enters the battlefield, if you control two or more Gates, you gain 7 life.",DGM
+Skylasher,,Dan Scott,49,Creature — Insect,"Flash\nSkylasher can't be countered.
+Reach, protection from blue",DGM
+Thrashing Mossdog,,Ryan Barger,50,Creature — Plant Hound,"Reach (This creature can block creatures with flying.)\nScavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",DGM
+Advent of the Wurm,,Lucas Graciano,51,Instant,Put a 5/5 green Wurm creature token with trample onto the battlefield.,DGM
+Armored Wolf-Rider,,Matt Stewart,52,Creature — Elf Knight,,DGM
+Ascended Lawmage,,Ryan Yee,53,Creature — Vedalken Wizard,"Flying, hexproof",DGM
+Beetleform Mage,,Marco Nelor,54,Creature — Human Insect Wizard,{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.,DGM
+Blast of Genius,,Terese Nielsen,55,Sorcery,"Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.",DGM
+Blaze Commando,,James Ryman,56,Creature — Minotaur Soldier,"Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.",DGM
+Blood Baron of Vizkopa,,Anthony Palumbo,57,Creature — Vampire,"Lifelink, protection from white and from black\nAs long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying.",DGM
+Boros Battleshaper,,Zoltan Boros,58,Creature — Minotaur Soldier,"At the beginning of each combat, up to one target creature attacks or blocks this combat if able and up to one target creature can't attack or block this combat.",DGM
+Bred for the Hunt,,Karl Kopinski,59,Enchantment,"Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.",DGM
+Bronzebeak Moa,,James Ryman,60,Creature — Bird,"Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.",DGM
+Carnage Gladiator,,Ryan Barger,61,Creature — Skeleton Warrior,"Whenever a creature blocks, that creature's controller loses 1 life.\n{1}{B}{R}: Regenerate Carnage Gladiator.",DGM
+Council of the Absolute,,Zoltan Boros,62,Creature — Human Advisor,"As Council of the Absolute enters the battlefield, name a card other than a creature or land card.\nYour opponents can't cast cards with the chosen name.
+Spells with the chosen name you cast cost {2} less to cast.",DGM
+Deadbridge Chant,,Zoltan Boros,63,Enchantment,"When Deadbridge Chant enters the battlefield, put the top ten cards of your library into your graveyard.\nAt the beginning of your upkeep, choose a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, put it into your hand.",DGM
+Debt to the Deathless,,Seb McKinnon,64,Sorcery,Each opponent loses two times X life. You gain life equal to the life lost this way.,DGM
+Deputy of Acquittals,,James Ryman,65,Creature — Human Wizard,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Deputy of Acquittals enters the battlefield, you may return another target creature you control to its owner's hand.",DGM
+Dragonshift,,Svetlin Velinov,66,Instant,"Until end of turn, target creature you control becomes a blue and red Dragon with base power and toughness 4/4, loses all abilities, and gains flying.\nOverload {3}{U}{U}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of "target" with "each.")",DGM
+Drown in Filth,,Seb McKinnon,67,Sorcery,"Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.",DGM
+Emmara Tandris,,Mark Winters,68,Legendary Creature — Elf Shaman,Prevent all damage that would be dealt to creature tokens you control.,DGM
+"Exava, Rakdos Blood Witch",,Aleksi Briclot,69,Legendary Creature — Human Cleric,"First strike, haste\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)
+Each other creature you control with a +1/+1 counter on it has haste.",DGM
+Feral Animist,,Dave Kendall,70,Creature — Goblin Shaman,"{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.","GPT,DGM"
+Fluxcharger,,Willian Murai,71,Creature — Weird,"Flying\nWhenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.",DGM
+Gaze of Granite,,Nils Hamm,72,Sorcery,Destroy each nonland permanent with converted mana cost X or less.,"pMEI,DGM"
+Gleam of Battle,,Raymond Swanland,73,Enchantment,"Whenever a creature you control attacks, put a +1/+1 counter on it.",DGM
+Goblin Test Pilot,,Svetlin Velinov,74,Creature — Goblin Wizard,Flying\n{T}: Goblin Test Pilot deals 2 damage to target creature or player chosen at random.,DGM
+Gruul War Chant,,Dave Kendall,75,Enchantment,Attacking creatures you control get +1/+0 and have menace. (They can't be blocked except by two or more creatures.),DGM
+Haunter of Nightveil,,Igor Kieryluk,76,Creature — Spirit,Creatures your opponents control get -1/-0.,DGM
+Jelenn Sphinx,,Wesley Burt,77,Creature — Sphinx,"Flying, vigilance\nWhenever Jelenn Sphinx attacks, other attacking creatures get +1/+1 until end of turn.",DGM
+Korozda Gorgon,,Volkan Baga,78,Creature — Gorgon,"Deathtouch\n{2}, Remove a +1/+1 counter from a creature you control: Target creature gets -1/-1 until end of turn.",DGM
+Krasis Incubation,,Marco Nelor,79,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.
+{1}{G}{U}, Return Krasis Incubation to its owner's hand: Put two +1/+1 counters on enchanted creature.",DGM
+Lavinia of the Tenth,,Willian Murai,80,Legendary Creature — Human Soldier,"Protection from red\nWhen Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",DGM
+Legion's Initiative,,Jaime Jones,81,Enchantment,"Red creatures you control get +1/+0.\nWhite creatures you control get +0/+1.
+{R}{W}, Exile Legion's Initiative: Exile all creatures you control. At the beginning of the next combat, return those cards to the battlefield under their owner's control and those creatures gain haste until end of turn.",DGM
+Master of Cruelties,,Chase Stone,82,Creature — Demon,"First strike, deathtouch\nMaster of Cruelties can only attack alone.
+Whenever Master of Cruelties attacks a player and isn't blocked, that player's life total becomes 1. Master of Cruelties assigns no combat damage this combat.",DGM
+Maw of the Obzedat,,Randy Gallegos,83,Creature — Thrull,Sacrifice a creature: Creatures you control get +1/+1 until end of turn.,DGM
+"Melek, Izzet Paragon",,Jason Chan,84,Legendary Creature — Weird Wizard,"Play with the top card of your library revealed.\nYou may cast the top card of your library if it's an instant or sorcery card.
+Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.","pMGD,DGM,C15"
+"Mirko Vosk, Mind Drinker",,Chase Stone,85,Legendary Creature — Vampire,"Flying\nWhenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.",DGM
+Morgue Burst,,Raymond Swanland,86,Sorcery,Return target creature card from your graveyard to your hand. Morgue Burst deals damage to target creature or player equal to the power of the card returned this way.,DGM
+Nivix Cyclops,,Wayne Reynolds,87,Creature — Cyclops,"Defender\nWhenever you cast an instant or sorcery spell, Nivix Cyclops gets +3/+0 until end of turn and can attack this turn as though it didn't have defender.",DGM
+Notion Thief,,Clint Cearley,88,Creature — Human Rogue,"Flash\nIf an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.",DGM
+Obzedat's Aid,,Dan Scott,89,Sorcery,Return target permanent card from your graveyard to the battlefield.,DGM
+Pilfered Plans,,Michael C. Hayes,90,Sorcery,Target player puts the top two cards of his or her library into his or her graveyard. Draw two cards.,DGM
+Plasm Capture,,Chase Stone,91,Instant,"Counter target spell. At the beginning of your next precombat main phase, add X mana in any combination of colors to your mana pool, where X is that spell's converted mana cost.","DGM,DDO"
+Progenitor Mimic,,Daarken,92,Creature — Shapeshifter,"You may have Progenitor Mimic enter the battlefield as a copy of any creature on the battlefield except it gains "At the beginning of your upkeep, if this creature isn't a token, put a token onto the battlefield that's a copy of this creature."",DGM
+Putrefy,,Igor Kieryluk,93,Instant,Destroy target artifact or creature. It can't be regenerated.,"pMPR,RAV,DDJ,DGM,C15"
+Ral Zarek,,Eric Deschamps,94,Planeswalker — Ral,"+1: Tap target permanent, then untap another target permanent.\n−2: Ral Zarek deals 3 damage to target creature or player.
+−7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.",DGM
+Reap Intellect,,Steven Belledin,95,Sorcery,"Target opponent reveals his or her hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.",DGM
+Render Silent,,Matt Stewart,96,Instant,Counter target spell. Its controller can't cast spells this turn.,"pMEI,DGM"
+Restore the Peace,,Kev Walker,97,Instant,Return each creature that dealt damage this turn to its owner's hand.,DGM
+Rot Farm Skeleton,,Maciej Kuciara,98,Creature — Plant Skeleton,"Rot Farm Skeleton can't block.\n{2}{B}{G}, Put the top four cards of your library into your graveyard: Return Rot Farm Skeleton from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.",DGM
+"Ruric Thar, the Unbowed",,Tyler Jacobson,99,Legendary Creature — Ogre Warrior,"Vigilance, reach\nRuric Thar, the Unbowed attacks each turn if able.
+Whenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.",DGM
+Savageborn Hydra,,Raymond Swanland,100,Creature — Hydra,Double strike\nSavageborn Hydra enters the battlefield with X +1/+1 counters on it.
+{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.,DGM
+Scab-Clan Giant,,Zoltan Boros,101,Creature — Giant Warrior,"When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.",DGM
+Showstopper,,Steve Prescott,102,Instant,"Until end of turn, creatures you control gain "When this creature dies, it deals 2 damage to target creature an opponent controls."",DGM
+Sin Collector,,Mike Bierek,103,Creature — Human Cleric,"When Sin Collector enters the battlefield, target opponent reveals his or her hand. You choose an instant or sorcery card from it and exile that card.","pFNM,DGM"
+Sire of Insanity,,Peter Mohrbacher,104,Creature — Demon,"At the beginning of each end step, each player discards his or her hand.",DGM
+Species Gorger,,Min Yum,105,Creature — Frog Beast,"At the beginning of your upkeep, return a creature you control to its owner's hand.",DGM
+Spike Jester,,Ryan Barger,106,Creature — Goblin Warrior,Haste,DGM
+"Tajic, Blade of the Legion",,James Ryman,107,Legendary Creature — Human Soldier,"Indestructible\nBattalion — Whenever Tajic, Blade of the Legion and at least two other creatures attack, Tajic gets +5/+5 until end of turn.",DGM
+"Teysa, Envoy of Ghosts",,Karla Ortiz,108,Legendary Creature — Human Advisor,"Vigilance, protection from creatures\nWhenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.","DGM,C15"
+Tithe Drinker,,Slawomir Maniak,109,Creature — Vampire,"Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",DGM
+Trostani's Summoner,,Howard Lyon,110,Creature — Elf Shaman,"When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.","pMGD,DGM"
+Unflinching Courage,,Mike Bierek,111,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has trample and lifelink.,DGM
+"Varolz, the Scar-Striped",,Adam Paquette,112,Legendary Creature — Troll Warrior,"Each creature card in your graveyard has scavenge. The scavenge cost is equal to its mana cost. (Exile a creature card from your graveyard and pay its mana cost: Put a number of +1/+1 counters equal to that card's power on target creature. Scavenge only as a sorcery.)\nSacrifice another creature: Regenerate Varolz, the Scar-Striped.",DGM
+Viashino Firstblade,,Matt Stewart,113,Creature — Viashino Soldier,"Haste\nWhen Viashino Firstblade enters the battlefield, it gets +2/+2 until end of turn.",DGM
+Voice of Resurgence,,Winona Nelson,114,Creature — Elemental,"Whenever an opponent casts a spell during your turn or when Voice of Resurgence dies, put a green and white Elemental creature token onto the battlefield with "This creature's power and toughness are each equal to the number of creatures you control."",DGM
+Vorel of the Hull Clade,,Mike Bierek,115,Legendary Creature — Human Merfolk,"{G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.",DGM
+Warleader's Helix,,Greg Staples,116,Instant,Warleader's Helix deals 4 damage to target creature or player and you gain 4 life.,"pFNM,DGM"
+Warped Physique,,Karl Kopinski,117,Instant,"Target creature gets +X/-X until end of turn, where X is the number of cards in your hand.",DGM
+Woodlot Crawler,,Greg Staples,118,Creature — Insect,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nProtection from green,DGM
+Zhur-Taa Ancient,,Adam Paquette,119,Creature — Beast,"Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced.",DGM
+Zhur-Taa Druid,,Mark Winters,120,Creature — Human Druid,"{T}: Add {G} to your mana pool.\nWhenever you tap Zhur-Taa Druid for mana, it deals 1 damage to each opponent.","DGM,DDL"
+Alive,,Nils Hamm,121a,Sorcery,Put a 3/3 green Centaur creature token onto the battlefield.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Well,,Nils Hamm,121b,Sorcery,You gain 2 life for each creature you control.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Armed,,David Palumbo,122a,Sorcery,Target creature gets +1/+1 and gains double strike until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Dangerous,,David Palumbo,122b,Sorcery,All creatures able to block target creature this turn do so.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Beck,,Adam Paquette,123a,Sorcery,"Whenever a creature enters the battlefield this turn, you may draw a card.\nFuse (You may cast one or both halves of this card from your hand.)",DGM
+Call,,Adam Paquette,123b,Sorcery,Put four 1/1 white Bird creature tokens with flying onto the battlefield.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Breaking,,Mathias Kollros,124a,Sorcery,Target player puts the top eight cards of his or her library into his or her graveyard.\nFuse (You may cast one or both halves of this card from your hand.),"pLPA,DGM"
+Entering,,Mathias Kollros,124b,Sorcery,Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),"pLPA,DGM"
+Catch,,Kev Walker,125a,Sorcery,Gain control of target permanent until end of turn. Untap it. It gains haste until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Release,,Kev Walker,125b,Sorcery,"Each player sacrifices an artifact, a creature, an enchantment, a land, and a planeswalker.\nFuse (You may cast one or both halves of this card from your hand.)",DGM
+Down,,Svetlin Velinov,126a,Sorcery,Target player discards two cards.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Dirty,,Svetlin Velinov,126b,Sorcery,Return target card from your graveyard to your hand.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Far,,Greg Staples,127a,Instant,Return target creature to its owner's hand.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Away,,Greg Staples,127b,Instant,Target player sacrifices a creature.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Flesh,,Lucas Graciano,128a,Sorcery,"Exile target creature card from a graveyard. Put X +1/+1 counters on target creature, where X is the power of the card you exiled.\nFuse (You may cast one or both halves of this card from your hand.)",DGM
+Blood,,Lucas Graciano,128b,Sorcery,Target creature you control deals damage equal to its power to target creature or player.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Give,,Steve Prescott,129a,Sorcery,Put three +1/+1 counters on target creature.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Take,,Steve Prescott,129b,Sorcery,Remove all +1/+1 counters from target creature you control. Draw that many cards.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Profit,,Kev Walker,130a,Instant,Creatures you control get +1/+1 until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Loss,,Kev Walker,130b,Instant,Creatures your opponents control get -1/-1 until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Protect,,Ryan Barger,131a,Instant,Target creature gets +2/+4 until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Serve,,Ryan Barger,131b,Instant,Target creature gets -6/-0 until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Ready,,Zoltan Boros,132a,Instant,Creatures you control gain indestructible until end of turn. Untap each creature you control.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Willing,,Zoltan Boros,132b,Instant,Creatures you control gain deathtouch and lifelink until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Toil,,Nils Hamm,133a,Sorcery,Target player draws two cards and loses 2 life.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Trouble,,Nils Hamm,133b,Sorcery,Trouble deals damage to target player equal to the number of cards in that player's hand.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Turn,,Ryan Barger,134a,Instant,"Until end of turn, target creature loses all abilities and becomes a red Weird with base power and toughness 0/1.\nFuse (You may cast one or both halves of this card from your hand.)",DGM
+Burn,,Ryan Barger,134b,Instant,Burn deals 2 damage to target creature or player.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Wear,,Ryan Pancoast,135a,Instant,Destroy target artifact.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Tear,,Ryan Pancoast,135b,Instant,Destroy target enchantment.\nFuse (You may cast one or both halves of this card from your hand.),DGM
+Azorius Cluestone,,Raoul Vitale,136,Artifact,"{T}: Add {W} or {U} to your mana pool.\n{W}{U}, {T}, Sacrifice Azorius Cluestone: Draw a card.",DGM
+Boros Cluestone,,Raoul Vitale,137,Artifact,"{T}: Add {R} or {W} to your mana pool.\n{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.","DGM,C15"
+Dimir Cluestone,,Raoul Vitale,138,Artifact,"{T}: Add {U} or {B} to your mana pool.\n{U}{B}, {T}, Sacrifice Dimir Cluestone: Draw a card.",DGM
+Golgari Cluestone,,Raoul Vitale,139,Artifact,"{T}: Add {B} or {G} to your mana pool.\n{B}{G}, {T}, Sacrifice Golgari Cluestone: Draw a card.",DGM
+Gruul Cluestone,,Raoul Vitale,140,Artifact,"{T}: Add {R} or {G} to your mana pool.\n{R}{G}, {T}, Sacrifice Gruul Cluestone: Draw a card.",DGM
+Izzet Cluestone,,Raoul Vitale,141,Artifact,"{T}: Add {U} or {R} to your mana pool.\n{U}{R}, {T}, Sacrifice Izzet Cluestone: Draw a card.",DGM
+Orzhov Cluestone,,Raoul Vitale,142,Artifact,"{T}: Add {W} or {B} to your mana pool.\n{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.","DGM,C15"
+Rakdos Cluestone,,Raoul Vitale,143,Artifact,"{T}: Add {B} or {R} to your mana pool.\n{B}{R}, {T}, Sacrifice Rakdos Cluestone: Draw a card.",DGM
+Selesnya Cluestone,,Raoul Vitale,144,Artifact,"{T}: Add {G} or {W} to your mana pool.\n{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.",DGM
+Simic Cluestone,,Raoul Vitale,145,Artifact,"{T}: Add {G} or {U} to your mana pool.\n{G}{U}, {T}, Sacrifice Simic Cluestone: Draw a card.",DGM
+Azorius Guildgate,,Drew Baker,146,Land — Gate,Azorius Guildgate enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.,"RTR,DGM,C13"
+Boros Guildgate,,Noah Bradley,147,Land — Gate,Boros Guildgate enters the battlefield tapped.\n{T}: Add {R} or {W} to your mana pool.,"GTC,DGM,DDL,C13,C15"
+Dimir Guildgate,,Cliff Childs,148,Land — Gate,Dimir Guildgate enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.,"GTC,DGM,C13"
+Golgari Guildgate,,Eytan Zana,149,Land — Gate,Golgari Guildgate enters the battlefield tapped.\n{T}: Add {B} or {G} to your mana pool.,"RTR,DGM,C13,DDM,C15"
+Gruul Guildgate,,Randy Gallegos,150,Land — Gate,Gruul Guildgate enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.,"GTC,DGM,C13"
+Izzet Guildgate,,Noah Bradley,151,Land — Gate,Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R} to your mana pool.,"RTR,DGM,C13,C15"
+Maze's End,,Cliff Childs,152,Land,"Maze's End enters the battlefield tapped.\n{T}: Add {1} to your mana pool.
+{3}, {T}, Return Maze's End to its owner's hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.","pPRE,DGM"
+Orzhov Guildgate,,John Avon,153,Land — Gate,Orzhov Guildgate enters the battlefield tapped.\n{T}: Add {W} or {B} to your mana pool.,"GTC,DGM,C13,C15"
+Rakdos Guildgate,,Eytan Zana,154,Land — Gate,Rakdos Guildgate enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.,"RTR,DGM,C13"
+Selesnya Guildgate,,Howard Lyon,155,Land — Gate,Selesnya Guildgate enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.,"RTR,DGM,C13"
+Simic Guildgate,,Svetlin Velinov,156,Land — Gate,Simic Guildgate enters the battlefield tapped.\n{T}: Add {G} or {U} to your mana pool.,"GTC,DGM,C13,C15"

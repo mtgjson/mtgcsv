@@ -1,0 +1,22 @@
+name,cost,artist,number,type,text,printings
+"Akroma, Angel of Fury",,Terese Nielsen,1,Legendary Creature — Angel,"Akroma, Angel of Fury can't be countered.\nFlying, trample, protection from white and from blue
+{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.
+Morph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","PLC,CMD,V15"
+"Akroma, Angel of Wrath",,Terese Nielsen,2,Legendary Creature — Angel,"Flying, first strike, vigilance, trample, haste, protection from black and from red","LGN,TSB,DDC,DD3_DVD,V15"
+Archangel of Strife,,Greg Staples,3,Creature — Angel,"Flying\nAs Archangel of Strife enters the battlefield, each player chooses war or peace.
+Creatures controlled by players who chose war get +3/+0.
+Creatures controlled by players who chose peace get +0/+3.","CMD,V15"
+"Aurelia, the Warleader",,Slawomir Maniak,4,Legendary Creature — Angel,"Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","GTC,V15"
+"Avacyn, Angel of Hope",,Jason Chan,5,Legendary Creature — Angel,"Flying, vigilance, indestructible\nOther permanents you control have indestructible.","AVR,V15"
+Baneslayer Angel,,Greg Staples,6,Creature — Angel,"Flying, first strike, lifelink, protection from Demons and from Dragons","M10,M11,V15"
+Entreat the Angels,,Todd Lockwood,7,Sorcery,Put X 4/4 white Angel creature tokens with flying onto the battlefield.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.),"AVR,V15"
+Exalted Angel,,Tyler Jacobson,8,Creature — Angel,"Flying\nWhenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","pJGP,ONS,V15"
+"Iona, Shield of Emeria",,Jason Chan,9,Legendary Creature — Angel,"Flying\nAs Iona, Shield of Emeria enters the battlefield, choose a color.
+Your opponents can't cast spells of the chosen color.","ZEN,MM2,V15"
+Iridescent Angel,,Ryan Alexander Lee,10,Creature — Angel,"Flying, protection from all colors","ODY,V15"
+"Jenara, Asura of War",,Chris Rahn,11,Legendary Creature — Angel,"Flying\n{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.","ARB,V15"
+Lightning Angel,,rk post,12,Creature — Angel,"Flying, vigilance, haste","APC,TSB,DDN,V15"
+Platinum Angel,,Brom,13,Artifact Creature — Angel,Flying\nYou can't lose the game and your opponents can't win the game.,"MRD,10E,M10,M11,V15"
+Serra Angel,,Rebecca Guay,14,Creature — Angel,Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,ATH,pWOS,7ED,8ED,9ED,10E,DDC,M10,M11,ME4,CMD,M12,M13,M14,M15,DD3_DVD,ORI,V15"
+"Tariel, Reckoner of Souls",,Wayne Reynolds,15,Legendary Creature — Angel,"Flying, vigilance\n{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.","CMD,V15"

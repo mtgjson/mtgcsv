@@ -1,0 +1,110 @@
+name,cost,artist,number,type,text,printings
+Avenger of Zendikar,,Aleksi Briclot,1,Creature — Elemental,"When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.\nLandfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.","WWK,C13,DDP"
+Affa Guard Hound,,Ryan Pancoast,2,Creature — Hound,"Flash\nWhen Affa Guard Hound enters the battlefield, target creature gets +0/+3 until end of turn.","ROE,DDP"
+Caravan Escort,,Goran Josic,3,Creature — Human Knight,Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4
+2/2
+LEVEL 5+
+5/5
+First strike,"ROE,DDG,DDP"
+Kabira Vindicator,,Steven Belledin,4,Creature — Human Knight,Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-4
+3/6
+Other creatures you control get +1/+1.
+LEVEL 5+
+4/8
+Other creatures you control get +2/+2.,"ROE,DDG,DDP"
+Knight of Cliffhaven,,Matt Cavotta,5,Creature — Kor Knight,"Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+2/3
+Flying
+LEVEL 4+
+4/4
+Flying, vigilance","ROE,DDG,DDP"
+Makindi Griffin,,Izzy,6,Creature — Griffin,Flying,"ROE,DDP"
+Oust,,Mike Bierek,7,Sorcery,Put target creature into its owner's library second from the top. Its controller gains 3 life.,"ROE,DDP"
+Repel the Darkness,,Scott Chou,8,Instant,Tap up to two target creatures.\nDraw a card.,"ROE,DDP"
+Sheer Drop,,Clint Cearley,9,Sorcery,"Destroy target tapped creature.\nAwaken 3—{5}{W} (If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)","DDP,BFZ"
+Beastbreaker of Bala Ged,,Karl Kopinski,10,Creature — Human Warrior,Level up {2}{G} ({2}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+4/4
+LEVEL 4+
+6/6
+Trample,"ROE,DDP"
+Daggerback Basilisk,,Jesper Ejsing,11,Creature — Basilisk,Deathtouch,"ROE,DDP"
+Frontier Guide,,Wayne Reynolds,12,Creature — Elf Scout,"{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","ZEN,DDP"
+Graypelt Hunter,,Svetlin Velinov,13,Creature — Human Warrior Ally,"Trample\nWhenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.","WWK,DDP"
+Grazing Gladehart,,Ryan Pancoast,14,Creature — Antelope,"Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life.","ZEN,DDH,C13,DDO,DDP"
+Groundswell,,Chris Rahn,15,Instant,"Target creature gets +2/+2 until end of turn.\nLandfall — If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.","WWK,DDP"
+Harrow,,Izzy,16,Instant,"As an additional cost to cast Harrow, sacrifice a land.\nSearch your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.","TMP,INV,pMPR,ZEN,DDE,C14,TPR,DDP"
+Joraga Bard,,Volkan Baga,17,Creature — Elf Rogue Ally,"Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.","ZEN,DDP"
+Khalni Heart Expedition,,Jason Chan,18,Enchantment,"Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.\nRemove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.","ZEN,DDP"
+Ondu Giant,,Igor Kieryluk,19,Creature — Giant Druid,"When Ondu Giant enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.","ROE,PC2,DDP"
+Primal Command,,Magali Villeneuve,20,Sorcery,"Choose two —\n• Target player gains 7 life.
+• Put target noncreature permanent on top of its owner's library.
+• Target player shuffles his or her graveyard into his or her library.
+• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.","LRW,ARC,DDP"
+Retreat to Kazandu,,Kieran Yanner,21,Enchantment,"Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Put a +1/+1 counter on target creature.
+• You gain 2 life.","DDP,BFZ"
+Scute Mob,,Zoltan Boros & Gabor Szikszai,22,Creature — Insect,"At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.","ZEN,MM2,DDP"
+Tajuru Archer,,Chris Rahn,23,Creature — Elf Archer Ally,"Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.","ZEN,DDP"
+Territorial Baloth,,Jesper Ejsing,24,Creature — Beast,"Landfall — Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.","ZEN,DDP,BFZ"
+Turntimber Basilisk,,Goran Josic,25,Creature — Basilisk,"Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nLandfall — Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.","ZEN,DDP"
+Wildheart Invoker,,Erica Yang,26,Creature — Elf Shaman,{8}: Target creature gets +5/+5 and gains trample until end of turn.,"ROE,DDP"
+Veteran Warleader,,Josu Hernaiz,27,Creature — Human Soldier Ally,"Veteran Warleader's power and toughness are each equal to the number of creatures you control.\nTap another untapped Ally you control: Veteran Warleader gains your choice of first strike, vigilance, or trample until end of turn.","DDP,BFZ"
+Explorer's Scope,,Vincent Proce,28,Artifact — Equipment,"Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)","ZEN,CNS,DDP"
+Seer's Sundial,,Franz Vohwinkel,29,Artifact,"Landfall — Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.","WWK,C13,C14,DDP,C15"
+Stonework Puma,,Christopher Moeller,30,Artifact Creature — Cat Ally,,"ZEN,DDP"
+Evolving Wilds,,Steven Belledin,31,Land,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","pMEI,pFNM,ROE,CMD,DDH,DKA,M13,DDK,C13,M15,DDN,C14,DDO,DTK,MM2,ORI,DDP,BFZ,C15"
+Graypelt Refuge,,Philip Straub,32,Land,"Graypelt Refuge enters the battlefield tapped.\nWhen Graypelt Refuge enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.","ZEN,ARC,DDH,PC2,DDP"
+Stirring Wildwood,,Eric Deschamps,33,Land,"Stirring Wildwood enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.
+{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.","WWK,DDP"
+Turntimber Grove,,Rob Alexander,34,Land,"Turntimber Grove enters the battlefield tapped.\nWhen Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.
+{T}: Add {G} to your mana pool.","ZEN,DDP"
+Plains,,John Avon,35,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Jung Park,36,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Vincent Proce,37,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,John Avon,38,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Véronique Meignaud,39,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Vincent Proce,40,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Oblivion Sower,,Aleksi Briclot,41,Creature — Eldrazi,"When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.","DDP,BFZ"
+Artisan of Kozilek,,Jason Felix,42,Creature — Eldrazi,"When you cast Artisan of Kozilek, you may return target creature card from your graveyard to the battlefield.\nAnnihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)","pFNM,ROE,ARC,CMD,C14,MM2,DDP"
+It That Betrays,,Tomasz Jedruszek,43,Creature — Eldrazi,"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)\nWhenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.","ROE,DDP"
+Ulamog's Crusher,,Todd Lockwood,44,Creature — Eldrazi,"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)\nUlamog's Crusher attacks each turn if able.","ROE,MM2,DDP"
+Bloodrite Invoker,,Svetlin Velinov,45,Creature — Vampire Shaman,{8}: Target player loses 3 life and you gain 3 life.,"ROE,DDP"
+Bloodthrone Vampire,,Steve Argyle,46,Creature — Vampire,Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.,"pMEI,ROE,M11,M13,MM2,DDP"
+Butcher of Malakir,,Jason Chan,47,Creature — Vampire Warrior,"Flying\nWhenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.","WWK,CMD,DDK,C14,DDP,C15"
+Cadaver Imp,,Dave Kendall,48,Creature — Imp,"Flying\nWhen Cadaver Imp enters the battlefield, you may return target creature card from your graveyard to your hand.","ROE,PC2,DDP"
+Consume the Meek,,Richard Wright,49,Instant,Destroy each creature with converted mana cost 3 or less. They can't be regenerated.,"ROE,DDP"
+Corpsehatch,,Kekai Kotaki,50,Sorcery,Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool.","ROE,DDP"
+Dominator Drone,,James Zapata,51,Creature — Eldrazi Drone,"Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)
+When Dominator Drone enters the battlefield, if you control another colorless creature, each opponent loses 2 life.","DDP,BFZ"
+Heartstabber Mosquito,,Jason Felix,52,Creature — Insect,"Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)\nFlying
+When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.","ZEN,DDP"
+Induce Despair,,Igor Kieryluk,53,Instant,"As an additional cost to cast Induce Despair, reveal a creature card from your hand.\nTarget creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.","ROE,DDP"
+Marsh Casualties,,Scott Chou,54,Sorcery,"Kicker {3} (You may pay an additional {3} as you cast this spell.)\nCreatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.","ZEN,DDM,DDP"
+Pawn of Ulamog,,Daarken,55,Creature — Vampire Shaman,"Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has "Sacrifice this creature: Add {1} to your mana pool."","ROE,DDP"
+Read the Bones,,Lars Grant-West,56,Sorcery,"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","THS,C14,ORI,DDP"
+Smother,,Karl Kopinski,57,Instant,Destroy target creature with converted mana cost 3 or less. It can't be regenerated.,"pFNM,ONS,WWK,DDP"
+Vampire Nighthawk,,Jason Chan,58,Creature — Vampire Shaman,Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.),"pWPN,ZEN,CMD,M13,DDK,C13,DDP"
+Emrakul's Hatcher,,Jaime Jones,59,Creature — Eldrazi Drone,"When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have "Sacrifice this creature: Add {1} to your mana pool."","ROE,DDP"
+Forked Bolt,,Tomasz Jedruszek,60,Sorcery,Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.,"ROE,DDP"
+Hellion Eruption,,Anthony Francisco,61,Sorcery,"Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.","ROE,PC2,DDP"
+Magmaw,,Karl Kopinski,62,Creature — Elemental,"{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.","ROE,DDP"
+Torch Slinger,,Andrew Robinson,63,Creature — Goblin Shaman,"Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nWhen Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.","ZEN,DDP"
+Forerunner of Slaughter,,James Zapata,64,Creature — Eldrazi Drone,Devoid (This card has no color.)\n{1}: Target colorless creature gains haste until end of turn.,"DDP,BFZ"
+Mind Stone,,Adam Rex,65,Artifact,"{T}: Add {1} to your mana pool.\n{1}, {T}, Sacrifice Mind Stone: Draw a card.","WTH,pGTW,10E,DD2,C14,DD3_JVC,DDP,C15"
+Runed Servitor,,Mike Bierek,66,Artifact Creature — Construct,"When Runed Servitor dies, each player draws a card.","ROE,DDF,CNS,MM2,ORI,DDP"
+Akoum Refuge,,Fred Fields,67,Land,"Akoum Refuge enters the battlefield tapped.\nWhen Akoum Refuge enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.","ZEN,CMD,DDK,C13,DDP"
+Eldrazi Temple,,James Paick,68,Land,{T}: Add {1} to your mana pool.\n{T}: Add {2} to your mana pool. Spend this mana only to cast colorless Eldrazi spells or activate abilities of colorless Eldrazi.,"ROE,MM2,DDP"
+Rocky Tar Pit,,Jeff Miracola,69,Land,"Rocky Tar Pit enters the battlefield tapped.\n{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.","MIR,VMA,DDP"
+Swamp,,Véronique Meignaud,70,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Véronique Meignaud,71,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Véronique Meignaud,72,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,73,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,74,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,75,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Eldrazi Spawn,,Aleksi Briclot,76, Creature — Eldrazi Spawn,Sacrifice this creature: Add {1} to your mana pool.,DDP
+Eldrazi Spawn,,Véronique Meignaud,77, Creature — Eldrazi Spawn,Sacrifice this creature: Add {1} to your mana pool.,DDP
+Eldrazi Spawn,,Mark Tedin,78, Creature — Eldrazi Spawn,Sacrifice this creature: Add {1} to your mana pool.,DDP
+Hellion,,Anthony Francisco,79, Creature — Hellion,,DDP
+Plant,,Daren Bader,80, Creature — Plant,,DDP

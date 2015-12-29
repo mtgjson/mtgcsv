@@ -1,0 +1,134 @@
+name,cost,artist,number,type,text,printings
+Amnesia,,Mark Poole,,Sorcery,Target player reveals his or her hand and discards all nonland cards.,"DRK,MED"
+Angry Mob,,Drew Tucker,,Creature — Human,"Trample\nAs long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.","DRK,4ED,5ED,MED"
+Apprentice Wizard,,Dan Frazier,,Creature — Human Wizard,"{U}, {T}: Add {3} to your mana pool.","DRK,4ED,MED"
+Ashes to Ashes,,Drew Tucker,,Sorcery,Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.,"DRK,4ED,5ED,ME3"
+Ball Lightning,,Quinton Hoover,,Creature — Elemental,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)\nHaste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Ball Lightning.","DRK,4ED,5ED,pJGP,BTD,MED,M10,PD2"
+Banshee,,Jesper Myrfors,,Creature — Spirit,"{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.","DRK,CHR,ME3"
+Barl's Cage,,Tom Wänerstrand,,Artifact,{3}: Target creature doesn't untap during its controller's next untap step.,"DRK,CHR,5ED,ME3"
+Blood Moon,,Tom Wänerstrand,,Enchantment,Nonbasic lands are Mountains.,"DRK,CHR,8ED,9ED,MMA"
+Blood of the Martyr,,Christopher Rush,,Instant,"Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.","DRK,CHR"
+Bog Imp,,Ron Spencer,,Creature — Imp,Flying (This creature can't be blocked except by creatures with flying or reach.),"DRK,4ED,RQS,ITP,5ED,POR,6ED,S99,S00,7ED,8ED,9ED"
+Bog Rats,,Ron Spencer,,Creature — Rat,Bog Rats can't be blocked by Walls.,"DRK,CHR,5ED,6ED"
+Bone Flute,,Christopher Rush,,Artifact,"{2}, {T}: All creatures get -1/-0 until end of turn.","DRK,ME3"
+Book of Rass,,Sandra Everingham,,Artifact,"{2}, Pay 2 life: Draw a card.","DRK,CHR,ME4"
+Brainwash,,Pete Venters,,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack unless its controller pays {3}.,"DRK,4ED,5ED"
+Brothers of Fire,,Mark Tedin,,Creature — Human Shaman,{1}{R}{R}: Brothers of Fire deals 1 damage to target creature or player and 1 damage to you.,"DRK,4ED,5ED,MED"
+Carnivorous Plant,,Quinton Hoover,,Creature — Plant Wall,Defender,"DRK,4ED,ATH,MED"
+Cave People,,Drew Tucker,,Creature — Human,"Whenever Cave People attacks, it gets +1/-2 until end of turn.\n{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)","DRK,4ED,5ED"
+City of Shadows,,Tom Wänerstrand,,Land,"{T}, Exile a creature you control: Put a storage counter on City of Shadows.\n{T}: Add {X} to your mana pool, where X is the number of storage counters on City of Shadows.","DRK,ME3"
+Cleansing,,Pete Venters,,Sorcery,"For each land, destroy that land unless any player pays 1 life.",DRK
+Coal Golem,,Christopher Rush,,Artifact Creature — Golem,"{3}, Sacrifice Coal Golem: Add {R}{R}{R} to your mana pool.","DRK,ME3"
+Curse Artifact,,Mark Tedin,,Enchantment — Aura,"Enchant artifact\nAt the beginning of the upkeep of enchanted artifact's controller, Curse Artifact deals 2 damage to that player unless he or she sacrifices that artifact.",DRK
+Dance of Many,,Sandra Everingham,,Enchantment,"When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.\nWhen Dance of Many leaves the battlefield, exile the token.
+When the token leaves the battlefield, sacrifice Dance of Many.
+At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.","DRK,CHR,5ED,ME3"
+Dark Heart of the Wood,,Christopher Rush,,Enchantment,Sacrifice a Forest: You gain 3 life.,"DRK,RAV"
+Dark Sphere,,Mark Tedin,,Artifact,"{T}, Sacrifice Dark Sphere: The next time a source of your choice would deal damage to you this turn, prevent half that damage, rounded down.",DRK
+Deep Water,,Jeff A. Menges,,Enchantment,"{U}: Until end of turn, if you tap a land you control for mana, it produces {U} instead of any other type.",DRK
+Diabolic Machine,,Anson Maddocks,,Artifact Creature — Construct,{3}: Regenerate Diabolic Machine.,"DRK,4ED,5ED,ME4"
+Drowned,,Quinton Hoover,,Creature — Zombie,{B}: Regenerate Drowned.,"DRK,ME4"
+Dust to Dust,,Drew Tucker,,Sorcery,Exile two target artifacts.,"DRK,5ED,MED,ME4"
+Eater of the Dead,,Jesper Myrfors,,Creature — Horror,"{0}: If Eater of the Dead is tapped, exile target creature card from a graveyard and untap Eater of the Dead.","DRK,MED"
+Electric Eel,,Anson Maddocks,,Creature — Fish,"When Electric Eel enters the battlefield, it deals 1 damage to you.\n{R}{R}: Electric Eel gets +2/+0 until end of turn and deals 1 damage to you.",DRK
+Elves of Deep Shadow,,Jesper Myrfors,,Creature — Elf Druid,{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.,"DRK,pFNM,RAV,ME3,DDJ"
+Erosion,,Pete Venters,,Enchantment — Aura,"Enchant land\nAt the beginning of the upkeep of enchanted land's controller, destroy that land unless that player pays {1} or 1 life.","DRK,4ED"
+Eternal Flame,,Mark Poole,,Sorcery,"Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.",DRK
+Exorcist,,Drew Tucker,,Creature — Human Cleric,"{1}{W}, {T}: Destroy target black creature.","DRK,ME3"
+Fasting,,Douglas Shuler,,Enchantment,"At the beginning of your upkeep, put a hunger counter on Fasting. Then destroy Fasting if it has five or more hunger counters on it.\nIf you would begin your draw step, you may skip that step instead. If you do, you gain 2 life.
+When you draw a card, destroy Fasting.",DRK
+Fellwar Stone,,Quinton Hoover,,Artifact,{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.,"DRK,4ED,5ED,9ED,ME3,CMD,C15"
+Festival,,Mark Poole,,Instant,Cast Festival only during an opponent's upkeep.\nCreatures can't attack this turn.,DRK
+Fire and Brimstone,,Jeff A. Menges,,Instant,Fire and Brimstone deals 4 damage to target player who declared an attacking creature this turn and 4 damage to you.,DRK
+Fire Drake,,Christopher Rush,,Creature — Drake,Flying\n{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.,"DRK,CHR,5ED,ME3"
+Fissure,,Douglas Shuler,,Instant,Destroy target creature or land. It can't be regenerated.,"DRK,4ED,MED"
+Flood,,Dennis Detwiller,,Enchantment,{U}{U}: Tap target creature without flying.,"DRK,4ED,5ED,BRB"
+Fountain of Youth,,Daniel Gelon,,Artifact,"{2}, {T}: You gain 1 life.","DRK,CHR,5ED,6ED,10E"
+Frankenstein's Monster,,Anson Maddocks,,Creature — Zombie,"As Frankenstein's Monster enters the battlefield, exile X creature cards from your graveyard. If you can't, put Frankenstein's Monster into its owner's graveyard instead of onto the battlefield. For each creature card exiled this way, Frankenstein's Monster enters the battlefield with a +2/+0, +1/+1, or +0/+2 counter on it.",DRK
+Gaea's Touch,,Mark Poole,,Enchantment,{0}: You may put a basic Forest card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery and only once each turn.\nSacrifice Gaea's Touch: Add {G}{G} to your mana pool.,"DRK,ME3"
+Ghost Ship,,Tom Wänerstrand,,Creature — Spirit,Flying\n{U}{U}{U}: Regenerate Ghost Ship.,"DRK,4ED,TSB"
+Giant Shark,,Tom Wänerstrand,,Creature — Fish,"Giant Shark can't attack unless defending player controls an Island.\nWhenever Giant Shark blocks or becomes blocked by a creature that has been dealt damage this turn, Giant Shark gets +2/+0 and gains trample until end of turn.
+When you control no Islands, sacrifice Giant Shark.",DRK
+Goblin Caves,,Drew Tucker,,Enchantment — Aura,"Enchant land\nAs long as enchanted land is a basic Mountain, Goblin creatures get +0/+2.","DRK,ME4"
+Goblin Digging Team,,Ron Spencer,,Creature — Goblin,"{T}, Sacrifice Goblin Digging Team: Destroy target Wall.","DRK,CHR,5ED,ATH,6ED,7ED"
+Goblin Hero,,Mark Tedin,,Creature — Goblin,,"DRK,5ED,ATH,6ED,S99,S00"
+Goblin Rock Sled,,Dennis Detwiller,,Creature — Goblin,Trample\nGoblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.
+Goblin Rock Sled can't attack unless defending player controls a Mountain.,"DRK,4ED"
+Goblin Shrine,,Ron Spencer,,Enchantment — Aura,"Enchant land\nAs long as enchanted land is a basic Mountain, Goblin creatures get +1/+0.
+When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.","DRK,CHR,ME4"
+Goblin Wizard,,Daniel Gelon,,Creature — Goblin Wizard,{T}: You may put a Goblin permanent card from your hand onto the battlefield.\n{R}: Target Goblin gains protection from white until end of turn.,"DRK,MED"
+Goblins of the Flarg,,Tom Wänerstrand,,Creature — Goblin Warrior,"Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nWhen you control a Dwarf, sacrifice Goblins of the Flarg.","DRK,CHR,MED"
+Grave Robbers,,Quinton Hoover,,Creature — Human Rogue,"{B}, {T}: Exile target artifact card from a graveyard. You gain 2 life.",DRK
+Hidden Path,,Rob Alexander,,Enchantment,Green creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.),DRK
+Holy Light,,Drew Tucker,,Instant,Nonwhite creatures get -1/-1 until end of turn.,"DRK,MED"
+Inferno,,Randy Asplund-Faith,,Instant,Inferno deals 6 damage to each creature and each player.,"DRK,4ED,5ED,6ED,7ED,8ED"
+Inquisition,,Anson Maddocks,,Sorcery,Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.,DRK
+Knights of Thorn,,Christopher Rush,,Creature — Human Knight,"Protection from red; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","DRK,MED"
+Land Leeches,,Quinton Hoover,,Creature — Leech,First strike,"DRK,4ED"
+Leviathan,,Mark Tedin,,Creature — Leviathan,"Trample\nLeviathan enters the battlefield tapped and doesn't untap during your untap step.
+At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan.
+Leviathan can't attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)","DRK,4ED,5ED,BTD,TSB"
+Living Armor,,Anson Maddocks,,Artifact,"{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.","DRK,CHR"
+Lurker,,Anson Maddocks,,Creature — Beast,Lurker can't be the target of spells unless it attacked or blocked this turn.,DRK
+Mana Clash,,Mark Tedin,,Sorcery,You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players' coins come up heads on the same flip.,"DRK,4ED,5ED,7ED,8ED,9ED"
+Mana Vortex,,Douglas Shuler,,Enchantment,"When you cast Mana Vortex, counter it unless you sacrifice a land.\nAt the beginning of each player's upkeep, that player sacrifices a land.
+When there are no lands on the battlefield, sacrifice Mana Vortex.","DRK,ME3"
+Marsh Gas,,Douglas Shuler,,Instant,All creatures get -2/-0 until end of turn.,"DRK,4ED"
+Marsh Goblins,,Quinton Hoover,,Creature — Goblin,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),DRK
+Marsh Viper,,Ron Spencer,,Creature — Snake,"Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)","DRK,4ED,5ED"
+Martyr's Cry,,Jeff A. Menges,,Sorcery,"Exile all white creatures. For each creature exiled this way, its controller draws a card.","DRK,ME4"
+Maze of Ith,,Anson Maddocks,,Land,{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.,"DRK,pJGP,ME4,V12"
+Merfolk Assassin,,Dennis Detwiller,,Creature — Merfolk Assassin,{T}: Destroy target creature with islandwalk.,"DRK,TSB"
+Mind Bomb,,Mark Tedin,,Sorcery,Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards he or she discarded this way.,"DRK,4ED,5ED"
+Miracle Worker,,Ron Spencer,,Creature — Human Cleric,{T}: Destroy target Aura attached to a creature you control.,DRK
+Morale,,Mark Poole,,Instant,Attacking creatures get +1/+1 until end of turn.,"DRK,4ED"
+Murk Dwellers,,Drew Tucker,,Creature — Zombie,"Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.","DRK,4ED,RQS,ITP,5ED"
+Nameless Race,,Quinton Hoover,,Creature,"Trample\nAs Nameless Race enters the battlefield, pay any amount of life. The amount you pay can't be more than the total number of white nontoken permanents your opponents control plus the total number of white cards in their graveyards.
+Nameless Race's power and toughness are each equal to the life paid as it entered the battlefield.",DRK
+Necropolis,,NéNé Thomas,,Artifact Creature — Wall,"Defender (This creature can't attack.)\nExile a creature card from your graveyard: Put X +0/+1 counters on Necropolis, where X is the exiled card's converted mana cost.",DRK
+Niall Silvain,,Christopher Rush,,Creature — Ouphe,"{G}{G}{G}{G}, {T}: Regenerate target creature.",DRK
+Orc General,,Jesper Myrfors,,Creature — Orc Warrior,"{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.","DRK,ME2"
+People of the Woods,,Drew Tucker,,Creature — Human,People of the Woods's toughness is equal to the number of Forests you control.,DRK
+Pikemen,,Dennis Detwiller,,Creature — Human Soldier,"First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","DRK,4ED,5ED"
+Preacher,,Quinton Hoover,,Creature — Human Cleric,"You may choose not to untap Preacher during your untap step.\n{T}: For as long as Preacher remains tapped, gain control of target creature of an opponent's choice he or she controls.","DRK,MED"
+Psychic Allergy,,Mark Tedin,,Enchantment,"As Psychic Allergy enters the battlefield, choose a color.\nAt the beginning of each opponent's upkeep, Psychic Allergy deals X damage to that player, where X is the number of nontoken permanents of the chosen color he or she controls.
+At the beginning of your upkeep, destroy Psychic Allergy unless you sacrifice two Islands.",DRK
+Rag Man,,Daniel Gelon,,Creature — Human Minion,"{B}{B}{B}, {T}: Target opponent reveals his or her hand and discards a creature card at random. Activate this ability only during your turn.","DRK,4ED,5ED,6ED,7ED"
+Reflecting Mirror,,Mark Poole,,Artifact,"{X}, {T}: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.",DRK
+Riptide,,Randy Asplund-Faith,,Instant,Tap all blue creatures.,DRK
+Runesword,,Christopher Rush,,Artifact,"{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would die this turn, exile that creature instead.","DRK,CHR"
+Safe Haven,,Christopher Rush,,Land,"{2}, {T}: Exile target creature you control.\nAt the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control.","DRK,CHR,TSB"
+Savaen Elves,,Ron Spencer,,Creature — Elf,"{G}{G}, {T}: Destroy target Aura attached to a land.",DRK
+Scarecrow,,Anson Maddocks,,Artifact Creature — Scarecrow,"{6}, {T}: Prevent all damage that would be dealt to you this turn by creatures with flying.","DRK,ME4"
+Scarwood Bandits,,Mark Poole,,Creature — Human Rogue,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\n{2}{G}, {T}: Unless an opponent pays {2}, gain control of target artifact for as long as Scarwood Bandits remains on the battlefield.","DRK,ME4"
+Scarwood Goblins,,Ron Spencer,,Creature — Goblin,,DRK
+Scarwood Hag,,Anson Maddocks,,Creature — Hag,"{G}{G}{G}{G}, {T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)\n{T}: Target creature loses forestwalk until end of turn.",DRK
+Scavenger Folk,,Dennis Detwiller,,Creature — Human,"{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.","DRK,CHR,5ED,ATH,7ED,ME4"
+Season of the Witch,,Jesper Myrfors,,Enchantment,"At the beginning of your upkeep, sacrifice Season of the Witch unless you pay 2 life.\nAt the beginning of the end step, destroy all untapped creatures that didn't attack this turn, except for creatures that couldn't attack.",DRK
+Sisters of the Flame,,Jesper Myrfors,,Creature — Human Shaman,{T}: Add {R} to your mana pool.,"DRK,4ED"
+Skull of Orm,,Tom Wänerstrand,,Artifact,"{5}, {T}: Return target enchantment card from your graveyard to your hand.","DRK,8ED"
+Sorrow's Path,,Randy Asplund-Faith,,Land,"{T}: Choose two target blocking creatures an opponent controls. If each of those creatures could block all creatures that the other is blocking, remove both of them from combat. Each one then blocks all creatures the other was blocking.\nWhenever Sorrow's Path becomes tapped, it deals 2 damage to you and each creature you control.","DRK,ME3"
+Spitting Slug,,Anson Maddocks,,Creature — Slug,"Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.","DRK,TSB"
+Squire,,Dennis Detwiller,,Creature — Human Soldier,,"DRK,TSB"
+Standing Stones,,Sandra Everingham,,Artifact,"{1}, {T}, Pay 1 life: Add one mana of any color to your mana pool.",DRK
+Stone Calendar,,Amy Weber,,Artifact,Spells you cast cost up to {1} less to cast.,"DRK,MED"
+Sunken City,,Jesper Myrfors,,Enchantment,"At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}.\nBlue creatures get +1/+1.","DRK,4ED,MED"
+Tangle Kelp,,Rob Alexander,,Enchantment — Aura,"Enchant creature\nWhen Tangle Kelp enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step if it attacked during its controller's last turn.",DRK
+The Fallen,,Jesper Myrfors,,Creature — Zombie,"At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.","DRK,CHR,MED"
+Tivadar's Crusade,,Dennis Detwiller,,Sorcery,Destroy all Goblins.,"DRK,MED"
+Tormod's Crypt,,Christopher Rush,,Artifact,"{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.","DRK,CHR,pFNM,TSB,M13,M15,C14"
+Tower of Coireall,,Dan Frazier,,Artifact,{T}: Target creature can't be blocked by Walls this turn.,DRK
+Tracker,,Jeff A. Menges,,Creature — Human,"{G}{G}, {T}: Tracker deals damage equal to its power to target creature. That creature deals damage equal to its power to Tracker.","DRK,ME3"
+Uncle Istvan,,Daniel Gelon,,Creature — Human,Prevent all damage that would be dealt to Uncle Istvan by creatures.,"DRK,4ED,TSB"
+Venom,,Tom Wänerstrand,,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat.","DRK,4ED,5ED"
+Wand of Ith,,Quinton Hoover,,Artifact,"{3}, {T}: Target player reveals a card at random from his or her hand. If it's a land card, that player discards it unless he or she pays 1 life. If it isn't a land card, the player discards it unless he or she pays life equal to its converted mana cost. Activate this ability only during your turn.",DRK
+War Barge,,Tom Wänerstrand,,Artifact,"{3}: Target creature gains islandwalk until end of turn. When War Barge leaves the battlefield this turn, destroy that creature. A creature destroyed this way can't be regenerated. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)","DRK,TSB"
+Water Wurm,,Ron Spencer,,Creature — Wurm,Water Wurm gets +0/+1 as long as an opponent controls an Island.,DRK
+Whippoorwill,,Douglas Shuler,,Creature — Bird,"{G}{G}, {T}: Target creature can't be regenerated this turn. Damage that would be dealt to that creature this turn can't be prevented or dealt instead to another creature or player. When the creature dies this turn, exile the creature.",DRK
+Witch Hunter,,Jesper Myrfors,,Creature — Human Cleric,"{T}: Witch Hunter deals 1 damage to target player.\n{1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.","DRK,CHR,TSB"
+Word of Binding,,Ron Spencer,,Sorcery,Tap X target creatures.,"DRK,4ED"
+Worms of the Earth,,Anson Maddocks,,Enchantment,"Players can't play lands.\nLands can't enter the battlefield.
+At the beginning of each upkeep, any player may sacrifice two lands or have Worms of the Earth deal 5 damage to him or her. If a player does either, destroy Worms of the Earth.",DRK
+Wormwood Treefolk,,Jesper Myrfors,,Creature — Treefolk,{G}{G}: Wormwood Treefolk gains forestwalk until end of turn and deals 2 damage to you. (It can't be blocked as long as defending player controls a Forest.)\n{B}{B}: Wormwood Treefolk gains swampwalk until end of turn and deals 2 damage to you. (It can't be blocked as long as defending player controls a Swamp.),"DRK,ME3"

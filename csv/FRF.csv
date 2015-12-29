@@ -1,0 +1,230 @@
+name,cost,artist,number,type,text,printings
+"Ugin, the Spirit Dragon",,Raymond Swanland,1,Planeswalker — Ugin,"+2: Ugin, the Spirit Dragon deals 3 damage to target creature or player.\n−X: Exile each permanent with converted mana cost X or less that's one or more colors.
+−10: You gain 7 life, draw seven cards, then put up to seven permanent cards from your hand onto the battlefield.","FRF_UGIN,FRF"
+Abzan Advantage,,Winona Nelson,2,Instant,Target player sacrifices an enchantment. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.),FRF
+Abzan Runemark,,James Ryman,3,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.
+Enchanted creature has vigilance as long as you control a black or green permanent.,FRF
+Abzan Skycaptain,,Matt Stewart,4,Creature — Bird Soldier,"Flying\nWhen Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",FRF
+Arashin Cleric,,Chris Rahn,5,Creature — Human Cleric,"When Arashin Cleric enters the battlefield, you gain 3 life.",FRF
+Aven Skirmisher,,Jason Rainville,6,Creature — Bird Warrior,Flying,FRF
+Channel Harm,,David Gaillet,7,Instant,"Prevent all damage that would be dealt to you and permanents you control this turn by sources you don't control. If damage is prevented this way, you may have Channel Harm deal that much damage to target creature.",FRF
+Citadel Siege,,Steven Belledin,8,Enchantment,"As Citadel Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.
+• Dragons — At the beginning of combat on each opponent's turn, tap target creature that player controls.",FRF
+Daghatar the Adamant,,Zack Stella,9,Legendary Creature — Human Warrior,Vigilance\nDaghatar the Adamant enters the battlefield with four +1/+1 counters on it.
+{1}{B/G}{B/G}: Move a +1/+1 counter from target creature onto a second target creature.,FRF
+Dragon Bell Monk,,Lius Lasahido,10,Creature — Human Monk,"Vigilance\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",FRF
+Dragonscale General,,Volkan Baga,11,Creature — Human Warrior,"At the beginning of your end step, bolster X, where X is the number of tapped creatures you control. (Choose a creature with the least toughness among creatures you control and put X +1/+1 counters on it.)","pMEI,FRF"
+Elite Scaleguard,,Steve Prescott,12,Creature — Human Soldier,"When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)\nWhenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls.",FRF
+Great-Horn Krushok,,YW Tang,13,Creature — Beast,,FRF
+Honor's Reward,,Izzy,14,Instant,You gain 4 life. Bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.),FRF
+Jeskai Barricade,,Noah Bradley,15,Creature — Wall,"Flash (You may cast this spell any time you could cast an instant.)\nDefender
+When Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.",FRF
+Lightform,,Steve Prescott,16,Enchantment,"When Lightform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Lightform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has flying and lifelink.",FRF
+Lotus-Eye Mystics,,Dan Scott,17,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand.",FRF
+Mardu Woe-Reaper,,Willian Murai,18,Creature — Human Warrior,"Whenever Mardu Woe-Reaper or another Warrior enters the battlefield under your control, you may exile target creature card from a graveyard. If you do, you gain 1 life.",FRF
+Mastery of the Unseen,,Daniel Ljunggren,19,Enchantment,"Whenever a permanent you control is turned face up, you gain 1 life for each creature you control.\n{3}{W}: Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Monastery Mentor,,Magali Villeneuve,20,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.",FRF
+Pressure Point,,Chase Stone,21,Instant,Tap target creature.\nDraw a card.,FRF
+Rally the Ancestors,,Nils Hamm,22,Instant,Return each creature card with converted mana cost X or less from your graveyard to the battlefield. Exile those creatures at the beginning of your next upkeep. Exile Rally the Ancestors.,FRF
+Sage's Reverie,,Jason Rainville,23,Enchantment — Aura,"Enchant creature\nWhen Sage's Reverie enters the battlefield, draw a card for each Aura you control that's attached to a creature.
+Enchanted creature gets +1/+1 for each Aura you control that's attached to a creature.",FRF
+Sandblast,,Min Yum,24,Instant,Sandblast deals 5 damage to target attacking or blocking creature.,FRF
+Sandsteppe Outcast,,Wesley Burt,25,Creature — Human Warrior,"When Sandsteppe Outcast enters the battlefield, choose one —\n• Put a +1/+1 counter on Sandsteppe Outcast.
+• Put a 1/1 white Spirit creature token with flying onto the battlefield.",FRF
+Soul Summons,,Johann Bodin,26,Sorcery,Manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.),"FRF_UGIN,FRF"
+Soulfire Grand Master,,Johannes Voss,27,Creature — Human Monk,"Lifelink\nInstant and sorcery spells you control have lifelink.
+{2}{U/R}{U/R}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.",FRF
+Valorous Stance,,Willian Murai,28,Instant,Choose one —\n• Target creature gains indestructible until end of turn.
+• Destroy target creature with toughness 4 or greater.,FRF
+Wandering Champion,,Willian Murai,29,Creature — Human Monk,"Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card.",FRF
+Wardscale Dragon,,Jason Rainville,30,Creature — Dragon,"Flying\nAs long as Wardscale Dragon is attacking, defending player can't cast spells.",FRF
+Aven Surveyor,,David Gaillet,31,Creature — Bird Scout,"Flying\nWhen Aven Surveyor enters the battlefield, choose one —
+• Put a +1/+1 counter on Aven Surveyor.
+• Return target creature to its owner's hand.",FRF
+Cloudform,,Noah Bradley,32,Enchantment,"When Cloudform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Cloudform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has flying and hexproof.",FRF
+Enhanced Awareness,,Ryan Alexander Lee,33,Instant,"Draw three cards, then discard a card.",FRF
+Fascination,,Svetlin Velinov,34,Sorcery,Choose one —\n• Each player draws X cards.
+• Each player puts the top X cards of his or her library into his or her graveyard.,FRF
+Frost Walker,,Mike Bierek,35,Creature — Elemental,"When Frost Walker becomes the target of a spell or ability, sacrifice it.",FRF
+Jeskai Infiltrator,,Cynthia Sheppard,36,Creature — Human Monk,"Jeskai Infiltrator can't be blocked as long as you control no other creatures.\nWhen Jeskai Infiltrator deals combat damage to a player, exile it and the top card of your library in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Jeskai Runemark,,Jaime Jones,37,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.
+Enchanted creature has flying as long as you control a red or white permanent.,FRF
+Jeskai Sage,,Craig J Spearing,38,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Jeskai Sage dies, draw a card.",FRF
+Lotus Path Djinn,,Steve Argyle,39,Creature — Djinn Monk,"Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",FRF
+Marang River Prowler,,Yefim Kligerman,40,Creature — Human Rogue,Marang River Prowler can't block and can't be blocked.\nYou may cast Marang River Prowler from your graveyard as long as you control a black or green permanent.,FRF
+Mindscour Dragon,,Wesley Burt,41,Creature — Dragon,"Flying\nWhenever Mindscour Dragon deals combat damage to an opponent, target player puts the top four cards of his or her library into his or her graveyard.",FRF
+Mistfire Adept,,Clint Cearley,42,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, target creature gains flying until end of turn.",FRF
+Monastery Siege,,Mark Winters,43,Enchantment,"As Monastery Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your draw step, draw an additional card, then discard a card.
+• Dragons — Spells your opponents cast that target you or a permanent you control cost {2} more to cast.",FRF
+Neutralizing Blast,,Dan Scott,44,Instant,Counter target multicolored spell.,FRF
+Rakshasa's Disdain,,Seb McKinnon,45,Instant,Counter target spell unless its controller pays {1} for each card in your graveyard.,FRF
+Reality Shift,,Howard Lyon,46,Instant,"Exile target creature. Its controller manifests the top card of his or her library. (That player puts the top card of his or her library onto the battlefield face down as a 2/2 creature. If it's a creature card, it can be turned face up any time for its mana cost.)","FRF_UGIN,FRF"
+Refocus,,Kev Walker,47,Instant,Untap target creature.\nDraw a card.,FRF
+Renowned Weaponsmith,,Eric Deschamps,48,Creature — Human Artificer,"{T}: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.\n{U}, {T}: Search your library for a card named Heart-Piercer Bow or Vial of Dragonfire, reveal it, put it into your hand, then shuffle your library.",FRF
+Rite of Undoing,,Anastasia Ovchinnikova,49,Instant,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nReturn target nonland permanent you control and target nonland permanent you don't control to their owners' hands.,FRF
+Sage-Eye Avengers,,Dan Scott,50,Creature — Djinn Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Sage-Eye Avengers attacks, you may return target creature to its owner's hand if its power is less than Sage-Eye Avengers's power.","pMEI,FRF"
+Shifting Loyalties,,James Ryman,51,Sorcery,"Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)",FRF
+"Shu Yun, the Silent Tempest",,David Gaillet,52,Legendary Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, you may pay {R/W}{R/W}. If you do, target creature gains double strike until end of turn.",FRF
+Sultai Skullkeeper,,Ryan Barger,53,Creature — Naga Shaman,"When Sultai Skullkeeper enters the battlefield, put the top two cards of your library into your graveyard.",FRF
+Supplant Form,,Adam Paquette,54,Instant,Return target creature to its owner's hand. You put a token onto the battlefield that's a copy of that creature.,"pMGD,FRF"
+Temporal Trespass,,Clint Cearley,55,Sorcery,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTake an extra turn after this one. Exile Temporal Trespass.,FRF
+Torrent Elemental,,James Paick,56,Creature — Elemental,"Flying\nWhenever Torrent Elemental attacks, tap all creatures defending player controls.
+{3}{B/G}{B/G}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.",FRF
+Whisk Away,,Zack Stella,57,Instant,Put target attacking or blocking creature on top of its owner's library.,FRF
+Will of the Naga,,Wayne Reynolds,58,Instant,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step.,FRF
+Write into Being,,Yeong-Hao Han,59,Sorcery,"Look at the top two cards of your library. Manifest one of those cards, then put the other on the top or bottom of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Alesha's Vanguard,,Torstein Nordstrand,60,Creature — Orc Warrior,"Dash {2}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF
+Ancestral Vengeance,,Yohann Schepacz,61,Enchantment — Aura,"Enchant creature\nWhen Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.
+Enchanted creature gets -1/-1.",FRF
+Archfiend of Depravity,,Daarken,62,Creature — Demon,"Flying\nAt the beginning of each opponent's end step, that player chooses up to two creatures he or she controls, then sacrifices the rest.","pMEI,FRF"
+Battle Brawler,,Karl Kopinski,63,Creature — Orc Warrior,"As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.",FRF
+Brutal Hordechief,,Tyler Jacobson,64,Creature — Orc Warrior,"Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.\n{3}{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block.",FRF
+Crux of Fate,,Michael Komarck,65,Sorcery,Choose one —\n• Destroy all Dragon creatures.
+• Destroy all non-Dragon creatures.,FRF
+Dark Deal,,Scott Murphy,66,Sorcery,"Each player discards all the cards in his or her hand, then draws that many cards minus one.",FRF
+Diplomacy of the Wastes,,Jack Wang,67,Sorcery,"Target opponent reveals his or her hand. You choose a nonland card from it. That player discards that card. If you control a Warrior, that player loses 2 life.",FRF
+Douse in Gloom,,Ryan Yee,68,Instant,Douse in Gloom deals 2 damage to target creature and you gain 2 life.,"GPT,FRF"
+Fearsome Awakening,,Véronique Meignaud,69,Sorcery,"Return target creature card from your graveyard to the battlefield. If it's a Dragon, put two +1/+1 counters on it.",FRF
+Ghastly Conscription,,YW Tang,70,Sorcery,"Exile all creature cards from target player's graveyard in a face-down pile, shuffle that pile, then manifest those cards. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",FRF
+Grave Strength,,Jeff Simpson,71,Sorcery,"Choose target creature. Put the top three cards of your library into your graveyard, then put a +1/+1 counter on that creature for each creature card in your graveyard.",FRF
+Gurmag Angler,,YW Tang,72,Creature — Zombie Fish,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.),FRF
+Hooded Assassin,,Matt Stewart,73,Creature — Human Assassin,"When Hooded Assassin enters the battlefield, choose one —\n• Put a +1/+1 counter on Hooded Assassin.
+• Destroy target creature that was dealt damage this turn.",FRF
+Mardu Shadowspear,,Mark Poole,74,Creature — Human Warrior,"Whenever Mardu Shadowspear attacks, each opponent loses 1 life.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)","pMGD,FRF"
+Mardu Strike Leader,,Jason Rainville,75,Creature — Human Warrior,"Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF
+Merciless Executioner,,David Palumbo,76,Creature — Orc Warrior,"When Merciless Executioner enters the battlefield, each player sacrifices a creature.",FRF
+Noxious Dragon,,Svetlin Velinov,77,Creature — Dragon,"Flying\nWhen Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less.",FRF
+Orc Sureshot,,Kev Walker,78,Creature — Orc Archer,"Whenever another creature enters the battlefield under your control, target creature an opponent controls gets -1/-1 until end of turn.",FRF
+Palace Siege,,Slawomir Maniak,79,Enchantment,"As Palace Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, return target creature card from your graveyard to your hand.
+• Dragons — At the beginning of your upkeep, each opponent loses 2 life and you gain 2 life.",FRF
+Qarsi High Priest,,Viktor Titov,80,Creature — Human Cleric,"{1}{B}, {T}, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",FRF
+Reach of Shadows,,Daarken,81,Instant,Destroy target creature that's one or more colors.,FRF
+Sibsig Host,,Steve Prescott,82,Creature — Zombie,"When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.",FRF
+Sibsig Muckdraggers,,Zack Stella,83,Creature — Zombie,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nWhen Sibsig Muckdraggers enters the battlefield, return target creature card from your graveyard to your hand.",FRF
+Soulflayer,,Seb McKinnon,84,Creature — Demon,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nIf a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.",FRF
+Sultai Emissary,,Mathias Kollros,85,Creature — Zombie Warrior,"When Sultai Emissary dies, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Sultai Runemark,,Volkan Baga,86,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.
+Enchanted creature has deathtouch as long as you control a green or blue permanent. (Any amount of damage it deals to a creature is enough to destroy it.),FRF
+"Tasigur, the Golden Fang",,Chris Rahn,87,Legendary Creature — Human Shaman,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\n{2}{G/U}{G/U}: Put the top two cards of your library into your graveyard, then return a nonland card of an opponent's choice from your graveyard to your hand.",FRF
+Tasigur's Cruelty,,Chris Rahn,88,Sorcery,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nEach opponent discards two cards.,FRF
+Typhoid Rats,,Dave Kendall,89,Creature — Rat,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"ISD,CNS,M15,FRF"
+"Alesha, Who Smiles at Death",,Anastasia Ovchinnikova,90,Legendary Creature — Human Warrior,"First strike\nWhenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.",FRF
+Arcbond,,Slawomir Maniak,91,Instant,"Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player.",FRF
+Bathe in Dragonfire,,Chris Rallis,92,Sorcery,Bathe in Dragonfire deals 4 damage to target creature.,FRF
+Bloodfire Enforcers,,Yefim Kligerman,93,Creature — Human Monk,Bloodfire Enforcers has first strike and trample as long as an instant card and a sorcery card are in your graveyard.,FRF
+Break Through the Line,,Clint Cearley,94,Enchantment,{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.,FRF
+Collateral Damage,,Ryan Barger,95,Instant,"As an additional cost to cast Collateral Damage, sacrifice a creature.\nCollateral Damage deals 3 damage to target creature or player.",FRF
+Defiant Ogre,,Craig J Spearing,96,Creature — Ogre Warrior,"When Defiant Ogre enters the battlefield, choose one —\n• Put a +1/+1 counter on Defiant Ogre.
+• Destroy target artifact.",FRF
+Dragonrage,,Tomasz Jedruszek,97,Instant,"Add {R} to your mana pool for each attacking creature you control. Until end of turn, attacking creatures you control gain "{R}: This creature gets +1/+0 until end of turn."",FRF
+Fierce Invocation,,Tyler Jacobson,98,Sorcery,"Manifest the top card of your library, then put two +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Flamerush Rider,,Min Yum,99,Creature — Human Warrior,"Whenever Flamerush Rider attacks, put a token onto the battlefield tapped and attacking that's a copy of another target attacking creature. Exile the token at end of combat.\nDash {2}{R}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)","pMEI,FRF"
+Flamewake Phoenix,,Min Yum,100,Creature — Phoenix,"Flying, haste\nFlamewake Phoenix attacks each turn if able.
+Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield.",FRF
+Friendly Fire,,Anthony Palumbo,101,Instant,Target creature's controller reveals a card at random from his or her hand. Friendly Fire deals damage to that creature and that player equal to the revealed card's converted mana cost.,FRF
+Goblin Heelcutter,,Jesper Ejsing,102,Creature — Goblin Berserker,"Whenever Goblin Heelcutter attacks, target creature can't block this turn.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF
+Gore Swine,,Jack Wang,103,Creature — Boar,,FRF
+Humble Defector,,Slawomir Maniak,104,Creature — Human Rogue,{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.,FRF
+Hungering Yeti,,Tyler Jacobson,105,Creature — Yeti,"As long as you control a green or blue permanent, you may cast Hungering Yeti as though it had flash. (You may cast it any time you could cast an instant.)",FRF
+Lightning Shrieker,,Slawomir Maniak,106,Creature — Dragon,"Flying, trample, haste\nAt the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library.",FRF
+Mardu Runemark,,Viktor Titov,107,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.
+Enchanted creature has first strike as long as you control a white or black permanent.,FRF
+Mardu Scout,,Zoltan Boros,108,Creature — Goblin Scout,"Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF
+Mob Rule,,Jakub Kasper,109,Sorcery,Choose one —\n• Gain control of all creatures with power 4 or greater until end of turn. Untap those creatures. They gain haste until end of turn.
+• Gain control of all creatures with power 3 or less until end of turn. Untap those creatures. They gain haste until end of turn.,FRF
+Outpost Siege,,Daarken,110,Enchantment,"As Outpost Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your upkeep, exile the top card of your library. Until end of turn, you may play that card.
+• Dragons — Whenever a creature you control leaves the battlefield, Outpost Siege deals 1 damage to target creature or player.",FRF
+Pyrotechnics,,Matt Stewart,111,Sorcery,Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.,"LEG,4ED,RQS,ITP,5ED,ATH,6ED,7ED,8ED,HOP,FRF"
+Rageform,,Richard Wright,112,Enchantment,"When Rageform enters the battlefield, it becomes an Aura with enchant creature. Manifest the top card of your library and attach Rageform to it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nEnchanted creature has double strike. (It deals both first-strike and regular combat damage.)",FRF
+Shaman of the Great Hunt,,Ryan Alexander Lee,113,Creature — Orc Shaman,"Haste\nWhenever a creature you control deals combat damage to a player, put a +1/+1 counter on it.
+Ferocious — {2}{G/U}{G/U}: Draw a card for each creature you control with power 4 or greater.",FRF
+Shockmaw Dragon,,Alejandro Mirabal,114,Creature — Dragon,"Flying\nWhenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.",FRF
+Smoldering Efreet,,Chase Stone,115,Creature — Efreet Monk,"When Smoldering Efreet dies, it deals 2 damage to you.",FRF
+Temur Battle Rage,,Jaime Jones,116,Instant,Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)\nFerocious — That creature also gains trample until end of turn if you control a creature with power 4 or greater.,FRF
+Vaultbreaker,,Wayne Reynolds,117,Creature — Orc Rogue,"Whenever Vaultbreaker attacks, you may discard a card. If you do, draw a card.\nDash {2}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF
+Wild Slash,,Raymond Swanland,118,Instant,"Ferocious — If you control a creature with power 4 or greater, damage can't be prevented this turn.\nWild Slash deals 2 damage to target creature or player.",FRF
+Abzan Beastmaster,,Winona Nelson,119,Creature — Hound Shaman,"At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.","pFNM,FRF"
+Abzan Kin-Guard,,Craig J Spearing,120,Creature — Human Warrior,Abzan Kin-Guard has lifelink as long as you control a white or black permanent.,FRF
+Ainok Guide,,Lucas Graciano,121,Creature — Hound Scout,"When Ainok Guide enters the battlefield, choose one —\n• Put a +1/+1 counter on Ainok Guide.
+• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.",FRF
+Ambush Krotiq,,Filip Burburan,122,Creature — Insect,"Trample\nWhen Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.",FRF
+Arashin War Beast,,Eric Deschamps,123,Creature — Beast,"Whenever Arashin War Beast deals combat damage to one or more blocking creatures, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Archers of Qarsi,,Alejandro Mirabal,124,Creature — Naga Archer,Defender\nReach (This creature can block creatures with flying.),FRF
+Battlefront Krushok,,Steve Prescott,125,Creature — Beast,Battlefront Krushok can't be blocked by more than one creature.\nEach creature you control with a +1/+1 counter on it can't be blocked by more than one creature.,FRF
+Cached Defenses,,Zack Stella,126,Sorcery,Bolster 3. (Choose a creature with the least toughness among creatures you control and put three +1/+1 counters on it.),FRF
+Destructor Dragon,,Peter Mohrbacher,127,Creature — Dragon,"Flying\nWhen Destructor Dragon dies, destroy target noncreature permanent.",FRF
+Feral Krushok,,Kev Walker,128,Creature — Beast,,FRF
+Formless Nurturing,,Cliff Childs,129,Sorcery,"Manifest the top card of your library, then put a +1/+1 counter on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Frontier Mastodon,,Nils Hamm,130,Creature — Elephant,Ferocious — Frontier Mastodon enters the battlefield with a +1/+1 counter on it if you control a creature with power 4 or greater.,FRF
+Frontier Siege,,James Ryman,131,Enchantment,"As Frontier Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of each of your main phases, add {G}{G} to your mana pool.
+• Dragons — Whenever a creature with flying enters the battlefield under your control, you may have it fight target creature you don't control.",FRF
+Fruit of the First Tree,,Ryan Yee,132,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, you gain X life and draw X cards, where X is its toughness.",FRF
+Hunt the Weak,,Lars Grant-West,133,Sorcery,Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don't control. (Each deals damage equal to its power to the other.),"M14,M15,FRF"
+Map the Wastes,,Volkan Baga,134,Sorcery,"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",FRF
+Return to the Earth,,Mark Winters,135,Instant,"Destroy target artifact, enchantment, or creature with flying.",FRF
+Ruthless Instincts,,Lius Lasahido,136,Instant,Choose one —\n• Target nonattacking creature gains reach and deathtouch until end of turn. Untap it.
+• Target attacking creature gets +2/+2 and gains trample until end of turn.,FRF
+Sandsteppe Mastodon,,James Zapata,137,Creature — Elephant,"Reach\nWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)","pLPA,FRF"
+Shamanic Revelation,,Cynthia Sheppard,138,Sorcery,Draw a card for each creature you control.\nFerocious — You gain 4 life for each creature you control with power 4 or greater.,"pMEI,FRF"
+Sudden Reclamation,,Jack Wang,139,Instant,"Put the top four cards of your library into your graveyard, then return a creature card and a land card from your graveyard to your hand.",FRF
+Temur Runemark,,Ryan Alexander Lee,140,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.
+Enchanted creature has trample as long as you control a blue or red permanent.,FRF
+Temur Sabertooth,,Mike Sass,141,Creature — Cat,"{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.",FRF
+Temur War Shaman,,Nils Hamm,142,Creature — Human Shaman,"When Temur War Shaman enters the battlefield, manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nWhenever a permanent you control is turned face up, if it's a creature, you may have it fight target creature you don't control.","pMEI,FRF"
+Warden of the First Tree,,Ryan Alexander Lee,143,Creature — Human,"{1}{W/B}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.\n{2}{W/B}{W/B}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.
+{3}{W/B}{W/B}{W/B}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.",FRF
+Whisperer of the Wilds,,David Gaillet,144,Creature — Human Shaman,{T}: Add {G} to your mana pool.\nFerocious — {T}: Add {G}{G} to your mana pool. Activate this ability only if you control a creature with power 4 or greater.,FRF
+Whisperwood Elemental,,Raymond Swanland,145,Creature — Elemental,"At the beginning of your end step, manifest the top card of your library. (Put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)\nSacrifice Whisperwood Elemental: Until end of turn, face-up nontoken creatures you control gain "When this creature dies, manifest the top card of your library."",FRF
+Wildcall,,Adam Paquette,146,Sorcery,"Manifest the top card of your library, then put X +1/+1 counters on it. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)","FRF_UGIN,FRF"
+Winds of Qal Sisma,,Howard Lyon,147,Instant,"Prevent all combat damage that would be dealt this turn.\nFerocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control.",FRF
+Yasova Dragonclaw,,Winona Nelson,148,Legendary Creature — Human Warrior,"Trample\nAt the beginning of combat on your turn, you may pay {1}{U/R}{U/R}. If you do, gain control of target creature an opponent controls with power less than Yasova Dragonclaw's power until end of turn, untap that creature, and it gains haste until end of turn.",FRF
+"Atarka, World Render",,Karl Kopinski,149,Legendary Creature — Dragon,"Flying, trample\nWhenever a Dragon you control attacks, it gains double strike until end of turn.",FRF
+Cunning Strike,,Clint Cearley,150,Instant,Cunning Strike deals 2 damage to target creature and 2 damage to target player.\nDraw a card.,FRF
+"Dromoka, the Eternal",,Eric Deschamps,151,Legendary Creature — Dragon,"Flying\nWhenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",FRF
+Ethereal Ambush,,Lius Lasahido,152,Instant,"Manifest the top two cards of your library. (To manifest a card, put it onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",FRF
+Grim Contest,,Phill Simmer,153,Instant,Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.,FRF
+Harsh Sustenance,,Cynthia Sheppard,154,Instant,"Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control.",FRF
+"Kolaghan, the Storm's Fury",,Jaime Jones,155,Legendary Creature — Dragon,"Flying\nWhenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.
+Dash {3}{B}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",FRF
+"Ojutai, Soul of Winter",,Chase Stone,156,Legendary Creature — Dragon,"Flying, vigilance\nWhenever a Dragon you control attacks, tap target nonland permanent an opponent controls. That permanent doesn't untap during its controller's next untap step.",FRF
+"Silumgar, the Drifting Death",,Steven Belledin,157,Legendary Creature — Dragon,"Flying, hexproof\nWhenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn.",FRF
+War Flare,,Karl Kopinski,158,Instant,Creatures you control get +2/+1 until end of turn. Untap those creatures.,FRF
+Goblin Boom Keg,,Viktor Titov,159,Artifact,"At the beginning of your upkeep, sacrifice Goblin Boom Keg.\nWhen Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.",FRF
+Hero's Blade,,Aaron Miller,160,Artifact — Equipment,"Equipped creature gets +3/+2.\nWhenever a legendary creature enters the battlefield under your control, you may attach Hero's Blade to it.
+Equip {4}",FRF
+Hewed Stone Retainers,,David Seguin,161,Artifact Creature — Golem,Cast Hewed Stone Retainers only if you've cast another spell this turn.,"FRF_UGIN,FRF"
+Pilgrim of the Fires,,Izzy,162,Artifact Creature — Golem,"First strike, trample",FRF
+Scroll of the Masters,,Lake Hurwitz,163,Artifact,"Whenever you cast a noncreature spell, put a lore counter on Scroll of the Masters.\n{3}, {T}: Target creature you control gets +1/+1 until end of turn for each lore counter on Scroll of the Masters.",FRF
+Ugin's Construct,,Peter Mohrbacher,164,Artifact Creature — Construct,"When Ugin's Construct enters the battlefield, sacrifice a permanent that's one or more colors.","FRF_UGIN,FRF"
+Bloodfell Caves,,Adam Paquette,165,Land,"Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.","KTK,FRF"
+Blossoming Sands,,Sam Burley,166,Land,"Blossoming Sands enters the battlefield tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.","KTK,FRF"
+Crucible of the Spirit Dragon,,Jung Park,167,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Put a storage counter on Crucible of the Spirit Dragon.
+{T}, Remove X storage counters from Crucible of the Spirit Dragon: Add X mana in any combination of colors to your mana pool. Spend this mana only to cast Dragon spells or activate abilities of Dragons.",FRF
+Dismal Backwater,,Sam Burley,168,Land,"Dismal Backwater enters the battlefield tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.","KTK,FRF"
+Jungle Hollow,,Eytan Zana,169,Land,"Jungle Hollow enters the battlefield tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.
+{T}: Add {B} or {G} to your mana pool.","KTK,FRF,C15"
+Rugged Highlands,,Eytan Zana,170,Land,"Rugged Highlands enters the battlefield tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.","KTK,FRF"
+Scoured Barrens,,Eytan Zana,171,Land,"Scoured Barrens enters the battlefield tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.
+{T}: Add {W} or {B} to your mana pool.","KTK,FRF,C15"
+Swiftwater Cliffs,,Eytan Zana,172,Land,"Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R} to your mana pool.","KTK,FRF,C15"
+Thornwood Falls,,Eytan Zana,173,Land,"Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.
+{T}: Add {G} or {U} to your mana pool.","KTK,FRF,C15"
+Tranquil Cove,,John Avon,174,Land,"Tranquil Cove enters the battlefield tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U} to your mana pool.","KTK,FRF"
+Wind-Scarred Crag,,Eytan Zana,175,Land,"Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.
+{T}: Add {R} or {W} to your mana pool.","KTK,FRF,C15"
+Plains,,Noah Bradley,176,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Sam Burley,177,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Florian de Gesincourt,178,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Titus Lunter,179,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Sam Burley,180,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Adam Paquette,181,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Noah Bradley,182,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Florian de Gesincourt,183,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Titus Lunter,184,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Adam Paquette,185,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

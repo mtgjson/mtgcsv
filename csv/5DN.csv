@@ -1,0 +1,198 @@
+name,cost,artist,number,type,text,printings
+Abuna's Chant,,John Matson,1,Instant,Choose one —\n• You gain 5 life.
+• Prevent the next 5 damage that would be dealt to target creature this turn.
+Entwine {2} (Choose both if you pay the entwine cost.),5DN
+Armed Response,,Doug Chaffee,2,Instant,Armed Response deals damage to target attacking creature equal to the number of Equipment you control.,5DN
+Auriok Champion,,Michael Sutfin,3,Creature — Human Cleric,"Protection from black and from red\nWhenever another creature enters the battlefield, you may gain 1 life.",5DN
+Auriok Salvagers,,Randy Gallegos,4,Creature — Human Soldier,{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.,"5DN,MMA"
+Auriok Windwalker,,Jeremy Jarvis,5,Creature — Human Wizard,Flying\n{T}: Attach target Equipment you control to target creature you control.,5DN
+Beacon of Immortality,,Rob Alexander,6,Instant,Double target player's life total. Shuffle Beacon of Immortality into its owner's library.,"5DN,10E"
+Bringer of the White Dawn,,Kev Walker,7,Creature — Bringer,"You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the White Dawn's mana cost.\nTrample
+At the beginning of your upkeep, you may return target artifact card from your graveyard to the battlefield.",5DN
+Circle of Protection: Artifacts,,Terese Nielsen,8,Enchantment,"{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.","ATQ,4ED,5ED,5DN"
+Leonin Squire,,Pete Venters,9,Creature — Cat Soldier,"When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.",5DN
+Loxodon Anchorite,,Jim Nelson,10,Creature — Elephant Cleric,{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.,5DN
+Loxodon Stalwart,,Paolo Parente,11,Creature — Elephant Soldier,Vigilance\n{W}: Loxodon Stalwart gets +0/+1 until end of turn.,5DN
+Raksha Golden Cub,,Pete Venters,12,Legendary Creature — Cat Soldier,"Vigilance\nAs long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike.",5DN
+Retaliate,,Vance Kovacs,13,Instant,Destroy all creatures that dealt damage to you this turn.,5DN
+Roar of Reclamation,,Justin Sweet,14,Sorcery,Each player returns all artifact cards from his or her graveyard to the battlefield.,5DN
+Skyhunter Prowler,,Vance Kovacs,15,Creature — Cat Knight,"Flying, vigilance (This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)","5DN,9ED,10E"
+Skyhunter Skirmisher,,Greg Staples,16,Creature — Cat Knight,"Flying, double strike","5DN,10E,C14,MM2"
+Stand Firm,,Matt Cavotta,17,Instant,"Target creature gets +1/+1 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","5DN,DDL"
+Stasis Cocoon,,Kev Walker,18,Enchantment — Aura,"Enchant artifact\nEnchanted artifact can't attack or block, and its activated abilities can't be activated.",5DN
+Steelshaper's Gift,,Tim Hildebrandt,19,Sorcery,"Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.",5DN
+Vanquish,,Carl Critchlow,20,Instant,Destroy target blocking creature.,5DN
+Acquire,,Daren Bader,21,Sorcery,Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.,"pMEI,5DN"
+Advanced Hoverguard,,Scott M. Fischer,22,Creature — Drone,Flying\n{U}: Advanced Hoverguard gains shroud until end of turn. (It can't be the target of spells or abilities.),5DN
+Artificer's Intuition,,Wayne England,23,Enchantment,"{U}, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library.",5DN
+Beacon of Tomorrows,,Jeremy Jarvis,24,Sorcery,Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.,5DN
+Blinkmoth Infusion,,Alan Pollack,25,Instant,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nUntap all artifacts.,5DN
+Bringer of the Blue Dawn,,Greg Staples,26,Creature — Bringer,"You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Blue Dawn's mana cost.\nTrample
+At the beginning of your upkeep, you may draw two cards.",5DN
+Condescend,,Ron Spears,27,Instant,"Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","5DN,DD2,DD3_JVC"
+Disruption Aura,,Ron Spears,28,Enchantment — Aura,"Enchant artifact\nEnchanted artifact has "At the beginning of your upkeep, sacrifice this artifact unless you pay its mana cost."",5DN
+Early Frost,,Ben Thompson,29,Instant,Tap up to three target lands.,5DN
+Eyes of the Watcher,,Ron Spears,30,Enchantment,"Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",5DN
+Fold into Æther,,Anthony S. Waters,31,Instant,"Counter target spell. If that spell is countered this way, its controller may put a creature card from his or her hand onto the battlefield.",5DN
+Hoverguard Sweepers,,Mark A. Nelson,32,Creature — Drone,"Flying\nWhen Hoverguard Sweepers enters the battlefield, you may return up to two target creatures to their owners' hands.","5DN,C14"
+Into Thin Air,,Ittoku,33,Instant,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nReturn target artifact to its owner's hand.,5DN
+Plasma Elemental,,Kev Walker,34,Creature — Elemental,Plasma Elemental can't be blocked.,5DN
+Qumulox,,Carl Critchlow,35,Creature — Beast,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying,"5DN,HOP,DDF,MM2"
+Serum Visions,,Ben Thompson,36,Sorcery,"Draw a card. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","pARL,5DN"
+Spectral Shift,,John Avon,37,Instant,Choose one —\n• Change the text of target spell or permanent by replacing all instances of one basic land type with another. (This effects last indefinitely.)
+• Change the text of target spell or permanent by replacing all instances of one color word with another. (This effects last indefinitely.)
+Entwine {2} (Choose both if you pay the entwine cost.),5DN
+Thought Courier,,Stephen Tappin,38,Creature — Human Wizard,"{T}: Draw a card, then discard a card.","5DN,9ED"
+Trinket Mage,,Mark A. Nelson,39,Creature — Human Wizard,"When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.","5DN,DDF,SOM"
+Vedalken Mastermind,,Darrell Riche,40,Creature — Vedalken Wizard,"{U}, {T}: Return target permanent you control to its owner's hand.","5DN,10E"
+Beacon of Unrest,,Alan Pollack,41,Sorcery,Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.,"5DN,10E,HOP,ARC"
+Blind Creeper,,Carl Critchlow,42,Creature — Zombie Beast,"Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn.",5DN
+Bringer of the Black Dawn,,Carl Critchlow,43,Creature — Bringer,"You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Black Dawn's mana cost.\nTrample
+At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it.",5DN
+Cackling Imp,,Matt Thompson,44,Creature — Imp,Flying\n{T}: Target player loses 1 life.,"5DN,DDC,DD3_DVD"
+Desecration Elemental,,Pete Venters,45,Creature — Elemental,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever a player casts a spell, sacrifice a creature.",5DN
+Devour in Shadow,,Thomas M. Baxa,46,Instant,Destroy target creature. It can't be regenerated. You lose life equal to that creature's toughness.,5DN
+Dross Crocodile,,"Edward P. Beard, Jr.",47,Creature — Zombie Crocodile,,"5DN,10E"
+Ebon Drake,,Pete Venters,48,Creature — Drake,"Flying\nWhenever a player casts a spell, you lose 1 life.",5DN
+Endless Whispers,,Carl Critchlow,49,Enchantment,"Each creature has "When this creature dies, choose target opponent. That player puts this card from its owner's graveyard onto the battlefield under his or her control at the beginning of the next end step."",5DN
+Fill with Fright,,Luca Zontini,50,Sorcery,"Target player discards two cards. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",5DN
+Fleshgrafter,,Jim Murray,51,Creature — Human Warrior,Discard an artifact card: Fleshgrafter gets +2/+2 until end of turn.,5DN
+Lose Hope,,Matt Cavotta,52,Instant,"Target creature gets -1/-1 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",5DN
+Mephidross Vampire,,Matthew D. Wilson,53,Creature — Vampire,"Flying\nEach creature you control is a Vampire in addition to its other creature types and has "Whenever this creature deals damage to a creature, put a +1/+1 counter on this creature."",5DN
+Moriok Rigger,,Wayne England,54,Creature — Human Rogue Rigger,"Whenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.",5DN
+Night's Whisper,,David Martin,55,Sorcery,You draw two cards and you lose 2 life.,"5DN,DDM"
+Nim Grotesque,,Anthony S. Waters,56,Creature — Zombie,Nim Grotesque gets +1/+0 for each artifact you control.,5DN
+Plunge into Darkness,,Justin Sweet,57,Instant,"Choose one —\n• Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature.
+• Pay X life, then look at the top X cards of your library. Put one of those cards into your hand and exile the rest.
+Entwine {B} (Choose both if you pay the entwine cost.)",5DN
+Relentless Rats,,Thomas M. Baxa,58,Creature — Rat,Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\nA deck can have any number of cards named Relentless Rats.,"5DN,10E,M10,M11"
+Shattered Dreams,,Greg Staples,59,Sorcery,Target opponent reveals his or her hand. You choose an artifact card from it. That player discards that card.,5DN
+Vicious Betrayal,,Tomas Giorello,60,Sorcery,"As an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.\nTarget creature gets +2/+2 until end of turn for each creature sacrificed this way.",5DN
+Beacon of Destruction,,Greg Hildebrandt,61,Instant,Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.,"5DN,10E"
+Bringer of the Red Dawn,,Christopher Moeller,62,Creature — Bringer,"You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Red Dawn's mana cost.\nTrample
+At the beginning of your upkeep, you may untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.",5DN
+Cosmic Larva,,Jeff Easley,63,Creature — Beast,"Trample\nAt the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two lands.",5DN
+Feedback Bolt,,Ron Spencer,64,Instant,Feedback Bolt deals damage to target player equal to the number of artifacts you control.,5DN
+Furnace Whelp,,Matt Cavotta,65,Creature — Dragon,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Furnace Whelp gets +1/+0 until end of turn.,"5DN,10E,DD2,ARC,CMD,M13,M15,DD3_JVC"
+Goblin Brawler,,Heather Hudson,66,Creature — Goblin Warrior,First strike\nGoblin Brawler can't be equipped.,5DN
+Granulate,,Brian Snõddy,67,Sorcery,Destroy each nonland artifact with converted mana cost 4 or less.,5DN
+Ion Storm,,Michael Sutfin,68,Enchantment,"{1}{R}, Remove a +1/+1 counter or a charge counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.",5DN
+Iron-Barb Hellion,,Doug Chaffee,69,Creature — Hellion Beast,Haste\nIron-Barb Hellion can't block.,5DN
+Krark-Clan Engineers,,Pete Venters,70,Creature — Goblin Artificer,"{R}, Sacrifice two artifacts: Destroy target artifact.",5DN
+Krark-Clan Ogre,,Paolo Parente,71,Creature — Ogre,"{R}, Sacrifice an artifact: Target creature can't block this turn.",5DN
+Magma Giant,,Nottsuo,72,Creature — Giant,"When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.","PO2,5DN,C15"
+Magma Jet,,Justin Sweet,73,Instant,"Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","pFNM,5DN,DD2,DDL,THS,DD3_JVC"
+Magnetic Theft,,Dave Dorman,74,Instant,Attach target Equipment to target creature. (Control of the Equipment doesn't change.),5DN
+Mana Geyser,,Martina Pilcerova,75,Sorcery,Add {R} to your mana pool for each tapped land your opponents control.,"5DN,CNS"
+Rain of Rust,,Tim Hildebrandt,76,Instant,Choose one —\n• Destroy target artifact.
+• Destroy target land.
+Entwine {3}{R} (Choose both if you pay the entwine cost.),5DN
+Reversal of Fortune,,Greg Hildebrandt,77,Sorcery,"Target opponent reveals his or her hand. You may copy an instant or sorcery card in it. If you do, you may cast the copy without paying its mana cost.",5DN
+Screaming Fury,,"Edward P. Beard, Jr.",78,Sorcery,Target creature gets +5/+0 and gains haste until end of turn.,5DN
+Spark Elemental,,John Avon,79,Creature — Elemental,"Trample, haste (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, sacrifice Spark Elemental.","5DN,10E,PD2"
+Vulshok Sorcerer,,rk post,80,Creature — Human Shaman,Haste\n{T}: Vulshok Sorcerer deals 1 damage to target creature or player.,"5DN,PD2,DDI"
+All Suns' Dawn,,Glen Angus,81,Sorcery,"For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.","5DN,MM2"
+Beacon of Creation,,Mark Tedin,82,Sorcery,Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.,5DN
+Bringer of the Green Dawn,,Jim Murray,83,Creature — Bringer,"You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Green Dawn's mana cost.\nTrample
+At the beginning of your upkeep, you may put a 3/3 green Beast creature token onto the battlefield.",5DN
+Channel the Suns,,Rob Alexander,84,Sorcery,Add {W}{U}{B}{R}{G} to your mana pool.,5DN
+Dawn's Reflection,,John Avon,85,Enchantment — Aura,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool (in addition to the mana the land produces).",5DN
+Eternal Witness,,Terese Nielsen,86,Creature — Human Shaman,"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.","pFNM,5DN,CMD,DDJ,MMA,C15"
+Fangren Pathcutter,,Rob Alexander,87,Creature — Beast,"Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.",5DN
+Ferocious Charge,,Anthony S. Waters,88,Instant,"Target creature gets +4/+4 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",5DN
+Joiner Adept,,Christopher Rush,89,Creature — Elf Druid,Lands you control have "{T}: Add one mana of any color to your mana pool.","5DN,10E"
+Ouphe Vandals,,Thomas M. Baxa,90,Creature — Ouphe Rogue,"{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. (Mana abilities can't be targeted.)",5DN
+Rite of Passage,,Kev Walker,91,Enchantment,"Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (The damage is dealt before the counter is put on.)",5DN
+Rude Awakening,,Ittoku,92,Sorcery,"Choose one —\n• Untap all lands you control.
+• Until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)","5DN,DDD,MMA,DD3_GVL"
+Sylvok Explorer,,Wayne England,93,Creature — Human Druid,{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.,5DN
+Tangle Asp,,Daren Bader,94,Creature — Snake,"Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.",5DN
+Tel-Jilad Justice,,Alex Horley-Orlandelli,95,Instant,"Destroy target artifact. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",5DN
+Tel-Jilad Lifebreather,,Jim Nelson,96,Creature — Troll Shaman,"{G}, {T}, Sacrifice a Forest: Regenerate target creature.",5DN
+Tornado Elemental,,Alex Horley-Orlandelli,97,Creature — Elemental,"When Tornado Elemental enters the battlefield, it deals 6 damage to each creature with flying.\nYou may have Tornado Elemental assign its combat damage as though it weren't blocked.","5DN,HOP,C14"
+Tyrranax,,Carl Critchlow,98,Creature — Beast,{1}{G}: Tyrranax gets -1/+1 until end of turn.,5DN
+Viridian Lorebearers,,Darrell Riche,99,Creature — Elf Shaman,"{3}{G}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts your opponents control.",5DN
+Viridian Scout,,Daren Bader,100,Creature — Elf Warrior Scout,"{2}{G}, Sacrifice Viridian Scout: Viridian Scout deals 2 damage to target creature with flying.",5DN
+Anodet Lurker,,Jeff Easley,101,Artifact Creature — Construct,"When Anodet Lurker dies, you gain 3 life.",5DN
+Arachnoid,,Greg Staples,102,Artifact Creature — Spider,Reach (This creature can block creatures with flying.),5DN
+Arcbound Wanderer,,Christopher Moeller,103,Artifact Creature — Golem,"Modular—Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it dies, you may put its +1/+1 counters on target artifact creature.)","5DN,MMA"
+Avarice Totem,,Ben Thompson,104,Artifact,{5}: Exchange control of Avarice Totem and target nonland permanent.,5DN
+Baton of Courage,,Heather Hudson,105,Artifact,Flash\nSunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Remove a charge counter from Baton of Courage: Target creature gets +1/+1 until end of turn.,5DN
+Battered Golem,,Carl Critchlow,106,Artifact Creature — Golem,"Battered Golem doesn't untap during your untap step.\nWhenever an artifact enters the battlefield, you may untap Battered Golem.",5DN
+Blasting Station,,Stephen Tappin,107,Artifact,"{T}, Sacrifice a creature: Blasting Station deals 1 damage to target creature or player.\nWhenever a creature enters the battlefield, you may untap Blasting Station.",5DN
+Chimeric Coils,,Michael Sutfin,108,Artifact,{X}{1}: Chimeric Coils becomes an X/X Construct artifact creature. Sacrifice it at the beginning of the next end step.,5DN
+Clearwater Goblet,,Dany Orizio,109,Artifact,"Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nAt the beginning of your upkeep, you may gain life equal to the number of charge counters on Clearwater Goblet.",5DN
+Clock of Omens,,Alex Horley-Orlandelli,110,Artifact,Tap two untapped artifacts you control: Untap target artifact.,"5DN,M13"
+Composite Golem,,Mark Tedin,111,Artifact Creature — Golem,Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.,"5DN,10E"
+Conjurer's Bauble,,Darrell Riche,112,Artifact,"{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.",5DN
+Cranial Plating,,Adam Rex,113,Artifact — Equipment,Equipped creature gets +1/+0 for each artifact you control.\n{B}{B}: Attach Cranial Plating to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),"5DN,HOP,MM2"
+Crucible of Worlds,,Ron Spencer,114,Artifact,You may play land cards from your graveyard.,"pJGP,5DN,10E"
+Door to Nothingness,,Puddnhead,115,Artifact,"Door to Nothingness enters the battlefield tapped.\n{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.","5DN,HOP,M13"
+Doubling Cube,,Mark Tedin,116,Artifact,"{3}, {T}: Double the amount of each type of mana in your mana pool.","5DN,10E"
+Energy Chamber,,Kev Walker,117,Artifact,"At the beginning of your upkeep, choose one —\n• Put a +1/+1 counter on target artifact creature.
+• Put a charge counter on target noncreature artifact.","5DN,DDF"
+Engineered Explosives,,Ron Spears,118,Artifact,"Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.","5DN,MMA"
+Ensouled Scimitar,,"Edward P. Beard, Jr.",119,Artifact — Equipment,{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. (Equipment that's a creature can't equip a creature.)\nEquipped creature gets +1/+5.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),5DN
+Eon Hub,,Daren Bader,120,Artifact,Players skip their upkeep steps.,5DN
+Etched Oracle,,Matt Cavotta,121,Artifact Creature — Wizard,"Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\n{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.","5DN,HOP,MMA,MM2"
+Ferropede,,Jeff Easley,122,Artifact Creature — Insect,"Ferropede can't be blocked.\nWhenever Ferropede deals combat damage to a player, you may remove a counter from target permanent.",5DN
+Fist of Suns,,Arnie Swekel,123,Artifact,You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.,5DN
+Gemstone Array,,Ittoku,124,Artifact,{2}: Put a charge counter on Gemstone Array.\nRemove a charge counter from Gemstone Array: Add one mana of any color to your mana pool.,5DN
+Goblin Cannon,,Doug Chaffee,125,Artifact,{2}: Goblin Cannon deals 1 damage to target creature or player. Sacrifice Goblin Cannon.,5DN
+Grafted Wargear,,Alex Horley-Orlandelli,126,Artifact — Equipment,"Equipped creature gets +3/+2.\nWhenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.
+Equip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)",5DN
+Grinding Station,,Greg Staples,127,Artifact,"{T}, Sacrifice an artifact: Target player puts the top three cards of his or her library into his or her graveyard.\nWhenever an artifact enters the battlefield, you may untap Grinding Station.",5DN
+Guardian Idol,,"Edward P. Beard, Jr.",128,Artifact,Guardian Idol enters the battlefield tapped.\n{T}: Add {1} to your mana pool.
+{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.,5DN
+Healer's Headdress,,Carl Critchlow,129,Artifact — Equipment,Equipped creature gets +0/+2 and has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."\n{W}{W}: Attach Healer's Headdress to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),5DN
+Heliophial,,Wayne England,130,Artifact,"Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice Heliophial: Heliophial deals damage equal to the number of charge counters on it to target creature or player.",5DN
+Helm of Kaldra,,Donato Giancola,131,Legendary Artifact — Equipment,"Equipped creature has first strike, trample, and haste.\n{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.
+Equip {2}","pPRE,5DN"
+Horned Helm,,Martina Pilcerova,132,Artifact — Equipment,Equipped creature gets +1/+1 and has trample.\n{G}{G}: Attach Horned Helm to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),5DN
+Infused Arrows,,Stephen Tappin,133,Artifact,"Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\n{T}, Remove X charge counters from Infused Arrows: Target creature gets -X/-X until end of turn.",5DN
+Krark-Clan Ironworks,,Tim Hildebrandt,134,Artifact,Sacrifice an artifact: Add {2} to your mana pool.,5DN
+Lantern of Insight,,Tim Hildebrandt,135,Artifact,"Players play with the top card of their libraries revealed.\n{T}, Sacrifice Lantern of Insight: Target player shuffles his or her library.",5DN
+Lunar Avenger,,Paolo Parente,136,Artifact Creature — Golem,"Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\nRemove a +1/+1 counter from Lunar Avenger: Lunar Avenger gains your choice of flying, first strike, or haste until end of turn.",5DN
+Mycosynth Golem,,Paolo Parente,137,Artifact Creature — Golem,Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nArtifact creature spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.),5DN
+Myr Quadropod,,Christopher Rush,138,Artifact Creature — Myr,{3}: Switch Myr Quadropod's power and toughness until end of turn.,5DN
+Myr Servitor,,John Matson,139,Artifact Creature — Myr,"At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.",5DN
+Neurok Stealthsuit,,Francis Tsai,140,Artifact — Equipment,Equipped creature has shroud. (It can't be the target of spells or abilities.)\n{U}{U}: Attach Neurok Stealthsuit to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),5DN
+Opaline Bracers,,Anthony S. Waters,141,Artifact — Equipment,"Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nEquipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",5DN
+Paradise Mantle,,Greg Hildebrandt,142,Artifact — Equipment,Equipped creature has "{T}: Add one mana of any color to your mana pool."\nEquip {1},"5DN,MMA"
+Pentad Prism,,David Martin,143,Artifact,Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nRemove a charge counter from Pentad Prism: Add one mana of any color to your mana pool.,"5DN,HOP"
+Possessed Portal,,Tony Szczudlo,144,Artifact,"If a player would draw a card, that player skips that draw instead.\nAt the beginning of each end step, each player sacrifices a permanent unless he or she discards a card.",5DN
+Razorgrass Screen,,Tony Szczudlo,145,Artifact Creature — Wall,Defender (This creature can't attack.)\nRazorgrass Screen blocks each turn if able.,5DN
+Razormane Masticore,,Jim Murray,146,Artifact Creature — Masticore,"First strike (This creature deals combat damage before creatures without first strike.)\nAt the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.
+At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.","5DN,10E,DDF"
+Relic Barrier,,Nottsuo,147,Artifact,{T}: Tap target artifact.,"LEG,5DN"
+Salvaging Station,,Greg Staples,148,Artifact,"{T}: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield.\nWhenever a creature dies, you may untap Salvaging Station.",5DN
+Sawtooth Thresher,,Alan Pollack,149,Artifact Creature — Construct,Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\nRemove two +1/+1 counters from Sawtooth Thresher: Sawtooth Thresher gets +4/+4 until end of turn.,5DN
+Silent Arbiter,,Mark Zug,150,Artifact Creature — Construct,No more than one creature can attack each combat.\nNo more than one creature can block each combat.,"5DN,CNS"
+Skullcage,,Ron Spencer,151,Artifact,"At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.","5DN,ARC"
+Skyreach Manta,,Christopher Moeller,152,Artifact Creature — Fish,Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\nFlying,"5DN,MMA,MM2"
+Solarion,,Jim Murray,153,Artifact Creature — Construct,Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\n{T}: Double the number of +1/+1 counters on Solarion.,5DN
+Sparring Collar,,Christopher Moeller,154,Artifact — Equipment,Equipped creature has first strike.\n{R}{R}: Attach Sparring Collar to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),5DN
+Spinal Parasite,,Cyril Van Der Haegen,155,Artifact Creature — Insect,Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\nRemove two +1/+1 counters from Spinal Parasite: Remove a counter from target permanent.,5DN
+Staff of Domination,,Ben Thompson,156,Artifact,"{1}: Untap Staff of Domination.\n{2}, {T}: You gain 1 life.
+{3}, {T}: Untap target creature.
+{4}, {T}: Tap target creature.
+{5}, {T}: Draw a card.",5DN
+Summoner's Egg,,Jim Nelson,157,Artifact Creature — Construct,"Imprint — When Summoner's Egg enters the battlefield, you may exile a card from your hand face down.\nWhen Summoner's Egg dies, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.",5DN
+Summoning Station,,Stephen Tappin,158,Artifact,"{T}: Put a 2/2 colorless Pincher creature token onto the battlefield.\nWhenever an artifact is put into a graveyard from the battlefield, you may untap Summoning Station.",5DN
+Suncrusher,,Dave Dorman,159,Artifact Creature — Construct,"Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)\n{4}, {T}, Remove a +1/+1 counter from Suncrusher: Destroy target creature.
+{2}, Remove a +1/+1 counter from Suncrusher: Return Suncrusher to its owner's hand.",5DN
+Suntouched Myr,,Greg Hildebrandt,160,Artifact Creature — Myr,Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.),"5DN,HOP"
+Synod Centurion,,Kev Walker,161,Artifact Creature — Construct,"When you control no other artifacts, sacrifice Synod Centurion.","5DN,ARC,DDF"
+Thermal Navigator,,Jim Murray,162,Artifact Creature — Construct,Sacrifice an artifact: Thermal Navigator gains flying until end of turn.,5DN
+Vedalken Orrery,,John Avon,163,Artifact,You may cast nonland cards as though they had flash.,"5DN,CNS"
+Vedalken Shackles,,Mark Zug,164,Artifact,"You may choose not to untap Vedalken Shackles during your untap step.\n{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.","5DN,MMA"
+Wayfarer's Bauble,,Darrell Riche,165,Artifact,"{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.","5DN,DDI,C13,C14,MM2,C15"

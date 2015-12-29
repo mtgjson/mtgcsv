@@ -1,0 +1,321 @@
+name,cost,artist,number,type,text,printings
+Abzan Battle Priest,,Chris Rahn,1,Creature — Human Cleric,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink.",KTK
+Abzan Falconer,,Steven Belledin,2,Creature — Human Soldier,"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has flying.",KTK
+Ainok Bond-Kin,,Chris Rahn,3,Creature — Hound Soldier,"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has first strike.",KTK
+Alabaster Kirin,,Igor Kieryluk,4,Creature — Kirin,"Flying, vigilance",KTK
+Brave the Sands,,Dave Kendall,5,Enchantment,Creatures you control have vigilance.\nEach creature you control can block an additional creature.,KTK
+Dazzling Ramparts,,Jung Park,6,Creature — Wall,"Defender\n{1}{W}, {T}: Tap target creature.",KTK
+Defiant Strike,,Anastasia Ovchinnikova,7,Instant,Target creature gets +1/+0 until end of turn.\nDraw a card.,KTK
+End Hostilities,,Jason Rainville,8,Sorcery,Destroy all creatures and all permanents attached to creatures.,KTK
+Erase,,Zack Stella,9,Instant,Exile target enchantment.,"ULG,M13,KTK"
+Feat of Resistance,,David Gaillet,10,Instant,Put a +1/+1 counter on target creature you control. It gains protection from the color of your choice until end of turn.,KTK
+Firehoof Cavalry,,YW Tang,11,Creature — Human Berserker,{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.,KTK
+Herald of Anafenza,,Aaron Miller,12,Creature — Human Soldier,"Outlast {2}{W} ({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nWhenever you activate Herald of Anafenza's outlast ability, put a 1/1 white Warrior creature token onto the battlefield.","pPRE,KTK"
+High Sentinels of Arashin,,James Ryman,13,Creature — Bird Soldier,Flying\nHigh Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.
+{3}{W}: Put a +1/+1 counter on target creature.,"pPRE,KTK"
+Jeskai Student,,David Gaillet,14,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",KTK
+Kill Shot,,Michael C. Hayes,15,Instant,Destroy target attacking creature.,KTK
+Mardu Hateblade,,Ryan Alexander Lee,16,Creature — Human Warrior,{B}: Mardu Hateblade gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.),KTK
+Mardu Hordechief,,Torstein Nordstrand,17,Creature — Human Warrior,"Raid — When Mardu Hordechief enters the battlefield, if you attacked with a creature this turn, put a 1/1 white Warrior creature token onto the battlefield.",KTK
+Master of Pearls,,David Gaillet,18,Creature — Human Monk,"Morph {3}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.","pPRE,KTK"
+Rush of Battle,,Dan Scott,19,Sorcery,Creatures you control get +2/+1 until end of turn. Warrior creatures you control gain lifelink until end of turn. (Damage dealt by those Warriors also causes their controller to gain that much life.),KTK
+Sage-Eye Harrier,,Chase Stone,20,Creature — Bird Warrior,Flying\nMorph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Salt Road Patrol,,Scott Murphy,21,Creature — Human Scout,"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)",KTK
+Seeker of the Way,,Craig J Spearing,22,Creature — Human Warrior,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.",KTK
+Siegecraft,,Viktor Titov,23,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+4.,KTK
+Smite the Monstrous,,Greg Staples,24,Instant,Destroy target creature with power 4 or greater.,"ISD,DDL,KTK,FRF_UGIN,BFZ"
+Suspension Field,,Seb McKinnon,25,Enchantment,"When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)","pFNM,KTK"
+Take Up Arms,,Craig J Spearing,26,Instant,Put three 1/1 white Warrior creature tokens onto the battlefield.,KTK
+Timely Hordemate,,Steve Prescott,27,Creature — Human Warrior,"Raid — When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",KTK
+Venerable Lammasu,,YW Tang,28,Creature — Lammasu,Flying,KTK
+War Behemoth,,Zoltan Boros,29,Creature — Beast,Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Watcher of the Roost,,Jack Wang,30,Creature — Bird Soldier,"Flying\nMorph—Reveal a white card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Watcher of the Roost is turned face up, you gain 2 life.","KTK,FRF_UGIN"
+Wingmate Roc,,Mark Zug,31,Creature — Bird,"Flying\nRaid — When Wingmate Roc enters the battlefield, if you attacked with a creature this turn, put a 3/4 white Bird creature token with flying onto the battlefield.
+Whenever Wingmate Roc attacks, you gain 1 life for each attacking creature.",KTK
+Blinding Spray,,Wayne Reynolds,32,Instant,Creatures your opponents control get -4/-0 until end of turn.\nDraw a card.,KTK
+Cancel,,Slawomir Maniak,33,Instant,Counter target spell.,"pMPR,TSP,10E,ALA,M10,ZEN,DPA,M11,M12,PC2,RTR,M14,M15,KTK"
+Clever Impersonator,,Slawomir Maniak,34,Creature — Shapeshifter,You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.,KTK
+Crippling Chill,,Torstein Nordstrand,35,Instant,Tap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.,"AVR,KTK"
+Dig Through Time,,Ryan Yee,36,Instant,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nLook at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.,"pPRE,KTK"
+Disdainful Stroke,,Svetlin Velinov,37,Instant,Counter target spell with converted mana cost 4 or greater.,"pFNM,KTK"
+Dragon's Eye Savants,,Jason Rainville,38,Creature — Human Wizard,"Morph—Reveal a blue card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Dragon's Eye Savants is turned face up, look at target opponent's hand.",KTK
+Embodiment of Spring,,Wayne Reynolds,39,Creature — Elemental,"{1}{G}, {T}, Sacrifice Embodiment of Spring: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",KTK
+Force Away,,Mark Winters,40,Instant,"Return target creature to its owner's hand.\nFerocious — If you control a creature with power 4 or greater, you may draw a card. If you do, discard a card.",KTK
+Glacial Stalker,,Daarken,41,Creature — Elemental,Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Icy Blast,,Eric Deschamps,42,Instant,"Tap X target creatures.\nFerocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.","pPRE,KTK"
+Jeskai Elder,,Craig J Spearing,43,Creature — Human Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever Jeskai Elder deals combat damage to a player, you may draw a card. If you do, discard a card.","DDN,KTK"
+Jeskai Windscout,,Johann Bodin,44,Creature — Bird Scout,"Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",KTK
+Kheru Spellsnatcher,,Clint Cearley,45,Creature — Naga Wizard,"Morph {4}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Kheru Spellsnatcher is turned face up, counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may cast that card without paying its mana cost for as long as it remains exiled.",KTK
+Mistfire Weaver,,Chris Rahn,46,Creature — Djinn Wizard,"Flying\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Mistfire Weaver is turned face up, target creature you control gains hexproof until end of turn.",KTK
+Monastery Flock,,John Avon,47,Creature — Bird,"Defender, flying\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",KTK
+Mystic of the Hidden Way,,Ryan Alexander Lee,48,Creature — Human Monk,Mystic of the Hidden Way can't be blocked.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),"KTK,FRF_UGIN"
+Pearl Lake Ancient,,Richard Wright,49,Creature — Leviathan,"Flash\nPearl Lake Ancient can't be countered.
+Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+Return three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand.",KTK
+Quiet Contemplation,,Magali Villeneuve,50,Enchantment,"Whenever you cast a noncreature spell, you may pay {1}. If you do, tap target creature an opponent controls and it doesn't untap during its controller's next untap step.",KTK
+Riverwheel Aerialists,,Jack Wang,51,Creature — Djinn Monk,"Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",KTK
+Scaldkin,,Cliff Childs,52,Creature — Elemental,"Flying\n{2}{R}, Sacrifice Scaldkin: Scaldkin deals 2 damage to target creature or player.",KTK
+Scion of Glaciers,,Titus Lunter,53,Creature — Elemental,{U}: Scion of Glaciers gets +1/-1 until end of turn.,KTK
+Set Adrift,,Karl Kopinski,54,Sorcery,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nPut target nonland permanent on top of its owner's library.,KTK
+Singing Bell Strike,,Chase Stone,55,Enchantment — Aura,"Enchant creature\nWhen Singing Bell Strike enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{6}: Untap this creature."",KTK
+Stubborn Denial,,James Ryman,56,Instant,"Counter target noncreature spell unless its controller pays {1}.\nFerocious — If you control a creature with power 4 or greater, counter that spell instead.",KTK
+Taigam's Scheming,,Svetlin Velinov,57,Sorcery,Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.,KTK
+Thousand Winds,,Raymond Swanland,58,Creature — Elemental,"Flying\nMorph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Thousand Winds is turned face up, return all other tapped creatures to their owners' hands.","pPRE,DDN,KTK"
+Treasure Cruise,,Cynthia Sheppard,59,Sorcery,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDraw three cards.,KTK
+Waterwhirl,,Clint Cearley,60,Instant,Return up to two target creatures to their owners' hands.,KTK
+Weave Fate,,Zack Stella,61,Instant,Draw two cards.,"KTK,ORI"
+Wetland Sambar,,James Zapata,62,Creature — Elk,,KTK
+Whirlwind Adept,,Steve Argyle,63,Creature — Djinn Monk,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",KTK
+Bellowing Saddlebrute,,Torstein Nordstrand,64,Creature — Orc Warrior,"Raid — When Bellowing Saddlebrute enters the battlefield, you lose 4 life unless you attacked with a creature this turn.",KTK
+Bitter Revelation,,Viktor Titov,65,Sorcery,Look at the top four cards of your library. Put two of them into your hand and the rest into your graveyard. You lose 2 life.,KTK
+Bloodsoaked Champion,,Aaron Miller,66,Creature — Human Warrior,Bloodsoaked Champion can't block.\nRaid — {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked with a creature this turn.,"pPRE,KTK"
+Dead Drop,,Greg Staples,67,Sorcery,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTarget player sacrifices two creatures.,KTK
+Debilitating Injury,,Slawomir Maniak,68,Enchantment — Aura,Enchant creature\nEnchanted creature gets -2/-2.,"KTK,FRF_UGIN"
+Despise,,Todd Lockwood,69,Sorcery,Target opponent reveals his or her hand. You choose a creature or planeswalker card from it. That player discards that card.,"pFNM,NPH,KTK"
+Disowned Ancestor,,Zack Stella,70,Creature — Spirit Warrior,"Outlast {1}{B} ({1}{B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)",KTK
+Dutiful Return,,Seb McKinnon,71,Sorcery,Return up to two target creature cards from your graveyard to your hand.,"KTK,BFZ"
+Empty the Pits,,Ryan Alexander Lee,72,Instant,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nPut X 2/2 black Zombie creature tokens onto the battlefield tapped.,KTK
+Grim Haruspex,,Seb McKinnon,73,Creature — Human Wizard,"Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever another nontoken creature you control dies, draw a card.","pPRE,KTK,FRF_UGIN"
+Gurmag Swiftwing,,Jeff Simpson,74,Creature — Bat,"Flying, first strike, haste",KTK
+Kheru Bloodsucker,,Daniel Ljunggren,75,Creature — Vampire,"Whenever a creature you control with toughness 4 or greater dies, each opponent loses 2 life and you gain 2 life.\n{2}{B}, Sacrifice another creature: Put a +1/+1 counter on Kheru Bloodsucker.",KTK
+Kheru Dreadmaw,,Ryan Yee,76,Creature — Zombie Crocodile,"Defender\n{1}{G}, Sacrifice another creature: You gain life equal to the sacrificed creature's toughness.",KTK
+Krumar Bond-Kin,,Kev Walker,77,Creature — Orc Warrior,Morph {4}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Mardu Skullhunter,,Jason Rainville,78,Creature — Human Warrior,"Mardu Skullhunter enters the battlefield tapped.\nRaid — When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.",KTK
+Mer-Ek Nightblade,,Lucas Graciano,79,Creature — Orc Assassin,"Outlast {B} ({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has deathtouch.",KTK
+Molting Snakeskin,,YW Tang,80,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+0 and has "{2}{B}: Regenerate this creature.",KTK
+Murderous Cut,,Yohann Schepacz,81,Instant,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDestroy target creature.,KTK
+Necropolis Fiend,,Seb McKinnon,82,Creature — Demon,"Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying
+{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.","pPRE,CPK,KTK"
+Raiders' Spoils,,Wayne Reynolds,83,Enchantment,"Creatures you control get +1/+0.\nWhenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.",KTK
+Rakshasa's Secret,,Magali Villeneuve,84,Sorcery,Target opponent discards two cards. Put the top two cards of your library into your graveyard.,KTK
+Retribution of the Ancients,,Svetlin Velinov,85,Enchantment,"{B}, Remove X +1/+1 counters from among creatures you control: Target creature gets -X/-X until end of turn.",KTK
+Rite of the Serpent,,Seb McKinnon,86,Sorcery,"Destroy target creature. If that creature had a +1/+1 counter on it, put a 1/1 green Snake creature token onto the battlefield.",KTK
+Rotting Mastodon,,Nils Hamm,87,Creature — Zombie Elephant,,KTK
+Ruthless Ripper,,Clint Cearley,88,Creature — Human Assassin,"Deathtouch\nMorph—Reveal a black card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Ruthless Ripper is turned face up, target player loses 2 life.","KTK,FRF_UGIN"
+Shambling Attendants,,Daarken,89,Creature — Zombie,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.),KTK
+Sidisi's Pet,,Evan Shipard,90,Creature — Zombie Ape,Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nMorph {1}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Sultai Scavenger,,Anthony Palumbo,91,Creature — Bird Warrior,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying,KTK
+Swarm of Bloodflies,,Marco Nelor,92,Creature — Insect,"Flying\nSwarm of Bloodflies enters the battlefield with two +1/+1 counters on it.
+Whenever another creature dies, put a +1/+1 counter on Swarm of Bloodflies.",KTK
+Throttle,,Wayne Reynolds,93,Instant,Target creature gets -4/-4 until end of turn.,KTK
+Unyielding Krumar,,Viktor Titov,94,Creature — Orc Warrior,{1}{W}: Unyielding Krumar gains first strike until end of turn.,KTK
+Act of Treason,,Min Yum,95,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.),"M10,DPA,M11,M12,GTC,M14,DDN,KTK,ORI"
+Ainok Tracker,,Evan Shipard,96,Creature — Hound Scout,First strike\nMorph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),"KTK,FRF_UGIN"
+Arc Lightning,,Seb McKinnon,97,Sorcery,"Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.","pARL,USG,BRB,HOP,KTK,FRF_UGIN"
+Arrow Storm,,Steve Prescott,98,Sorcery,"Arrow Storm deals 4 damage to target creature or player.\nRaid — If you attacked with a creature this turn, instead Arrow Storm deals 5 damage to that creature or player and the damage can't be prevented.",KTK
+Ashcloud Phoenix,,Howard Lyon,99,Creature — Phoenix,"Flying\nWhen Ashcloud Phoenix dies, return it to the battlefield face down under your control.
+Morph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Ashcloud Phoenix is turned face up, it deals 2 damage to each player.",KTK
+Barrage of Boulders,,Zoltan Boros,100,Sorcery,"Barrage of Boulders deals 1 damage to each creature you don't control.\nFerocious — If you control a creature with power 4 or greater, creatures can't block this turn.",KTK
+Bloodfire Expert,,Raymond Swanland,101,Creature — Efreet Monk,"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",KTK
+Bloodfire Mentor,,Chase Stone,102,Creature — Efreet Shaman,"{2}{U}, {T}: Draw a card, then discard a card.",KTK
+Bring Low,,Slawomir Maniak,103,Instant,"Bring Low deals 3 damage to target creature. If that creature has a +1/+1 counter on it, Bring Low deals 5 damage to it instead.",KTK
+Burn Away,,Vincent Proce,104,Instant,"Burn Away deals 6 damage to target creature. When that creature dies this turn, exile all cards from its controller's graveyard.",KTK
+Canyon Lurkers,,Cynthia Sheppard,105,Creature — Human Rogue,Morph {3}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Crater's Claws,,Noah Bradley,106,Sorcery,Crater's Claws deals X damage to target creature or player.\nFerocious — Crater's Claws deals X plus 2 damage to that creature or player instead if you control a creature with power 4 or greater.,"pPRE,KTK"
+Dragon Grip,,Jason Rainville,107,Enchantment — Aura,"Ferocious — If you control a creature with power 4 or greater, you may cast Dragon Grip as though it had flash. (You may cast it any time you could cast an instant.)\nEnchant creature
+Enchanted creature gets +2/+0 and has first strike.",KTK
+Dragon-Style Twins,,Wesley Burt,108,Creature — Human Monk,"Double strike\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)","pPRE,KTK"
+Goblinslide,,Kev Walker,109,Enchantment,"Whenever you cast a noncreature spell, you may pay {1}. If you do, put a 1/1 red Goblin creature token with haste onto the battlefield.",KTK
+Horde Ambusher,,Tyler Jacobson,110,Creature — Human Berserker,"Whenever Horde Ambusher blocks, it deals 1 damage to you.\nMorph—Reveal a red card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Horde Ambusher is turned face up, target creature can't block this turn.",KTK
+Hordeling Outburst,,Zoltan Boros,111,Sorcery,Put three 1/1 red Goblin creature tokens onto the battlefield.,"pFNM,KTK"
+Howl of the Horde,,Slawomir Maniak,112,Sorcery,"When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\nRaid — If you attacked with a creature this turn, when you cast your next instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.",KTK
+Jeering Instigator,,Willian Murai,113,Creature — Goblin Rogue,"Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Jeering Instigator is turned face up, if it's your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.","pPRE,KTK,FRF_UGIN"
+Leaping Master,,Anastasia Ovchinnikova,114,Creature — Human Monk,{2}{W}: Leaping Master gains flying until end of turn.,KTK
+Mardu Blazebringer,,Peter Mohrbacher,115,Creature — Ogre Warrior,"When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.",KTK
+Mardu Heart-Piercer,,Karl Kopinski,116,Creature — Human Archer,"Raid — When Mardu Heart-Piercer enters the battlefield, if you attacked with a creature this turn, Mardu Heart-Piercer deals 2 damage to target creature or player.","DDN,KTK"
+Mardu Warshrieker,,Yefim Kligerman,117,Creature — Orc Shaman,"Raid — When Mardu Warshrieker enters the battlefield, if you attacked with a creature this turn, add {R}{W}{B} to your mana pool.",KTK
+Monastery Swiftspear,,Steve Argyle,118,Creature — Human Monk,"Haste\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",KTK
+"Sarkhan, the Dragonspeaker",,Daarken,119,Planeswalker — Sarkhan,"+1: Until end of turn, Sarkhan, the Dragonspeaker becomes a legendary 4/4 red Dragon creature with flying, indestructible, and haste. (He doesn't lose loyalty while he's not a planeswalker.)\n−3: Sarkhan, the Dragonspeaker deals 4 damage to target creature.
+−6: You get an emblem with "At the beginning of your draw step, draw two additional cards" and "At the beginning of your end step, discard your hand."",KTK
+Shatter,,Zoltan Boros,120,Instant,Destroy target artifact.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,DKM,8ED,MRD,9ED,M10,SOM,KTK,TPR"
+Summit Prowler,,Filip Burburan,121,Creature — Yeti,,"KTK,DTK"
+Swift Kick,,Mathias Kollros,122,Instant,Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.,KTK
+Tormenting Voice,,Volkan Baga,123,Sorcery,"As an additional cost to cast Tormenting Voice, discard a card.\nDraw two cards.","KTK,DTK"
+Trumpet Blast,,Steve Prescott,124,Instant,Attacking creatures get +2/+0 until end of turn.,"UDS,M10,M13,CNS,KTK"
+Valley Dasher,,Matt Stewart,125,Creature — Human Berserker,Haste\nValley Dasher attacks each turn if able.,KTK
+War-Name Aspirant,,David Gaillet,126,Creature — Human Warrior,Raid — War-Name Aspirant enters the battlefield with a +1/+1 counter on it if you attacked with a creature this turn.\nWar-Name Aspirant can't be blocked by creatures with power 1 or less.,KTK
+Alpine Grizzly,,John Severin Brassell,127,Creature — Bear,,KTK
+Archers' Parapet,,Wayne Reynolds,128,Creature — Wall,"Defender\n{1}{B}, {T}: Each opponent loses 1 life.",KTK
+Awaken the Bear,,Svetlin Velinov,129,Instant,Target creature gets +3/+3 and gains trample until end of turn.,KTK
+Become Immense,,Jaime Jones,130,Instant,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTarget creature gets +6/+6 until end of turn.,KTK
+Dragonscale Boon,,Mark Winters,131,Instant,Put two +1/+1 counters on target creature and untap it.,"KTK,FRF_UGIN"
+Feed the Clan,,Winona Nelson,132,Instant,You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.,KTK
+Hardened Scales,,Mark Winters,133,Enchantment,"If one or more +1/+1 counters would be placed on a creature you control, that many plus one +1/+1 counters are placed on it instead.","pPRE,KTK"
+Heir of the Wilds,,Winona Nelson,134,Creature — Human Warrior,"Deathtouch\nFerocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn.","pMGD,KTK"
+Highland Game,,John Severin Brassell,135,Creature — Elk,"When Highland Game dies, you gain 2 life.",KTK
+Hooded Hydra,,Chase Stone,136,Creature — Snake Hydra,"Hooded Hydra enters the battlefield with X +1/+1 counters on it.\nWhen Hooded Hydra dies, put a 1/1 green Snake creature token onto the battlefield for each +1/+1 counter on it.
+Morph {3}{G}{G}
+As Hooded Hydra is turned face up, put five +1/+1 counters on it.",KTK
+Hooting Mandrills,,Mike Bierek,137,Creature — Ape,Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTrample,KTK
+Incremental Growth,,Clint Cearley,138,Sorcery,"Put a +1/+1 counter on target creature, two +1/+1 counters on another target creature, and three +1/+1 counters on a third target creature.","LRW,MMA,KTK"
+Kin-Tree Warden,,Volkan Baga,139,Creature — Human Warrior,{2}: Regenerate Kin-Tree Warden.\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Longshot Squad,,Wesley Burt,140,Creature — Hound Archer,"Outlast {1}{G} ({1}{G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has reach. (A creature with reach can block creatures with flying.)",KTK
+Meandering Towershell,,YW Tang,141,Creature — Turtle,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Meandering Towershell attacks, exile it. Return it to the battlefield under your control tapped and attacking at the beginning of the declare attackers step on your next turn.",KTK
+Naturalize,,James Paick,142,Instant,Destroy target artifact or enchantment.,"ONS,8ED,9ED,10E,ALA,M10,ROE,DPA,M11,M12,ISD,M13,GTC,M14,M15,KTK,DTK"
+Pine Walker,,Dave Kendall,143,Creature — Elemental,"Morph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever Pine Walker or another creature you control is turned face up, untap that creature.",KTK
+Rattleclaw Mystic,,Tyler Jacobson,144,Creature — Human Shaman,"{T}: Add {G}, {U}, or {R} to your mana pool.\nMorph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Rattleclaw Mystic is turned face up, add {G}{U}{R} to your mana pool.","pMEI,pPRE,KTK"
+Roar of Challenge,,Viktor Titov,145,Sorcery,All creatures able to block target creature this turn do so.\nFerocious — That creature gains indestructible until end of turn if you control a creature with power 4 or greater.,KTK
+Sagu Archer,,Steven Belledin,146,Creature — Naga Archer,Reach (This creature can block creatures with flying.)\nMorph {4}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Savage Punch,,Wesley Burt,147,Sorcery,Target creature you control fights target creature you don't control.\nFerocious — The creature you control gets +2/+2 until end of turn before it fights if you control a creature with power 4 or greater.,KTK
+Scout the Borders,,James Paick,148,Sorcery,Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.,KTK
+See the Unwritten,,Ryan Barger,149,Sorcery,"Reveal the top eight cards of your library. You may put a creature card from among them onto the battlefield. Put the rest into your graveyard.\nFerocious — If you control a creature with power 4 or greater, you may put two creature cards onto the battlefield instead of one.",KTK
+Seek the Horizon,,Min Yum,150,Sorcery,"Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.","SOK,RTR,KTK"
+Smoke Teller,,Min Yum,151,Creature — Human Shaman,{1}{U}: Look at target face-down creature.,KTK
+Sultai Flayer,,Izzy,152,Creature — Naga Shaman,"Whenever a creature you control with toughness 4 or greater dies, you gain 4 life.",KTK
+Temur Charger,,Mark Zug,153,Creature — Horse,"Morph—Reveal a green card in your hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Temur Charger is turned face up, target creature gains trample until end of turn.",KTK
+Trail of Mystery,,Raymond Swanland,154,Enchantment,"Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.\nWhenever a permanent you control is turned face up, if it's a creature, it gets +2/+2 until end of turn.","pPRE,KTK"
+Tusked Colossodon,,Yeong-Hao Han,155,Creature — Beast,,KTK
+Tuskguard Captain,,Aaron Miller,156,Creature — Human Warrior,"Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has trample.",KTK
+Windstorm,,Jonas De Ro,157,Instant,Windstorm deals X damage to each creature with flying.,"M10,DDD,M14,KTK,DD3_GVL"
+Woolly Loxodon,,Karla Ortiz,158,Creature — Elephant Warrior,Morph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Abomination of Gudul,,Erica Yang,159,Creature — Horror,"Flying\nWhenever Abomination of Gudul deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {2}{B}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",KTK
+Abzan Ascendancy,,Mark Winters,160,Enchantment,"When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control.\nWhenever a nontoken creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.","pPRE,KTK"
+Abzan Charm,,Mathias Kollros,161,Instant,Choose one —\n• Exile target creature with power 3 or greater.
+• You draw two cards and you lose 2 life.
+• Distribute two +1/+1 counters among one or two target creatures.,KTK
+Abzan Guide,,Steve Prescott,162,Creature — Human Warrior,Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nMorph {2}{W}{B}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+"Anafenza, the Foremost",,James Ryman,163,Legendary Creature — Human Soldier,"Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control.\nIf a creature card would be put into an opponent's graveyard from anywhere, exile it instead.","pPRE,KTK"
+Ankle Shanker,,Zoltan Boros,164,Creature — Goblin Berserker,"Haste\nWhenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.","pMEI,pPRE,KTK"
+Armament Corps,,Steven Belledin,165,Creature — Human Soldier,"When Armament Corps enters the battlefield, distribute two +1/+1 counters among one or two target creatures you control.",KTK
+Avalanche Tusker,,Matt Stewart,166,Creature — Elephant Warrior,"Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.","pMEI,pPRE,KTK"
+Bear's Companion,,Winona Nelson,167,Creature — Human Warrior,"When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.",KTK
+Butcher of the Horde,,Karl Kopinski,168,Creature — Demon,"Flying\nSacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn.","pPRE,KTK"
+Chief of the Edge,,David Palumbo,169,Creature — Human Warrior,Other Warrior creatures you control get +1/+0.,KTK
+Chief of the Scale,,David Palumbo,170,Creature — Human Warrior,Other Warrior creatures you control get +0/+1.,KTK
+Crackling Doom,,Yohann Schepacz,171,Instant,Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures he or she controls.,"pPRE,KTK"
+Death Frenzy,,Steve Prescott,172,Sorcery,"All creatures get -2/-2 until end of turn. Whenever a creature dies this turn, you gain 1 life.",KTK
+Deflecting Palm,,Eric Deschamps,173,Instant,"The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.","pPRE,KTK"
+Duneblast,,Ryan Alexander Lee,174,Sorcery,Choose up to one creature. Destroy the rest.,"pPRE,KTK"
+Efreet Weaponmaster,,Ryan Alexander Lee,175,Creature — Efreet Monk,"First strike\nWhen Efreet Weaponmaster enters the battlefield or is turned face up, another target creature you control gets +3/+0 until end of turn.
+Morph {2}{U}{R}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",KTK
+Flying Crane Technique,,Jack Wang,176,Instant,Untap all creatures you control. They gain flying and double strike until end of turn.,"pPRE,KTK"
+Highspire Mantis,,Igor Kieryluk,177,Creature — Insect,"Flying, trample",KTK
+Icefeather Aven,,Slawomir Maniak,178,Creature — Bird Shaman,"Flying\nMorph {1}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Icefeather Aven is turned face up, you may return another target creature to its owner's hand.",KTK
+Ivorytusk Fortress,,Jasper Sandner,179,Creature — Elephant,Untap each creature you control with a +1/+1 counter on it during each other player's untap step.,"pMEI,pPRE,KTK"
+Jeskai Ascendancy,,Dan Scott,180,Enchantment,"Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.\nWhenever you cast a noncreature spell, you may draw a card. If you do, discard a card.","pPRE,KTK"
+Jeskai Charm,,Mathias Kollros,181,Instant,Choose one —\n• Put target creature on top of its owner's library.
+• Jeskai Charm deals 4 damage to target opponent.
+• Creatures you control get +1/+1 and gain lifelink until end of turn.,KTK
+Kheru Lich Lord,,Karl Kopinski,182,Creature — Zombie Wizard,"At the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else.","pPRE,KTK"
+Kin-Tree Invocation,,Ryan Alexander Lee,183,Sorcery,"Put an X/X black and green Spirit Warrior creature token onto the battlefield, where X is the greatest toughness among creatures you control.",KTK
+Mantis Rider,,Johann Bodin,184,Creature — Human Monk,"Flying, vigilance, haste",KTK
+Mardu Ascendancy,,Jason Chan,185,Enchantment,"Whenever a nontoken creature you control attacks, put a 1/1 red Goblin creature token onto the battlefield tapped and attacking.\nSacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.","pPRE,KTK"
+Mardu Charm,,Mathias Kollros,186,Instant,"Choose one —\n• Mardu Charm deals 4 damage to target creature.
+• Put two 1/1 white Warrior creature tokens onto the battlefield. They gain first strike until end of turn.
+• Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",KTK
+Mardu Roughrider,,Kev Walker,187,Creature — Orc Warrior,"Whenever Mardu Roughrider attacks, target creature can't block this turn.",KTK
+Master the Way,,Howard Lyon,188,Sorcery,Draw a card. Master the Way deals damage to target creature or player equal to the number of cards in your hand.,KTK
+Mindswipe,,Ryan Alexander Lee,189,Instant,Counter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.,KTK
+"Narset, Enlightened Master",,Magali Villeneuve,190,Legendary Creature — Human Monk,"First strike, hexproof\nWhenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature cards exiled with Narset this turn without paying their mana costs.","pPRE,KTK"
+Ponyback Brigade,,Mark Zug,191,Creature — Goblin Warrior,"When Ponyback Brigade enters the battlefield or is turned face up, put three 1/1 red Goblin creature tokens onto the battlefield.\nMorph {2}{R}{W}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",KTK
+Rakshasa Deathdealer,,John Severin Brassell,192,Creature — Cat Demon,{B}{G}: Rakshasa Deathdealer gets +2/+2 until end of turn.\n{B}{G}: Regenerate Rakshasa Deathdealer.,KTK
+Rakshasa Vizier,,Nils Hamm,193,Creature — Cat Demon,"Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier.","pMEI,pPRE,KTK"
+Ride Down,,Daarken,194,Instant,Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.,KTK
+Sage of the Inward Eye,,Chase Stone,195,Creature — Djinn Wizard,"Flying\nWhenever you cast a noncreature spell, creatures you control gain lifelink until end of turn.","pMEI,pPRE,KTK"
+Sagu Mauler,,Raymond Swanland,196,Creature — Beast,"Trample, hexproof\nMorph {3}{G}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",KTK
+Savage Knuckleblade,,Chris Rahn,197,Creature — Ogre Warrior,{2}{G}: Savage Knuckleblade gets +2/+2 until end of turn. Activate this ability only once each turn.\n{2}{U}: Return Savage Knuckleblade to its owner's hand.
+{R}: Savage Knuckleblade gains haste until end of turn.,KTK
+Secret Plans,,Daarken,198,Enchantment,"Face-down creatures you control get +0/+1.\nWhenever a permanent you control is turned face up, draw a card.",KTK
+"Sidisi, Brood Tyrant",,Karl Kopinski,199,Legendary Creature — Naga Shaman,"Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the top three cards of your library into your graveyard.\nWhenever one or more creature cards are put into your graveyard from your library, put a 2/2 black Zombie creature token onto the battlefield.","pPRE,KTK"
+Siege Rhino,,Volkan Baga,200,Creature — Rhino,"Trample\nWhen Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.","pPRE,KTK"
+Snowhorn Rider,,Tomasz Jedruszek,201,Creature — Human Warrior,Trample\nMorph {2}{G}{U}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+"Sorin, Solemn Visitor",,Cynthia Sheppard,202,Planeswalker — Sorin,"+1: Until your next turn, creatures you control get +1/+0 and gain lifelink.\n−2: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+−6: You get an emblem with "At the beginning of each opponent's upkeep, that player sacrifices a creature."",KTK
+Sultai Ascendancy,,Karl Kopinski,203,Enchantment,"At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.","pPRE,CPK,KTK"
+Sultai Charm,,Mathias Kollros,204,Instant,"Choose one —\n• Destroy target monocolored creature.
+• Destroy target artifact or enchantment.
+• Draw two cards, then discard a card.","pMEI,KTK"
+Sultai Soothsayer,,Cynthia Sheppard,205,Creature — Naga Shaman,"When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.",KTK
+Surrak Dragonclaw,,Jaime Jones,206,Legendary Creature — Human Warrior,Flash\nSurrak Dragonclaw can't be countered.
+Creature spells you control can't be countered.
+Other creatures you control have trample.,"pPRE,KTK"
+Temur Ascendancy,,Jaime Jones,207,Enchantment,"Creatures you control have haste.\nWhenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.","pPRE,KTK"
+Temur Charm,,Mathias Kollros,208,Instant,Choose one —\n• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.
+• Counter target spell unless its controller pays {3}.
+• Creatures with power 3 or less can't block this turn.,KTK
+Trap Essence,,Raymond Swanland,209,Instant,Counter target creature spell. Put two +1/+1 counters on up to one target creature.,"pPRE,KTK"
+Utter End,,Mark Winters,210,Instant,Exile target nonland permanent.,"pPRE,pMGD,KTK"
+Villainous Wealth,,Erica Yang,211,Sorcery,Target opponent exiles the top X cards of his or her library. You may cast any number of nonland cards with converted mana cost X or less from among them without paying their mana costs.,"pPRE,KTK"
+Warden of the Eye,,Howard Lyon,212,Creature — Djinn Wizard,"When Warden of the Eye enters the battlefield, return target noncreature, nonland card from your graveyard to your hand.",KTK
+Winterflame,,Richard Wright,213,Instant,Choose one or both —\n• Tap target creature.
+• Winterflame deals 2 damage to target creature.,KTK
+Zurgo Helmsmasher,,Aleksi Briclot,214,Legendary Creature — Orc Warrior,"Haste\nZurgo Helmsmasher attacks each combat if able.
+Zurgo Helmsmasher has indestructible as long as it's your turn.
+Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher.","pPRE,DDN,KTK"
+Abzan Banner,,Daniel Ljunggren,215,Artifact,"{T}: Add {W}, {B}, or {G} to your mana pool.\n{W}{B}{G}, {T}, Sacrifice Abzan Banner: Draw a card.",KTK
+Altar of the Brood,,Erica Yang,216,Artifact,"Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.","KTK,FRF_UGIN"
+Briber's Purse,,Steve Argyle,217,Artifact,"Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.","KTK,FRF_UGIN"
+Cranial Archive,,Volkan Baga,218,Artifact,"{2}, Exile Cranial Archive: Target player shuffles his or her graveyard into his or her library. Draw a card.",KTK
+Dragon Throne of Tarkir,,Daarken,219,Legendary Artifact — Equipment,"Equipped creature has defender and "{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power."\nEquip {3}","pLPA,KTK"
+Ghostfire Blade,,Cyril Van Der Haegen,220,Artifact — Equipment,Equipped creature gets +2/+2.\nEquip {3}
+Ghostfire Blade's equip ability costs {2} less to activate if it targets a colorless creature.,"KTK,FRF_UGIN"
+Heart-Piercer Bow,,Franz Vohwinkel,221,Artifact — Equipment,"Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.\nEquip {1}",KTK
+Jeskai Banner,,Daniel Ljunggren,222,Artifact,"{T}: Add {U}, {R}, or {W} to your mana pool.\n{U}{R}{W}, {T}, Sacrifice Jeskai Banner: Draw a card.",KTK
+Lens of Clarity,,Raymond Swanland,223,Artifact,You may look at the top card of your library and at face-down creatures you don't control. (You may do this at any time.),KTK
+Mardu Banner,,Daniel Ljunggren,224,Artifact,"{T}: Add {R}, {W}, or {B} to your mana pool.\n{R}{W}{B}, {T}, Sacrifice Mardu Banner: Draw a card.",KTK
+Sultai Banner,,Daniel Ljunggren,225,Artifact,"{T}: Add {B}, {G}, or {U} to your mana pool.\n{B}{G}{U}, {T}, Sacrifice Sultai Banner: Draw a card.",KTK
+Temur Banner,,Daniel Ljunggren,226,Artifact,"{T}: Add {G}, {U}, or {R} to your mana pool.\n{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card.",KTK
+Ugin's Nexus,,Sam Burley,227,Legendary Artifact,"If a player would begin an extra turn, that player skips that turn instead.\nIf Ugin's Nexus would be put into a graveyard from the battlefield, instead exile it and take an extra turn after this one.",KTK
+Witness of the Ages,,Izzy,228,Artifact Creature — Golem,Morph {5} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),KTK
+Bloodfell Caves,,Adam Paquette,229,Land,"Bloodfell Caves enters the battlefield tapped.\nWhen Bloodfell Caves enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.","KTK,FRF"
+Bloodstained Mire,,Daarken,230,Land,"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Blossoming Sands,,Sam Burley,231,Land,"Blossoming Sands enters the battlefield tapped.\nWhen Blossoming Sands enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.","KTK,FRF"
+Dismal Backwater,,Sam Burley,232,Land,"Dismal Backwater enters the battlefield tapped.\nWhen Dismal Backwater enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.","KTK,FRF"
+Flooded Strand,,Andreas Rocha,233,Land,"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Frontier Bivouac,,Titus Lunter,234,Land,"Frontier Bivouac enters the battlefield tapped.\n{T}: Add {G}, {U}, or {R} to your mana pool.",KTK
+Jungle Hollow,,Eytan Zana,235,Land,"Jungle Hollow enters the battlefield tapped.\nWhen Jungle Hollow enters the battlefield, you gain 1 life.
+{T}: Add {B} or {G} to your mana pool.","KTK,FRF,C15"
+Mystic Monastery,,Florian de Gesincourt,236,Land,"Mystic Monastery enters the battlefield tapped.\n{T}: Add {U}, {R}, or {W} to your mana pool.","DDN,KTK"
+Nomad Outpost,,Noah Bradley,237,Land,"Nomad Outpost enters the battlefield tapped.\n{T}: Add {R}, {W}, or {B} to your mana pool.","DDN,KTK"
+Opulent Palace,,Adam Paquette,238,Land,"Opulent Palace enters the battlefield tapped.\n{T}: Add {B}, {G}, or {U} to your mana pool.",KTK
+Polluted Delta,,Vincent Proce,239,Land,"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Rugged Highlands,,Eytan Zana,240,Land,"Rugged Highlands enters the battlefield tapped.\nWhen Rugged Highlands enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.","KTK,FRF"
+Sandsteppe Citadel,,Sam Burley,241,Land,"Sandsteppe Citadel enters the battlefield tapped.\n{T}: Add {W}, {B}, or {G} to your mana pool.",KTK
+Scoured Barrens,,Eytan Zana,242,Land,"Scoured Barrens enters the battlefield tapped.\nWhen Scoured Barrens enters the battlefield, you gain 1 life.
+{T}: Add {W} or {B} to your mana pool.","KTK,FRF,C15"
+Swiftwater Cliffs,,Eytan Zana,243,Land,"Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.
+{T}: Add {U} or {R} to your mana pool.","KTK,FRF,C15"
+Thornwood Falls,,Eytan Zana,244,Land,"Thornwood Falls enters the battlefield tapped.\nWhen Thornwood Falls enters the battlefield, you gain 1 life.
+{T}: Add {G} or {U} to your mana pool.","KTK,FRF,C15"
+Tomb of the Spirit Dragon,,Sam Burley,245,Land,"{T}: Add {1} to your mana pool.\n{2}, {T}: You gain 1 life for each colorless creature you control.",KTK
+Tranquil Cove,,John Avon,246,Land,"Tranquil Cove enters the battlefield tapped.\nWhen Tranquil Cove enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U} to your mana pool.","KTK,FRF"
+Wind-Scarred Crag,,Eytan Zana,247,Land,"Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.
+{T}: Add {R} or {W} to your mana pool.","KTK,FRF,C15"
+Windswept Heath,,Yeong-Hao Han,248,Land,"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Wooded Foothills,,Jonas De Ro,249,Land,"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.","pJGP,ONS,KTK,EXP"
+Plains,,Noah Bradley,250,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Sam Burley,251,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Sam Burley,252,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Florian de Gesincourt,253,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Florian de Gesincourt,254,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Florian de Gesincourt,255,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Titus Lunter,256,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Adam Paquette,257,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Noah Bradley,258,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Sam Burley,259,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Adam Paquette,260,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Adam Paquette,261,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Noah Bradley,262,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Noah Bradley,263,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Florian de Gesincourt,264,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Titus Lunter,265,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Sam Burley,266,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Titus Lunter,267,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Titus Lunter,268,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Adam Paquette,269,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

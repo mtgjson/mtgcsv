@@ -1,0 +1,397 @@
+name,cost,artist,number,type,text,printings
+Alabaster Leech,,"Edward P. Beard, Jr.",1,Creature — Leech,White spells you cast cost {W} more to cast.,INV
+Angel of Mercy,,Mark Tedin,2,Creature — Angel,"Flying\nWhen Angel of Mercy enters the battlefield, you gain 3 life.","PO2,S99,INV,8ED,9ED,10E,DDC,DD3_DVD"
+Ardent Soldier,,Paolo Parente,3,Creature — Human Soldier,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nVigilance
+If Ardent Soldier was kicked, it enters the battlefield with a +1/+1 counter on it.",INV
+"Atalya, Samite Master",,Rebecca Guay,4,Legendary Creature — Human Cleric,"{X}, {T}: Choose one —\n• Prevent the next X damage that would be dealt to target creature this turn. Spend only white mana on X.
+• You gain X life. Spend only white mana on X.",INV
+Benalish Emissary,,Randy Gallegos,5,Creature — Human Wizard,"Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)\nWhen Benalish Emissary enters the battlefield, if it was kicked, destroy target land.",INV
+Benalish Heralds,,Don Hazeltine,6,Creature — Human Soldier,"{3}{U}, {T}: Draw a card.",INV
+Benalish Lancer,,Paolo Parente,7,Creature — Human Knight,"Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nIf Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.","INV,DDG"
+Benalish Trapper,,"Ken Meyer, Jr.",8,Creature — Human Soldier,"{W}, {T}: Tap target creature.","INV,VMA"
+Blinding Light,,Marc Fishman,9,Sorcery,Tap all nonwhite creatures.,"MIR,POR,S99,INV"
+Capashen Unicorn,,Jerry Tiritilli,10,Creature — Unicorn,"{1}{W}, {T}, Sacrifice Capashen Unicorn: Destroy target artifact or enchantment.",INV
+Crimson Acolyte,,Orizio Daniele,11,Creature — Human Cleric,Protection from red\n{W}: Target creature gains protection from red until end of turn.,INV
+Crusading Knight,,"Edward P. Beard, Jr.",12,Creature — Human Knight,Protection from black\nCrusading Knight gets +1/+1 for each Swamp your opponents control.,INV
+Death or Glory,,Jeff Easley,13,Sorcery,Separate all creature cards in your graveyard into two piles. Exile the pile of an opponent's choice and return the other to the battlefield.,INV
+Dismantling Blow,,Mark Tedin,14,Instant,"Kicker {2}{U} (You may pay an additional {2}{U} as you cast this spell.)\nDestroy target artifact or enchantment.
+If Dismantling Blow was kicked, draw two cards.",INV
+Divine Presence,,Ron Spears,15,Enchantment,"If a source would deal 4 or more damage to a creature or player, that source deals 3 damage to that creature or player instead.",INV
+Fight or Flight,,Randy Gallegos,16,Enchantment,"At the beginning of combat on each opponent's turn, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.",INV
+Glimmering Angel,,Ciruelo,17,Creature — Angel,Flying\n{U}: Glimmering Angel gains shroud until end of turn. (It can't be the target of spells or abilities.),INV
+Global Ruin,,Greg Staples,18,Sorcery,"Each player chooses from the lands he or she controls a land of each basic land type, then sacrifices the rest.",INV
+Harsh Judgment,,Carl Critchlow,19,Enchantment,"As Harsh Judgment enters the battlefield, choose a color.\nIf an instant or sorcery spell of the chosen color would deal damage to you, it deals that damage to its controller instead.",INV
+Holy Day,,Pete Venters,20,Instant,Prevent all combat damage that would be dealt this turn.,"LEG,INV,8ED,9ED,10E"
+Liberate,,Alan Pollack,21,Instant,Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.,INV
+Obsidian Acolyte,,Matthew D. Wilson,22,Creature — Human Cleric,Protection from black\n{W}: Target creature gains protection from black until end of turn.,INV
+Orim's Touch,,Roger Raupp,23,Instant,"Kicker {1} (You may pay an additional {1} as you cast this spell.)\nPrevent the next 2 damage that would be dealt to target creature or player this turn. If Orim's Touch was kicked, prevent the next 4 damage that would be dealt to that creature or player this turn instead.",INV
+Pledge of Loyalty,,Franz Vohwinkel,24,Enchantment — Aura,Enchant creature\nEnchanted creature has protection from the colors of permanents you control. This effect doesn't remove Pledge of Loyalty.,INV
+Prison Barricade,,Thomas Gianni,25,Creature — Wall,"Defender (This creature can't attack.)\nKicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+If Prison Barricade was kicked, it enters the battlefield with a +1/+1 counter on it and with "Prison Barricade can attack as though it didn't have defender."",INV
+Protective Sphere,,Rebecca Guay,26,Enchantment,"{1}, Pay 1 life: Prevent all damage that would be dealt to you this turn by a source of your choice that shares a color with the mana spent on this activation cost. (Colorless mana prevents no damage.)",INV
+Pure Reflection,,Scott M. Fischer,27,Enchantment,"Whenever a player casts a creature spell, destroy all Reflections. Then that player puts an X/X white Reflection creature token onto the battlefield, where X is the converted mana cost of that spell.",INV
+Rampant Elephant,,Alan Pollack,28,Creature — Elephant,{G}: Target creature blocks Rampant Elephant this turn if able.,INV
+Razorfoot Griffin,,Ben Thompson,29,Creature — Griffin,Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.),"INV,7ED,8ED,M10,M15"
+Restrain,,Dave Dorman,30,Instant,Prevent all combat damage that would be dealt by target attacking creature this turn.\nDraw a card.,INV
+Reviving Dose,,D. Alexander Gregory,31,Instant,You gain 3 life.\nDraw a card.,"INV,10E"
+Rewards of Diversity,,Darrell Riche,32,Enchantment,"Whenever an opponent casts a multicolored spell, you gain 4 life.",INV
+Reya Dawnbringer,,Matthew D. Wilson,33,Legendary Creature — Angel,"Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.","INV,10E,pMGD,DDC,CNS,DD3_DVD"
+Rout,,Ron Spencer,34,Sorcery,You may cast Rout as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nDestroy all creatures. They can't be regenerated.,"INV,CNS"
+Ruham Djinn,,Jeff Easley,35,Creature — Djinn,First strike\nRuham Djinn gets -2/-2 as long as white is the most common color among all permanents or is tied for most common.,INV
+Samite Ministration,,Darrell Riche,36,Instant,"Prevent all damage that would be dealt to you this turn by a source of your choice. Whenever damage from a black or red source is prevented this way this turn, you gain that much life.",INV
+Shackles,,Greg Staples,37,Enchantment — Aura,Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+{W}: Return Shackles to its owner's hand.,"EXO,INV,TPR"
+Spirit of Resistance,,John Avon,38,Enchantment,"As long as you control a permanent of each color, prevent all damage that would be dealt to you.",INV
+Spirit Weaver,,Matthew D. Wilson,39,Creature — Human Wizard,{2}: Target green or blue creature gets +0/+1 until end of turn.,"INV,10E"
+Strength of Unity,,Andrew Goldhawk,40,Enchantment — Aura,Enchant creature\nDomain — Enchanted creature gets +1/+1 for each basic land type among lands you control.,INV
+Sunscape Apprentice,,Stephanie Law,41,Creature — Human Wizard,"{G}, {T}: Target creature gets +1/+1 until end of turn.\n{U}, {T}: Put target creature you control on top of its owner's library.",INV
+Sunscape Master,,Alan Rabinowitz,42,Creature — Human Wizard,"{G}{G}, {T}: Creatures you control get +2/+2 until end of turn.\n{U}{U}, {T}: Return target creature to its owner's hand.",INV
+Teferi's Care,,Scott Bailey,43,Enchantment,"{W}, Sacrifice an enchantment: Destroy target enchantment.\n{3}{U}{U}: Counter target enchantment spell.",INV
+Wayfaring Giant,,Christopher Moeller,44,Creature — Giant,Domain — Wayfaring Giant gets +1/+1 for each basic land type among lands you control.,INV
+Winnow,,Roger Raupp,45,Instant,Destroy target nonland permanent if another permanent with the same name is on the battlefield.\nDraw a card.,INV
+Barrin's Unmaking,,Luca Zontini,46,Instant,Return target permanent to its owner's hand if that permanent shares a color with the most common color among all permanents or a color tied for most common.,INV
+Blind Seer,,Dave Dorman,47,Legendary Creature — Human Wizard,{1}{U}: Target spell or permanent becomes the color of your choice until end of turn.,INV
+Breaking Wave,,Carl Critchlow,48,Sorcery,You may cast Breaking Wave as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nSimultaneously untap all tapped creatures and tap all untapped creatures.,INV
+Collective Restraint,,Alan Rabinowitz,49,Enchantment,"Domain — Creatures can't attack you unless their controller pays {X} for each creature he or she controls that's attacking you, where X is the number of basic land types among lands you control.",INV
+Crystal Spray,,Jeff Miracola,50,Instant,Change the text of target spell or permanent by replacing all instances of one color word with another or one basic land type with another until end of turn.\nDraw a card.,INV
+Disrupt,,Paolo Parente,51,Instant,Counter target instant or sorcery spell unless its controller pays {1}.\nDraw a card.,"WTH,INV"
+Distorting Wake,,Arnie Swekel,52,Sorcery,Return X target nonland permanents to their owners' hands.,"INV,C14"
+Dream Thrush,,D. J. Cleland-Hura,53,Creature — Bird,Flying\n{T}: Target land becomes the basic land type of your choice until end of turn.,INV
+Empress Galina,,Matt Cavotta,54,Legendary Creature — Merfolk,"{U}{U}, {T}: Gain control of target legendary permanent. (This effect lasts indefinitely.)",INV
+Essence Leak,,Adam Rex,55,Enchantment — Aura,"Enchant permanent\nAs long as enchanted permanent is red or green, it has "At the beginning of your upkeep, sacrifice this permanent unless you pay its mana cost."",INV
+Exclude,,Mark Romanoski,56,Instant,Counter target creature spell.\nDraw a card.,"INV,C14"
+Fact or Fiction,,Terese Nielsen,57,Instant,Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.,"pFNM,INV,DD2,CMD,V13,CNS,VMA,DD3_JVC,C15"
+Faerie Squadron,,rk post,58,Creature — Faerie,"Kicker {3}{U} (You may pay an additional {3}{U} as you cast this spell.)\nIf Faerie Squadron was kicked, it enters the battlefield with two +1/+1 counters on it and with flying.",INV
+Mana Maze,,Rebecca Guay,59,Enchantment,Players can't cast spells that share a color with the spell most recently cast this turn.,INV
+Manipulate Fate,,John Matson,60,Sorcery,"Search your library for three cards, exile them, then shuffle your library.\nDraw a card.",INV
+Metathran Aerostat,,Greg Staples,61,Creature — Metathran,"Flying\n{X}{U}: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.",INV
+Metathran Transport,,Glen Angus,62,Creature — Metathran,Flying\nMetathran Transport can't be blocked by blue creatures.
+{U}: Target creature becomes blue until end of turn.,INV
+Metathran Zombie,,Arnie Swekel,63,Creature — Metathran Zombie,{B}: Regenerate Metathran Zombie.,INV
+Opt,,John Howe,64,Instant,Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\nDraw a card.,INV
+Phantasmal Terrain,,Dana Knutson,65,Enchantment — Aura,"Enchant land\nAs Phantasmal Terrain enters the battlefield, choose a basic land type.
+Enchanted land is the chosen type.","LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,6ED,INV,ME4"
+Probe,,Eric Peterson,66,Sorcery,"Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)\nDraw three cards, then discard two cards.
+If Probe was kicked, target player discards two cards.",INV
+Prohibit,,Adam Rex,67,Instant,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nCounter target spell if its converted mana cost is 2 or less. If Prohibit was kicked, counter that spell if its converted mana cost is 4 or less instead.","INV,DDM"
+Psychic Battle,,Ray Lago,68,Enchantment,"Whenever a player chooses one or more targets, each player reveals the top card of his or her library. The player who reveals the card with the highest converted mana cost may change the target or targets. If two or more cards are tied for highest cost, the target or targets remain unchanged. Changing targets this way doesn't trigger abilities of permanents named Psychic Battle.",INV
+Rainbow Crow,,"Edward P. Beard, Jr.",69,Creature — Bird,Flying\n{1}: Rainbow Crow becomes the color of your choice until end of turn.,INV
+Repulse,,Aaron Boyd,70,Instant,Return target creature to its owner's hand.\nDraw a card.,"INV,DD2,CMD,DD3_JVC"
+Sapphire Leech,,Ron Spencer,71,Creature — Leech,Flying\nBlue spells you cast cost {U} more to cast.,INV
+Shimmering Wings,,Carl Critchlow,72,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+{U}: Return Shimmering Wings to its owner's hand.,"TMP,INV,10E"
+Shoreline Raider,,Nelson DeCastro,73,Creature — Merfolk,Protection from Kavu,INV
+Sky Weaver,,Christopher Moeller,74,Creature — Metathran Wizard,{2}: Target white or black creature gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),"INV,10E"
+Stormscape Apprentice,,D. Alexander Gregory,75,Creature — Human Wizard,"{W}, {T}: Tap target creature.\n{B}, {T}: Target player loses 1 life.",INV
+Stormscape Master,,Hannibal King,76,Creature — Human Wizard,"{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.\n{B}{B}, {T}: Target player loses 2 life and you gain 2 life.",INV
+Sway of Illusion,,Greg & Tim Hildebrandt,77,Instant,Any number of target creatures become the color of your choice until end of turn.\nDraw a card.,INV
+Teferi's Response,,Scott Bailey,78,Instant,"Counter target spell or ability an opponent controls that targets a land you control. If a permanent's ability is countered this way, destroy that permanent.\nDraw two cards.",INV
+Temporal Distortion,,Stephanie Law,79,Enchantment,"Whenever a creature or land becomes tapped, put an hourglass counter on it.\nEach permanent with an hourglass counter on it doesn't untap during its controller's untap step.
+At the beginning of each player's upkeep, remove all hourglass counters from permanents that player controls.",INV
+Tidal Visionary,,Glen Angus,80,Creature — Merfolk Wizard,{T}: Target creature becomes the color of your choice until end of turn.,INV
+Tolarian Emissary,,Ron Spencer,81,Creature — Human Wizard,"Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nFlying
+When Tolarian Emissary enters the battlefield, if it was kicked, destroy target enchantment.",INV
+Tower Drake,,Carl Critchlow,82,Creature — Drake,Flying\n{W}: Tower Drake gets +0/+1 until end of turn.,"INV,RTR"
+Traveler's Cloak,,Rebecca Guay,83,Enchantment — Aura,"Enchant creature\nAs Traveler's Cloak enters the battlefield, choose a land type.
+When Traveler's Cloak enters the battlefield, draw a card.
+Enchanted creature has landwalk of the chosen type. (It can't be blocked as long as defending player controls a land of that type.)","INV,CNS"
+Vodalian Hypnotist,,Rebecca Guay,84,Creature — Merfolk Wizard,"{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",INV
+Vodalian Merchant,,Scott M. Fischer,85,Creature — Merfolk,"When Vodalian Merchant enters the battlefield, draw a card, then discard a card.",INV
+Vodalian Serpent,,Christopher Moeller,86,Creature — Serpent,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nVodalian Serpent can't attack unless defending player controls an Island.
+If Vodalian Serpent was kicked, it enters the battlefield with four +1/+1 counters on it.",INV
+Wash Out,,Matthew D. Wilson,87,Sorcery,Return all permanents of the color of your choice to their owners' hands.,"pMEI,INV,C13"
+Well-Laid Plans,,Kev Walker,88,Enchantment,Prevent all damage that would be dealt to a creature by another creature if they share a color.,INV
+Worldly Counsel,,Gary Ruddell,89,Instant,"Domain — Look at the top X cards of your library, where X is the number of basic land types among lands you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.","INV,CON"
+Zanam Djinn,,Eric Peterson,90,Creature — Djinn,Flying\nZanam Djinn gets -2/-2 as long as blue is the most common color among all permanents or is tied for most common.,INV
+Addle,,Ron Spears,91,Sorcery,Choose a color. Target player reveals his or her hand and you choose a card of that color from it. That player discards that card.,"INV,VMA"
+Agonizing Demise,,Mark Brill,92,Instant,"Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nDestroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.","INV,DDH"
+Andradite Leech,,Wayne England,93,Creature — Leech,Black spells you cast cost {B} more to cast.\n{B}: Andradite Leech gets +1/+1 until end of turn.,INV
+Annihilate,,Kev Walker,94,Instant,Destroy target nonblack creature. It can't be regenerated.\nDraw a card.,"INV,C13,C14"
+Bog Initiate,,rk post,95,Creature — Human Wizard,{1}: Add {B} to your mana pool.,INV
+Cremate,,Andrew Goldhawk,96,Instant,Exile target card from a graveyard.\nDraw a card.,"INV,GPT,RTR"
+Crypt Angel,,Todd Lockwood,97,Creature — Angel,"Flying, protection from white\nWhen Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand.",INV
+Cursed Flesh,,Chippy,98,Enchantment — Aura,Enchant creature\nEnchanted creature gets -1/-1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.),"EXO,INV,TPR"
+Defiling Tears,,rk post,99,Instant,"Until end of turn, target creature becomes black, gets +1/-1, and gains "{B}: Regenerate this creature."",INV
+Desperate Research,,Ron Spencer,100,Sorcery,Name a card other than a basic land card. Then reveal the top seven cards of your library and put all of them with that name into your hand. Exile the rest.,INV
+Devouring Strossus,,D. Alexander Gregory,101,Creature — Horror,"Flying, trample\nAt the beginning of your upkeep, sacrifice a creature.
+Sacrifice a creature: Regenerate Devouring Strossus.",INV
+Do or Die,,Christopher Moeller,102,Sorcery,Separate all creatures target player controls into two piles. Destroy all creatures in the pile of that player's choice. They can't be regenerated.,INV
+Dredge,,Donato Giancola,103,Instant,Sacrifice a creature or land.\nDraw a card.,INV
+Duskwalker,,David Martin,104,Creature — Human Minion,"Kicker {3}{B} (You may pay an additional {3}{B} as you cast this spell.)\nIf Duskwalker was kicked, it enters the battlefield with two +1/+1 counters on it and with fear. (It can't be blocked except by artifact creatures and/or black creatures.)",INV
+Exotic Curse,,Orizio Daniele,105,Enchantment — Aura,Enchant creature\nDomain — Enchanted creature gets -1/-1 for each basic land type among lands you control.,"INV,DDE"
+Firescreamer,,Alan Pollack,106,Creature — Kavu,{R}: Firescreamer gets +1/+0 until end of turn.,INV
+Goham Djinn,,Ron Spencer,107,Creature — Djinn,{1}{B}: Regenerate Goham Djinn.\nGoham Djinn gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.,INV
+Hate Weaver,,Roger Raupp,108,Creature — Zombie Wizard,{2}: Target blue or red creature gets +1/+0 until end of turn.,"INV,10E"
+Hypnotic Cloud,,Randy Gallegos,109,Sorcery,"Kicker {4} (You may pay an additional {4} as you cast this spell.)\nTarget player discards a card. If Hypnotic Cloud was kicked, that player discards three cards instead.","INV,DDM"
+Marauding Knight,,Daren Bader,110,Creature — Zombie Knight,Protection from white\nMarauding Knight gets +1/+1 for each Plains your opponents control.,INV
+Mourning,,Terese Nielsen,111,Enchantment — Aura,Enchant creature\nEnchanted creature gets -2/-0.
+{B}: Return Mourning to its owner's hand.,INV
+Nightscape Apprentice,,Andrew Goldhawk,112,Creature — Zombie Wizard,"{U}, {T}: Put target creature you control on top of its owner's library.\n{R}, {T}: Target creature gains first strike until end of turn.",INV
+Nightscape Master,,Andrew Goldhawk,113,Creature — Zombie Wizard,"{U}{U}, {T}: Return target creature to its owner's hand.\n{R}{R}, {T}: Nightscape Master deals 2 damage to target creature.",INV
+Phyrexian Battleflies,,Dan Frazier,114,Creature — Insect,Flying\n{B}: Phyrexian Battleflies gets +1/+0 until end of turn. Activate this ability no more than twice each turn.,"INV,DDE"
+Phyrexian Delver,,Dana Knutson,115,Creature — Zombie,"When Phyrexian Delver enters the battlefield, return target creature card from your graveyard to the battlefield. You lose life equal to that card's converted mana cost.","INV,C13"
+Phyrexian Infiltrator,,Darrell Riche,116,Creature — Minion,{2}{U}{U}: Exchange control of Phyrexian Infiltrator and target creature. (This effect lasts indefinitely.),INV
+Phyrexian Reaper,,Sam Wood,117,Creature — Zombie,"Whenever Phyrexian Reaper becomes blocked by a green creature, destroy that creature. It can't be regenerated.",INV
+Phyrexian Slayer,,Sam Wood,118,Creature — Minion,"Flying\nWhenever Phyrexian Slayer becomes blocked by a white creature, destroy that creature. It can't be regenerated.",INV
+Plague Spitter,,Chippy,119,Creature — Horror,"At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player.\nWhen Plague Spitter dies, Plague Spitter deals 1 damage to each creature and each player.",INV
+Ravenous Rats,,Tom Wänerstrand,120,Creature — Rat,"When Ravenous Rats enters the battlefield, target opponent discards a card.","PO2,UDS,S99,INV,8ED,9ED,10E,DDD,DPA,M13,DDJ,DD3_GVL"
+Reckless Spite,,Chippy,121,Instant,Destroy two target nonblack creatures. You lose 5 life.,"TMP,INV,C13,CNS"
+Recover,,Nelson DeCastro,122,Sorcery,Return target creature card from your graveyard to your hand.\nDraw a card.,"INV,10E"
+Scavenged Weaponry,,Alan Pollack,123,Enchantment — Aura,"Enchant creature\nWhen Scavenged Weaponry enters the battlefield, draw a card.
+Enchanted creature gets +1/+1.",INV
+Soul Burn,,Andrew Goldhawk,124,Sorcery,"Spend only black and/or red mana on X.\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.","ICE,INV,DKM,CST"
+Spreading Plague,,Scott Bailey,125,Enchantment,"Whenever a creature enters the battlefield, destroy all other creatures that share a color with it. They can't be regenerated.",INV
+Tainted Well,,Val Mayerik,126,Enchantment — Aura,"Enchant land\nWhen Tainted Well enters the battlefield, draw a card.
+Enchanted land is a Swamp.",INV
+Trench Wurm,,Wayne England,127,Creature — Wurm,"{2}{R}, {T}: Destroy target nonbasic land.",INV
+Tsabo's Assassin,,Glen Angus,128,Creature — Zombie Assassin,{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.,INV
+Tsabo's Decree,,Thomas M. Baxa,129,Instant,Choose a creature type. Target player reveals his or her hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can't be regenerated.,INV
+Twilight's Call,,Mark Romanoski,130,Sorcery,You may cast Twilight's Call as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nEach player returns all creature cards from his or her graveyard to the battlefield.,"INV,DDJ"
+Urborg Emissary,,Eric Peterson,131,Creature — Human Wizard,"Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nWhen Urborg Emissary enters the battlefield, if it was kicked, return target permanent to its owner's hand.",INV
+Urborg Phantom,,Daren Bader,132,Creature — Spirit Minion,Urborg Phantom can't block.\n{U}: Prevent all combat damage that would be dealt to and dealt by Urborg Phantom this turn.,INV
+Urborg Shambler,,Pete Venters,133,Creature — Horror,Other black creatures get -1/-1.,INV
+Urborg Skeleton,,Alan Pollack,134,Creature — Skeleton,"Kicker {3} (You may pay an additional {3} as you cast this spell.)\n{B}: Regenerate Urborg Skeleton.
+If Urborg Skeleton was kicked, it enters the battlefield with a +1/+1 counter on it.",INV
+Yawgmoth's Agenda,,Arnie Swekel,135,Enchantment,"You can't cast more than one spell each turn.\nYou may play cards from your graveyard.
+If a card would be put into your graveyard from anywhere, exile it instead.",INV
+Ancient Kavu,,Glen Angus,136,Creature — Kavu,{2}: Ancient Kavu becomes colorless until end of turn.,INV
+Bend or Break,,Arnie Swekel,137,Sorcery,"Each player separates all nontoken lands he or she controls into two piles. For each player, one of his or her piles is chosen by one of his or her opponents of his or her choice. Destroy all lands in the chosen piles. Tap all lands in the other piles.",INV
+Breath of Darigaaz,,Greg & Tim Hildebrandt,138,Sorcery,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nBreath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.","INV,ARC,DDG,CMD,C15"
+Callous Giant,,Mark Brill,139,Creature — Giant,"If a source would deal 3 or less damage to Callous Giant, prevent that damage.",INV
+Chaotic Strike,,Massimilano Frezzato,140,Instant,"Cast Chaotic Strike only during combat after blockers are declared.\nFlip a coin. If you win the flip, target creature gets +1/+1 until end of turn.
+Draw a card.",INV
+Collapsing Borders,,Glen Angus,141,Enchantment,"Domain — At the beginning of each player's upkeep, that player gains 1 life for each basic land type among lands he or she controls. Then Collapsing Borders deals 3 damage to him or her.",INV
+Crown of Flames,,Christopher Moeller,142,Enchantment — Aura,Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.
+{R}: Return Crown of Flames to its owner's hand.,"TMP,INV"
+Firebrand Ranger,,Quinton Hoover,143,Creature — Human Soldier,"{G}, {T}: You may put a basic land card from your hand onto the battlefield.",INV
+Ghitu Fire,,Glen Angus,144,Sorcery,You may cast Ghitu Fire as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nGhitu Fire deals X damage to target creature or player.,INV
+Goblin Spy,,Scott M. Fischer,145,Creature — Goblin Rogue,Play with the top card of your library revealed.,INV
+Halam Djinn,,Adam Rex,146,Creature — Djinn,Haste\nHalam Djinn gets -2/-2 as long as red is the most common color among all permanents or is tied for most common.,INV
+Hooded Kavu,,John Howe,147,Creature — Kavu,{B}: Hooded Kavu gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.),INV
+Kavu Aggressor,,Christopher Moeller,148,Creature — Kavu,"Kicker {4} (You may pay an additional {4} as you cast this spell.)\nKavu Aggressor can't block.
+If Kavu Aggressor was kicked, it enters the battlefield with a +1/+1 counter on it.",INV
+Kavu Monarch,,Terese Nielsen,149,Creature — Kavu,"Kavu creatures have trample.\nWhenever another Kavu enters the battlefield, put a +1/+1 counter on Kavu Monarch.",INV
+Kavu Runner,,Douglas Shuler,150,Creature — Kavu,Kavu Runner has haste as long as no opponent controls a white or blue creature.,INV
+Kavu Scout,,DiTerlizzi,151,Creature — Kavu Scout,Domain — Kavu Scout gets +1/+0 for each basic land type among lands you control.,INV
+Lightning Dart,,Arnie Swekel,152,Instant,"Lightning Dart deals 1 damage to target creature. If that creature is white or blue, Lightning Dart deals 4 damage to it instead.",INV
+Loafing Giant,,Greg & Tim Hildebrandt,153,Creature — Giant,"Whenever Loafing Giant attacks or blocks, put the top card of your library into your graveyard. If that card is a land card, prevent all combat damage Loafing Giant would deal this turn.",INV
+Mages' Contest,,Bradley Williams,154,Instant,"You and target spell's controller bid life. You start the bidding with a bid of 1. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid. If you win the bidding, counter that spell.",INV
+Maniacal Rage,,Matt Cavotta,155,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and can't block.,"EXO,BRB,INV,CON,TPR"
+Obliterate,,Kev Walker,156,Sorcery,"Obliterate can't be countered.\nDestroy all artifacts, creatures, and lands. They can't be regenerated.","INV,8ED"
+Overload,,Gary Ruddell,157,Instant,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nDestroy target artifact if its converted mana cost is 2 or less. If Overload was kicked, destroy that artifact if its converted mana cost is 5 or less instead.",INV
+Pouncing Kavu,,Adam Rex,158,Creature — Kavu,"Kicker {2}{R} (You may pay an additional {2}{R} as you cast this spell.)\nFirst strike
+If Pouncing Kavu was kicked, it enters the battlefield with two +1/+1 counters on it and with haste.",INV
+Rage Weaver,,John Matson,159,Creature — Human Wizard,{2}: Target black or green creature gains haste until end of turn. (It can attack and {T} this turn.),"INV,10E"
+Rogue Kavu,,Darrell Riche,160,Creature — Kavu,"Whenever Rogue Kavu attacks alone, it gets +2/+0 until end of turn.","INV,9ED"
+Ruby Leech,,Jacques Bredy,161,Creature — Leech,First strike\nRed spells you cast cost {R} more to cast.,INV
+Savage Offensive,,Greg & Tim Hildebrandt,162,Sorcery,"Kicker {G} (You may pay an additional {G} as you cast this spell.)\nCreatures you control gain first strike until end of turn. If Savage Offensive was kicked, they get +1/+1 until end of turn.",INV
+Scarred Puma,,Aaron Boyd,163,Creature — Cat,Scarred Puma can't attack unless a black or green creature also attacks.,INV
+Scorching Lava,,Mark Tedin,164,Instant,"Kicker {R} (You may pay an additional {R} as you cast this spell.)\nScorching Lava deals 2 damage to target creature or player. If Scorching Lava was kicked, that creature can't be regenerated this turn and if it would die this turn, exile it instead.",INV
+Searing Rays,,Doug Chaffee,165,Sorcery,Choose a color. Searing Rays deals damage to each player equal to the number of creatures of that color that player controls.,INV
+Shivan Emissary,,Paolo Parente,166,Creature — Human Wizard,"Kicker {1}{B} (You may pay an additional {1}{B} as you cast this spell.)\nWhen Shivan Emissary enters the battlefield, if it was kicked, destroy target nonblack creature. It can't be regenerated.",INV
+Shivan Harvest,,Daren Bader,167,Enchantment,"{1}{R}, Sacrifice a creature: Destroy target nonbasic land.",INV
+Skittish Kavu,,Pete Venters,168,Creature — Kavu,Skittish Kavu gets +1/+1 as long as no opponent controls a white or blue creature.,INV
+Skizzik,,Ron Spencer,169,Creature — Elemental,"Kicker {R} (You may pay an additional {R} as you cast this spell.)\nTrample, haste
+At the beginning of the end step, sacrifice Skizzik unless it was kicked.",INV
+Slimy Kavu,,Randy Gallegos,170,Creature — Kavu,{T}: Target land becomes a Swamp until end of turn.,INV
+Stand or Fall,,Matt Cavotta,171,Enchantment,"At the beginning of combat on your turn, separate all creatures defending player controls into two piles. Only creatures in the pile of that player's choice can block this turn.",INV
+Stun,,Mike Ploog,172,Instant,Target creature can't block this turn.\nDraw a card.,"TMP,INV,10E,TPR"
+Tectonic Instability,,Rob Alexander,173,Enchantment,"Whenever a land enters the battlefield, tap all lands its controller controls.",INV
+Thunderscape Apprentice,,D. Alexander Gregory,174,Creature — Human Wizard,"{B}, {T}: Target player loses 1 life.\n{G}, {T}: Target creature gets +1/+1 until end of turn.",INV
+Thunderscape Master,,Scott M. Fischer,175,Creature — Human Wizard,"{B}{B}, {T}: Target player loses 2 life and you gain 2 life.\n{G}{G}, {T}: Creatures you control get +2/+2 until end of turn.",INV
+Tribal Flames,,Tony Szczudlo,176,Sorcery,"Domain — Tribal Flames deals X damage to target creature or player, where X is the number of basic land types among lands you control.","INV,TSB,DDE,MMA,MM2"
+Turf Wound,,Thomas Gianni,177,Instant,Target player can't play land cards this turn.\nDraw a card.,INV
+Urza's Rage,,Matthew D. Wilson,178,Instant,"Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)\nUrza's Rage can't be countered by spells or abilities.
+Urza's Rage deals 3 damage to target creature or player. If Urza's Rage was kicked, instead it deals 10 damage to that creature or player and the damage can't be prevented.","INV,DDE,C15"
+Viashino Grappler,,Mark Romanoski,179,Creature — Viashino,{G}: Viashino Grappler gains trample until end of turn.,INV
+Zap,,John Matson,180,Instant,Zap deals 1 damage to target creature or player.\nDraw a card.,INV
+Aggressive Urge,,Christopher Moeller,181,Instant,Target creature gets +1/+1 until end of turn.\nDraw a card.,"INV,10E"
+Bind,,Mark Zug,182,Instant,Counter target activated ability. (Mana abilities can't be targeted.)\nDraw a card.,INV
+Blurred Mongoose,,Heather Hudson,183,Creature — Mongoose,Blurred Mongoose can't be countered.\nShroud (This creature can't be the target of spells or abilities.),INV
+Canopy Surge,,Matt Cavotta,184,Sorcery,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nCanopy Surge deals 1 damage to each creature with flying and each player. If Canopy Surge was kicked, it deals 4 damage to each creature with flying and each player instead.",INV
+Elfhame Sanctuary,,Alan Rabinowitz,185,Enchantment,"At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.",INV
+Elvish Champion,,D. Alexander Gregory,186,Creature — Elf,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.),"pSUS,INV,7ED,8ED,9ED,10E,DPA"
+Explosive Growth,,Arnie Swekel,187,Instant,"Kicker {5} (You may pay an additional {5} as you cast this spell.)\nTarget creature gets +2/+2 until end of turn. If Explosive Growth was kicked, that creature gets +5/+5 until end of turn instead.",INV
+Fertile Ground,,Carl Critchlow,188,Enchantment — Aura,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).","USG,BRB,INV,8ED,LRW,HOP,DDE"
+Harrow,,Rob Alexander,189,Instant,"As an additional cost to cast Harrow, sacrifice a land.\nSearch your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.","TMP,INV,pMPR,ZEN,DDE,C14,TPR,DDP"
+Jade Leech,,John Howe,190,Creature — Leech,Green spells you cast cost {G} more to cast.,INV
+Kavu Chameleon,,John Howe,191,Creature — Kavu,Kavu Chameleon can't be countered.\n{G}: Kavu Chameleon becomes the color of your choice until end of turn.,INV
+Kavu Climber,,Rob Alexander,192,Creature — Kavu,"When Kavu Climber enters the battlefield, draw a card.","INV,9ED,10E"
+Kavu Lair,,Chippy,193,Enchantment,"Whenever a creature with power 4 or greater enters the battlefield, its controller draws a card.",INV
+Kavu Titan,,Todd Lockwood,194,Creature — Kavu,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nIf Kavu Titan was kicked, it enters the battlefield with three +1/+1 counters on it and with trample.",INV
+Llanowar Cavalry,,Eric Peterson,195,Creature — Human Soldier,{W}: Llanowar Cavalry gains vigilance until end of turn.,INV
+Llanowar Elite,,Kev Walker,196,Creature — Elf,"Kicker {8} (You may pay an additional {8} as you cast this spell.)\nTrample
+If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters on it.",INV
+Llanowar Vanguard,,Greg & Tim Hildebrandt,197,Creature — Dryad,{T}: Llanowar Vanguard gets +0/+4 until end of turn.,INV
+Might Weaver,,Larry Elmore,198,Creature — Human Wizard,"{2}: Target red or white creature gains trample until end of turn. (If the creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","INV,10E"
+"Molimo, Maro-Sorcerer",,Mark Zug,199,Legendary Creature — Elemental,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)\nMolimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.","INV,10E,DPA,ARC"
+Nomadic Elf,,D. J. Cleland-Hura,200,Creature — Elf Nomad,{1}{G}: Add one mana of any color to your mana pool.,"INV,DDE"
+Pincer Spider,,Dan Frazier,201,Creature — Spider,"Kicker {3} (You may pay an additional {3} as you cast this spell.)\nReach (This creature can block creatures with flying.)
+If Pincer Spider was kicked, it enters the battlefield with a +1/+1 counter on it.",INV
+Pulse of Llanowar,,Rebecca Guay,202,Enchantment,"If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type.",INV
+Quirion Elves,,Douglas Shuler,203,Creature — Elf Druid,"As Quirion Elves enters the battlefield, choose a color.\n{T}: Add {G} to your mana pool.
+{T}: Add one mana of the chosen color to your mana pool.","MIR,BTD,INV,DDE"
+Quirion Sentinel,,Heather Hudson,204,Creature — Elf Druid,"When Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.",INV
+Quirion Trailblazer,,Rebecca Guay,205,Creature — Elf Scout,"When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.",INV
+Restock,,Daren Bader,206,Sorcery,Return two target cards from your graveyard to your hand. Exile Restock.,"INV,M15"
+Rooting Kavu,,Heather Hudson,207,Creature — Kavu,"When Rooting Kavu dies, you may exile it. If you do, shuffle all creature cards from your graveyard into your library.",INV
+Saproling Infestation,,Heather Hudson,208,Enchantment,"Whenever a player kicks a spell, you put a 1/1 green Saproling creature token onto the battlefield.",INV
+Saproling Symbiosis,,Ciruelo,209,Sorcery,You may cast Saproling Symbiosis as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nPut a 1/1 green Saproling creature token onto the battlefield for each creature you control.,INV
+Scouting Trek,,Stephanie Law,210,Sorcery,"Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it.",INV
+Serpentine Kavu,,Heather Hudson,211,Creature — Kavu,{R}: Serpentine Kavu gains haste until end of turn.,INV
+Sulam Djinn,,Greg & Tim Hildebrandt,212,Creature — Djinn,Trample\nSulam Djinn gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.,INV
+Tangle,,John Avon,213,Instant,Prevent all combat damage that would be dealt this turn.\nEach attacking creature doesn't untap during its controller's next untap step.,"INV,VMA"
+Thicket Elemental,,Ron Spencer,214,Creature — Elemental,"Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)\nWhen Thicket Elemental enters the battlefield, if it was kicked, you may reveal cards from the top of your library until you reveal a creature card. If you do, put that card onto the battlefield and shuffle all other cards revealed this way into your library.",INV
+Thornscape Apprentice,,Randy Gallegos,215,Creature — Human Wizard,"{R}, {T}: Target creature gains first strike until end of turn.\n{W}, {T}: Tap target creature.","INV,DDE"
+Thornscape Master,,Larry Elmore,216,Creature — Human Wizard,"{R}{R}, {T}: Thornscape Master deals 2 damage to target creature.\n{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.",INV
+Tranquility,,Rob Alexander,217,Sorcery,Destroy all enchantments.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,TMP,6ED,MMQ,BRB,INV,7ED,TPR"
+Treefolk Healer,,Matt Cavotta,218,Creature — Treefolk Cleric,"{2}{W}, {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.",INV
+Utopia Tree,,Gary Ruddell,219,Creature — Plant,{T}: Add one mana of any color to your mana pool.,"INV,9ED"
+Verdeloth the Ancient,,Daren Bader,220,Legendary Creature — Treefolk,"Kicker {X} (You may pay an additional {X} as you cast this spell.)\nSaproling creatures and other Treefolk creatures get +1/+1.
+When Verdeloth the Ancient enters the battlefield, if it was kicked, put X 1/1 green Saproling creature tokens onto the battlefield.","INV,TSB,ARC,MMA"
+Verduran Emissary,,Alton Lawson,221,Creature — Human Wizard,"Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nWhen Verduran Emissary enters the battlefield, if it was kicked, destroy target artifact. It can't be regenerated.","INV,DDE"
+Vigorous Charge,,Scott M. Fischer,222,Instant,"Kicker {W} (You may pay an additional {W} as you cast this spell.)\nTarget creature gains trample until end of turn. Whenever that creature deals combat damage this turn, if Vigorous Charge was kicked, you gain life equal to that damage.",INV
+Wallop,,Mike Ploog,223,Sorcery,Destroy target blue or black creature with flying.,INV
+Wandering Stream,,Quinton Hoover,224,Sorcery,Domain — You gain 2 life for each basic land type among lands you control.,INV
+Whip Silk,,Dave Dorman,225,Enchantment — Aura,Enchant creature\nEnchanted creature has reach. (It can block creatures with flying.)
+{G}: Return Whip Silk to its owner's hand.,INV
+Absorb,,Andrew Goldhawk,226,Instant,Counter target spell. You gain 3 life.,INV
+Æther Rift,,Heather Hudson,227,Enchantment,"At the beginning of your upkeep, discard a card at random. If you discard a creature card this way, return it from your graveyard to the battlefield unless any player pays 5 life.",INV
+Angelic Shield,,Adam Rex,228,Enchantment,Creatures you control get +0/+1.\nSacrifice Angelic Shield: Return target creature to its owner's hand.,"INV,DDI"
+Armadillo Cloak,,Paolo Parente,229,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2 and has trample.
+Whenever enchanted creature deals damage, you gain that much life.","pFNM,INV,DDE,ARC,VMA"
+Armored Guardian,,Arnie Swekel,230,Creature — Cat Soldier,{1}{W}{W}: Target creature you control gains protection from the color of your choice until end of turn.\n{1}{U}{U}: Armored Guardian gains shroud until end of turn. (It can't be the target of spells or abilities.),INV
+Artifact Mutation,,Greg Staples,231,Instant,"Destroy target artifact. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that artifact's converted mana cost.",INV
+Aura Mutation,,Pete Venters,232,Instant,"Destroy target enchantment. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that enchantment's converted mana cost.",INV
+Aura Shards,,Ron Spencer,233,Enchantment,"Whenever a creature enters the battlefield under your control, you may destroy target artifact or enchantment.","INV,CMD"
+Backlash,,Chippy,234,Instant,Tap target untapped creature. That creature deals damage equal to its power to its controller.,INV
+Barrin's Spite,,Terese Nielsen,235,Sorcery,Choose two target creatures controlled by the same player. Their controller chooses and sacrifices one of them. Return the other to its owner's hand.,INV
+Blazing Specter,,Marc Fishman,236,Creature — Specter,"Flying, haste\nWhenever Blazing Specter deals combat damage to a player, that player discards a card.","INV,DDH,VMA"
+Captain Sisay,,Ray Lago,237,Legendary Creature — Human Soldier,"{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.","INV,V11"
+Cauldron Dance,,Donato Giancola,238,Instant,Cast Cauldron Dance only during combat.\nReturn target creature card from your graveyard to the battlefield. That creature gains haste. Return it to your hand at the beginning of the next end step.
+You may put a creature card from your hand onto the battlefield. That creature gains haste. Its controller sacrifices it at the beginning of the next end step.,INV
+Charging Troll,,Dave Dorman,239,Creature — Troll,Vigilance\n{G}: Regenerate Charging Troll.,"INV,DDE"
+Cinder Shade,,Nelson DeCastro,240,Creature — Shade,"{B}: Cinder Shade gets +1/+1 until end of turn.\n{R}, Sacrifice Cinder Shade: Cinder Shade deals damage equal to its power to target creature.",INV
+Coalition Victory,,Eric Peterson,241,Sorcery,You win the game if you control a land of each basic land type and a creature of each color.,"INV,TSB"
+"Crosis, the Purger",,Pete Venters,242,Legendary Creature — Dragon,"Flying\nWhenever Crosis, the Purger deals combat damage to a player, you may pay {2}{B}. If you do, choose a color, then that player reveals his or her hand and discards all cards of that color.","INV,PD3"
+"Darigaaz, the Igniter",,Mark Zug,243,Legendary Creature — Dragon,"Flying\nWhenever Darigaaz, the Igniter deals combat damage to a player, you may pay {2}{R}. If you do, choose a color, then that player reveals his or her hand and Darigaaz deals damage to the player equal to the number of cards of that color revealed this way.","INV,DDE"
+"Dromar, the Banisher",,Dave Dorman,244,Legendary Creature — Dragon,"Flying\nWhenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color, then return all creatures of that color to their owners' hands.",INV
+Dueling Grounds,,Pete Venters,245,Enchantment,No more than one creature can attack each turn.\nNo more than one creature can block each turn.,INV
+Fires of Yavimaya,,Val Mayerik,246,Enchantment,Creatures you control have haste.\nSacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.,"INV,HOP,ARC,PC2,DDL,C13,CNS,VMA"
+Frenzied Tilling,,Mike Raabe,247,Sorcery,Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.,"INV,GTC"
+Galina's Knight,,David Martin,248,Creature — Merfolk Knight,Protection from red,INV
+"Hanna, Ship's Navigator",,Dave Dorman,249,Legendary Creature — Human Artificer,"{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand.","pJGP,INV"
+Heroes' Reunion,,Terese Nielsen,250,Instant,Target player gains 7 life.,"INV,ARC,DDG,RTR"
+Horned Cheetah,,John Matson,251,Creature — Cat,"Whenever Horned Cheetah deals damage, you gain that much life.",INV
+Hunting Kavu,,Scott M. Fischer,252,Creature — Kavu,"{1}{R}{G}, {T}: Exile Hunting Kavu and target creature without flying that's attacking you.",INV
+"Kangee, Aerie Keeper",,Mark Romanoski,253,Legendary Creature — Bird Wizard,"Kicker {X}{2} (You may pay an additional {X}{2} as you cast this spell.)\nFlying
+When Kangee, Aerie Keeper enters the battlefield, if it was kicked, put X feather counters on it.
+Other Bird creatures get +1/+1 for each feather counter on Kangee, Aerie Keeper.",INV
+Llanowar Knight,,Heather Hudson,254,Creature — Elf Knight,Protection from black,INV
+Lobotomy,,D. Alexander Gregory,255,Sorcery,"Target player reveals his or her hand, then you choose a card other than a basic land card from it. Search that player's graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles his or her library.","TMP,pFNM,INV"
+Meteor Storm,,John Avon,256,Enchantment,"{2}{R}{G}, Discard two cards at random: Meteor Storm deals 4 damage to target creature or player.",INV
+Noble Panther,,Matt Cavotta,257,Creature — Cat,{1}: Noble Panther gains first strike until end of turn.,INV
+Ordered Migration,,Heather Hudson,258,Sorcery,Domain — Put a 1/1 blue Bird creature token with flying onto the battlefield for each basic land type among lands you control.,INV
+Overabundance,,Ben Thompson,259,Enchantment,"Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced, and Overabundance deals 1 damage to him or her.",INV
+Plague Spores,,Randy Gallegos,260,Sorcery,Destroy target nonblack creature and target land. They can't be regenerated.,INV
+Pyre Zombie,,Nelson DeCastro,261,Creature — Zombie,"At the beginning of your upkeep, if Pyre Zombie is in your graveyard, you may pay {1}{B}{B}. If you do, return Pyre Zombie to your hand.\n{1}{R}{R}, Sacrifice Pyre Zombie: Pyre Zombie deals 2 damage to target creature or player.",INV
+Raging Kavu,,Arnie Swekel,262,Creature — Kavu,Flash\nHaste,"pPRE,INV"
+Reckless Assault,,Jeff Easley,263,Enchantment,"{1}, Pay 2 life: Reckless Assault deals 1 damage to target creature or player.",INV
+Recoil,,Alan Pollack,264,Instant,Return target permanent to its owner's hand. Then that player discards a card.,"INV,DDH"
+Reviving Vapors,,Pete Venters,265,Instant,Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card's converted mana cost. Put all other cards revealed this way into your graveyard.,"INV,VMA"
+Riptide Crab,,David Martin,266,Creature — Crab,"Vigilance\nWhen Riptide Crab dies, draw a card.",INV
+"Rith, the Awakener",,Carl Critchlow,267,Legendary Creature — Dragon,"Flying\nWhenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color.","INV,DRB,DDE"
+Sabertooth Nishoba,,Gary Ruddell,268,Creature — Cat Beast Warrior,"Trample, protection from blue and from red",INV
+Samite Archer,,Scott M. Fischer,269,Creature — Human Cleric Archer,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\n{T}: Samite Archer deals 1 damage to target creature or player.,INV
+Seer's Vision,,Rebecca Guay,270,Enchantment,Your opponents play with their hands revealed.\nSacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.,INV
+Shivan Zombie,,Tony Szczudlo,271,Creature — Barbarian Zombie,Protection from white,INV
+Simoon,,Tony Szczudlo,272,Instant,Simoon deals 1 damage to each creature target opponent controls.,"VIS,INV"
+Sleeper's Robe,,Alan Pollack,273,Enchantment — Aura,"Enchant creature\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Whenever enchanted creature deals combat damage to an opponent, you may draw a card.",INV
+Slinking Serpent,,Wayne England,274,Creature — Serpent,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),INV
+Smoldering Tar,,David Day,275,Enchantment,"At the beginning of your upkeep, target player loses 1 life.\nSacrifice Smoldering Tar: Smoldering Tar deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.",INV
+Spinal Embrace,,Donato Giancola,276,Instant,"Cast Spinal Embrace only during combat.\nUntap target creature you don't control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness.","INV,C13"
+Stalking Assassin,,Dana Knutson,277,Creature — Human Assassin,"{3}{U}, {T}: Tap target creature.\n{3}{B}, {T}: Destroy target tapped creature.",INV
+Sterling Grove,,Jeff Miracola,278,Enchantment,"Other enchantments you control have shroud. (They can't be the targets of spells or abilities.)\n{1}, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it.",INV
+Teferi's Moat,,rk post,279,Enchantment,"As Teferi's Moat enters the battlefield, choose a color.\nCreatures of the chosen color without flying can't attack you.","INV,TSB"
+"Treva, the Renewer",,Ciruelo,280,Legendary Creature — Dragon,"Flying\nWhenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color.","INV,pPRO,DDE"
+Tsabo Tavoc,,Michael Sutfin,281,Legendary Creature — Horror,"First strike, protection from legendary creatures\n{B}{B}, {T}: Destroy target legendary creature. It can't be regenerated.",INV
+Undermine,,Massimilano Frezzato,282,Instant,Counter target spell. Its controller loses 3 life.,"INV,DDH"
+Urborg Drake,,Sam Wood,283,Creature — Drake,Flying\nUrborg Drake attacks each turn if able.,INV
+Vicious Kavu,,Kev Walker,284,Creature — Kavu,"Whenever Vicious Kavu attacks, it gets +2/+0 until end of turn.",INV
+Vile Consumption,,Heather Hudson,285,Enchantment,"All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay 1 life."",INV
+Vodalian Zombie,,Greg & Tim Hildebrandt,286,Creature — Merfolk Zombie,Protection from green,INV
+Void,,Kev Walker,287,Sorcery,Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number.,"INV,TSB"
+Voracious Cobra,,Terese Nielsen,288,Creature — Snake,"First strike\nWhenever Voracious Cobra deals combat damage to a creature, destroy that creature.",INV
+Wings of Hope,,Wayne England,289,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+3 and has flying.,INV
+Yavimaya Barbarian,,Don Hazeltine,290,Creature — Elf Barbarian,Protection from blue,INV
+Yavimaya Kavu,,Greg Staples,291,Creature — Kavu,Yavimaya Kavu's power is equal to the number of red creatures on the battlefield.\nYavimaya Kavu's toughness is equal to the number of green creatures on the battlefield.,INV
+Stand,,David Martin,292a,Instant,Prevent the next 2 damage that would be dealt to target creature this turn.,INV
+Deliver,,David Martin,292b,Instant,Return target permanent to its owner's hand.,INV
+Spite,,David Martin,293a,Instant,Counter target noncreature spell.,"INV,DDH"
+Malice,,David Martin,293b,Instant,Destroy target nonblack creature. It can't be regenerated.,"INV,DDH"
+Pain,,David Martin,294a,Sorcery,Target player discards a card.,"INV,DDH"
+Suffering,,David Martin,294b,Sorcery,Destroy target land.,"INV,DDH"
+Assault,,Ben Thompson,295a,Sorcery,Assault deals 2 damage to target creature or player.,"INV,TSB,HOP"
+Battery,,Ben Thompson,295b,Sorcery,Put a 3/3 green Elephant creature token onto the battlefield.,"INV,TSB,HOP"
+Wax,,Ben Thompson,296a,Instant,Target creature gets +2/+2 until end of turn.,"INV,ARC"
+Wane,,Ben Thompson,296b,Instant,Destroy target enchantment.,"INV,ARC"
+Alloy Golem,,Greg Staples,297,Artifact Creature — Golem,"As Alloy Golem enters the battlefield, choose a color.\nAlloy Golem is the chosen color. (It's still an artifact.)",INV
+Bloodstone Cameo,,Tony Szczudlo,298,Artifact,{T}: Add {B} or {R} to your mana pool.,INV
+Chromatic Sphere,,Luca Zontini,299,Artifact,"{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.","INV,MRD"
+Crosis's Attendant,,Arnie Swekel,300,Artifact Creature — Golem,"{1}, Sacrifice Crosis's Attendant: Add {U}{B}{R} to your mana pool.",INV
+Darigaaz's Attendant,,Brom,301,Artifact Creature — Golem,"{1}, Sacrifice Darigaaz's Attendant: Add {B}{R}{G} to your mana pool.",INV
+Drake-Skull Cameo,,Dan Frazier,302,Artifact,{T}: Add {U} or {B} to your mana pool.,INV
+Dromar's Attendant,,Carl Critchlow,303,Artifact Creature — Golem,"{1}, Sacrifice Dromar's Attendant: Add {W}{U}{B} to your mana pool.",INV
+Juntu Stakes,,Mark Brill,304,Artifact,Creatures with power 1 or less don't untap during their controllers' untap steps.,INV
+Lotus Guardian,,Dana Knutson,305,Artifact Creature — Dragon,Flying\n{T}: Add one mana of any color to your mana pool.,INV
+Phyrexian Altar,,Ron Spears,306,Artifact,Sacrifice a creature: Add one mana of any color to your mana pool.,INV
+Phyrexian Lens,,Matt Cavotta,307,Artifact,"{T}, Pay 1 life: Add one mana of any color to your mana pool.",INV
+Planar Portal,,Mark Tedin,308,Artifact,"{6}, {T}: Search your library for a card and put that card into your hand. Then shuffle your library.","INV,8ED"
+Power Armor,,Doug Chaffee,309,Artifact,"Domain — {3}, {T}: Target creature gets +1/+1 until end of turn for each basic land type among lands you control.","INV,DDE"
+Rith's Attendant,,Adam Rex,310,Artifact Creature — Golem,"{1}, Sacrifice Rith's Attendant: Add {R}{G}{W} to your mana pool.",INV
+Seashell Cameo,,Tony Szczudlo,311,Artifact,{T}: Add {W} or {U} to your mana pool.,INV
+Sparring Golem,,Adam Rex,312,Artifact Creature — Golem,"Whenever Sparring Golem becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",INV
+Tek,,Chippy,313,Artifact Creature — Dragon,"Tek gets +0/+2 as long as you control a Plains, has flying as long as you control an Island, gets +2/+0 as long as you control a Swamp, has first strike as long as you control a Mountain, and has trample as long as you control a Forest.",INV
+Tigereye Cameo,,Donato Giancola,314,Artifact,{T}: Add {G} or {W} to your mana pool.,INV
+Treva's Attendant,,Christopher Moeller,315,Artifact Creature — Golem,"{1}, Sacrifice Treva's Attendant: Add {G}{W}{U} to your mana pool.",INV
+Troll-Horn Cameo,,Donato Giancola,316,Artifact,{T}: Add {R} or {G} to your mana pool.,INV
+Tsabo's Web,,Carl Critchlow,317,Artifact,"When Tsabo's Web enters the battlefield, draw a card.\nEach land with an activated ability that isn't a mana ability doesn't untap during its controller's untap step.",INV
+Urza's Filter,,Dave Dorman,318,Artifact,Multicolored spells cost up to {2} less to cast.,INV
+Ancient Spring,,Don Hazeltine,319,Land,"Ancient Spring enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
+{T}, Sacrifice Ancient Spring: Add {W}{B} to your mana pool.",INV
+Archaeological Dig,,Don Hazeltine,320,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Archaeological Dig: Add one mana of any color to your mana pool.",INV
+Coastal Tower,,Don Hazeltine,321,Land,Coastal Tower enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.,"INV,8ED"
+Elfhame Palace,,Jerry Tiritilli,322,Land,Elfhame Palace enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.,"INV,8ED,DDE"
+Geothermal Crevice,,John Avon,323,Land,"Geothermal Crevice enters the battlefield tapped.\n{T}: Add {R} to your mana pool.
+{T}, Sacrifice Geothermal Crevice: Add {B}{G} to your mana pool.",INV
+Irrigation Ditch,,Rob Alexander,324,Land,"Irrigation Ditch enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
+{T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.",INV
+Keldon Necropolis,,Franz Vohwinkel,325,Legendary Land,"{T}: Add {1} to your mana pool.\n{4}{R}, {T}, Sacrifice a creature: Keldon Necropolis deals 2 damage to target creature or player.","INV,VMA"
+Salt Marsh,,Jerry Tiritilli,326,Land,Salt Marsh enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.,"INV,8ED"
+Shivan Oasis,,Rob Alexander,327,Land,Shivan Oasis enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.,"INV,8ED,HOP,DDE"
+Sulfur Vent,,"Edward P. Beard, Jr.",328,Land,"Sulfur Vent enters the battlefield tapped.\n{T}: Add {B} to your mana pool.
+{T}, Sacrifice Sulfur Vent: Add {U}{R} to your mana pool.",INV
+Tinder Farm,,Rob Alexander,329,Land,"Tinder Farm enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+{T}, Sacrifice Tinder Farm: Add {R}{W} to your mana pool.",INV
+Urborg Volcano,,Tony Szczudlo,330,Land,Urborg Volcano enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.,"INV,8ED"
+Plains,,John Avon,331,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Ben Thompson,332,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,D. J. Cleland-Hura,333,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Scott Bailey,334,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Tony Szczudlo,335,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,John Avon,336,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Terese Nielsen,337,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Darrell Riche,338,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Ron Spencer,339,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Rob Alexander,340,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Rob Alexander,341,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Ron Spencer,342,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Matt Cavotta,343,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Jeff Miracola,344,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Glen Angus,345,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Scott Bailey,346,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,John Avon,347,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Alan Pollack,348,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Alan Pollack,349,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Glen Angus,350,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

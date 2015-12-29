@@ -1,0 +1,83 @@
+name,cost,artist,number,type,text,printings
+Garruk Wildspeaker,,Terese Nielsen,1,Planeswalker — Garruk,+1: Untap two target lands.\n−1: Put a 3/3 green Beast creature token onto the battlefield.
+−4: Creatures you control get +3/+3 and gain trample until end of turn.,"pMEI,LRW,M10,DDD,M11,CMD,DD3_GVL"
+Basking Rootwalla,,Heather Hudson,2,Creature — Lizard,"{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.\nMadness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","pFNM,TOR,DDD,VMA,DD3_GVL"
+Albino Troll,,Paolo Parente,3,Creature — Troll,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll.","USG,pFNM,DDD,DD3_GVL"
+Vine Trellis,,DiTerlizzi,4,Creature — Plant Wall,Defender (This creature can't attack.)\n{T}: Add {G} to your mana pool.,"MMQ,8ED,DDD,DD3_GVL"
+Wild Mongrel,,Anthony S. Waters,5,Creature — Hound,Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.,"pFNM,ODY,DDD,VMA,DD3_GVL"
+Wirewood Savage,,DiTerlizzi,6,Creature — Elf,"Whenever a Beast enters the battlefield, you may draw a card.","ONS,DDD,DD3_GVL"
+Blastoderm,,Nils Hamm,7,Creature — Beast,"Shroud (This creature can't be the target of spells or abilities.)\nFading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)","pFNM,NMS,DDD,VMA,DD3_GVL"
+Ravenous Baloth,,Arnie Swekel,8,Creature — Beast,Sacrifice a Beast: You gain 4 life.,"pJGP,ONS,DDD,C13,DD3_GVL"
+Stampeding Wildebeests,,Randy Gallegos,9,Creature — Antelope Beast,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)\nAt the beginning of your upkeep, return a green creature you control to its owner's hand.","VIS,10E,DDD,DD3_GVL"
+Indrik Stomphowler,,Carl Critchlow,10,Creature — Beast,"When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.","DIS,DDD,DD3_GVL,C15"
+Krosan Tusker,,Kev Walker,11,Creature — Boar Beast,"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)\nWhen you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.","pFNM,ONS,DDD,ARC,CMD,DDL,C13,VMA,DD3_GVL"
+Plated Slagwurm,,Justin Sweet,12,Creature — Wurm,Hexproof (This creature can't be the target of spells or abilities your opponents control.),"MRD,DDD,DD3_GVL"
+Genju of the Cedars,,Arnie Swekel,13,Enchantment — Aura,"Enchant Forest\n{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.
+When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.","BOK,DDD,DD3_GVL"
+Giant Growth,,Matt Cavotta,14,Instant,Target creature gets +3/+3 until end of turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,ATH,6ED,BRB,pSUS,pFNM,S00,BTD,7ED,pMPR,DKM,8ED,9ED,10E,EVG,ME2,M10,ME3,DDD,DPA,M11,ME4,RTR,M14,DD3_EVG,DD3_GVL"
+Rancor,,Kev Walker,15,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+0 and has trample.
+When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.","ULG,pFNM,DDD,ARC,PC2,M13,DD3_GVL"
+Lignify,,Jesper Ejsing,16,Tribal Enchantment — Treefolk Aura,Enchant creature\nEnchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.,"LRW,DDD,DD3_GVL"
+Nature's Lore,,Terese Nielsen,17,Sorcery,Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.,"ICE,5ED,POR,PO2,S99,MED,DDD,VMA,DD3_GVL"
+Elephant Guide,,Jim Nelson,18,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.","JUD,DDD,CNS,VMA,DD3_GVL"
+Invigorate,,Dan Frazier,19,Instant,"If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.\nTarget creature gets +4/+4 until end of turn.","MMQ,DDD,CMD,DD3_GVL"
+Serrated Arrows,,John Avon,20,Artifact,"Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.
+{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.","HML,ATH,pFNM,TSB,DDD,DD3_GVL"
+Harmonize,,Paul Lee,21,Sorcery,Draw three cards.,"pMPR,PLC,EVG,DDD,ARC,CMD,C13,DD3_EVG,DD3_GVL"
+Rude Awakening,,Ittoku,22,Sorcery,"Choose one —\n• Untap all lands you control.
+• Until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)","5DN,DDD,MMA,DD3_GVL"
+Beast Attack,,Ciruelo,23,Instant,Put a 4/4 green Beast creature token onto the battlefield.\nFlashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ODY,DDD,DD3_GVL"
+Overrun,,Carl Critchlow,24,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn.,"TMP,ATH,ODY,10E,M10,DDD,DPA,M12,PC2,C14,DD3_GVL,TPR,C15"
+Windstorm,,Rob Alexander,25,Instant,Windstorm deals X damage to each creature with flying.,"M10,DDD,M14,KTK,DD3_GVL"
+Slippery Karst,,Stephen Daniele,26,Land,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,ATH,BRB,BTD,DDD,C13,C14,DD3_GVL,C15"
+Treetop Village,,Rob Alexander,27,Land,"Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","ULG,pFNM,10E,pSUM,DDD,DDG,DD3_GVL"
+Forest,,Rob Alexander,28,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Glen Angus,29,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Steven Belledin,30,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jim Nelson,31,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Liliana Vess,,Terese Nielsen,32,Planeswalker — Liliana,"+1: Target player discards a card.\n−2: Search your library for a card, then shuffle your library and put that card on top of it.
+−8: Put all creature cards from all graveyards onto the battlefield under your control.","pMEI,LRW,M10,DDD,M11,M15,DD3_GVL"
+Deathgreeter,,Dominick Domingo,33,Creature — Human Shaman,"Whenever another creature dies, you may gain 1 life.","ALA,DDD,DD3_GVL"
+Ghost-Lit Stalker,,Hideaki Takamura,34,Creature — Spirit,"{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.\nChannel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.","SOK,DDD,DD3_GVL"
+Vampire Bats,,Chippy,35,Creature — Bat,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.,"LEG,4ED,RQS,ITP,5ED,10E,DDD,DD3_GVL"
+Drudge Skeletons,,Daarken,36,Creature — Skeleton,"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,6ED,S00,7ED,8ED,9ED,10E,M10,DDD,DPA,DD3_GVL"
+Ravenous Rats,,Carl Critchlow,37,Creature — Rat,"When Ravenous Rats enters the battlefield, target opponent discards a card.","PO2,UDS,S99,INV,8ED,9ED,10E,DDD,DPA,M13,DDJ,DD3_GVL"
+Fleshbag Marauder,,Pete Venters,38,Creature — Zombie Warrior,"When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.","ALA,DDD,CMD,DDN,DD3_GVL,ORI"
+Phyrexian Rager,,Mark Tedin,39,Creature — Horror,"When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.","pMEI,APC,10E,DDD,MBS,DD3_GVL,C15"
+Urborg Syphon-Mage,,Greg Staples,40,Creature — Human Spellshaper,"{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.","TSP,DDD,ARC,DD3_GVL"
+Wall of Bone,,Jaime Jones,41,Creature — Skeleton Wall,"Defender (This creature can't attack.)\n{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,7ED,M10,DDD,DD3_GVL"
+Faerie Macabre,,rk post,42,Creature — Faerie Rogue,Flying\nDiscard Faerie Macabre: Exile up to two target cards from graveyards.,"SHM,DDD,MMA,DD3_GVL"
+Howling Banshee,,Andrew Robinson,43,Creature — Spirit,"Flying\nWhen Howling Banshee enters the battlefield, each player loses 3 life.","M10,DDD,M11,DD3_GVL"
+Keening Banshee,,Robert Bliss,44,Creature — Spirit,"Flying\nWhen Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.","RAV,DDD,DD3_GVL"
+Twisted Abomination,,Daren Bader,45,Creature — Zombie Mutant,"{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)","SCG,TSB,DDD,ARC,PD3,CNS,DD3_GVL"
+Skeletal Vampire,,Wayne Reynolds,46,Creature — Vampire Skeleton,"Flying\nWhen Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.
+{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.
+Sacrifice a Bat: Regenerate Skeletal Vampire.","GPT,DDD,MMA,DD3_GVL"
+Genju of the Fens,,Tsutomu Kawade,47,Enchantment — Aura,"Enchant Swamp\n{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.
+When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.","BOK,DDD,DD3_GVL"
+Bad Moon,,Gary Leach,48,Enchantment,Black creatures get +1/+1.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,TSB,DDD,C14,DD3_GVL"
+Sign in Blood,,Howard Lyon,49,Sorcery,Target player draws two cards and loses 2 life.,"pMPR,M10,DDD,ARC,M11,CMD,M13,M15,C14,DD3_GVL,MM2"
+Vicious Hunger,,Massimilano Frezzato,50,Sorcery,Vicious Hunger deals 2 damage to target creature and you gain 2 life.,"NMS,8ED,DDD,DD3_GVL"
+Ichor Slick,,Zoltan Boros & Gabor Szikszai,51,Sorcery,"Target creature gets -3/-3 until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)
+Madness {3}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","FUT,DDD,DD3_GVL"
+Hideous End,,Zoltan Boros & Gabor Szikszai,52,Instant,Destroy target nonblack creature. Its controller loses 2 life.,"HOP,ZEN,DDD,DDE,DD3_GVL"
+Snuff Out,,Steve Argyle,53,Instant,"If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.\nDestroy target nonblack creature. It can't be regenerated.","MMQ,DDD,DD3_GVL"
+Tendrils of Corruption,,Vance Kovacs,54,Instant,"Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.","TSP,M10,DDD,DDE,C14,DD3_GVL"
+Mutilate,,Zoltan Boros & Gabor Szikszai,55,Sorcery,All creatures get -1/-1 until end of turn for each Swamp you control.,"TOR,DDD,M13,C14,DD3_GVL"
+Rise from the Grave,,Vance Kovacs,56,Sorcery,Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.,"pWPN,M10,DDD,M11,CMD,M13,DD3_GVL,C15"
+Corrupt,,Dave Allsop,57,Sorcery,Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.,"pMEI,USG,7ED,pMPR,SHM,DDC,DDD,M11,M14,DD3_DVD,DD3_GVL"
+Enslave,,Zoltan Boros & Gabor Szikszai,58,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.","PLC,DDD,NPH,DD3_GVL"
+Polluted Mire,,Stephen Daniele,59,Land,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,ATH,BRB,BTD,DDD,PD3,C14,DD3_GVL,C15"
+Swamp,,Stephan Martiniere,60,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Christopher Moeller,61,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Anthony S. Waters,62,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Richard Wright,63,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Beast,,John Donahue,T1,Creature — Beast,,DDD
+Beast,,Steve Prescott,T2,Creature — Beast,,DDD
+Elephant,,Arnie Swekel,T3,Creature — Elephant,,DDD

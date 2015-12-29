@@ -1,0 +1,160 @@
+name,cost,artist,number,type,text,printings
+Angel of Retribution,,rk post,1,Creature — Angel,"Flying, first strike",TOR
+Aven Trooper,,Greg Staples,2,Creature — Bird Soldier,"Flying\n{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.",TOR
+Cleansing Meditation,,Ron Spears,3,Sorcery,"Destroy all enchantments.\nThreshold — If seven or more cards are in your graveyard, instead destroy all enchantments, then return all cards in your graveyard destroyed this way to the battlefield.",TOR
+Equal Treatment,,Greg & Tim Hildebrandt,4,Instant,"If any source would deal 1 or more damage to a creature or player this turn, it deals 2 damage to that creature or player instead.\nDraw a card.",TOR
+Floating Shield,,Keith Garletts,5,Enchantment — Aura,"Enchant creature\nAs Floating Shield enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Floating Shield.
+Sacrifice Floating Shield: Target creature gains protection from the chosen color until end of turn.",TOR
+Frantic Purification,,Mark Brill,6,Instant,"Destroy target enchantment.\nMadness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",TOR
+Hypochondria,,Christopher Moeller,7,Enchantment,"{W}, Discard a card: Prevent the next 3 damage that would be dealt to target creature or player this turn.\n{W}, Sacrifice Hypochondria: Prevent the next 3 damage that would be dealt to target creature or player this turn.",TOR
+Major Teroh,,Daren Bader,8,Legendary Creature — Bird Soldier,"Flying\n{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.",TOR
+Militant Monk,,Mark Brill,9,Creature — Human Monk Cleric,Vigilance\n{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,TOR
+Morningtide,,Tony Szczudlo,10,Sorcery,Exile all cards from all graveyards.,TOR
+Mystic Familiar,,"Edward P. Beard, Jr.",11,Creature — Bird,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.",TOR
+Pay No Heed,,Adam Rex,12,Instant,Prevent all damage a source of your choice would deal this turn.,"TOR,M14,DDL"
+Possessed Nomad,,Eric Peterson,13,Creature — Human Nomad Horror,"Vigilance\nThreshold — As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target white creature."",TOR
+Reborn Hero,,Gary Ruddell,14,Creature — Human Soldier,"Vigilance\nThreshold — As long as seven or more cards are in your graveyard, Reborn Hero has "When Reborn Hero dies, you may pay {W}{W}. If you do, return Reborn Hero to the battlefield under your control."",TOR
+Spirit Flare,,rk post,15,Instant,"Tap target untapped creature you control. If you do, it deals damage equal to its power to target attacking or blocking creature an opponent controls.\nFlashback—{1}{W}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",TOR
+Stern Judge,,Matt Cavotta,16,Creature — Human Cleric,{T}: Each player loses 1 life for each Swamp he or she controls.,TOR
+Strength of Isolation,,Jerry Tiritilli,17,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+2 and has protection from black.
+Madness {W} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",TOR
+Teroh's Faithful,,Greg & Tim Hildebrandt,18,Creature — Human Cleric,"When Teroh's Faithful enters the battlefield, you gain 4 life.","TOR,VMA"
+Teroh's Vanguard,,Greg & Tim Hildebrandt,19,Creature — Human Nomad,"Flash\nThreshold — As long as seven or more cards are in your graveyard, Teroh's Vanguard has "When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn."",TOR
+Transcendence,,Rebecca Guay,20,Enchantment,"You don't lose the game for having 0 or less life.\nWhen you have 20 or more life, you lose the game.
+Whenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)",TOR
+Vengeful Dreams,,Mark Tedin,21,Instant,"As an additional cost to cast Vengeful Dreams, discard X cards.\nExile X target attacking creatures.",TOR
+Alter Reality,,Justin Sweet,22,Instant,Change the text of target spell or permanent by replacing all instances of one color word with another. (This effect lasts indefinitely.)\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),TOR
+Ambassador Laquatus,,Eric Peterson,23,Legendary Creature — Merfolk Wizard,{3}: Target player puts the top three cards of his or her library into his or her graveyard.,"TOR,10E"
+Aquamoeba,,Arnie Swekel,24,Creature — Elemental Beast,Discard a card: Switch Aquamoeba's power and toughness until end of turn.,"TOR,VMA"
+Balshan Collaborator,,DiTerlizzi,25,Creature — Bird Soldier,Flying\n{B}: Balshan Collaborator gets +1/+1 until end of turn.,TOR
+Breakthrough,,Gary Ruddell,26,Sorcery,"Draw four cards, then choose X cards in your hand and discard the rest.","TOR,CNS"
+Cephalid Aristocrat,,Rob Alexander,27,Creature — Cephalid,"Whenever Cephalid Aristocrat becomes the target of a spell or ability, put the top two cards of your library into your graveyard.",TOR
+Cephalid Illusionist,,Pete Venters,28,Creature — Cephalid Wizard,"Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard.\n{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.",TOR
+Cephalid Sage,,Keith Garletts,29,Creature — Cephalid,"Threshold — As long as seven or more cards are in your graveyard, Cephalid Sage has "When Cephalid Sage enters the battlefield, draw three cards, then discard two cards."",TOR
+Cephalid Snitch,,Jerry Tiritilli,30,Creature — Cephalid Wizard,Sacrifice Cephalid Snitch: Target creature loses protection from black until end of turn.,TOR
+Cephalid Vandal,,Alex Horley-Orlandelli,31,Creature — Cephalid Rogue,"At the beginning of your upkeep, put a shred counter on Cephalid Vandal. Then put the top card of your library into your graveyard for each shred counter on Cephalid Vandal.",TOR
+Churning Eddy,,Thomas M. Baxa,32,Sorcery,Return target creature and target land to their owners' hands.,TOR
+Circular Logic,,Anthony S. Waters,33,Instant,"Counter target spell unless its controller pays {1} for each card in your graveyard.\nMadness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","pFNM,TOR,VMA"
+Compulsion,,Christopher Moeller,34,Enchantment,"{1}{U}, Discard a card: Draw a card.\n{1}{U}, Sacrifice Compulsion: Draw a card.",TOR
+Coral Net,,Roger Raupp,35,Enchantment — Aura,"Enchant green or white creature\nEnchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you discard a card."",TOR
+Deep Analysis,,Daren Bader,36,Sorcery,"Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)","pFNM,TOR,DDH,C13,VMA"
+False Memories,,Ron Spencer,37,Instant,"Put the top seven cards of your library into your graveyard. At the beginning of the next end step, exile seven cards from your graveyard.",TOR
+Ghostly Wings,,David Martin,38,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 and has flying.
+Discard a card: Return enchanted creature to its owner's hand.,TOR
+Hydromorph Guardian,,Glen Angus,39,Creature — Elemental,"{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.",TOR
+Hydromorph Gull,,Arnie Swekel,40,Creature — Elemental Bird,"Flying\n{U}, Sacrifice Hydromorph Gull: Counter target spell that targets one or more creatures you control.",TOR
+Liquify,,Ron Spencer,41,Instant,"Counter target spell with converted mana cost 3 or less. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",TOR
+"Llawan, Cephalid Empress",,Mark Zug,42,Legendary Creature — Cephalid,"When Llawan, Cephalid Empress enters the battlefield, return all blue creatures your opponents control to their owners' hands.\nYour opponents can't cast blue creature spells.",TOR
+Obsessive Search,,Jim Nelson,43,Instant,"Draw a card.\nMadness {U} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","TOR,VMA"
+Plagiarize,,Ben Thompson,44,Instant,"Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.","TOR,9ED,10E"
+Possessed Aven,,Scott M. Fischer,45,Creature — Bird Soldier Horror,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Possessed Aven gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target blue creature."",TOR
+Retraced Image,,Greg Staples,46,Sorcery,"Reveal a card in your hand, then put that card onto the battlefield if it has the same name as a permanent.",TOR
+Skywing Aven,,Matt Cavotta,47,Creature — Bird Soldier,Flying\nDiscard a card: Return Skywing Aven to its owner's hand.,"TOR,VMA"
+Stupefying Touch,,Bradley Williams,48,Enchantment — Aura,"Enchant creature\nWhen Stupefying Touch enters the battlefield, draw a card.
+Enchanted creature's activated abilities can't be activated.",TOR
+Turbulent Dreams,,Wayne England,49,Sorcery,"As an additional cost to cast Turbulent Dreams, discard X cards.\nReturn X target nonland permanents to their owners' hands.",TOR
+Boneshard Slasher,,Ron Spencer,50,Creature — Horror,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has "When Boneshard Slasher becomes the target of a spell or ability, sacrifice it."",TOR
+Cabal Ritual,,Greg & Tim Hildebrandt,51,Instant,Add {B}{B}{B} to your mana pool.\nThreshold — Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.,"TOR,VMA"
+Cabal Surgeon,,Donato Giancola,52,Creature — Human Minion,"{2}{B}{B}, {T}, Exile two cards from your graveyard: Return target creature card from your graveyard to your hand.",TOR
+Cabal Torturer,,Pete Venters,53,Creature — Human Minion,"{B}, {T}: Target creature gets -1/-1 until end of turn.\nThreshold — {3}{B}{B}, {T}: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.",TOR
+Carrion Rats,,"Edward P. Beard, Jr.",54,Creature — Rat,"Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.",TOR
+Carrion Wurm,,Glen Angus,55,Creature — Zombie Wurm,"Whenever Carrion Wurm attacks or blocks, any player may exile three cards from his or her graveyard. If a player does, Carrion Wurm assigns no combat damage this turn.",TOR
+"Chainer, Dementia Master",,Mark Zug,56,Legendary Creature — Human Minion,"Nightmare creatures get +1/+1.\n{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.
+When Chainer, Dementia Master leaves the battlefield, exile all Nightmares.",TOR
+Chainer's Edict,,Ben Thompson,57,Sorcery,Target player sacrifices a creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pFNM,TOR,V13,VMA"
+Crippling Fatigue,,Heather Hudson,58,Sorcery,"Target creature gets -2/-2 until end of turn.\nFlashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",TOR
+Dawn of the Dead,,Pete Venters,59,Enchantment,"At the beginning of your upkeep, you lose 1 life.\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.",TOR
+Faceless Butcher,,Daren Bader,60,Creature — Nightmare Horror,"When Faceless Butcher enters the battlefield, exile target creature other than Faceless Butcher.\nWhen Faceless Butcher leaves the battlefield, return the exiled card to the battlefield under its owner's control.","TOR,TSB,PD3"
+Gloomdrifter,,Adam Rex,61,Creature — Zombie Minion,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Gloomdrifter has "When Gloomdrifter enters the battlefield, nonblack creatures get -2/-2 until end of turn."",TOR
+Gravegouger,,Daren Bader,62,Creature — Nightmare Horror,"When Gravegouger enters the battlefield, exile up to two target cards from a single graveyard.\nWhen Gravegouger leaves the battlefield, return the exiled cards to their owner's graveyard.",TOR
+Grotesque Hybrid,,Terese Nielsen,63,Creature — Zombie,"Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.\nDiscard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.",TOR
+Hypnox,,Greg Staples,64,Creature — Nightmare Horror,"Flying\nWhen Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.
+When Hypnox leaves the battlefield, return the exiled cards to their owner's hand.",TOR
+Ichorid,,rk post,65,Creature — Horror,"Haste\nAt the beginning of the end step, sacrifice Ichorid.
+At the beginning of your upkeep, if Ichorid is in your graveyard, you may exile a black creature card other than Ichorid from your graveyard. If you do, return Ichorid to the battlefield.","TOR,VMA"
+Insidious Dreams,,John Avon,66,Instant,"As an additional cost to cast Insidious Dreams, discard X cards.\nSearch your library for X cards. Then shuffle your library and put those cards on top of it in any order.",TOR
+Laquatus's Champion,,Greg Staples,67,Creature — Nightmare Horror,"When Laquatus's Champion enters the battlefield, target player loses 6 life.\nWhen Laquatus's Champion leaves the battlefield, that player gains 6 life.
+{B}: Regenerate Laquatus's Champion.","pPRE,TOR,VMA"
+Last Laugh,,John Matson,68,Enchantment,"Whenever a permanent other than Last Laugh is put into a graveyard from the battlefield, Last Laugh deals 1 damage to each creature and each player.\nWhen no creatures are on the battlefield, sacrifice Last Laugh.",TOR
+Mesmeric Fiend,,Dana Knutson,69,Creature — Nightmare Horror,"When Mesmeric Fiend enters the battlefield, target opponent reveals his or her hand and you choose a nonland card from it. Exile that card.\nWhen Mesmeric Fiend leaves the battlefield, return the exiled card to its owner's hand.","TOR,DDK,VMA"
+Mind Sludge,,Eric Peterson,70,Sorcery,Target player discards a card for each Swamp you control.,"TOR,8ED,ZEN"
+Mortal Combat,,Mike Ploog,71,Enchantment,"At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.","TOR,10E"
+Mortiphobia,,Christopher Moeller,72,Enchantment,"{1}{B}, Discard a card: Exile target card from a graveyard.\n{1}{B}, Sacrifice Mortiphobia: Exile target card from a graveyard.",TOR
+Mutilate,,Eric Peterson,73,Sorcery,All creatures get -1/-1 until end of turn for each Swamp you control.,"TOR,DDD,M13,C14,DD3_GVL"
+Nantuko Shade,,Brian Snõddy,74,Creature — Insect Shade,{B}: Nantuko Shade gets +1/+1 until end of turn.,"TOR,M11,C14"
+Organ Grinder,,Adam Rex,75,Creature — Zombie,"{T}, Exile three cards from your graveyard: Target player loses 3 life.",TOR
+Psychotic Haze,,Alex Horley-Orlandelli,76,Instant,"Psychotic Haze deals 1 damage to each creature and each player.\nMadness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",TOR
+Putrid Imp,,Wayne England,77,Creature — Zombie Imp,"Discard a card: Putrid Imp gains flying until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Putrid Imp gets +1/+1 and can't block.","TOR,PD3,VMA"
+Rancid Earth,,Ciruelo,78,Sorcery,"Destroy target land.\nThreshold — If seven or more cards are in your graveyard, instead destroy that land and Rancid Earth deals 1 damage to each creature and each player.",TOR
+Restless Dreams,,John Matson,79,Sorcery,"As an additional cost to cast Restless Dreams, discard X cards.\nReturn X target creature cards from your graveyard to your hand.",TOR
+Sengir Vampire,,Kev Walker,80,Creature — Vampire,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.","LEA,LEB,2ED,CED,CEI,3ED,4ED,BRB,BTD,TOR,9ED,10E,DPA,ME4,M12,DDK,M14,M15,ORI"
+Shade's Form,,Clyde Caldwell,81,Enchantment — Aura,"Enchant creature\nEnchanted creature has "{B}: This creature gets +1/+1 until end of turn."
+When enchanted creature dies, return that card to the battlefield under your control.",TOR
+Shambling Swarm,,Arnie Swekel,82,Creature — Horror,"When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.",TOR
+Sickening Dreams,,Scott M. Fischer,83,Sorcery,"As an additional cost to cast Sickening Dreams, discard X cards.\nSickening Dreams deals X damage to each creature and each player.","TOR,PD3"
+Slithery Stalker,,John Avon,84,Creature — Nightmare Horror,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhen Slithery Stalker enters the battlefield, exile target green or white creature an opponent controls.
+When Slithery Stalker leaves the battlefield, return the exiled card to the battlefield under its owner's control.",TOR
+Soul Scourge,,Carl Critchlow,85,Creature — Nightmare Horror,"Flying\nWhen Soul Scourge enters the battlefield, target player loses 3 life.
+When Soul Scourge leaves the battlefield, that player gains 3 life.",TOR
+Strength of Lunacy,,Greg & Tim Hildebrandt,86,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+1 and has protection from white.
+Madness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",TOR
+Unhinge,,Keith Garletts,87,Sorcery,Target player discards a card.\nDraw a card.,TOR
+Waste Away,,Alan Pollack,88,Instant,"As an additional cost to cast Waste Away, discard a card.\nTarget creature gets -5/-5 until end of turn.",TOR
+Zombie Trailblazer,,Brian Snõddy,89,Creature — Zombie Scout,Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.\nTap an untapped Zombie you control: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.),TOR
+Accelerate,,Gary Ruddell,90,Instant,Target creature gains haste until end of turn.\nDraw a card.,TOR
+Balthor the Stout,,Ron Spears,91,Legendary Creature — Dwarf Barbarian,Other Barbarian creatures get +1/+1.\n{R}: Another target Barbarian creature gets +1/+0 until end of turn.,TOR
+Barbarian Outcast,,Mark Tedin,92,Creature — Human Barbarian Beast,"When you control no Swamps, sacrifice Barbarian Outcast.",TOR
+Crackling Club,,Mike Ploog,93,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+0.
+Sacrifice Crackling Club: Crackling Club deals 1 damage to target creature.,TOR
+Crazed Firecat,,Ron Spears,94,Creature — Elemental Cat,"When Crazed Firecat enters the battlefield, flip a coin until you lose a flip. Put a +1/+1 counter on Crazed Firecat for each flip you win.",TOR
+Devastating Dreams,,Tony Szczudlo,95,Sorcery,"As an additional cost to cast Devastating Dreams, discard X cards at random.\nEach player sacrifices X lands. Devastating Dreams deals X damage to each creature.",TOR
+Enslaved Dwarf,,Terese Nielsen,96,Creature — Dwarf,"{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.",TOR
+Fiery Temper,,Greg & Tim Hildebrandt,97,Instant,"Fiery Temper deals 3 damage to target creature or player.\nMadness {R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","TOR,pGTW,TSB"
+Flaming Gambit,,Donato Giancola,98,Instant,Flaming Gambit deals X damage to target player. That player may choose a creature he or she controls and have Flaming Gambit deal that damage to it instead.\nFlashback {X}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),TOR
+Flash of Defiance,,Carl Critchlow,99,Sorcery,"Green creatures and white creatures can't block this turn.\nFlashback—{1}{R}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",TOR
+Grim Lavamancer,,Jim Nelson,100,Creature — Human Wizard,"{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to target creature or player.","pJGP,TOR,PD2,M12"
+Hell-Bent Raider,,Mike Ploog,101,Creature — Human Barbarian,"First strike, haste\nDiscard a card at random: Hell-Bent Raider gains protection from white until end of turn.",TOR
+Kamahl's Sledge,,Don Hazeltine,102,Sorcery,"Kamahl's Sledge deals 4 damage to target creature.\nThreshold — If seven or more cards are in your graveyard, instead Kamahl's Sledge deals 4 damage to that creature and 4 damage to that creature's controller.",TOR
+Longhorn Firebeast,,Glen Angus,103,Creature — Elemental Ox Beast,"When Longhorn Firebeast enters the battlefield, any opponent may have it deal 5 damage to him or her. If a player does, sacrifice Longhorn Firebeast.",TOR
+Overmaster,,Anthony S. Waters,104,Sorcery,The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.\nDraw a card.,TOR
+Pardic Arsonist,,rk post,105,Creature — Human Barbarian,"Threshold — As long as seven or more cards are in your graveyard, Pardic Arsonist has "When Pardic Arsonist enters the battlefield, it deals 3 damage to target creature or player."",TOR
+Pardic Collaborator,,Pete Venters,106,Creature — Human Barbarian,First strike\n{B}: Pardic Collaborator gets +1/+1 until end of turn.,TOR
+Pardic Lancer,,Justin Sweet,107,Creature — Human Barbarian,Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.,TOR
+Petradon,,Jim Nelson,108,Creature — Nightmare Beast,"When Petradon enters the battlefield, exile two target lands.\nWhen Petradon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.
+{R}: Petradon gets +1/+0 until end of turn.",TOR
+Petravark,,Wayne England,109,Creature — Nightmare Beast,"When Petravark enters the battlefield, exile target land.\nWhen Petravark leaves the battlefield, return the exiled card to the battlefield under its owner's control.",TOR
+Pitchstone Wall,,David Martin,110,Creature — Wall,"Defender (This creature can't attack.)\nWhenever you discard a card, you may sacrifice Pitchstone Wall. If you do, return the discarded card from your graveyard to your hand.",TOR
+Possessed Barbarian,,Scott M. Fischer,111,Creature — Human Barbarian Horror,"First strike\nThreshold — As long as seven or more cards are in your graveyard, Possessed Barbarian gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target red creature."",TOR
+Pyromania,,Christopher Moeller,112,Enchantment,"{1}{R}, Discard a card at random: Pyromania deals 1 damage to target creature or player.\n{1}{R}, Sacrifice Pyromania: Pyromania deals 1 damage to target creature or player.",TOR
+Radiate,,Carl Critchlow,113,Instant,Choose target instant or sorcery spell that targets only a single permanent or player. Copy that spell for each other permanent or player the spell could target. Each copy targets a different one of those permanents and players.,TOR
+Skullscorch,,Bradley Williams,114,Sorcery,Target player discards two cards at random unless that player has Skullscorch deal 4 damage to him or her.,TOR
+Sonic Seizure,,Terese Nielsen,115,Instant,"As an additional cost to cast Sonic Seizure, discard a card at random.\nSonic Seizure deals 3 damage to target creature or player.",TOR
+Temporary Insanity,,Mark Romanoski,116,Instant,Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.,"TOR,DDG"
+Violent Eruption,,Bob Petillo,117,Instant,"Violent Eruption deals 4 damage divided as you choose among any number of target creatures and/or players.\nMadness {1}{R}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",TOR
+Acorn Harvest,,"Edward P. Beard, Jr.",118,Sorcery,"Put two 1/1 green Squirrel creature tokens onto the battlefield.\nFlashback—{1}{G}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",TOR
+Anurid Scavenger,,Bob Petillo,119,Creature — Frog Beast,"Protection from black\nAt the beginning of your upkeep, sacrifice Anurid Scavenger unless you put a card from your graveyard on the bottom of your library.",TOR
+Arrogant Wurm,,John Avon,120,Creature — Wurm,"Trample\nMadness {2}{G} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","pFNM,TOR,VMA"
+Basking Rootwalla,,Heather Hudson,121,Creature — Lizard,"{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.\nMadness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","pFNM,TOR,DDD,VMA,DD3_GVL"
+Centaur Chieftain,,Justin Sweet,122,Creature — Centaur,"Haste\nThreshold — As long as seven or more cards are in your graveyard, Centaur Chieftain has "When Centaur Chieftain enters the battlefield, creatures you control get +1/+1 and gain trample until end of turn."",TOR
+Centaur Veteran,,Mark Zug,123,Creature — Centaur,"Trample\n{G}, Discard a card: Regenerate Centaur Veteran.",TOR
+Dwell on the Past,,Rebecca Guay,124,Sorcery,Target player shuffles up to four target cards from his or her graveyard into his or her library.,TOR
+Far Wanderings,,Darrell Riche,125,Sorcery,"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.\nThreshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library.",TOR
+Gurzigost,,Scott M. Fischer,126,Creature — Beast,"At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.\n{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.",TOR
+Insist,,Franz Vohwinkel,127,Sorcery,The next creature spell you cast this turn can't be countered by spells or abilities.\nDraw a card.,TOR
+Invigorating Falls,,Rebecca Guay,128,Sorcery,You gain life equal to the number of creature cards in all graveyards.,TOR
+Krosan Constrictor,,Jim Nelson,129,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{T}: Target black creature gets -2/-0 until end of turn.,TOR
+Krosan Restorer,,Clyde Caldwell,130,Creature — Human Druid,{T}: Untap target land.\nThreshold — {T}: Untap up to three target lands. Activate this ability only if seven or more cards are in your graveyard.,TOR
+Nantuko Blightcutter,,Matt Cavotta,131,Creature — Insect Druid,Protection from black\nThreshold — Nantuko Blightcutter gets +1/+1 for each black permanent your opponents control as long as seven or more cards are in your graveyard.,TOR
+Nantuko Calmer,,Mark Romanoski,132,Creature — Insect Druid,"{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.\nThreshold — Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.",TOR
+Nantuko Cultivator,,Darrell Riche,133,Creature — Insect Druid,"When Nantuko Cultivator enters the battlefield, you may discard any number of land cards. Put that many +1/+1 counters on Nantuko Cultivator and draw that many cards.",TOR
+Narcissism,,Christopher Moeller,134,Enchantment,"{G}, Discard a card: Target creature gets +2/+2 until end of turn.\n{G}, Sacrifice Narcissism: Target creature gets +2/+2 until end of turn.",TOR
+Nostalgic Dreams,,Darrell Riche,135,Sorcery,"As an additional cost to cast Nostalgic Dreams, discard X cards.\nReturn X target cards from your graveyard to your hand. Exile Nostalgic Dreams.","TOR,VMA"
+Parallel Evolution,,Matt Cavotta,136,Sorcery,"For each creature token on the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.\nFlashback {4}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",TOR
+Possessed Centaur,,Alex Horley-Orlandelli,137,Creature — Centaur Horror,"Trample\nThreshold — As long as seven or more cards are in your graveyard, Possessed Centaur gets +1/+1, is black, and has "{2}{B}, {T}: Destroy target green creature."",TOR
+Seton's Scout,,Mark Romanoski,138,Creature — Centaur Druid Scout Archer,Reach (This creature can block creatures with flying.)\nThreshold — Seton's Scout gets +2/+2 as long as seven or more cards are in your graveyard.,TOR
+Cabal Coffers,,Don Hazeltine,139,Land,"{2}, {T}: Add {B} to your mana pool for each Swamp you control.","pFNM,TOR,HOP"
+Tainted Field,,Don Hazeltine,140,Land,{T}: Add {1} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.,"TOR,DDK,C15"
+Tainted Isle,,Alan Pollack,141,Land,{T}: Add {1} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Activate this ability only if you control a Swamp.,"TOR,PC2"
+Tainted Peak,,Tony Szczudlo,142,Land,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.,TOR
+Tainted Wood,,Rob Alexander,143,Land,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {G} to your mana pool. Activate this ability only if you control a Swamp.,"TOR,DDM,C15"

@@ -1,0 +1,193 @@
+name,cost,artist,number,type,text,printings
+Adarkar Valkyrie,,Jeremy Jarvis,1,Snow Creature — Angel,"Flying, vigilance\n{T}: When target creature other than Adarkar Valkyrie dies this turn, return that card to the battlefield under your control.","CSP,MMA,C14"
+Boreal Griffin,,Cyril Van Der Haegen,2,Snow Creature — Griffin,Flying\n{S}: Boreal Griffin gains first strike until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Cover of Winter,,Wayne Reynolds,3,Snow Enchantment,"Cumulative upkeep {S} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {S} can be paid with one mana from a snow permanent.)\nIf a creature would deal combat damage to you and/or one or more creatures you control, prevent X of that damage, where X is the number of age counters on Cover of Winter.
+{S}: Put an age counter on Cover of Winter.",CSP
+"Darien, King of Kjeldor",,Michael Phillippi,4,Legendary Creature — Human Soldier,"Whenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.",CSP
+Field Marshal,,Stephen Tappin,5,Creature — Human Soldier,Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.),"CSP,10E"
+Gelid Shackles,,Alex Horley-Orlandelli,6,Snow Enchantment — Aura,"Enchant creature\nEnchanted creature can't block, and its activated abilities can't be activated.
+{S}: Enchanted creature gains defender until end of turn. ({S} can be paid with one mana from a snow permanent.)",CSP
+Glacial Plating,,Brian Despain,7,Snow Enchantment — Aura,"Enchant creature\nCumulative upkeep {S} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it. {S} can be paid with one mana from a snow permanent.)
+Enchanted creature gets +3/+3 for each age counter on Glacial Plating.",CSP
+Jötun Grunt,,Franz Vohwinkel,8,Creature — Giant Soldier,"Cumulative upkeep—Put two cards from a single graveyard on the bottom of their owner's library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)","CSP,CMD"
+Jötun Owl Keeper,,Dave Dorman,9,Creature — Giant,"Cumulative upkeep {W} or {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Jötun Owl Keeper dies, put a 1/1 white Bird creature token with flying onto the battlefield for each age counter on it.",CSP
+Kjeldoran Gargoyle,,Marcelo Vignali,10,Creature — Gargoyle,"Flying, first strike\nWhenever Kjeldoran Gargoyle deals damage, you gain that much life.",CSP
+Kjeldoran Javelineer,,Dave Dorman,11,Creature — Human Soldier,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Kjeldoran Javelineer deals damage equal to the number of age counters on it to target attacking or blocking creature.",CSP
+Kjeldoran Outrider,,Carl Critchlow,12,Creature — Human Soldier,{W}: Kjeldoran Outrider gets +0/+1 until end of turn.,CSP
+Kjeldoran War Cry,,Michael Phillippi,13,Instant,"Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.",CSP
+Luminesce,,Daren Bader,14,Instant,Prevent all damage that black sources and red sources would deal this turn.,"CSP,10E"
+Martyr of Sands,,Randy Gallegos,15,Creature — Human Cleric,"{1}, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life.",CSP
+Ronom Unicorn,,Carl Critchlow,16,Creature — Unicorn,Sacrifice Ronom Unicorn: Destroy target enchantment.,CSP
+Squall Drifter,,Joel Thomas,17,Snow Creature — Elemental,"Flying\n{W}, {T}: Tap target creature.",CSP
+Sun's Bounty,,Michael Sutfin,18,Instant,"You gain 4 life.\nRecover {1}{W} (When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Sunscour,,Jim Murray,19,Sorcery,You may exile two white cards from your hand rather than pay Sunscour's mana cost.\nDestroy all creatures.,CSP
+Surging Sentinels,,Christopher Moeller,20,Creature — Human Soldier,"First strike\nRipple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)",CSP
+Swift Maneuver,,Michael Sutfin,21,Instant,Prevent the next 2 damage that would be dealt to target creature or player this turn.\nDraw a card at the beginning of the next turn's upkeep.,CSP
+Ursine Fylgja,,Yokota Katsumi,22,Creature — Spirit Bear,Ursine Fylgja enters the battlefield with four healing counters on it.\nRemove a healing counter from Ursine Fylgja: Prevent the next 1 damage that would be dealt to Ursine Fylgja this turn.
+{2}{W}: Put a healing counter on Ursine Fylgja.,CSP
+Wall of Shards,,Alex Horley-Orlandelli,23,Snow Creature — Wall,"Defender, flying\nCumulative upkeep—An opponent gains 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",CSP
+White Shield Crusader,,Jeff Easley,24,Creature — Human Knight,Protection from black\n{W}: White Shield Crusader gains flying until end of turn.
+{W}{W}: White Shield Crusader gets +1/+0 until end of turn.,CSP
+Woolly Razorback,,Richard Sardinha,25,Creature — Boar Beast,"Woolly Razorback enters the battlefield with three ice counters on it.\nAs long as Woolly Razorback has an ice counter on it, prevent all combat damage it would deal and it has defender.
+Whenever Woolly Razorback blocks, remove an ice counter from it.",CSP
+Adarkar Windform,,Randy Gallegos,26,Snow Creature — Illusion,Flying\n{1}{S}: Target creature loses flying until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Arcum Dagsson,,Pete Venters,27,Legendary Creature — Human Artificer,"{T}: Target artifact creature's controller sacrifices it. That player may search his or her library for a noncreature artifact card, put it onto the battlefield, then shuffle his or her library.",CSP
+Balduvian Frostwaker,,Stephen Tappin,28,Creature — Human Wizard,"{U}, {T}: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.",CSP
+Commandeer,,John Matson,29,Instant,"You may exile two blue cards from your hand rather than pay Commandeer's mana cost.\nGain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)",CSP
+Controvert,,Joel Thomas,30,Instant,"Counter target spell.\nRecover {2}{U}{U} (When a creature is put into your graveyard from the battlefield, you may pay {2}{U}{U}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Counterbalance,,John Zeleznik,31,Enchantment,"Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.",CSP
+Drelnoch,,Zoltan Boros & Gabor Szikszai,32,Creature — Yeti Mutant,"Whenever Drelnoch becomes blocked, you may draw two cards.",CSP
+Flashfreeze,,Brian Despain,33,Instant,Counter target red or green spell.,"CSP,10E,M10,M11,M12,MM2"
+Frost Raptor,,Lars Grant-West,34,Snow Creature — Bird,Flying\n{S}{S}: Frost Raptor gains shroud until end of turn. ({S} can be paid with one mana from a snow permanent. A creature with shroud can't be the target of spells or abilities.),CSP
+Frozen Solid,,Ralph Horsley,35,Enchantment — Aura,"Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+When enchanted creature is dealt damage, destroy it.","SCG,CSP"
+"Heidar, Rimewind Master",,Ron Spears,36,Legendary Creature — Human Wizard,"{2}, {T}: Return target permanent to its owner's hand. Activate this ability only if you control four or more snow permanents.",CSP
+Jokulmorder,,Mark Zug,37,Creature — Leviathan,"Trample\nJokulmorder enters the battlefield tapped.
+When Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.
+Jokulmorder doesn't untap during your untap step.
+Whenever you play an Island, you may untap Jokulmorder.",CSP
+Krovikan Mist,,Jeremy Jarvis,38,Creature — Illusion,Flying\nKrovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.,"CSP,DDM"
+Krovikan Whispers,,Nick Percival,39,Enchantment — Aura,"Enchant creature\nCumulative upkeep {U} or {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+You control enchanted creature.
+When Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.",CSP
+Martyr of Frost,,Wayne England,40,Creature — Human Wizard,"{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.","CSP,DD2,DD3_JVC"
+Perilous Research,,Dany Orizio,41,Instant,"Draw two cards, then sacrifice a permanent.","CSP,CMD,MMA"
+Rimefeather Owl,,Kensuke Okabayashi,42,Snow Creature — Bird,Flying\nRimefeather Owl's power and toughness are each equal to the number of snow permanents on the battlefield.
+{1}{S}: Put an ice counter on target permanent.
+Permanents with ice counters on them are snow.,CSP
+Rimewind Cryomancer,,Dan Scott,43,Creature — Human Wizard,"{1}, {T}: Counter target activated ability. Activate this ability only if you control four or more snow permanents. (Mana abilities can't be targeted.)",CSP
+Rimewind Taskmage,,Ron Spears,44,Creature — Human Wizard,"{1}, {T}: You may tap or untap target permanent. Activate this ability only if you control four or more snow permanents.",CSP
+Ronom Serpent,,Ron Spencer,45,Snow Creature — Serpent,"Ronom Serpent can't attack unless defending player controls a snow land.\nWhen you control no snow lands, sacrifice Ronom Serpent.",CSP
+Rune Snag,,Dave Dorman,46,Instant,Counter target spell unless its controller pays {2} plus an additional {2} for each card named Rune Snag in each graveyard.,CSP
+Surging Æther,,Anthony S. Waters,47,Instant,"Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)\nReturn target permanent to its owner's hand.",CSP
+Survivor of the Unseen,,Alan Pollack,48,Creature — Human Wizard,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Draw two cards, then put a card from your hand on top of your library.",CSP
+Thermal Flux,,Jeff Miracola,49,Instant,Choose one —\n• Target nonsnow permanent becomes snow until end of turn.
+• Target snow permanent isn't snow until end of turn.
+Draw a card at the beginning of the next turn's upkeep.,CSP
+Vexing Sphinx,,Lars Grant-West,50,Creature — Sphinx,"Flying\nCumulative upkeep—Discard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Vexing Sphinx dies, draw a card for each age counter on it.",CSP
+Balduvian Fallen,,Dave Kendall,51,Creature — Zombie,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever Balduvian Fallen's cumulative upkeep is paid, it gets +1/+0 until end of turn for each {B} or {R} spent this way.",CSP
+Chill to the Bone,,Jim Murray,52,Instant,Destroy target nonsnow creature.,CSP
+Chilling Shade,,Jeff Nentrup,53,Snow Creature — Shade,Flying\n{S}: Chilling Shade gets +1/+1 until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Deathmark,,Jeremy Jarvis,54,Sorcery,Destroy target green or white creature.,"CSP,10E,M10,M11,M12,MM2"
+Disciple of Tevesh Szat,,Pete Venters,55,Creature — Human Cleric,"{T}: Target creature gets -1/-1 until end of turn.\n{4}{B}{B}, {T}, Sacrifice Disciple of Tevesh Szat: Target creature gets -6/-6 until end of turn.",CSP
+Feast of Flesh,,Volkan Baga,56,Sorcery,"Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards.",CSP
+Garza's Assassin,,Paolo Parente,57,Creature — Human Assassin,"Sacrifice Garza's Assassin: Destroy target nonblack creature.\nRecover—Pay half your life, rounded up. (When another creature is put into your graveyard from the battlefield, you may pay half your life, rounded up. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Grim Harvest,,Zoltan Boros & Gabor Szikszai,58,Instant,"Return target creature card from your graveyard to your hand.\nRecover {2}{B} (When a creature is put into your graveyard from the battlefield, you may pay {2}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Gristle Grinner,,Dave Allsop,59,Creature — Zombie,"Whenever a creature dies, Gristle Grinner gets +2/+2 until end of turn.",CSP
+Gutless Ghoul,,Kensuke Okabayashi,60,Snow Creature — Zombie,"{1}, Sacrifice a creature: You gain 2 life.",CSP
+"Haakon, Stromgald Scourge",,Mark Zug,61,Legendary Creature — Zombie Knight,"You may cast Haakon, Stromgald Scourge from your graveyard, but not from anywhere else.\nAs long as Haakon is on the battlefield, you may play Knight cards from your graveyard.
+When Haakon dies, you lose 2 life.",CSP
+Herald of Leshrac,,Alex Horley-Orlandelli,62,Creature — Avatar,"Flying\nCumulative upkeep—Gain control of a land you don't control. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Herald of Leshrac gets +1/+1 for each land you control but don't own.
+When Herald of Leshrac leaves the battlefield, each player gains control of each land he or she owns that you control.",CSP
+Krovikan Rot,,Michael Sutfin,63,Instant,"Destroy target creature with power 2 or less.\nRecover {1}{B}{B} (When a creature is put into your graveyard from the battlefield, you may pay {1}{B}{B}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Krovikan Scoundrel,,Ralph Horsley,64,Creature — Human Rogue,,CSP
+Martyr of Bones,,E. M. Gist,65,Creature — Human Wizard,"{1}, Reveal X black cards from your hand, Sacrifice Martyr of Bones: Exile up to X target cards from a single graveyard.",CSP
+Phobian Phantasm,,Steven Belledin,66,Creature — Illusion,"Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nCumulative upkeep {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",CSP
+Phyrexian Etchings,,Ron Spears,67,Enchantment,"Cumulative upkeep {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your end step, draw a card for each age counter on Phyrexian Etchings.
+When Phyrexian Etchings is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.",CSP
+Rime Transfusion,,Jeff Nentrup,68,Snow Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+1 and has "{S}: This creature can't be blocked this turn except by snow creatures." ({S} can be paid with one mana from a snow permanent.),CSP
+Rimebound Dead,,Dave Kendall,69,Snow Creature — Skeleton,{S}: Regenerate Rimebound Dead. ({S} can be paid with one mana from a snow permanent.),CSP
+Soul Spike,,Wayne England,70,Instant,You may exile two black cards from your hand rather than pay Soul Spike's mana cost.\nSoul Spike deals 4 damage to target creature or player and you gain 4 life.,CSP
+Stromgald Crusader,,Volkan Baga,71,Creature — Zombie Knight,Protection from white\n{B}: Stromgald Crusader gains flying until end of turn.
+{B}{B}: Stromgald Crusader gets +1/+0 until end of turn.,CSP
+Surging Dementia,,Hideaki Takamura,72,Sorcery,"Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)\nTarget player discards a card.",CSP
+Tresserhorn Skyknight,,Dan Dos Santos,73,Creature — Zombie Knight,Flying\nPrevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.,CSP
+Void Maw,,E. M. Gist,74,Creature — Horror,"Trample\nIf another creature would die, exile it instead.
+Put a card exiled with Void Maw into its owner's graveyard: Void Maw gets +2/+2 until end of turn.",CSP
+Zombie Musher,,Kev Walker,75,Snow Creature — Zombie,Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)\n{S}: Regenerate Zombie Musher. ({S} can be paid with one mana from a snow permanent.),CSP
+Balduvian Rage,,John Matson,76,Instant,Target attacking creature gets +X/+0 until end of turn.\nDraw a card at the beginning of the next turn's upkeep.,CSP
+Balduvian Warlord,,Paolo Parente,77,Creature — Human Barbarian,"{T}: Remove target blocking creature from combat. Creatures it was blocking that hadn't become blocked by another creature this combat become unblocked, then it blocks an attacking creature of your choice. Activate this ability only during the declare blockers step.",CSP
+Braid of Fire,,Cyril Van Der Haegen,78,Enchantment,"Cumulative upkeep—Add {R} to your mana pool. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",CSP
+Cryoclasm,,Zoltan Boros & Gabor Szikszai,79,Sorcery,Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.,"CSP,10E"
+Earthen Goo,,Nick Percival,80,Creature — Ooze,"Trample\nCumulative upkeep {R} or {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Earthen Goo gets +1/+1 for each age counter on it.",CSP
+Fury of the Horde,,Stephen Tappin,81,Sorcery,"You may exile two red cards from your hand rather than pay Fury of the Horde's mana cost.\nUntap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.","CSP,DDN"
+Goblin Furrier,,Warren Mahy,82,Creature — Goblin Warrior,Prevent all damage that Goblin Furrier would deal to snow creatures.,CSP
+Goblin Rimerunner,,Christopher Rush,83,Snow Creature — Goblin Warrior,{T}: Target creature can't block this turn.\n{S}: Goblin Rimerunner gains haste until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Greater Stone Spirit,,Yokota Katsumi,84,Creature — Elemental Spirit,"Greater Stone Spirit can't be blocked by creatures with flying.\n{2}{R}: Until end of turn, target creature gets +0/+2 and gains "{R}: This creature gets +1/+0 until end of turn."","CSP,DDI"
+Icefall,,Warren Mahy,85,Sorcery,"Destroy target artifact or land.\nRecover {R}{R} (When a creature is put into your graveyard from the battlefield, you may pay {R}{R}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Karplusan Minotaur,,Wayne England,86,Creature — Minotaur Warrior,"Cumulative upkeep—Flip a coin. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever you win a coin flip, Karplusan Minotaur deals 1 damage to target creature or player.
+Whenever you lose a coin flip, Karplusan Minotaur deals 1 damage to target creature or player of an opponent's choice.",CSP
+Karplusan Wolverine,,Greg Hildebrandt,87,Snow Creature — Wolverine Beast,"Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to target creature or player.",CSP
+Lightning Serpent,,John Avon,88,Creature — Elemental Serpent,"Trample, haste\nLightning Serpent enters the battlefield with X +1/+0 counters on it.
+At the beginning of the end step, sacrifice Lightning Serpent.",CSP
+Lightning Storm,,Luca Zontini,89,Instant,"Lightning Storm deals X damage to target creature or player, where X is 3 plus the number of charge counters on it.\nDiscard a land card: Put two charge counters on Lightning Storm. You may choose a new target for it. Any player may activate this ability but only if Lightning Storm is on the stack.",CSP
+Lovisa Coldeyes,,Brian Snõddy,90,Legendary Creature — Human,"Each creature that's a Barbarian, a Warrior, or a Berserker gets +2/+2 and has haste.",CSP
+Magmatic Core,,Matt Cavotta,91,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your end step, Magmatic Core deals X damage divided as you choose among any number of target creatures, where X is the number of age counters on it.",CSP
+Martyr of Ashes,,Ralph Horsley,92,Creature — Human Shaman,"{2}, Reveal X red cards from your hand, Sacrifice Martyr of Ashes: Martyr of Ashes deals X damage to each creature without flying.",CSP
+Ohran Yeti,,Wayne Reynolds,93,Snow Creature — Yeti,{2}{S}: Target snow creature gains first strike until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Orcish Bloodpainter,,Alan Pollack,94,Creature — Orc Shaman,"{T}, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to target creature or player.",CSP
+Rimescale Dragon,,Jeff Easley,95,Snow Creature — Dragon,Flying\n{2}{S}: Tap target creature and put an ice counter on it. ({S} can be paid with one mana from a snow permanent.)
+Creatures with ice counters on them don't untap during their controllers' untap steps.,CSP
+Rite of Flame,,Dany Orizio,96,Sorcery,"Add {R}{R} to your mana pool, then add {R} to your mana pool for each card named Rite of Flame in each graveyard.",CSP
+Skred,,Christopher Moeller,97,Instant,Skred deals damage to target creature equal to the number of snow permanents you control.,CSP
+Stalking Yeti,,Brian Snõddy,98,Snow Creature — Yeti,"When Stalking Yeti enters the battlefield, if it's on the battlefield, it deals damage equal to its power to target creature an opponent controls and that creature deals damage equal to its power to Stalking Yeti.\n{2}{S}: Return Stalking Yeti to its owner's hand. Activate this ability only any time you could cast a sorcery. ({S} can be paid with one mana from a snow permanent.)",CSP
+Surging Flame,,Ron Spencer,99,Instant,"Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)\nSurging Flame deals 2 damage to target creature or player.","pARL,CSP"
+Thermopod,,Dan Dos Santos,100,Snow Creature — Slug,{S}: Thermopod gains haste until end of turn. ({S} can be paid with one mana from a snow permanent.)\nSacrifice a creature: Add {R} to your mana pool.,CSP
+Allosaurus Rider,,Daren Bader,101,Creature — Elf Warrior,You may exile two green cards from your hand rather than pay Allosaurus Rider's mana cost.\nAllosaurus Rider's power and toughness are each equal to 1 plus the number of lands you control.,"pPRE,CSP,EVG,DD3_EVG"
+Arctic Nishoba,,Dave Kendall,102,Creature — Cat Warrior,"Trample\nCumulative upkeep {G} or {W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Arctic Nishoba dies, you gain 2 life for each age counter on it.",CSP
+Aurochs Herd,,Darrell Riche,103,Creature — Aurochs,"Trample\nWhen Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.
+Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",CSP
+Boreal Centaur,,Marcelo Vignali,104,Snow Creature — Centaur Warrior,{S}: Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Boreal Druid,,Dan Dos Santos,105,Snow Creature — Elf Druid,{T}: Add {1} to your mana pool.,CSP
+Brooding Saurian,,rk post,106,Creature — Lizard,"At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.","CSP,C13"
+Bull Aurochs,,Kev Walker,107,Creature — Aurochs,"Trample\nWhenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",CSP
+Freyalise's Radiance,,Thomas M. Baxa,108,Enchantment,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nSnow permanents don't untap during their controllers' untap steps.",CSP
+Frostweb Spider,,Greg Hildebrandt,109,Snow Creature — Spider,"Reach (This creature can block creatures with flying.)\nWhenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat.",CSP
+Hibernation's End,,Steven Belledin,110,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever you pay Hibernation's End's cumulative upkeep, you may search your library for a creature card with converted mana cost equal to the number of age counters on Hibernation's End and put it onto the battlefield. If you do, shuffle your library.",CSP
+Into the North,,Richard Sardinha,111,Sorcery,Search your library for a snow land card and put it onto the battlefield tapped. Then shuffle your library.,CSP
+Karplusan Strider,,Dan Scott,112,Creature — Yeti,Karplusan Strider can't be the target of blue or black spells.,"CSP,10E,MM2"
+Martyr of Spores,,Dan Scott,113,Creature — Human Shaman,"{1}, Reveal X green cards from your hand, Sacrifice Martyr of Spores: Target creature gets +X/+X until end of turn.",CSP
+Mystic Melting,,Chippy,114,Instant,Destroy target artifact or enchantment.\nDraw a card at the beginning of the next turn's upkeep.,CSP
+Ohran Viper,,Kev Walker,115,Snow Creature — Snake,"Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.\nWhenever Ohran Viper deals combat damage to a player, you may draw a card.","CSP,DDM,C15"
+Panglacial Wurm,,Jim Pavelec,116,Creature — Wurm,"Trample\nWhile you're searching your library, you may cast Panglacial Wurm from your library.",CSP
+Resize,,Daren Bader,117,Instant,"Target creature gets +3/+3 until end of turn.\nRecover {1}{G} (When a creature is put into your graveyard from the battlefield, you may pay {1}{G}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",CSP
+Rimehorn Aurochs,,Brian Despain,118,Snow Creature — Aurochs,"Trample\nWhenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.
+{2}{S}: Target creature blocks target creature this turn if able. ({S} can be paid with one mana from a snow permanent.)",CSP
+Ronom Hulk,,Zoltan Boros & Gabor Szikszai,119,Creature — Beast,"Protection from snow\nCumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",CSP
+Shape of the Wiitigo,,Ron Spencer,120,Enchantment — Aura,"Enchant creature\nWhen Shape of the Wiitigo enters the battlefield, put six +1/+1 counters on enchanted creature.
+At the beginning of your upkeep, put a +1/+1 counter on enchanted creature if it attacked or blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.",CSP
+Sheltering Ancient,,Pete Venters,121,Creature — Treefolk,"Trample\nCumulative upkeep—Put a +1/+1 counter on a creature an opponent controls. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",CSP
+Simian Brawler,,Warren Mahy,122,Creature — Ape Warrior,Discard a land card: Simian Brawler gets +1/+1 until end of turn.,CSP
+Sound the Call,,Jim Nelson,123,Sorcery,Put a 1/1 green Wolf creature token onto the battlefield. It has "This creature gets +1/+1 for each card named Sound the Call in each graveyard.",CSP
+Steam Spitter,,Christopher Rush,124,Creature — Spider,Reach (This creature can block creatures with flying.)\n{R}: Steam Spitter gets +1/+0 until end of turn.,CSP
+Surging Might,,Luca Zontini,125,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2.
+Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)",CSP
+Blizzard Specter,,Hideaki Takamura,126,Snow Creature — Specter,"Flying\nWhenever Blizzard Specter deals combat damage to a player, choose one —
+• That player returns a permanent he or she controls to its owner's hand.
+• That player discards a card.",CSP
+Deepfire Elemental,,Joel Thomas,127,Creature — Elemental,{X}{X}{1}: Destroy target artifact or creature with converted mana cost X.,"CSP,C13"
+Diamond Faerie,,Heather Hudson,128,Snow Creature — Faerie,Flying\n{1}{S}: Snow creatures you control get +1/+1 until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+"Garza Zol, Plague Queen",,Darrell Riche,129,Legendary Creature — Vampire,"Flying, haste\nWhenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol.
+Whenever Garza Zol deals combat damage to a player, you may draw a card.",CSP
+Juniper Order Ranger,,Greg Hildebrandt,130,Creature — Human Knight,"Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.","CSP,DDG"
+"Sek'Kuar, Deathkeeper",,Jeff Miracola,131,Legendary Creature — Orc Shaman,"Whenever another nontoken creature you control dies, put a 3/1 black and red Graveborn creature token with haste onto the battlefield.","CSP,C13"
+Tamanoa,,rk post,132,Creature — Spirit,"Whenever a noncreature source you control deals damage, you gain that much life.",CSP
+Vanish into Memory,,Rebekah Lynn,133,Instant,"Exile target creature. You draw cards equal to that creature's power. At the beginning of your next upkeep, return that card to the battlefield under its owner's control. If you do, discard cards equal to that creature's toughness.","CSP,DDI"
+Wilderness Elemental,,Anthony S. Waters,134,Creature — Elemental,Trample\nWilderness Elemental's power is equal to the number of nonbasic lands your opponents control.,CSP
+Zur the Enchanter,,Pete Venters,135,Legendary Creature — Human Wizard,"Flying\nWhenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.",CSP
+Coldsteel Heart,,Mark Romanoski,136,Snow Artifact,"Coldsteel Heart enters the battlefield tapped.\nAs Coldsteel Heart enters the battlefield, choose a color.
+{T}: Add one mana of the chosen color to your mana pool.","CSP,C15"
+Jester's Scepter,,Matt Cavotta,137,Artifact,"When Jester's Scepter enters the battlefield, exile the top five cards of target player's library face down. You may look at those cards for as long as they remain exiled.\n{2}, {T}, Put a card exiled with Jester's Scepter into its owner's graveyard: Counter target spell if it has the same name as that card.",CSP
+Mishra's Bauble,,Chippy,138,Artifact,"{T}, Sacrifice Mishra's Bauble: Look at the top card of target player's library. Draw a card at the beginning of the next turn's upkeep.",CSP
+Phyrexian Ironfoot,,Stephan Martiniere,139,Snow Artifact Creature — Construct,Phyrexian Ironfoot doesn't untap during your untap step.\n{1}{S}: Untap Phyrexian Ironfoot. ({S} can be paid with one mana from a snow permanent.),CSP
+Phyrexian Snowcrusher,,Dave Allsop,140,Snow Artifact Creature — Juggernaut,Phyrexian Snowcrusher attacks each turn if able.\n{1}{S}: Phyrexian Snowcrusher gets +1/+0 until end of turn. ({S} can be paid with one mana from a snow permanent.),CSP
+Phyrexian Soulgorger,,Brian Snõddy,141,Snow Artifact Creature — Construct,"Cumulative upkeep—Sacrifice a creature. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",CSP
+Thrumming Stone,,Rob Alexander,142,Legendary Artifact,"Spells you cast have ripple 4. (Whenever you cast a spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as the spell without paying their mana costs. Put the rest on the bottom of your library.)",CSP
+Arctic Flats,,John Avon,143,Snow Land,Arctic Flats enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.,CSP
+Boreal Shelf,,Heather Hudson,144,Snow Land,Boreal Shelf enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.,CSP
+Dark Depths,,Stephan Martiniere,145,Legendary Snow Land,"Dark Depths enters the battlefield with ten ice counters on it.\n{3}: Remove an ice counter from Dark Depths.
+When Dark Depths has no ice counters on it, sacrifice it. If you do, put a legendary 20/20 black Avatar creature token with flying and indestructible named Marit Lage onto the battlefield.",CSP
+Frost Marsh,,Jim Pavelec,146,Snow Land,Frost Marsh enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.,CSP
+Highland Weald,,John Avon,147,Snow Land,Highland Weald enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.,CSP
+Mouth of Ronom,,Daren Bader,148,Snow Land,"{T}: Add {1} to your mana pool.\n{4}{S}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. ({S} can be paid with one mana from a snow permanent.)",CSP
+Scrying Sheets,,Thomas M. Baxa,149,Snow Land,"{T}: Add {1} to your mana pool.\n{1}{S}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. ({S} can be paid with one mana from a snow permanent.)",CSP
+Tresserhorn Sinks,,Darrell Riche,150,Snow Land,Tresserhorn Sinks enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.,CSP
+Snow-Covered Plains,,Mark Romanoski,151,Basic Snow Land — Plains,,"ICE,CSP,ME2"
+Snow-Covered Island,,Franz Vohwinkel,152,Basic Snow Land — Island,,"ICE,CSP,ME2"
+Snow-Covered Swamp,,Rob Alexander,153,Basic Snow Land — Swamp,,"ICE,CSP,ME2"
+Snow-Covered Mountain,,John Zeleznik,154,Basic Snow Land — Mountain,,"ICE,CSP,ME2"
+Snow-Covered Forest,,Jim Nelson,155,Basic Snow Land — Forest,,"ICE,CSP,ME2"

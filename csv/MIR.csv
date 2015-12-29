@@ -1,0 +1,409 @@
+name,cost,artist,number,type,text,printings
+Abyssal Hunter,,Steve Luke,,Creature — Human Assassin,"{B}, {T}: Tap target creature. Abyssal Hunter deals damage equal to Abyssal Hunter's power to that creature.","MIR,6ED"
+Acidic Dagger,,Stuart Beel,,Artifact,"{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared.",MIR
+Afiya Grove,,Stuart Griffin,,Enchantment,"Afiya Grove enters the battlefield with three +1/+1 counters on it.\nAt the beginning of your upkeep, move a +1/+1 counter from Afiya Grove onto target creature.
+When Afiya Grove has no +1/+1 counters on it, sacrifice it.",MIR
+Afterlife,,Pete Venters,,Instant,Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.,"MIR,MMQ,CMD,VMA,C14"
+Agility,,Drew Tucker,,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+1 and has flanking. (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",MIR
+Alarum,,Andrew Robinson,,Instant,Untap target nonattacking creature. It gets +1/+3 until end of turn.,MIR
+Aleatory,,Kev Walker,,Instant,"Cast Aleatory only during combat after blockers are declared.\nFlip a coin. If you win the flip, target creature gets +1/+1 until end of turn.
+Draw a card at the beginning of the next turn's upkeep.",MIR
+Amber Prison,,Donato Giancola,,Artifact,"You may choose not to untap Amber Prison during your untap step.\n{4}, {T}: Tap target artifact, creature, or land. That permanent doesn't untap during its controller's untap step for as long as Amber Prison remains tapped.","MIR,6ED"
+Amulet of Unmaking,,Kaja Foglio,,Artifact,"{5}, {T}, Exile Amulet of Unmaking: Exile target artifact, creature, or land. Activate this ability only any time you could cast a sorcery.",MIR
+Ancestral Memories,,William Donohoe,,Sorcery,Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.,"MIR,POR,6ED,7ED"
+Armor of Thorns,,Alan Rabinowitz,,Enchantment — Aura,"You may cast Armor of Thorns as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant nonblack creature
+Enchanted creature gets +2/+2.","MIR,VMA"
+Armorer Guildmage,,Martin McKenna,,Creature — Human Wizard,"{B}, {T}: Target creature gets +1/+0 until end of turn.\n{G}, {T}: Target creature gets +0/+1 until end of turn.",MIR
+Ashen Powder,,Geofrey Darrow,,Sorcery,Put target creature card from an opponent's graveyard onto the battlefield under your control.,"MIR,6ED"
+"Asmira, Holy Avenger",,Rebecca Guay,,Legendary Creature — Human Cleric,"Flying\nAt the beginning of each end step, put a +1/+1 counter on Asmira, Holy Avenger for each creature put into your graveyard from the battlefield this turn.",MIR
+Auspicious Ancestor,,Zina Saunders,,Creature — Human Cleric,"When Auspicious Ancestor dies, you gain 3 life.\nWhenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.",MIR
+Azimaet Drake,,Gerry Grace,,Creature — Drake,Flying\n{U}: Azimaet Drake gets +1/+0 until end of turn. Activate this ability only once each turn.,MIR
+Bad River,,Terese Nielsen,,Land,"Bad River enters the battlefield tapped.\n{T}, Sacrifice Bad River: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.","MIR,VMA"
+Barbed Foliage,,Mark Poole,,Enchantment,"Whenever a creature attacks you, it loses flanking until end of turn.\nWhenever a creature without flying attacks you, Barbed Foliage deals 1 damage to it.",MIR
+Barbed-Back Wurm,,Gary Leach,,Creature — Wurm,{B}: Target green creature blocking Barbed-Back Wurm gets -1/-1 until end of turn.,MIR
+Barreling Attack,,Ian Miller,,Instant,"Target creature gains trample until end of turn. When that creature becomes blocked this turn, it gets +1/+1 until end of turn for each creature blocking it.",MIR
+Basalt Golem,,Scott Kirschner,,Artifact Creature — Golem,"Basalt Golem can't be blocked by artifact creatures.\nWhenever Basalt Golem becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, he or she puts a 0/2 colorless Wall artifact creature token with defender onto the battlefield.",MIR
+Bay Falcon,,Una Fricker,,Creature — Bird,"Flying, vigilance",MIR
+Bazaar of Wonders,,Liz Danforth,,World Enchantment,"When Bazaar of Wonders enters the battlefield, exile all cards from all graveyards.\nWhenever a player casts a spell, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield.",MIR
+Benevolent Unicorn,,David A. Cherry,,Creature — Unicorn,"If a spell would deal damage to a creature or player, it deals that much damage minus 1 to that creature or player instead.",MIR
+Benthic Djinn,,Adam Rex,,Creature — Djinn,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAt the beginning of your upkeep, you lose 2 life.",MIR
+Binding Agony,,Robert Bliss,,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature is dealt damage, Binding Agony deals that much damage to that creature's controller.",MIR
+Blighted Shaman,,Ian Miller,,Creature — Human Cleric Shaman,"{T}, Sacrifice a Swamp: Target creature gets +1/+1 until end of turn.\n{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.","MIR,6ED"
+Blind Fury,,John Coulthart,,Instant,"All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.",MIR
+Blinding Light,,Hannibal King,,Sorcery,Tap all nonwhite creatures.,"MIR,POR,S99,INV"
+Blistering Barrier,,David Ho,,Creature — Wall,Defender (This creature can't attack.),MIR
+Bone Harvest,,Greg Simanson,,Instant,Put any number of target creature cards from your graveyard on top of your library.\nDraw a card at the beginning of the next turn's upkeep.,"MIR,BTD"
+Bone Mask,,D. Alexander Gregory,,Artifact,"{2}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage. Exile cards from the top of your library equal to the damage prevented this way.",MIR
+Boomerang,,Richard Kane Ferguson,,Instant,Return target permanent to its owner's hand.,"LEG,CHR,MIR,5ED,6ED,7ED,8ED,9ED,pGTW,10E,ME3,DPA"
+Breathstealer,,Cliff Nielsen,,Creature — Nightstalker,{B}: Breathstealer gets +1/-1 until end of turn.,MIR
+Brushwagg,,Ian Miller,,Creature — Brushwagg,"Whenever Brushwagg blocks or becomes blocked, it gets -2/+2 until end of turn.",MIR
+Builder's Bane,,Charles Gillespie,,Sorcery,Destroy X target artifacts. Builder's Bane deals damage to each player equal to the number of artifacts he or she controlled put into a graveyard this way.,MIR
+Burning Palm Efreet,,Dermot Power,,Creature — Efreet,{1}{R}{R}: Burning Palm Efreet deals 2 damage to target creature with flying and that creature loses flying until end of turn.,MIR
+Burning Shield Askari,,Dan Frazier,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{R}{R}: Burning Shield Askari gains first strike until end of turn.",MIR
+Cadaverous Bloom,,Alan Rabinowitz,,Enchantment,Exile a card from your hand: Add {B}{B} or {G}{G} to your mana pool.,MIR
+Cadaverous Knight,,Dermot Power,,Creature — Zombie Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{B}{B}: Regenerate Cadaverous Knight.","MIR,HOP"
+Canopy Dragon,,Alan Rabinowitz,,Creature — Dragon,Trample\n{1}{G}: Canopy Dragon gains flying and loses trample until end of turn.,MIR
+Carrion,,Geofrey Darrow,,Instant,"As an additional cost to cast Carrion, sacrifice a creature.\nPut X 0/1 black Insect creature tokens onto the battlefield, where X is the sacrificed creature's power.",MIR
+Catacomb Dragon,,David O'Connor,,Creature — Dragon,"Flying\nWhenever Catacomb Dragon becomes blocked by a nonartifact, non-Dragon creature, that creature gets -X/-0 until end of turn, where X is half the creature's power, rounded down.",MIR
+Celestial Dawn,,Liz Danforth,,Enchantment,"Lands you control are Plains.\nNonland cards you own that aren't on the battlefield, spells you control, and nonland permanents you control are white.
+You may spend white mana as though it were mana of any color. You may spend other mana only as though it were colorless mana.","MIR,6ED,TSB"
+Cerulean Wyvern,,Gerry Grace,,Creature — Drake,"Flying, protection from green",MIR
+Chaos Charm,,Steve Luke,,Instant,Choose one —\n• Destroy target Wall.
+• Chaos Charm deals 1 damage to target creature.
+• Target creature gains haste until end of turn.,MIR
+Chaosphere,,Steve Luke,,World Enchantment,Creatures with flying can block only creatures with flying.\nCreatures without flying have reach. (They can block creatures with flying.),MIR
+Charcoal Diamond,,Drew Tucker,,Artifact,Charcoal Diamond enters the battlefield tapped.\n{T}: Add {B} to your mana pool.,"MIR,6ED,7ED,C14"
+Chariot of the Sun,,Gerry Grace,,Artifact,"{2}, {T}: Until end of turn, target creature you control gains flying and has base toughness 1.",MIR
+Choking Sands,,Roger Raupp,,Sorcery,"Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land's controller.","MIR,VMA"
+Cinder Cloud,,JOCK,,Instant,"Destroy target creature. If a white creature dies this way, Cinder Cloud deals damage to that creature's controller equal to the creature's power.",MIR
+Circle of Despair,,Scott M. Fischer,,Enchantment,"{1}, Sacrifice a creature: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.",MIR
+Civic Guildmage,,Andrew Robinson,,Creature — Human Wizard,"{G}, {T}: Target creature gets +0/+1 until end of turn.\n{U}, {T}: Put target creature you control on top of its owner's library.",MIR
+Cloak of Invisibility,,John Coulthart,,Enchantment — Aura,"Enchant creature\nEnchanted creature has phasing and can't be blocked except by Walls. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",MIR
+Consuming Ferocity,,Scott Kirschner,,Enchantment — Aura,"Enchant non-Wall creature\nEnchanted creature gets +1/+0.
+At the beginning of your upkeep, put a +1/+0 counter on enchanted creature. If that creature has three or more +1/+0 counters on it, it deals damage equal to its power to its controller, then destroy that creature and it can't be regenerated.",MIR
+Coral Fighters,,Steve Luke,,Creature — Merfolk Soldier,"Whenever Coral Fighters attacks and isn't blocked, look at the top card of defending player's library. You may put that card on the bottom of that player's library.","MIR,DDI"
+Crash of Rhinos,,Steve White,,Creature — Rhino,Trample,"MIR,BTD"
+Crimson Hellkite,,Gerry Grace,,Creature — Dragon,"Flying\n{X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana on X.","MIR,6ED,7ED"
+Crimson Roc,,Ian Miller,,Creature — Bird,"Flying\nWhenever Crimson Roc blocks a creature without flying, Crimson Roc gets +1/+0 and gains first strike until end of turn.",MIR
+Crypt Cobra,,Ron Spencer,,Creature — Snake,"Whenever Crypt Cobra attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)",MIR
+Crystal Golem,,Mike Dringenberg,,Artifact Creature — Golem,"At the beginning of your end step, Crystal Golem phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",MIR
+Crystal Vein,,Pat Morrissey,,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Crystal Vein: Add {2} to your mana pool.","MIR,6ED,PD3,C14"
+Cursed Totem,,D. Alexander Gregory,,Artifact,Activated abilities of creatures can't be activated.,"MIR,6ED"
+Cycle of Life,,Chippy,,Enchantment,"Return Cycle of Life to its owner's hand: Target creature you cast this turn has base power and toughness 0/1 until your next upkeep. At the beginning of your next upkeep, put a +1/+1 counter on that creature.",MIR
+Daring Apprentice,,Kaja Foglio,,Creature — Human Wizard,"{T}, Sacrifice Daring Apprentice: Counter target spell.","MIR,6ED,7ED,8ED,9ED"
+Dark Banishing,,Dermot Power,,Instant,Destroy target nonblack creature. It can't be regenerated.,"ICE,MIR,TMP,7ED,DKM,8ED,9ED,CST,ME2,DDC,DD3_DVD,TPR"
+Dark Ritual,,John Coulthart,,Instant,Add {B}{B}{B} to your mana pool.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,pJGP,USG,MMQ,BRB,BTD,DKM,CST,DDC,HOP,DDE,ME4,V13,VMA,DD3_DVD,TPR"
+Dazzling Beauty,,Harold McNeill,,Instant,Cast Dazzling Beauty only during the declare blockers step.\nTarget unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)
+Draw a card at the beginning of the next turn's upkeep.,MIR
+Decomposition,,Drew Tucker,,Enchantment — Aura,"Enchant black creature\nEnchanted creature has "Cumulative upkeep—Pay 1 life." (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)
+When enchanted creature dies, its controller loses 2 life.",MIR
+Delirium,,Terese Nielsen,,Instant,Cast Delirium only during an opponent's turn.\nTap target creature that player controls. That creature deals damage equal to its power to the player. Prevent all combat damage that would be dealt to and dealt by the creature this turn.,MIR
+Dirtwater Wraith,,Steve Luke,,Creature — Wraith,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{B}: Dirtwater Wraith gets +1/+0 until end of turn.,MIR
+Discordant Spirit,,Alan Rabinowitz,,Creature — Spirit,"At the beginning of each end step, if it's an opponent's turn, put a +1/+1 counter on Discordant Spirit for each 1 damage dealt to you this turn.\nAt the beginning of your end step, remove all +1/+1 counters from Discordant Spirit.",MIR
+Disempower,,John Matson,,Instant,Put target artifact or enchantment on top of its owner's library.,MIR
+Disenchant,,Charles Gillespie,,Instant,Destroy target artifact or enchantment.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,pARL,MIR,5ED,TMP,USG,ATH,6ED,MMQ,BRB,pFNM,S00,7ED,pMPR,CST,TSB,ME2,ME3,TPR"
+Dissipate,,Richard Kane Ferguson,,Instant,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","MIR,pFNM,ISD,DDJ,M15"
+Divine Offering,,Terese Nielsen,,Instant,Destroy target artifact. You gain life equal to its converted mana cost.,"LEG,CHR,MIR,5ED,ME4,MBS"
+Divine Retribution,,Charles Gillespie,,Instant,Divine Retribution deals damage to target attacking creature equal to the number of attacking creatures.,MIR
+Drain Life,,Richard Kane Ferguson,,Sorcery,"Spend only black mana on X.\nDrain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.","LEA,LEB,2ED,CED,CEI,3ED,4ED,MIR,5ED,pFNM,BTD"
+Dread Specter,,Kathryn Rathke,,Creature — Specter,"Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.",MIR
+Dream Cache,,D. Alexander Gregory,,Sorcery,"Draw three cards, then put two cards from your hand both on top of your library or both on the bottom of your library.","MIR,TMP,6ED"
+Dream Fighter,,Drew Tucker,,Creature — Human Soldier,"Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",MIR
+Dwarven Miner,,JOCK,,Creature — Dwarf,"{2}{R}, {T}: Destroy target nonbasic land.",MIR
+Dwarven Nomad,,Mike Kimble,,Creature — Dwarf Nomad,{T}: Target creature with power 2 or less can't be blocked this turn.,MIR
+Early Harvest,,Janine Johnston,,Instant,Target player untaps all basic lands he or she controls.,"MIR,6ED,7ED,9ED"
+Ebony Charm,,Gerry Grace,,Instant,Choose one —\n• Target opponent loses 1 life and you gain 1 life.
+• Exile up to three target cards from a single graveyard.
+• Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.),MIR
+Ekundu Cyclops,,Robert Bliss,,Creature — Cyclops,"If a creature you control attacks, Ekundu Cyclops also attacks if able.",MIR
+Ekundu Griffin,,David A. Cherry,,Creature — Griffin,"Flying, first strike","MIR,6ED"
+Elixir of Vitality,,Douglas Shuler,,Artifact,"Elixir of Vitality enters the battlefield tapped.\n{T}, Sacrifice Elixir of Vitality: You gain 4 life.
+{8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.",MIR
+Emberwilde Caliph,,Jennifer Law,,Creature — Djinn,"Flying, trample\nEmberwilde Caliph attacks each turn if able.
+Whenever Emberwilde Caliph deals damage, you lose that much life.",MIR
+Emberwilde Djinn,,Mike Dringenberg,,Creature — Djinn,"Flying\nAt the beginning of each player's upkeep, that player may pay {R}{R} or 2 life. If he or she does, the player gains control of Emberwilde Djinn.",MIR
+Energy Bolt,,Scott Kirschner,,Sorcery,Choose one —\n• Energy Bolt deals X damage to target player.
+• Target player gains X life.,MIR
+Energy Vortex,,Tom Wänerstrand,,Enchantment,"As Energy Vortex enters the battlefield, choose an opponent.\nAt the beginning of your upkeep, remove all energy counters from Energy Vortex.
+At the beginning of the chosen player's upkeep, Energy Vortex deals 3 damage to that player unless he or she pays {1} for each energy counter on Energy Vortex.
+{X}: Put X energy counters on Energy Vortex. Activate this ability only during your upkeep.",MIR
+Enfeeblement,,John Bolton,,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature gets -2/-2.,"MIR,TMP,6ED,9ED"
+Enlightened Tutor,,Dan Frazier,,Instant,"Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.","pARL,MIR,6ED"
+Ersatz Gnomes,,Ron Spencer,,Artifact Creature — Gnome,{T}: Target spell becomes colorless.\n{T}: Target permanent becomes colorless until end of turn.,MIR
+Ether Well,,Charles Gillespie,,Instant,"Put target creature on top of its owner's library. If that creature is red, you may put it on the bottom of its owner's library instead.",MIR
+Ethereal Champion,,Terese Nielsen,,Creature — Avatar,Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.,"MIR,6ED"
+Fallow Earth,,Janine Johnston,,Sorcery,Put target land on top of its owner's library.,"MIR,6ED"
+Favorable Destiny,,Thomas Gianni,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+2 as long as it's white.
+Enchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.),MIR
+Femeref Archers,,William Donohoe,,Creature — Human Archer,{T}: Femeref Archers deals 4 damage to target attacking creature with flying.,"MIR,6ED,7ED,10E"
+Femeref Healer,,Steve Luke,,Creature — Human Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,MIR
+Femeref Knight,,Tony Roberts,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{W}: Femeref Knight gains vigilance until end of turn.",MIR
+Femeref Scouts,,Zak Plucinski,,Creature — Human Scout,,MIR
+Feral Shadow,,Cliff Nielsen,,Creature — Nightstalker,Flying,"MIR,POR,pPOD,6ED,S99,BTD"
+Fetid Horror,,Gary Leach,,Creature — Shade Horror,{B}: Fetid Horror gets +1/+1 until end of turn.,MIR
+Final Fortune,,D. Alexander Gregory,,Instant,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.","MIR,6ED,7ED"
+Fire Diamond,,Richard Thomas,,Artifact,Fire Diamond enters the battlefield tapped.\n{T}: Add {R} to your mana pool.,"MIR,6ED,7ED,C14"
+Firebreathing,,Mike Kerr,,Enchantment — Aura,Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,MIR,5ED,6ED,9ED,10E,M10,M12"
+Flame Elemental,,Richard Kane Ferguson,,Creature — Elemental,"{R}, {T}, Sacrifice Flame Elemental: Flame Elemental deals damage equal to its power to target creature.",MIR
+Flare,,Greg Simanson,,Instant,Flare deals 1 damage to target creature or player.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,MIR,5ED"
+Flash,,David Ho,,Instant,"You may put a creature card from your hand onto the battlefield. If you do, sacrifice it unless you pay its mana cost reduced by up to {2}.","MIR,6ED"
+Flood Plain,,Pat Morrissey,,Land,"Flood Plain enters the battlefield tapped.\n{T}, Sacrifice Flood Plain: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.","MIR,DDI,VMA"
+Floodgate,,Jeff Miracola,,Creature — Wall,"Defender (This creature can't attack.)\nWhen Floodgate has flying, sacrifice it.
+When Floodgate leaves the battlefield, it deals damage equal to half the number of Islands you control, rounded down, to each nonblue creature without flying.",MIR
+Fog,,Harold McNeill,,Instant,Prevent all combat damage that would be dealt this turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,MIR,5ED,6ED,BTD,7ED,M10,ARC,M11,ME4,M12,M13,M14"
+Foratog,,Mark Poole,,Creature — Atog,"{G}, Sacrifice a Forest: Foratog gets +2/+2 until end of turn.","MIR,8ED"
+Forbidden Crypt,,D. Alexander Gregory,,Enchantment,"If you would draw a card, return a card from your graveyard to your hand instead. If you can't, you lose the game.\nIf a card would be put into your graveyard from anywhere, exile that card instead.","MIR,6ED"
+Forest,,Tony Roberts,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Tony Roberts,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Tony Roberts,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Tony Roberts,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forsaken Wastes,,Kev Walker,,World Enchantment,"Players can't gain life.\nAt the beginning of each player's upkeep, that player loses 1 life.
+Whenever Forsaken Wastes becomes the target of a spell, that spell's controller loses 5 life.",MIR
+Frenetic Efreet,,Thomas Gianni,,Creature — Efreet,"Flying\n{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",MIR
+Giant Mantis,,Randy Gallegos,,Creature — Insect,Reach (This creature can block creatures with flying.),"MIR,VMA,BFZ"
+Gibbering Hyenas,,Una Fricker,,Creature — Hyena,Gibbering Hyenas can't block black creatures.,MIR
+Goblin Elite Infantry,,Robert Bliss,,Creature — Goblin Warrior,"Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.","MIR,6ED,7ED,10E"
+Goblin Scouts,,Geofrey Darrow,,Sorcery,Put three 1/1 red Goblin Scout creature tokens with mountainwalk onto the battlefield. (They can't be blocked as long as defending player controls a Mountain.),MIR
+Goblin Soothsayer,,Robert Bliss,,Creature — Goblin Shaman,"{R}, {T}, Sacrifice a Goblin: Red creatures get +1/+1 until end of turn.",MIR
+Goblin Tinkerer,,Hannibal King,,Creature — Goblin Artificer,"{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer.","MIR,ATH"
+Granger Guildmage,,Dan Frazier,,Creature — Human Wizard,"{R}, {T}: Granger Guildmage deals 1 damage to target creature or player and 1 damage to you.\n{W}, {T}: Target creature gains first strike until end of turn.",MIR
+Grasslands,,John Avon,,Land,"Grasslands enters the battlefield tapped.\n{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.","MIR,DDG,VMA"
+Grave Servitude,,Adrian Smith,,Enchantment — Aura,"You may cast Grave Servitude as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature
+Enchanted creature gets +3/-1 and is black.",MIR
+Gravebane Zombie,,Gary Leach,,Creature — Zombie,"If Gravebane Zombie would die, put Gravebane Zombie on top of its owner's library instead.","MIR,6ED"
+Grim Feast,,Mike Kimble,,Enchantment,"At the beginning of your upkeep, Grim Feast deals 1 damage to you.\nWhenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.",MIR
+Grinning Totem,,Donato Giancola,,Artifact,"{2}, {T}, Sacrifice Grinning Totem: Search target opponent's library for a card and exile it. Then that player shuffles his or her library. Until the beginning of your next upkeep, you may play that card. At the beginning of your next upkeep, if you haven't played it, put it into its owner's graveyard.","MIR,6ED,TSB"
+"Hakim, Loreweaver",,Alan Rabinowitz,,Legendary Creature — Human Wizard,"Flying\n{U}{U}: Return target Aura card from your graveyard to the battlefield attached to Hakim, Loreweaver. Activate this ability only during your upkeep and only if Hakim isn't enchanted.
+{U}{U}, {T}: Destroy all Auras attached to Hakim.",MIR
+Hall of Gemstone,,David A. Cherry,,World Enchantment,"At the beginning of each player's upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.",MIR
+Hammer of Bogardan,,Ron Spencer,,Sorcery,Hammer of Bogardan deals 3 damage to target creature or player.\n{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.,"MIR,pJGP,6ED,8ED,PD2"
+Harbinger of Night,,Tom Kyffin,,Creature — Spirit,"At the beginning of your upkeep, put a -1/-1 counter on each creature.",MIR
+Harbor Guardian,,Stuart Beel,,Creature — Gargoyle,"Reach (This creature can block creatures with flying.)\nWhenever Harbor Guardian attacks, defending player may draw a card.",MIR
+Harmattan Efreet,,Drew Tucker,,Creature — Efreet,Flying\n{1}{U}{U}: Target creature gains flying until end of turn.,"MIR,6ED"
+Haunting Apparition,,Chippy,,Creature — Spirit,"Flying\nAs Haunting Apparition enters the battlefield, choose an opponent.
+Haunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.",MIR
+Hazerider Drake,,Zina Saunders,,Creature — Drake,"Flying, protection from red",MIR
+Healing Salve,,Hannibal King,,Instant,Choose one —\n• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to target creature or player this turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,MIR,ITP,5ED,USG,6ED,BRB,7ED,8ED,DDC,ME4,DD3_DVD"
+Hivis of the Scale,,Andrew Robinson,,Legendary Creature — Viashino Shaman,You may choose not to untap Hivis of the Scale during your untap step.\n{T}: Gain control of target Dragon for as long as you control Hivis and Hivis remains tapped.,MIR
+Horrible Hordes,,Ian Miller,,Artifact Creature — Spirit,"Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)",MIR
+Igneous Golem,,Adam Rex,,Artifact Creature — Golem,{2}: Igneous Golem gains trample until end of turn.,MIR
+Illicit Auction,,Scott Kirschner,,Sorcery,"Each player may bid life for control of target creature. You start the bidding with a bid of 0. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and gains control of the creature. (This effect lasts indefinitely.)","MIR,6ED"
+Illumination,,David O'Connor,,Instant,Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.,MIR
+Incinerate,,Brian Snõddy,,Instant,Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.,"pLGM,ICE,MIR,5ED,pMPR,DKM,CST,10E,ME2,DD2,DPA,M12,DD3_JVC"
+Infernal Contract,,Roger Raupp,,Sorcery,"Draw four cards. You lose half your life, rounded up.","MIR,6ED,7ED"
+Iron Tusk Elephant,,Tony Roberts,,Creature — Elephant,Trample,MIR
+Island,,Douglas Shuler,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Douglas Shuler,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Douglas Shuler,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Douglas Shuler,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Ivory Charm,,Gerry Grace,,Instant,Choose one —\n• All creatures get -2/-0 until end of turn.
+• Tap target creature.
+• Prevent the next 1 damage that would be dealt to target creature or player this turn.,MIR
+Jabari's Influence,,Gerry Grace,,Instant,"Cast Jabari's Influence only after combat.\nGain control of target nonartifact, nonblack creature that attacked you this turn and put a -1/-0 counter on it.",MIR
+Jolrael's Centaur,,Junior Tomlin,,Creature — Centaur Archer,"Shroud (This creature can't be the target of spells or abilities.)\nFlanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",MIR
+Jolt,,John Matson,,Instant,"You may tap or untap target artifact, creature, or land.\nDraw a card at the beginning of the next turn's upkeep.",MIR
+Jungle Patrol,,Mark Poole,,Creature — Human Soldier,"{1}{G}, {T}:  Put a 0/1 green Wall creature token with defender named Wood onto the battlefield.\nSacrifice a token named Wood: Add {R} to your mana pool.",MIR
+Jungle Troll,,John Bolton,,Creature — Troll,{R}: Regenerate Jungle Troll.\n{G}: Regenerate Jungle Troll.,MIR
+Jungle Wurm,,Tom Kyffin,,Creature — Wurm,"Whenever Jungle Wurm becomes blocked, it gets -1/-1 until end of turn for each creature blocking it beyond the first.","MIR,VMA"
+Kaervek's Hex,,Ian Miller,,Sorcery,Kaervek's Hex deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.,MIR
+Kaervek's Purge,,Richard Kane Ferguson,,Sorcery,"Destroy target creature with converted mana cost X. If that creature dies this way, Kaervek's Purge deals damage equal to the creature's power to the creature's controller.",MIR
+Kaervek's Torch,,John Coulthart,,Sorcery,"As long as Kaervek's Torch is on the stack, spells that target it cost {2} more to cast.\nKaervek's Torch deals X damage to target creature or player.","MIR,VMA"
+Karoo Meerkat,,Janine Johnston,,Creature — Mongoose,Protection from blue,MIR
+Kukemssa Pirates,,JOCK,,Creature — Human Pirate,"Whenever Kukemssa Pirates attacks and isn't blocked, you may gain control of target artifact defending player controls. If you do, Kukemssa Pirates assigns no combat damage this turn.",MIR
+Kukemssa Serpent,,Ian Miller,,Creature — Serpent,"Kukemssa Serpent can't attack unless defending player controls an Island.\n{U}, Sacrifice an Island: Target land an opponent controls becomes an Island until end of turn.
+When you control no Islands, sacrifice Kukemssa Serpent.",MIR
+Lead Golem,,Hannibal King,,Artifact Creature — Golem,"Whenever Lead Golem attacks, it doesn't untap during its controller's next untap step.","MIR,6ED"
+Leering Gargoyle,,Dermot Power,,Creature — Gargoyle,Flying\n{T}: Leering Gargoyle gets -2/+2 and loses flying until end of turn.,MIR
+Lightning Reflexes,,Tom Kyffin,,Enchantment — Aura,"You may cast Lightning Reflexes as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature
+Enchanted creature gets +1/+0 and has first strike.",MIR
+Lion's Eye Diamond,,Margaret Organ-Kean,,Artifact,"Sacrifice Lion's Eye Diamond, Discard your hand: Add three mana of any one color to your mana pool. Activate this ability only any time you could cast an instant.","MIR,VMA"
+Locust Swarm,,William Donohoe,,Creature — Insect,Flying\n{G}: Regenerate Locust Swarm.
+{G}: Untap Locust Swarm. Activate this ability only once each turn.,MIR
+Lure of Prey,,Andrew Robinson,,Instant,Cast Lure of Prey only if an opponent cast a creature spell this turn.\nYou may put a green creature card from your hand onto the battlefield.,MIR
+Malignant Growth,,Scott M. Fischer,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your upkeep, put a growth counter on Malignant Growth.
+At the beginning of each opponent's draw step, that player draws an additional card for each growth counter on Malignant Growth, then Malignant Growth deals damage to the player equal to the number of cards he or she drew this way.",MIR
+Mana Prism,,Margaret Organ-Kean,,Artifact,"{T}: Add {1} to your mana pool.\n{1}, {T}: Add one mana of any color to your mana pool.","MIR,6ED,VMA"
+Mangara's Blessing,,David A. Cherry,,Instant,"You gain 5 life.\nWhen a spell or ability an opponent controls causes you to discard Mangara's Blessing, you gain 2 life, and you return Mangara's Blessing from your graveyard to your hand at the beginning of the next end step.",MIR
+Mangara's Equity,,Alan Rabinowitz,,Enchantment,"As Mangara's Equity enters the battlefield, choose black or red.\nAt the beginning of your upkeep, sacrifice Mangara's Equity unless you pay {1}{W}.
+Whenever a creature of the chosen color deals damage to you or a white creature you control, Mangara's Equity deals that much damage to that creature.",MIR
+Mangara's Tome,,John Bolton,,Artifact,"When Mangara's Tome enters the battlefield, search your library for five cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.\n{2}: The next time you would draw a card this turn, instead put the top card of the exiled pile into its owner's hand.",MIR
+Marble Diamond,,Jeff Miracola,,Artifact,Marble Diamond enters the battlefield tapped.\n{T}: Add {W} to your mana pool.,"MIR,6ED,7ED,DDC,C14,DD3_DVD"
+Maro,,Stuart Griffin,,Creature — Elemental,Maro's power and toughness are each equal to the number of cards in your hand.,"MIR,6ED,7ED,8ED,9ED"
+Meddle,,Brian Snõddy,,Instant,"If target spell has only one target and that target is a creature, change that spell's target to another creature.","MIR,ONS"
+Melesse Spirit,,Gerry Grace,,Creature — Angel Spirit,"Flying, protection from black",MIR
+Memory Lapse,,Rebecca Guay,,Instant,"Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.","HML,MIR,5ED,pJGP,6ED,7ED,DDM"
+Merfolk Raiders,,Steve Luke,,Creature — Merfolk Soldier,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",MIR
+Merfolk Seer,,Steve Luke,,Creature — Merfolk Wizard,"When Merfolk Seer dies, you may pay {1}{U}. If you do, draw a card.",MIR
+Mind Bend,,Mike Dringenberg,,Instant,"Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)","MIR,8ED,9ED,10E"
+Mind Harness,,John Malloy,,Enchantment — Aura,"Enchant red or green creature\nCumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+You control enchanted creature.",MIR
+Mindbender Spores,,Ian Miller,,Creature — Fungus Wall,"Defender (This creature can't attack.)\nFlying
+Whenever Mindbender Spores blocks a creature, put four fungus counters on that creature. The creature gains "This creature doesn't untap during your untap step if it has a fungus counter on it" and "At the beginning of your upkeep, remove a fungus counter from this creature."",MIR
+Mire Shade,,Randy Gallegos,,Creature — Shade,"{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.",MIR
+Misers' Cage,,Jeff Miracola,,Artifact,"At the beginning of each opponent's upkeep, if that player has five or more cards in hand, Misers' Cage deals 2 damage to him or her.",MIR
+Mist Dragon,,Al Davidson,,Creature — Dragon,"{0}: Mist Dragon gains flying. (This effect lasts indefinitely.)\n{0}: Mist Dragon loses flying. (This effect lasts indefinitely.)
+{3}{U}{U}: Mist Dragon phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",MIR
+Moss Diamond,,Donato Giancola,,Artifact,Moss Diamond enters the battlefield tapped.\n{T}: Add {G} to your mana pool.,"MIR,6ED,7ED,C14"
+Mountain,,John Avon,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain Valley,,Kari Johnson,,Land,"Mountain Valley enters the battlefield tapped.\n{T}, Sacrifice Mountain Valley: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.","MIR,VMA"
+Mtenda Griffin,,Janine Johnston,,Creature — Griffin,"Flying\n{W}, {T}: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.",MIR
+Mtenda Herder,,Zina Saunders,,Creature — Human Scout,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",MIR
+Mtenda Lion,,Stuart Griffin,,Creature — Cat,"Whenever Mtenda Lion attacks, defending player may pay {U}. If that player does, prevent all combat damage that would be dealt by Mtenda Lion this turn.",MIR
+Mystical Tutor,,David O'Connor,,Instant,"Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.","MIR,6ED,V09"
+Natural Balance,,John Malloy,,Sorcery,"Each player who controls six or more lands chooses five lands he or she controls and sacrifices the rest. Each player who controls four or fewer lands may search his or her library for up to X basic land cards and put them onto the battlefield, where X is five minus the number of lands he or she controls. Then each player who searched his or her library this way shuffles it.",MIR
+Nettletooth Djinn,,Janine Johnston,,Creature — Djinn,"At the beginning of your upkeep, Nettletooth Djinn deals 1 damage to you.",MIR
+Noble Elephant,,Tony Roberts,,Creature — Elephant,"Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",MIR
+Nocturnal Raid,,John Matson,,Instant,Black creatures get +2/+0 until end of turn.,"MIR,7ED"
+Null Chamber,,Douglas Shuler,,World Enchantment,"As Null Chamber enters the battlefield, you and an opponent each name a card other than a basic land card.\nThe named cards can't be played.",MIR
+Pacifism,,Robert Bliss,,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack or block.,"MIR,TMP,USG,ATH,6ED,BRB,7ED,ONS,8ED,9ED,10E,DDC,M10,M11,M12,M13,M14,DD3_DVD,DTK,TPR"
+Painful Memories,,John Coulthart,,Sorcery,Look at target opponent's hand and choose a card from it. Put that card on top of that player's library.,"MIR,6ED"
+Patagia Golem,,Scott Kirschner,,Artifact Creature — Golem,{3}: Patagia Golem gains flying until end of turn.,"MIR,6ED,7ED,8ED"
+Paupers' Cage,,Mike Kimble,,Artifact,"At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Paupers' Cage deals 2 damage to him or her.",MIR
+Pearl Dragon,,Ian Miller,,Creature — Dragon,Flying\n{1}{W}: Pearl Dragon gets +0/+1 until end of turn.,"MIR,6ED"
+Phyrexian Dreadnought,,Pete Venters,,Artifact Creature — Dreadnought,"Trample\nWhen Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.","MIR,pJGP"
+Phyrexian Purge,,Robert Bliss,,Sorcery,Destroy any number of target creatures.\nPhyrexian Purge costs 3 life more to cast for each target.,MIR
+Phyrexian Tribute,,John Matson,,Sorcery,"As an additional cost to cast Phyrexian Tribute, sacrifice two creatures.\nDestroy target artifact.",MIR
+Phyrexian Vault,,Hannibal King,,Artifact,"{2}, {T}, Sacrifice a creature: Draw a card.","MIR,6ED,10E,DDE"
+Plains,,Tom Wänerstrand,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Tom Wänerstrand,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Tom Wänerstrand,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Tom Wänerstrand,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Political Trickery,,Scott Kirschner,,Sorcery,Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.),MIR
+Polymorph,,Robert Bliss,,Sorcery,"Destroy target creature. It can't be regenerated. Its controller reveals cards from the top of his or her library until he or she reveals a creature card. The player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.","MIR,6ED,9ED,M10"
+Power Sink,,Charles Gillespie,,Instant,"Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,USG,6ED,BTD,VMA"
+Preferred Selection,,Kev Walker,,Enchantment,"At the beginning of your upkeep, look at the top two cards of your library. You may sacrifice Preferred Selection and pay {2}{G}{G}. If you do, put one of those cards into your hand. If you don't, put one of those cards on the bottom of your library.",MIR
+Prismatic Boon,,Thomas Gianni,,Instant,Choose a color. X target creatures gain protection from the chosen color until end of turn.,MIR
+Prismatic Circle,,Pete Venters,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAs Prismatic Circle enters the battlefield, choose a color.
+{1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.",MIR
+Prismatic Lace,,David O'Connor,,Instant,Target permanent becomes the color or colors of your choice. (This effect lasts indefinitely.),MIR
+Psychic Transfer,,Dom!,,Sorcery,"If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.","MIR,6ED,S99"
+Purgatory,,Mike Dringenberg,,Enchantment,"Whenever a nontoken creature is put into your graveyard from the battlefield, exile that card.\nAt the beginning of your upkeep, you may pay {4} and 2 life. If you do, return a card exiled with Purgatory to the battlefield.",MIR
+Purraj of Urborg,,John Matson,,Legendary Creature — Cat Warrior,"Purraj of Urborg has first strike as long as it's attacking.\nWhenever a player casts a black spell, you may pay {B}. If you do, put a +1/+1 counter on Purraj of Urborg.",MIR
+Pyric Salamander,,Tony Roberts,,Creature — Salamander,{R}: Pyric Salamander gets +1/+0 until end of turn. Sacrifice Pyric Salamander at the beginning of the next end step.,MIR
+Quirion Elves,,Randy Gallegos,,Creature — Elf Druid,"As Quirion Elves enters the battlefield, choose a color.\n{T}: Add {G} to your mana pool.
+{T}: Add one mana of the chosen color to your mana pool.","MIR,BTD,INV,DDE"
+Radiant Essence,,Jennifer Law,,Creature — Spirit,Radiant Essence gets +1/+2 as long as an opponent controls a black permanent.,MIR
+Raging Spirit,,Scott M. Fischer,,Creature — Spirit,{2}: Raging Spirit becomes colorless until end of turn.,MIR
+Rampant Growth,,Pat Morrissey,,Sorcery,Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.,"MIR,TMP,6ED,BTD,7ED,pMPR,8ED,9ED,10E,M10,HOP,DPA,M12,TPR,MM2,C15"
+Rashida Scalebane,,Randy Gallegos,,Legendary Creature — Human Soldier,{T}: Destroy target attacking or blocking Dragon. It can't be regenerated. You gain life equal to its power.,MIR
+Ravenous Vampire,,John Bolton,,Creature — Vampire,"Flying\nAt the beginning of your upkeep, you may sacrifice a nonartifact creature. If you do, put a +1/+1 counter on Ravenous Vampire. If you don't, tap Ravenous Vampire.",MIR
+Ray of Command,,Andrew Robinson,,Instant,"Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.","ICE,MIR,5ED,BRB,ME2,CMD,DDM"
+Razor Pendulum,,Zak Plucinski,,Artifact,"At the beginning of each player's end step, if that player has 5 or less life, Razor Pendulum deals 2 damage to him or her.",MIR
+Reality Ripple,,Alan Rabinowitz,,Instant,"Target artifact, creature, or land phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",MIR
+Reckless Embermage,,Tom Kyffin,,Creature — Human Wizard,{1}{R}: Reckless Embermage deals 1 damage to target creature or player and 1 damage to itself.,"MIR,6ED,7ED"
+Reflect Damage,,Ron Spencer,,Instant,"The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.",MIR
+Regeneration,,Charles Gillespie,,Enchantment — Aura,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\n{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,6ED,7ED,8ED,9ED,10E"
+Reign of Chaos,,Kathryn Rathke,,Sorcery,Choose one —\n• Destroy target Plains and target white creature.
+• Destroy target Island and target blue creature.,MIR
+Reign of Terror,,Gary Leach,,Sorcery,Destroy all green creatures or all white creatures. They can't be regenerated. You lose 2 life for each creature that died this way.,MIR
+Reparations,,Douglas Shuler,,Enchantment,"Whenever an opponent casts a spell that targets you or a creature you control, you may draw a card.",MIR
+Restless Dead,,Ian Miller,,Creature — Skeleton,{B}: Regenerate Restless Dead.,MIR
+Ritual of Steel,,Mark Poole,,Enchantment — Aura,"Enchant creature\nWhen Ritual of Steel enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +0/+2.",MIR
+Rock Basilisk,,Ian Miller,,Creature — Basilisk,"Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",MIR
+Rocky Tar Pit,,Jeff Miracola,,Land,"Rocky Tar Pit enters the battlefield tapped.\n{T}, Sacrifice Rocky Tar Pit: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.","MIR,VMA,DDP"
+Roots of Life,,Tony Roberts,,Enchantment,"As Roots of Life enters the battlefield, choose Island or Swamp.\nWhenever a land of the chosen type an opponent controls becomes tapped, you gain 1 life.",MIR
+Sabertooth Cobra,,Andrew Robinson,,Creature — Snake,"Whenever Sabertooth Cobra deals damage to a player, he or she gets a poison counter. That player gets another poison counter at the beginning of his or her next upkeep unless he or she pays {2} before that step. (A player with ten or more poison counters loses the game.)",MIR
+Sacred Mesa,,Margaret Organ-Kean,,Enchantment,"At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.\n{1}{W}: Put a 1/1 white Pegasus creature token with flying onto the battlefield.","MIR,ATH,TSB,C14"
+Sand Golem,,John Matson,,Artifact Creature — Golem,"When a spell or ability an opponent controls causes you to discard Sand Golem, return Sand Golem from your graveyard to the battlefield with a +1/+1 counter on it at the beginning of the next end step.",MIR
+Sandbar Crocodile,,Una Fricker,,Creature — Crocodile,"Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",MIR
+Sandstorm,,Mike Kimble,,Instant,Sandstorm deals 1 damage to each attacking creature.,"ARN,4ED,MIR,BRB,ME4"
+Sapphire Charm,,Steve Luke,,Instant,"Choose one —\n• Target player draws a card at the beginning of the next turn's upkeep.
+• Target creature gains flying until end of turn.
+• Target creature an opponent controls phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)",MIR
+Savage Twister,,Bob Eggleton,,Sorcery,Savage Twister deals X damage to each creature.,"MIR,GPT,HOP,ARC,CMD,C13,MM2"
+Sawback Manticore,,Martin McKenna,,Creature — Manticore,{4}: Sawback Manticore gains flying until end of turn.\n{1}: Sawback Manticore deals 2 damage to target attacking or blocking creature. Activate this ability only if Sawback Manticore is attacking or blocking and only once each turn.,MIR
+Sea Scryer,,Martin McKenna,,Creature — Merfolk Wizard,"{T}: Add {1} to your mana pool.\n{1}, {T}: Add {U} to your mana pool.",MIR
+Sealed Fate,,Terese Nielsen,,Sorcery,Look at the top X cards of target opponent's library. Exile one of those cards and put the rest back on top of that player's library in any order.,MIR
+Searing Spear Askari,,Richard Kane Ferguson,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{R}: Searing Spear Askari gains menace until end of turn. (It can't be blocked except by two or more creatures.)",MIR
+Seedling Charm,,Stuart Griffin,,Instant,Choose one —\n• Return target Aura attached to a creature to its owner's hand.
+• Regenerate target green creature.
+• Target creature gains trample until end of turn.,MIR
+Seeds of Innocence,,Junior Tomlin,,Sorcery,Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its converted mana cost.,MIR
+Serene Heart,,D. Alexander Gregory,,Instant,Destroy all Auras.,MIR
+Sewer Rats,,Martin McKenna,,Creature — Rat,"{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.","MIR,BRB"
+Shadow Guildmage,,Mike Kimble,,Creature — Human Wizard,"{U}, {T}: Put target creature you control on top of its owner's library.\n{R}, {T}: Shadow Guildmage deals 1 damage to target creature or player and 1 damage to you.","MIR,TSB"
+Shadowbane,,Douglas Shuler,,Instant,"The next time a source of your choice would deal damage to you and/or creatures you control this turn, prevent that damage. If damage from a black source is prevented this way, you gain that much life.",MIR
+Shallow Grave,,John Coulthart,,Instant,Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.,MIR
+Shaper Guildmage,,D. Alexander Gregory,,Creature — Human Wizard,"{W}, {T}: Target creature gains first strike until end of turn.\n{B}, {T}: Target creature gets +1/+0 until end of turn.",MIR
+"Shauku, Endbringer",,Pete Venters,,Legendary Creature — Vampire,"Flying\nShauku, Endbringer can't attack if there's another creature on the battlefield.
+At the beginning of your upkeep, you lose 3 life.
+{T}: Exile target creature and put a +1/+1 counter on Shauku.",MIR
+Shauku's Minion,,Greg Simanson,,Creature — Human Minion,"{B}{R}, {T}: Shauku's Minion deals 2 damage to target white creature.",MIR
+Shimmer,,David A. Cherry,,Enchantment,"As Shimmer enters the battlefield, choose a land type.\nEach land of the chosen type has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",MIR
+Sidar Jabari,,Gerry Grace,,Legendary Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhenever Sidar Jabari attacks, tap target creature defending player controls.","MIR,VMA"
+Sirocco,,Alan Rabinowitz,,Instant,"Target player reveals his or her hand. For each blue instant card revealed this way, that player discards that card unless he or she pays 4 life.",MIR
+Skulking Ghost,,Robert Bliss,,Creature — Spirit,"Flying\nWhen Skulking Ghost becomes the target of a spell or ability, sacrifice it.",MIR
+Sky Diamond,,D. Alexander Gregory,,Artifact,Sky Diamond enters the battlefield tapped.\n{T}: Add {U} to your mana pool.,"MIR,6ED,7ED,C14"
+Soar,,Tony Roberts,,Enchantment — Aura,"You may cast Soar as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature
+Enchanted creature gets +0/+1 and has flying.",MIR
+Soul Echo,,Ron Spencer,,Enchantment,"Soul Echo enters the battlefield with X echo counters on it.\nYou don't lose the game for having 0 or less life.
+At the beginning of your upkeep, sacrifice Soul Echo if there are no echo counters on it. Otherwise, target opponent may choose that for each 1 damage that would be dealt to you until your next upkeep, you remove an echo counter from Soul Echo instead.",MIR
+Soul Rend,,Jeff Miracola,,Instant,Destroy target creature if it's white. A creature destroyed this way can't be regenerated.\nDraw a card at the beginning of the next turn's upkeep.,MIR
+Soulshriek,,John Bolton,,Instant,"Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at the beginning of the next end step.",MIR
+Spatial Binding,,Dom!,,Enchantment,"Pay 1 life: Until your next upkeep, target permanent can't phase out.",MIR
+Spectral Guardian,,Mike Dringenberg,,Creature — Spirit,"As long as Spectral Guardian is untapped, noncreature artifacts have shroud. (They can't be the targets of spells or abilities.)",MIR
+Spirit of the Night,,Cliff Nielsen,,Legendary Creature — Demon Spirit,"Flying, trample, haste, protection from black\nSpirit of the Night has first strike as long as it's attacking.",MIR
+Spitting Earth,,Brian Snõddy,,Sorcery,Spitting Earth deals damage to target creature equal to the number of Mountains you control.,"MIR,POR,PO2,6ED,S99,7ED,10E,EVG,DDG,DD3_EVG"
+Stalking Tiger,,Terese Nielsen,,Creature — Cat,Stalking Tiger can't be blocked by more than one creature.,"MIR,POR,6ED,PTK,10E"
+Stone Rain,,Tony Roberts,,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED"
+Stupor,,Mike Kimble,,Sorcery,"Target opponent discards a card at random, then discards a card.","pARL,MIR,6ED,TSB"
+Subterranean Spirit,,John Bolton,,Creature — Elemental Spirit,Protection from red\n{T}: Subterranean Spirit deals 1 damage to each creature without flying.,MIR
+Sunweb,,Dan Frazier,,Creature — Wall,Defender (This creature can't attack.)\nFlying
+Sunweb can't block creatures with power 2 or less.,"MIR,6ED,7ED,8ED"
+Superior Numbers,,Geofrey Darrow,,Sorcery,Superior Numbers deals damage to target creature equal to the number of creatures you control in excess of the number of creatures target opponent controls.,MIR
+Suq'Ata Firewalker,,David O'Connor,,Creature — Human Wizard,Suq'Ata Firewalker can't be the target of red spells or abilities from red sources.\n{T}: Suq'Ata Firewalker deals 1 damage to target creature or player.,MIR
+Swamp,,Bob Eggleton,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Bob Eggleton,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Bob Eggleton,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Bob Eggleton,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Tainted Specter,,Chippy,,Creature — Specter,"Flying\n{1}{B}{B}, {T}: Target player discards a card unless he or she puts a card from his or her hand on top of his or her library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery.",MIR
+Talruum Minotaur,,Pete Venters,,Creature — Minotaur Berserker,Haste,"MIR,6ED,BTD"
+Taniwha,,Ian Miller,,Legendary Creature — Serpent,"Trample\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+At the beginning of your upkeep, all lands you control phase out. (They phase in before you untap during your next untap step.)",MIR
+Teeka's Dragon,,Liz Danforth,,Artifact Creature — Dragon,"Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)",MIR
+Teferi's Curse,,Robert Bliss,,Enchantment — Aura,"Enchant artifact or creature\nEnchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",MIR
+Teferi's Drake,,Kari Johnson,,Creature — Drake,"Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)",MIR
+Teferi's Imp,,Una Fricker,,Creature — Imp,"Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Whenever Teferi's Imp phases out, discard a card.
+Whenever Teferi's Imp phases in, draw a card.",MIR
+Teferi's Isle,,Gerry Grace,,Legendary Land,"Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nTeferi's Isle enters the battlefield tapped.
+{T}: Add {U}{U} to your mana pool.",MIR
+Telim'Tor,,Kev Walker,,Legendary Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhenever Telim'Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn.",MIR
+Telim'Tor's Darts,,Kev Walker,,Artifact,"{2}, {T}: Telim'Tor's Darts deals 1 damage to target player.",MIR
+Telim'Tor's Edict,,Kev Walker,,Instant,Exile target permanent you own or control.\nDraw a card at the beginning of the next turn's upkeep.,MIR
+Teremko Griffin,,Martin McKenna,,Creature — Griffin,"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",MIR
+Thirst,,Roger Raupp,,Enchantment — Aura,"Enchant creature\nWhen Thirst enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+At the beginning of your upkeep, sacrifice Thirst unless you pay {U}.",MIR
+Tidal Wave,,Brian Snõddy,,Instant,Put a 5/5 blue Wall creature token with defender onto the battlefield. Sacrifice it at the beginning of the next end step.,MIR
+Tombstone Stairwell,,Dom!,,World Enchantment,"Cumulative upkeep {1}{B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of each upkeep, if Tombstone Stairwell is on the battlefield, each player puts a 2/2 black Zombie creature token with haste named Tombspawn onto the battlefield for each creature card in his or her graveyard.
+At the beginning of each end step or when Tombstone Stairwell leaves the battlefield, destroy all tokens put onto the battlefield with Tombstone Stairwell. They can't be regenerated.",MIR
+Torrent of Lava,,Kathryn Rathke,,Sorcery,"Torrent of Lava deals X damage to each creature without flying.\nAs long as Torrent of Lava is on the stack, each creature has "{T}: Prevent the next 1 damage that would be dealt to this creature by Torrent of Lava this turn."",MIR
+Tranquil Domain,,D. Alexander Gregory,,Instant,Destroy all non-Aura enchantments.,MIR
+Tropical Storm,,Richard Kane Ferguson,,Sorcery,Tropical Storm deals X damage to each creature with flying and 1 additional damage to each blue creature.,MIR
+Uktabi Faerie,,Junior Tomlin,,Creature — Faerie,"Flying\n{3}{G}, Sacrifice Uktabi Faerie: Destroy target artifact.",MIR
+Uktabi Wildcats,,John Matson,,Creature — Cat,"Uktabi Wildcats's power and toughness are each equal to the number of Forests you control.\n{G}, Sacrifice a Forest: Regenerate Uktabi Wildcats.","MIR,6ED,7ED"
+Unerring Sling,,Zak Plucinski,,Artifact,"{3}, {T}, Tap an untapped creature you control: Unerring Sling deals damage equal to the tapped creature's power to target attacking or blocking creature with flying.",MIR
+Unfulfilled Desires,,D. Alexander Gregory,,Enchantment,"{1}, Pay 1 life: Draw a card, then discard a card.",MIR
+Unseen Walker,,Alan Rabinowitz,,Creature — Dryad,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\n{1}{G}{G}: Target creature gains forestwalk until end of turn.,"MIR,6ED"
+Unyaro Bee Sting,,Pat Morrissey,,Sorcery,Unyaro Bee Sting deals 2 damage to target creature or player.,MIR
+Unyaro Griffin,,Al Davidson,,Creature — Griffin,Flying\nSacrifice Unyaro Griffin: Counter target red instant or sorcery spell.,"MIR,6ED"
+Urborg Panther,,Cliff Nielsen,,Creature — Nightstalker Cat,"{B}, Sacrifice Urborg Panther: Destroy target creature blocking Urborg Panther.\nSacrifice a creature named Feral Shadow, a creature named Breathstealer, and Urborg Panther: Search your library for a card named Spirit of the Night and put that card onto the battlefield. Then shuffle your library.",MIR
+Vaporous Djinn,,Adam Rex,,Creature — Djinn,"Flying\nAt the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",MIR
+Ventifact Bottle,,Ron Spencer,,Artifact,"{X}{1}, {T}: Put X charge counters on Ventifact Bottle. Activate this ability only any time you could cast a sorcery.\nAt the beginning of your precombat main phase, if Ventifact Bottle has a charge counter on it, tap it and remove all charge counters from it. Add {1} to your mana pool for each charge counter removed this way.",MIR
+Viashino Warrior,,Roger Raupp,,Creature — Viashino Warrior,,"MIR,6ED,BTD"
+Vigilant Martyr,,Rebecca Guay,,Creature — Human Cleric,"Sacrifice Vigilant Martyr: Regenerate target creature.\n{W}{W}, {T}, Sacrifice Vigilant Martyr: Counter target spell that targets an enchantment.",MIR
+Village Elder,,Donato Giancola,,Creature — Human Druid,"{G}, {T}, Sacrifice a Forest: Regenerate target creature.","MIR,BRB"
+Vitalizing Cascade,,Rebecca Guay,,Instant,You gain X plus 3 life.,MIR
+Volcanic Dragon,,Janine Johnston,,Creature — Dragon,Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.),"MIR,POR,ATH,6ED,S99,M12"
+Volcanic Geyser,,David O'Connor,,Instant,Volcanic Geyser deals X damage to target creature or player.,"MIR,6ED,pFNM,M13,M14"
+Waiting in the Weeds,,Susan Van Camp,,Sorcery,Each player puts a 1/1 green Cat creature token onto the battlefield for each untapped Forest he or she controls.,"MIR,6ED"
+Wall of Corpses,,Gary Leach,,Creature — Wall,"Defender (This creature can't attack.)\n{B}, Sacrifice Wall of Corpses: Destroy target creature Wall of Corpses is blocking.",MIR
+Wall of Resistance,,Harold McNeill,,Creature — Wall,"Defender (This creature can't attack.)\nFlying
+At the beginning of each end step, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.",MIR
+Wall of Roots,,John Matson,,Creature — Plant Wall,Defender\nPut a -0/-1 counter on Wall of Roots: Add {G} to your mana pool. Activate this ability only once each turn.,"MIR,pFNM,TSB,ARC"
+Ward of Lights,,Mike Dringenberg,,Enchantment — Aura,"You may cast Ward of Lights as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature
+As Ward of Lights enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Ward of Lights.",MIR
+Warping Wurm,,Scott M. Fischer,,Creature — Wurm,"Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nAt the beginning of your upkeep, Warping Wurm phases out unless you pay {2}{G}{U}.
+When Warping Wurm phases in, put a +1/+1 counter on it.",MIR
+Wave Elemental,,Zak Plucinski,,Creature — Elemental,"{U}, {T}, Sacrifice Wave Elemental: Tap up to three target creatures without flying.",MIR
+Wellspring,,Susan Van Camp,,Enchantment — Aura,"Enchant land\nWhen Wellspring enters the battlefield, gain control of enchanted land until end of turn.
+At the beginning of your upkeep, untap enchanted land. You gain control of that land until end of turn.",MIR
+Wild Elephant,,Junior Tomlin,,Creature — Elephant,Trample,MIR
+Wildfire Emissary,,Richard Kane Ferguson,,Creature — Efreet,Protection from white\n{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.,"MIR,BRB,TSB"
+Windreaper Falcon,,Tony Roberts,,Creature — Bird,"Flying, protection from blue",MIR
+Withering Boon,,Robert Bliss,,Instant,"As an additional cost to cast Withering Boon, pay 3 life.\nCounter target creature spell.",MIR
+Worldly Tutor,,David O'Connor,,Instant,"Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.","MIR,6ED"
+Yare,,Ron Spencer,,Instant,Target creature defending player controls gets +3/+0 until end of turn. That creature can block up to two additional creatures this turn.,MIR
+Zebra Unicorn,,Margaret Organ-Kean,,Creature — Unicorn,"Whenever Zebra Unicorn deals damage, you gain that much life.",MIR
+Zhalfirin Commander,,Stuart Griffin,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.","MIR,TSB,DDG"
+Zhalfirin Knight,,John Bolton,,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{W}{W}: Zhalfirin Knight gains first strike until end of turn.",MIR
+Zirilan of the Claw,,Andrew Robinson,,Legendary Creature — Viashino Shaman,"{1}{R}{R}, {T}: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.",MIR
+Zombie Mob,,Terese Nielsen,,Creature — Zombie,"Zombie Mob enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.\nWhen Zombie Mob enters the battlefield, exile all creature cards from your graveyard.",MIR
+"Zuberi, Golden Feather",,Alan Rabinowitz,,Legendary Creature — Griffin,Flying\nOther Griffin creatures get +1/+1.,MIR

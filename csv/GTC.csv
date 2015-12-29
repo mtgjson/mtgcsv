@@ -1,0 +1,280 @@
+name,cost,artist,number,type,text,printings
+Aerial Maneuver,,Scott Chou,1,Instant,Target creature gets +1/+1 and gains flying and first strike until end of turn.,GTC
+Angelic Edict,,Trevor Claxton,2,Sorcery,Exile target creature or enchantment.,GTC
+Angelic Skirmisher,,David Rapoza,3,Creature — Angel,"Flying\nAt the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.","pMEI,GTC"
+Assault Griffin,,Eric Velhagen,4,Creature — Griffin,Flying,"M11,M12,GTC"
+Basilica Guards,,Dan Scott,5,Creature — Human Soldier,"Defender\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",GTC
+Blind Obedience,,Seb McKinnon,6,Enchantment,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nArtifacts and creatures your opponents control enter the battlefield tapped.",GTC
+Boros Elite,,Willian Murai,7,Creature — Human Soldier,"Battalion — Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn.",GTC
+Court Street Denizen,,Volkan Baga,8,Creature — Human Soldier,"Whenever another white creature enters the battlefield under your control, tap target creature an opponent controls.","GTC,DDO"
+Daring Skyjek,,Jason Chan,9,Creature — Human Knight,"Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.",GTC
+Debtor's Pulpit,,James Paick,10,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Tap target creature.",GTC
+Dutiful Thrull,,Daarken,11,Creature — Thrull,{B}: Regenerate Dutiful Thrull.,GTC
+Frontline Medic,,Willian Murai,12,Creature — Human Cleric,"Battalion — Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.\nSacrifice Frontline Medic: Counter target spell with {X} in its mana cost unless its controller pays {3}.",GTC
+"Gideon, Champion of Justice",,David Rapoza,13,Planeswalker — Gideon,"+1: Put a loyalty counter on Gideon, Champion of Justice for each creature target opponent controls.\n0: Until end of turn, Gideon, Champion of Justice becomes a Human Soldier creature with power and toughness each equal to the number of loyalty counters on him and gains indestructible. He's still a planeswalker. Prevent all damage that would be dealt to him this turn.
+−15: Exile all other permanents.",GTC
+Guardian of the Gateless,,Wesley Burt,14,Creature — Angel,"Flying\nGuardian of the Gateless can block any number of creatures.
+Whenever Guardian of the Gateless blocks, it gets +1/+1 until end of turn for each creature it's blocking.",GTC
+Guildscorn Ward,,Ryan Barger,15,Enchantment — Aura,Enchant creature\nEnchanted creature has protection from multicolored.,GTC
+Hold the Gates,,Zoltan Boros,16,Enchantment,Creatures you control get +0/+1 for each Gate you control and have vigilance.,GTC
+Holy Mantle,,Maciej Kuciara,17,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has protection from creatures.,GTC
+Knight of Obligation,,Ryan Barger,18,Creature — Human Knight,"Vigilance\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",GTC
+Knight Watch,,Matt Stewart,19,Sorcery,Put two 2/2 white Knight creature tokens with vigilance onto the battlefield.,GTC
+Luminate Primordial,,Stephan Martiniere,20,Creature — Avatar,"Vigilance\nWhen Luminate Primordial enters the battlefield, for each opponent, exile up to one target creature that player controls and that player gains life equal to its power.",GTC
+Murder Investigation,,Igor Kieryluk,21,Enchantment — Aura,"Enchant creature you control\nWhen enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.","GTC,ORI"
+Nav Squad Commandos,,Steve Prescott,22,Creature — Human Soldier,"Battalion — Whenever Nav Squad Commandos and at least two other creatures attack, Nav Squad Commandos gets +1/+1 until end of turn. Untap it.",GTC
+Righteous Charge,,Svetlin Velinov,23,Sorcery,Creatures you control get +2/+2 until end of turn.,"PO2,S99,ME4,GTC"
+Shielded Passage,,Raymond Swanland,24,Instant,Prevent all damage that would be dealt to target creature this turn.,GTC
+Smite,,Zoltan Boros,25,Instant,Destroy target blocked creature.,"STH,ROE,GTC,TPR"
+Syndic of Tithes,,Steve Prescott,26,Creature — Human Cleric,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",GTC
+Urbis Protector,,Steve Argyle,27,Creature — Human Cleric,"When Urbis Protector enters the battlefield, put a 4/4 white Angel creature token with flying onto the battlefield.",GTC
+Zarichi Tiger,,Nic Klein,28,Creature — Cat,"{1}{W}, {T}: You gain 2 life.",GTC
+Ætherize,,Ryan Barger,29,Instant,Return all attacking creatures to their owner's hand.,"GTC,DDO,C15"
+Agoraphobia,,Jim Murray,30,Enchantment — Aura,Enchant creature\nEnchanted creature gets -5/-0.
+{2}{U}: Return Agoraphobia to its owner's hand.,"GTC,DDM"
+Clinging Anemones,,Mike Bierek,31,Creature — Jellyfish,"Defender\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",GTC
+Cloudfin Raptor,,Peter Mohrbacher,32,Creature — Bird Mutant,"Flying\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",GTC
+Diluvian Primordial,,Stephan Martiniere,33,Creature — Avatar,"Flying\nWhen Diluvian Primordial enters the battlefield, for each opponent, you may cast up to one target instant or sorcery card from that player's graveyard without paying its mana cost. If a card cast this way would be put into a graveyard this turn, exile it instead.",GTC
+Enter the Infinite,,Terese Nielsen,34,Sorcery,"Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.",GTC
+Frilled Oculus,,Marco Nelor,35,Creature — Homunculus,{1}{G}: Frilled Oculus gets +2/+2 until end of turn. Activate this ability only once each turn.,GTC
+Gridlock,,Yeong-Hao Han,36,Instant,Tap X target nonland permanents.,GTC
+Hands of Binding,,Raymond Swanland,37,Sorcery,"Tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Incursion Specialist,,Svetlin Velinov,38,Creature — Human Wizard,"Whenever you cast your second spell each turn, Incursion Specialist gets +2/+0 until end of turn and can't be blocked this turn.",GTC
+Keymaster Rogue,,Winona Nelson,39,Creature — Human Rogue,"Keymaster Rogue can't be blocked.\nWhen Keymaster Rogue enters the battlefield, return a creature you control to its owner's hand.",GTC
+Last Thoughts,,Peter Mohrbacher,40,Sorcery,"Draw a card.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Leyline Phantom,,Ryan Yee,41,Creature — Illusion,"When Leyline Phantom deals combat damage, return it to its owner's hand. (Return it only if it survived combat.)","GTC,DDM"
+Metropolis Sprite,,Scott Chou,42,Creature — Faerie Rogue,Flying\n{U}: Metropolis Sprite gets +1/-1 until end of turn.,GTC
+Mindeye Drake,,Lars Grant-West,43,Creature — Drake,"Flying\nWhen Mindeye Drake dies, target player puts the top five cards of his or her library into his or her graveyard.",GTC
+Rapid Hybridization,,Jack Wang,44,Instant,Destroy target creature. It can't be regenerated. That creature's controller puts a 3/3 green Frog Lizard creature token onto the battlefield.,"GTC,C15"
+Realmwright,,Slawomir Maniak,45,Creature — Vedalken Wizard,"As Realmwright enters the battlefield, choose a basic land type.\nLands you control are the chosen type in addition to their other types.",GTC
+Sage's Row Denizen,,Svetlin Velinov,46,Creature — Vedalken Wizard,"Whenever another blue creature enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.",GTC
+Sapphire Drake,,Steve Prescott,47,Creature — Drake,Flying\nEach creature you control with a +1/+1 counter on it has flying.,GTC
+Scatter Arc,,Peter Mohrbacher,48,Instant,Counter target noncreature spell.\nDraw a card.,GTC
+Simic Fluxmage,,Karl Kopinski,49,Creature — Merfolk Wizard,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\n{1}{U}, {T}: Move a +1/+1 counter from Simic Fluxmage onto target creature.",GTC
+Simic Manipulator,,Maciej Kuciara,50,Creature — Mutant Wizard,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\n{T}, Remove one or more +1/+1 counters from Simic Manipulator: Gain control of target creature with power less than or equal to the number of +1/+1 counters removed this way.",GTC
+Skygames,,Sam Burley,51,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Target creature gains flying until end of turn. Activate this ability only any time you could cast a sorcery.",GTC
+Spell Rupture,,Kev Walker,52,Instant,"Counter target spell unless its controller pays {X}, where X is the greatest power among creatures you control.",GTC
+Stolen Identity,,Clint Cearley,53,Sorcery,"Put a token onto the battlefield that's a copy of target artifact or creature.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Totally Lost,,David Palumbo,54,Instant,Put target nonland permanent on top of its owner's library.,GTC
+Voidwalk,,James Ryman,55,Sorcery,"Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Way of the Thief,,Igor Kieryluk,56,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.
+Enchanted creature can't be blocked as long as you control a Gate.,GTC
+Balustrade Spy,,Jaime Jones,57,Creature — Vampire Rogue,"Flying\nWhen Balustrade Spy enters the battlefield, target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.",GTC
+Basilica Screecher,,Christine Choi,58,Creature — Bat,"Flying\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",GTC
+Contaminated Ground,,Christine Choi,59,Enchantment — Aura,"Enchant land\nEnchanted land is a Swamp.
+Whenever enchanted land becomes tapped, its controller loses 2 life.","ROE,GTC"
+Corpse Blockade,,Lucas Graciano,60,Creature — Zombie,Defender\nSacrifice another creature: Corpse Blockade gains deathtouch until end of turn.,GTC
+Crypt Ghast,,Chris Rahn,61,Creature — Spirit,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nWhenever you tap a Swamp for mana, add {B} to your mana pool (in addition to the mana the land produces).","GTC,C14"
+Death's Approach,,Terese Nielsen,62,Enchantment — Aura,"Enchant creature\nEnchanted creature gets -X/-X, where X is the number of creature cards in its controller's graveyard.",GTC
+Devour Flesh,,Kev Walker,63,Instant,"Target player sacrifices a creature, then gains life equal to that creature's toughness.",GTC
+Dying Wish,,Scott Chou,64,Enchantment — Aura,"Enchant creature you control\nWhen enchanted creature dies, target player loses X life and you gain X life, where X is its power.",GTC
+Gateway Shade,,Ryan Yee,65,Creature — Shade,{B}: Gateway Shade gets +1/+1 until end of turn.\nTap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn.,GTC
+Grisly Spectacle,,Zoltan Boros,66,Instant,Destroy target nonartifact creature. Its controller puts a number of cards equal to that creature's power from the top of his or her library into his or her graveyard.,"GTC,DDM"
+Gutter Skulk,,Mark Winters,67,Creature — Zombie Rat,,GTC
+Horror of the Dim,,Jack Wang,68,Creature — Horror,{U}: Horror of the Dim gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),GTC
+Illness in the Ranks,,Nils Hamm,69,Enchantment,Creature tokens get -1/-1.,GTC
+Killing Glare,,Peter Mohrbacher,70,Instant,Destroy target creature with power X or less.,GTC
+Lord of the Void,,Chris Rahn,71,Creature — Demon,"Flying\nWhenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.",GTC
+Mental Vapors,,Mark Winters,72,Sorcery,"Target player discards a card.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Midnight Recovery,,Peter Mohrbacher,73,Sorcery,"Return target creature card from your graveyard to your hand.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Ogre Slumlord,,Trevor Claxton,74,Creature — Ogre Rogue,"Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.\nRats you control have deathtouch.",GTC
+Sepulchral Primordial,,Stephan Martiniere,75,Creature — Avatar,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.",GTC
+Shadow Alley Denizen,,Cynthia Sheppard,76,Creature — Vampire Rogue,"Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)","GTC,DDM"
+Shadow Slice,,Raymond Swanland,77,Sorcery,"Target opponent loses 3 life.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Slate Street Ruffian,,Jim Murray,78,Creature — Human Warrior,"Whenever Slate Street Ruffian becomes blocked, defending player discards a card.","GTC,DDM"
+Smog Elemental,,Yeong-Hao Han,79,Creature — Elemental,Flying\nCreatures with flying your opponents control get -1/-1.,GTC
+Syndicate Enforcer,,Steven Belledin,80,Creature — Human Rogue,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",GTC
+Thrull Parasite,,Clint Cearley,81,Creature — Thrull,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\n{T}, Pay 2 life: Remove a counter from target nonland permanent.",GTC
+Undercity Informer,,Raymond Swanland,82,Creature — Human Rogue,"{1}, Sacrifice a creature: Target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.",GTC
+Undercity Plague,,Vincent Proce,83,Sorcery,"Target player loses 1 life, discards a card, then sacrifices a permanent.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Wight of Precinct Six,,Ryan Barger,84,Creature — Zombie,Wight of Precinct Six gets +1/+1 for each creature card in your opponents' graveyards.,"GTC,C13,DDM"
+Act of Treason,,Matt Stewart,85,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.),"M10,DPA,M11,M12,GTC,M14,DDN,KTK,ORI"
+Bomber Corps,,Chase Stone,86,Creature — Human Soldier,"Battalion — Whenever Bomber Corps and at least two other creatures attack, Bomber Corps deals 1 damage to target creature or player.",GTC
+Cinder Elemental,,Svetlin Velinov,87,Creature — Elemental,"{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.","MMQ,HOP,GTC"
+Crackling Perimeter,,Yeong-Hao Han,88,Enchantment,Tap an untapped Gate you control: Crackling Perimeter deals 1 damage to each opponent.,GTC
+Ember Beast,,David Rapoza,89,Creature — Beast,Ember Beast can't attack or block alone.,"ODY,GTC"
+Firefist Striker,,Tyler Jacobson,90,Creature — Human Soldier,"Battalion — Whenever Firefist Striker and at least two other creatures attack, target creature can't block this turn.",GTC
+Five-Alarm Fire,,Karl Kopinski,91,Enchantment,"Whenever a creature you control deals combat damage, put a blaze counter on Five-Alarm Fire.\nRemove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 damage to target creature or player.",GTC
+Foundry Street Denizen,,Raoul Vitale,92,Creature — Goblin Warrior,"Whenever another red creature enters the battlefield under your control, Foundry Street Denizen gets +1/+0 until end of turn.","GTC,M15"
+Furious Resistance,,Slawomir Maniak,93,Instant,Target blocking creature gets +3/+0 and gains first strike until end of turn.,GTC
+Hellkite Tyrant,,Aleksi Briclot,94,Creature — Dragon,"Flying, trample\nWhenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls.
+At the beginning of your upkeep, if you control twenty or more artifacts, you win the game.",GTC
+Hellraiser Goblin,,Karl Kopinski,95,Creature — Goblin Berserker,Creatures you control have haste and attack each combat if able.,"GTC,DDN"
+Homing Lightning,,Slawomir Maniak,96,Instant,Homing Lightning deals 4 damage to target creature and each other creature with the same name as that creature.,GTC
+Legion Loyalist,,Eric Deschamps,97,Creature — Goblin Soldier,"Haste\nBattalion — Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can't be blocked by creature tokens this turn.",GTC
+Madcap Skills,,Anthony Palumbo,98,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+0 and has menace. (It can't be blocked except by two or more creatures.),GTC
+Mark for Death,,Mathias Kollros,99,Sorcery,Target creature an opponent controls blocks this turn if able. Untap that creature. Other creatures that player controls can't block this turn.,GTC
+Massive Raid,,Zoltan Boros,100,Instant,Massive Raid deals damage to target creature or player equal to the number of creatures you control.,GTC
+Molten Primordial,,Stephan Martiniere,101,Creature — Avatar,"Haste\nWhen Molten Primordial enters the battlefield, for each opponent, gain control of up to one target creature that player controls until end of turn. Untap those creatures. They gain haste until end of turn.",GTC
+Mugging,,Greg Staples,102,Sorcery,Mugging deals 2 damage to target creature. That creature can't block this turn.,GTC
+Ripscale Predator,,Volkan Baga,103,Creature — Lizard,Menace (This creature can't be blocked except by two or more creatures.),GTC
+Scorchwalker,,Anthony Palumbo,104,Creature — Elemental,"Bloodrush — {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.",GTC
+Skinbrand Goblin,,Marco Nelor,105,Creature — Goblin Warrior,"Bloodrush — {R}, Discard Skinbrand Goblin: Target attacking creature gets +2/+1 until end of turn.",GTC
+Skullcrack,,Dave Kendall,106,Instant,Players can't gain life this turn. Damage can't be prevented this turn. Skullcrack deals 3 damage to target player.,GTC
+Structural Collapse,,Sam Burley,107,Sorcery,Target player sacrifices an artifact and a land. Structural Collapse deals 2 damage to that player.,GTC
+Tin Street Market,,Noah Bradley,108,Enchantment — Aura,"Enchant land\nEnchanted land has "{T}, Discard a card: Draw a card."",GTC
+Towering Thunderfist,,Zoltan Boros,109,Creature — Giant Soldier,{W}: Towering Thunderfist gains vigilance until end of turn.,GTC
+Viashino Shanktail,,Kev Walker,110,Creature — Viashino Warrior,"First strike\nBloodrush — {2}{R}, Discard Viashino Shanktail: Target attacking creature gets +3/+1 and gains first strike until end of turn.",GTC
+Warmind Infantry,,Greg Staples,111,Creature — Elemental Soldier,"Battalion — Whenever Warmind Infantry and at least two other creatures attack, Warmind Infantry gets +2/+0 until end of turn.",GTC
+Wrecking Ogre,,Nils Hamm,112,Creature — Ogre Warrior,"Double strike\nBloodrush — {3}{R}{R}, Discard Wrecking Ogre: Target attacking creature gets +3/+3 and gains double strike until end of turn.",GTC
+Adaptive Snapjaw,,Tomasz Jedruszek,113,Creature — Lizard Beast,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",GTC
+Alpha Authority,,Dave Kendall,114,Enchantment — Aura,Enchant creature\nEnchanted creature has hexproof and can't be blocked by more than one creature.,GTC
+Burst of Strength,,Marco Nelor,115,Instant,Put a +1/+1 counter on target creature and untap it.,GTC
+Crocanura,,Jack Wang,116,Creature — Crocodile Frog,"Reach (This creature can block creatures with flying.)\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",GTC
+Crowned Ceratok,,Steve Prescott,117,Creature — Rhino,Trample\nEach creature you control with a +1/+1 counter on it has trample.,"GTC,DDL"
+Disciple of the Old Ways,,Anthony Palumbo,118,Creature — Human Warrior,{R}: Disciple of the Old Ways gains first strike until end of turn.,GTC
+Experiment One,,Chase Stone,119,Creature — Human Ooze,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nRemove two +1/+1 counters from Experiment One: Regenerate Experiment One.","pFNM,GTC,C15"
+Forced Adaptation,,Trevor Claxton,120,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, put a +1/+1 counter on enchanted creature.",GTC
+Giant Adephage,,Christine Choi,121,Creature — Insect,"Trample\nWhenever Giant Adephage deals combat damage to a player, put a token onto the battlefield that's a copy of Giant Adephage.",GTC
+Greenside Watcher,,Ryan Barger,122,Creature — Elf Druid,{T}: Untap target Gate.,GTC
+Gyre Sage,,Tyler Jacobson,123,Creature — Elf Druid,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\n{T}: Add {G} to your mana pool for each +1/+1 counter on Gyre Sage.",GTC
+Hindervines,,Svetlin Velinov,124,Instant,Prevent all combat damage that would be dealt this turn by creatures with no +1/+1 counters on them.,GTC
+Ivy Lane Denizen,,Winona Nelson,125,Creature — Elf Warrior,"Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on target creature.",GTC
+Miming Slime,,Svetlin Velinov,126,Sorcery,"Put an X/X green Ooze creature token onto the battlefield, where X is the greatest power among creatures you control.",GTC
+Naturalize,,Daniel Ljunggren,127,Instant,Destroy target artifact or enchantment.,"ONS,8ED,9ED,10E,ALA,M10,ROE,DPA,M11,M12,ISD,M13,GTC,M14,M15,KTK,DTK"
+Ooze Flux,,Zoltan Boros,128,Enchantment,"{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.",GTC
+Predator's Rapport,,Matt Stewart,129,Instant,Choose target creature you control. You gain life equal to that creature's power plus its toughness.,GTC
+Rust Scarab,,Adam Paquette,130,Creature — Insect,"Whenever Rust Scarab becomes blocked, you may destroy target artifact or enchantment defending player controls.",GTC
+Scab-Clan Charger,,Nils Hamm,131,Creature — Centaur Warrior,"Bloodrush — {1}{G}, Discard Scab-Clan Charger: Target attacking creature gets +2/+4 until end of turn.",GTC
+Serene Remembrance,,David Palumbo,132,Sorcery,Shuffle Serene Remembrance and up to three target cards from a single graveyard into their owners' libraries.,GTC
+Skarrg Goliath,,Scott Chou,133,Creature — Beast,"Trample\nBloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.","pLPA,GTC"
+Slaughterhorn,,Steve Prescott,134,Creature — Beast,"Bloodrush — {G}, Discard Slaughterhorn: Target attacking creature gets +3/+2 until end of turn.",GTC
+Spire Tracer,,Christopher Moeller,135,Creature — Elf Scout,Spire Tracer can't be blocked except by creatures with flying or reach.,GTC
+Sylvan Primordial,,Stephan Martiniere,136,Creature — Avatar,"Reach\nWhen Sylvan Primordial enters the battlefield, for each opponent, destroy target noncreature permanent that player controls. For each permanent destroyed this way, search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.",GTC
+Tower Defense,,Seb McKinnon,137,Instant,Creatures you control get +0/+5 and gain reach until end of turn.,GTC
+Verdant Haven,,Daniel Ljunggren,138,Enchantment — Aura,"Enchant land\nWhen Verdant Haven enters the battlefield, you gain 2 life.
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).","GTC,M14,M15"
+Wasteland Viper,,Lucas Graciano,139,Creature — Snake,"Deathtouch\nBloodrush — {G}, Discard Wasteland Viper: Target attacking creature gets +1/+2 and gains deathtouch until end of turn.",GTC
+Wildwood Rebirth,,Dan Scott,140,Instant,Return target creature card from your graveyard to your hand.,GTC
+Alms Beast,,Dan Scott,141,Creature — Beast,Creatures blocking or blocked by Alms Beast have lifelink.,GTC
+Assemble the Legion,,Eric Deschamps,142,Enchantment,"At the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion.",GTC
+"Aurelia, the Warleader",,Slawomir Maniak,143,Legendary Creature — Angel,"Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.","GTC,V15"
+Aurelia's Fury,,Tyler Jacobson,144,Instant,Aurelia's Fury deals X damage divided as you choose among any number of target creatures and/or players. Tap each creature dealt damage this way. Players dealt damage this way can't cast noncreature spells this turn.,GTC
+Bane Alley Broker,,Clint Cearley,145,Creature — Human Rogue,"{T}: Draw a card, then exile a card from your hand face down.\nYou may look at cards exiled with Bane Alley Broker.
+{U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand.",GTC
+Biovisionary,,Ryan Barger,146,Creature — Human Wizard,"At the beginning of the end step, if you control four or more creatures named Biovisionary, you win the game.",GTC
+Borborygmos Enraged,,Aleksi Briclot,147,Legendary Creature — Cyclops,"Trample\nWhenever Borborygmos Enraged deals combat damage to a player, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+Discard a land card: Borborygmos Enraged deals 3 damage to target creature or player.",GTC
+Boros Charm,,Zoltan Boros,148,Instant,Choose one —\n• Boros Charm deals 4 damage to target player.
+• Permanents you control gain indestructible until end of turn.
+• Target creature gains double strike until end of turn.,"GTC,C13"
+Call of the Nightwing,,Adam Paquette,149,Sorcery,"Put a 1/1 blue and black Horror creature token with flying onto the battlefield.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Cartel Aristocrat,,James Ryman,150,Creature — Human Advisor,Sacrifice another creature: Cartel Aristocrat gains protection from the color of your choice until end of turn.,GTC
+Clan Defiance,,Daarken,151,Sorcery,Choose one or more —\n• Clan Defiance deals X damage to target creature with flying.
+• Clan Defiance deals X damage to target creature without flying.
+• Clan Defiance deals X damage to target player.,GTC
+Consuming Aberration,,Karl Kopinski,152,Creature — Horror,"Consuming Aberration's power and toughness are each equal to the number of cards in your opponents' graveyards.\nWhenever you cast a spell, each opponent reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.","pPRE,GTC"
+Deathpact Angel,,Jason Chan,153,Creature — Angel,"Flying\nWhen Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has "{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."",GTC
+Dimir Charm,,Zoltan Boros,154,Instant,"Choose one —\n• Counter target sorcery spell.
+• Destroy target creature with power 2 or less.
+• Look at the top three cards of target player's library, then put one back and the rest into that player's graveyard.","pFNM,GTC"
+Dinrova Horror,,Johann Bodin,155,Creature — Horror,"When Dinrova Horror enters the battlefield, return target permanent to its owner's hand, then that player discards a card.",GTC
+Domri Rade,,Tyler Jacobson,156,Planeswalker — Domri,"+1: Look at the top card of your library. If it's a creature card, you may reveal it and put it into your hand.\n−2: Target creature you control fights another target creature.
+−7: You get an emblem with "Creatures you control have double strike, trample, hexproof, and haste."",GTC
+Drakewing Krasis,,Johann Bodin,157,Creature — Lizard Drake,"Flying, trample",GTC
+Duskmantle Guildmage,,Slawomir Maniak,158,Creature — Human Wizard,"{1}{U}{B}: Whenever a card is put into an opponent's graveyard from anywhere this turn, that player loses 1 life.\n{2}{U}{B}: Target player puts the top two cards of his or her library into his or her graveyard.",GTC
+Duskmantle Seer,,Kev Walker,159,Creature — Vampire Wizard,"Flying\nAt the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.",GTC
+Elusive Krasis,,Wesley Burt,160,Creature — Fish Mutant,"Elusive Krasis can't be blocked.\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",GTC
+Executioner's Swing,,Karl Kopinski,161,Instant,Target creature that dealt damage this turn gets -5/-5 until end of turn.,GTC
+Fathom Mage,,Ryan Pancoast,162,Creature — Human Wizard,"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\nWhenever a +1/+1 counter is placed on Fathom Mage, you may draw a card.","pPRE,GTC"
+Firemane Avenger,,Wayne Reynolds,163,Creature — Angel,"Flying\nBattalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to target creature or player and you gain 3 life.","pMGD,GTC"
+Fortress Cyclops,,Maciej Kuciara,164,Creature — Cyclops Soldier,"Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.\nWhenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.",GTC
+Foundry Champion,,Todd Lockwood,165,Creature — Elemental Soldier,"When Foundry Champion enters the battlefield, it deals damage to target creature or player equal to the number of creatures you control.\n{R}: Foundry Champion gets +1/+0 until end of turn.
+{W}: Foundry Champion gets +0/+1 until end of turn.","pPRE,GTC"
+Frenzied Tilling,,Noah Bradley,166,Sorcery,Destroy target land. Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.,"INV,GTC"
+Ghor-Clan Rampager,,Charles Urbach,167,Creature — Beast,"Trample\nBloodrush — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.","pFNM,GTC"
+Ground Assault,,Karl Kopinski,168,Sorcery,Ground Assault deals damage to target creature equal to the number of lands you control.,GTC
+Gruul Charm,,Zoltan Boros,169,Instant,Choose one —\n• Creatures without flying can't block this turn.
+• Gain control of all permanents you own.
+• Gruul Charm deals 3 damage to each creature with flying.,GTC
+Gruul Ragebeast,,Dave Kendall,170,Creature — Beast,"Whenever Gruul Ragebeast or another creature enters the battlefield under your control, that creature fights target creature an opponent controls.",GTC
+High Priest of Penance,,Mark Zug,171,Creature — Human Cleric,"Whenever High Priest of Penance is dealt damage, you may destroy target nonland permanent.",GTC
+Hydroform,,Howard Lyon,172,Instant,Target land becomes a 3/3 Elemental creature with flying until end of turn. It's still a land.,GTC
+Kingpin's Pet,,Mark Zug,173,Creature — Thrull,"Flying\nExtort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",GTC
+"Lazav, Dimir Mastermind",,David Rapoza,174,Legendary Creature — Shapeshifter,"Hexproof\nWhenever a creature card is put into an opponent's graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card except its name is still Lazav, Dimir Mastermind, it's legendary in addition to its other types, and it gains hexproof and this ability.",GTC
+Martial Glory,,Raymond Swanland,175,Instant,Target creature gets +3/+0 until end of turn.\nTarget creature gets +0/+3 until end of turn.,GTC
+Master Biomancer,,Willian Murai,176,Creature — Elf Wizard,Each other creature you control enters the battlefield with a number of additional +1/+1 counters on it equal to Master Biomancer's power and as a Mutant in addition to its other types.,GTC
+Merciless Eviction,,Richard Wright,177,Sorcery,Choose one —\n• Exile all artifacts.
+• Exile all creatures.
+• Exile all enchantments.
+• Exile all planeswalkers.,GTC
+Mind Grind,,Daarken,178,Sorcery,"Each opponent reveals cards from the top of his or her library until he or she reveals X land cards, then puts all cards revealed this way into his or her graveyard. X can't be 0.",GTC
+Mortus Strider,,Tomasz Jedruszek,179,Creature — Skeleton,"When Mortus Strider dies, return it to its owner's hand.",GTC
+Mystic Genesis,,Mike Bierek,180,Instant,"Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.",GTC
+Nimbus Swimmer,,Howard Lyon,181,Creature — Leviathan,Flying\nNimbus Swimmer enters the battlefield with X +1/+1 counters on it.,"GTC,DDO"
+"Obzedat, Ghost Council",,Svetlin Velinov,182,Legendary Creature — Spirit Advisor,"When Obzedat, Ghost Council enters the battlefield, target opponent loses 2 life and you gain 2 life.\nAt the beginning of your end step, you may exile Obzedat. If you do, return it to the battlefield under its owner's control at the beginning of your next upkeep. It gains haste.",GTC
+One Thousand Lashes,,Daarken,183,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.
+At the beginning of the upkeep of enchanted creature's controller, that player loses 1 life.",GTC
+Ordruun Veteran,,Greg Staples,184,Creature — Minotaur Soldier,"Battalion — Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. (It deals both first-strike and regular combat damage.)",GTC
+Orzhov Charm,,Zoltan Boros,185,Instant,Choose one —\n• Return target creature you control and all Auras you control attached to it to their owner's hand.
+• Destroy target creature and you lose life equal to its toughness.
+• Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.,GTC
+Paranoid Delusions,,Christopher Moeller,186,Sorcery,"Target player puts the top three cards of his or her library into his or her graveyard.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Primal Visitation,,Christopher Moeller,187,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+3 and has haste.,GTC
+Prime Speaker Zegana,,Willian Murai,188,Legendary Creature — Merfolk Wizard,"Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, where X is the greatest power among other creatures you control.\nWhen Prime Speaker Zegana enters the battlefield, draw cards equal to its power.","GTC,C15"
+Psychic Strike,,Mathias Kollros,189,Instant,Counter target spell. Its controller puts the top two cards of his or her library into his or her graveyard.,GTC
+Purge the Profane,,Michael C. Hayes,190,Sorcery,Target opponent discards two cards and you gain 2 life.,GTC
+Rubblehulk,,Raymond Swanland,191,Creature — Elemental,"Rubblehulk's power and toughness are each equal to the number of lands you control.\nBloodrush — {1}{R}{G}, Discard Rubblehulk: Target attacking creature gets +X/+X until end of turn, where X is the number of lands you control.","pPRE,GTC"
+Ruination Wurm,,Dave Kendall,192,Creature — Wurm,,GTC
+Shambleshark,,Wesley Burt,193,Creature — Fish Crab,"Flash (You may cast this spell any time you could cast an instant.)\nEvolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)",GTC
+Signal the Clans,,Dave Kendall,194,Instant,"Search your library for three creature cards and reveal them. If you reveal three cards with different names, choose one of them at random and put that card into your hand. Shuffle the rest into your library.",GTC
+Simic Charm,,Zoltan Boros,195,Instant,Choose one —\n• Target creature gets +3/+3 until end of turn.
+• Permanents you control gain hexproof until end of turn.
+• Return target creature to its owner's hand.,GTC
+Skarrg Guildmage,,Aleksi Briclot,196,Creature — Human Shaman,{R}{G}: Creatures you control gain trample until end of turn.\n{1}{R}{G}: Target land you control becomes a 4/4 Elemental creature until end of turn. It's still a land.,GTC
+Skyknight Legionnaire,,Anthony Palumbo,197,Creature — Human Knight,"Flying, haste","pARL,RAV,GTC"
+Soul Ransom,,Steve Argyle,198,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+Discard two cards: Soul Ransom's controller sacrifices it, then draws two cards. Only any opponent may activate this ability.",GTC
+Spark Trooper,,James Ryman,199,Creature — Elemental Soldier,"Trample, lifelink, haste\nAt the beginning of the end step, sacrifice Spark Trooper.",GTC
+Sunhome Guildmage,,Eric Deschamps,200,Creature — Human Wizard,{1}{R}{W}: Creatures you control get +1/+0 until end of turn.\n{2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.,GTC
+Treasury Thrull,,Mark Zug,201,Creature — Thrull,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nWhenever Treasury Thrull attacks, you may return target artifact, creature, or enchantment card from your graveyard to your hand.","pPRE,GTC,C15"
+Truefire Paladin,,Michael C. Hayes,202,Creature — Human Knight,Vigilance\n{R}{W}: Truefire Paladin gets +2/+0 until end of turn.
+{R}{W}: Truefire Paladin gains first strike until end of turn.,"GTC,DDL"
+Unexpected Results,,Mike Bierek,203,Sorcery,"Shuffle your library, then reveal the top card. If it's a nonland card, you may cast it without paying its mana cost. If it's a land card, you may put it onto the battlefield and return Unexpected Results to its owner's hand.",GTC
+Urban Evolution,,Eytan Zana,204,Sorcery,Draw three cards. You may play an additional land this turn.,"GTC,DDO"
+Vizkopa Confessor,,Ryan Pancoast,205,Creature — Human Cleric,"Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)\nWhen Vizkopa Confessor enters the battlefield, pay any amount of life. Target opponent reveals that many cards from his or her hand. You choose one of them and exile it.",GTC
+Vizkopa Guildmage,,Tyler Jacobson,206,Creature — Human Wizard,"{1}{W}{B}: Target creature gains lifelink until end of turn.\n{1}{W}{B}: Whenever you gain life this turn, each opponent loses that much life.","GTC,C13"
+Whispering Madness,,Clint Cearley,207,Sorcery,"Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",GTC
+Wojek Halberdiers,,Nic Klein,208,Creature — Human Soldier,"Battalion — Whenever Wojek Halberdiers and at least two other creatures attack, Wojek Halberdiers gains first strike until end of turn.",GTC
+Zameck Guildmage,,Chase Stone,209,Creature — Elf Wizard,"{G}{U}: This turn, each creature you control enters the battlefield with an additional +1/+1 counter on it.\n{G}{U}, Remove a +1/+1 counter from a creature you control: Draw a card.","pMGD,GTC"
+Zhur-Taa Swine,,Yeong-Hao Han,210,Creature — Boar,"Bloodrush — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.",GTC
+Arrows of Justice,,James Ryman,211,Instant,Arrows of Justice deals 4 damage to target attacking or blocking creature.,GTC
+Beckon Apparition,,Cliff Childs,212,Instant,Exile target card from a graveyard. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.,"EVE,GTC"
+Biomass Mutation,,Dan Scott,213,Instant,Creatures you control have base power and toughness X/X until end of turn.,GTC
+Bioshift,,Scott Chou,214,Instant,Move any number of +1/+1 counters from target creature onto another target creature with the same controller.,GTC
+Boros Reckoner,,Howard Lyon,215,Creature — Minotaur Wizard,"Whenever Boros Reckoner is dealt damage, it deals that much damage to target creature or player.\n{R/W}: Boros Reckoner gains first strike until end of turn.",GTC
+Burning-Tree Emissary,,Izzy,216,Creature — Human Shaman,"When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana pool.",GTC
+Coerced Confession,,Mathias Kollros,217,Sorcery,Target player puts the top four cards of his or her library into his or her graveyard. You draw a card for each creature card put into that graveyard this way.,GTC
+Deathcult Rogue,,David Palumbo,218,Creature — Human Rogue,Deathcult Rogue can't be blocked except by Rogues.,GTC
+Gift of Orzhova,,Johannes Voss,219,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 and has flying and lifelink.,GTC
+Immortal Servitude,,Seb McKinnon,220,Sorcery,Return each creature card with converted mana cost X from your graveyard to the battlefield.,GTC
+Merfolk of the Depths,,Scott Chou,221,Creature — Merfolk Soldier,Flash (You may cast this spell any time you could cast an instant.),GTC
+Nightveil Specter,,Min Yum,222,Creature — Specter,"Flying\nWhenever Nightveil Specter deals combat damage to a player, that player exiles the top card of his or her library.
+You may play cards exiled with Nightveil Specter.","pMEI,GTC"
+Pit Fight,,Matt Stewart,223,Instant,Target creature you control fights another target creature. (Each deals damage equal to its power to the other.),GTC
+Rubblebelt Raiders,,Chippy,224,Creature — Human Warrior,"Whenever Rubblebelt Raiders attacks, put a +1/+1 counter on it for each attacking creature you control.",GTC
+Shattering Blow,,Steve Prescott,225,Instant,Exile target artifact.,GTC
+Armored Transport,,Cliff Childs,226,Artifact Creature — Construct,Prevent all combat damage that would be dealt to Armored Transport by creatures blocking it.,GTC
+Boros Keyrune,,Daniel Ljunggren,227,Artifact,{T}: Add {R} or {W} to your mana pool.\n{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.),GTC
+Dimir Keyrune,,Daniel Ljunggren,228,Artifact,{T}: Add {U} or {B} to your mana pool.\n{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can't be blocked this turn.,GTC
+Glaring Spotlight,,Adam Paquette,229,Artifact,"Creatures your opponents control with hexproof can be the targets of spells and abilities you control as though they didn't have hexproof.\n{3}, Sacrifice Glaring Spotlight: Creatures you control gain hexproof until end of turn and can't be blocked this turn.",GTC
+Gruul Keyrune,,Daniel Ljunggren,230,Artifact,{T}: Add {R} or {G} to your mana pool.\n{R}{G}: Gruul Keyrune becomes a 3/2 red and green Beast artifact creature with trample until end of turn.,GTC
+Illusionist's Bracers,,Svetlin Velinov,231,Artifact — Equipment,"Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.\nEquip {3}",GTC
+Millennial Gargoyle,,Seb McKinnon,232,Artifact Creature — Gargoyle,Flying,GTC
+Orzhov Keyrune,,Daniel Ljunggren,233,Artifact,{T}: Add {W} or {B} to your mana pool.\n{W}{B}: Orzhov Keyrune becomes a 1/4 white and black Thrull artifact creature with lifelink until end of turn.,GTC
+Prophetic Prism,,Daniel Ljunggren,234,Artifact,"When Prophetic Prism enters the battlefield, draw a card.\n{1}, {T}: Add one mana of any color to your mana pool.","ROE,CMD,GTC"
+Razortip Whip,,James Paick,235,Artifact,"{1}, {T}: Razortip Whip deals 1 damage to target opponent.",GTC
+Riot Gear,,Jack Wang,236,Artifact — Equipment,Equipped creature gets +1/+2.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),GTC
+Simic Keyrune,,Daniel Ljunggren,237,Artifact,{T}: Add {G} or {U} to your mana pool.\n{G}{U}: Simic Keyrune becomes a 2/3 green and blue Crab artifact creature with hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),"GTC,C15"
+Skyblinder Staff,,Mark Winters,238,Artifact — Equipment,Equipped creature gets +1/+0 and can't be blocked by creatures with flying.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.),GTC
+Boros Guildgate,,Noah Bradley,239,Land — Gate,Boros Guildgate enters the battlefield tapped.\n{T}: Add {R} or {W} to your mana pool.,"GTC,DGM,DDL,C13,C15"
+Breeding Pool,,Mike Bierek,240,Land — Forest Island,"({T}: Add {G} or {U} to your mana pool.)\nAs Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.","DIS,GTC,EXP"
+Dimir Guildgate,,Cliff Childs,241,Land — Gate,Dimir Guildgate enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.,"GTC,DGM,C13"
+Godless Shrine,,Cliff Childs,242,Land — Plains Swamp,"({T}: Add {W} or {B} to your mana pool.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.","GPT,GTC,EXP"
+Gruul Guildgate,,Randy Gallegos,243,Land — Gate,Gruul Guildgate enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.,"GTC,DGM,C13"
+Orzhov Guildgate,,John Avon,244,Land — Gate,Orzhov Guildgate enters the battlefield tapped.\n{T}: Add {W} or {B} to your mana pool.,"GTC,DGM,C13,C15"
+Sacred Foundry,,Sam Burley,245,Land — Mountain Plains,"({T}: Add {R} or {W} to your mana pool.)\nAs Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.","RAV,GTC,EXP"
+Simic Guildgate,,Svetlin Velinov,246,Land — Gate,Simic Guildgate enters the battlefield tapped.\n{T}: Add {G} or {U} to your mana pool.,"GTC,DGM,C13,C15"
+Stomping Ground,,David Palumbo,247,Land — Mountain Forest,"({T}: Add {R} or {G} to your mana pool.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.","GPT,GTC,EXP"
+Thespian's Stage,,John Avon,248,Land,"{T}: Add {1} to your mana pool.\n{2}, {T}: Thespian's Stage becomes a copy of target land and gains this ability.",GTC
+Watery Grave,,Raymond Swanland,249,Land — Island Swamp,"({T}: Add {U} or {B} to your mana pool.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.","RAV,GTC,EXP"

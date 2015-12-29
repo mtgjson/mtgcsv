@@ -1,0 +1,253 @@
+name,cost,artist,number,type,text,printings
+Aeolipile,,Heather Hudson,,Artifact,"{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.","FEM,ME2"
+Armor Thrull,,Pete Venters,,Creature — Thrull,"{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.","FEM,ME2"
+Armor Thrull,,Scott Kirschner,,Creature — Thrull,"{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.","FEM,ME2"
+Armor Thrull,,Ron Spencer,,Creature — Thrull,"{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.","FEM,ME2"
+Armor Thrull,,Jeff A. Menges,,Creature — Thrull,"{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.","FEM,ME2"
+Balm of Restoration,,Margaret Organ-Kean,,Artifact,"{1}, {T}, Sacrifice Balm of Restoration: Choose one —\n• You gain 2 life.
+• Prevent the next 2 damage that would be dealt to target creature or player this turn.",FEM
+Basal Thrull,,Kaja Foglio,,Creature — Thrull,"{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.","FEM,MED"
+Basal Thrull,,Richard Kane Ferguson,,Creature — Thrull,"{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.","FEM,MED"
+Basal Thrull,,Christopher Rush,,Creature — Thrull,"{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.","FEM,MED"
+Basal Thrull,,Phil Foglio,,Creature — Thrull,"{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.","FEM,MED"
+Bottomless Vault,,Pat Morrissey,,Land,"Bottomless Vault enters the battlefield tapped.\nYou may choose not to untap Bottomless Vault during your untap step.
+At the beginning of your upkeep, if Bottomless Vault is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Bottomless Vault: Add {B} to your mana pool for each storage counter removed this way.","FEM,5ED"
+Brassclaw Orcs,,Rob Alexander,,Creature — Orc,Brassclaw Orcs can't block creatures with power 2 or greater.,"FEM,5ED,ME2"
+Brassclaw Orcs,,Rob Alexander,,Creature — Orc,Brassclaw Orcs can't block creatures with power 2 or greater.,"FEM,5ED,ME2"
+Brassclaw Orcs,,Dan Frazier,,Creature — Orc,Brassclaw Orcs can't block creatures with power 2 or greater.,"FEM,5ED,ME2"
+Brassclaw Orcs,,Heather Hudson,,Creature — Orc,Brassclaw Orcs can't block creatures with power 2 or greater.,"FEM,5ED,ME2"
+Breeding Pit,,Anson Maddocks,,Enchantment,"At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.","FEM,5ED,MED,DDC,DD3_DVD"
+Combat Medic,,"Edward P. Beard, Jr.",,Creature — Human Cleric Soldier,{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,"FEM,ATH,ME2"
+Combat Medic,,Susan Van Camp,,Creature — Human Cleric Soldier,{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,"FEM,ATH,ME2"
+Combat Medic,,Anson Maddocks,,Creature — Human Cleric Soldier,{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,"FEM,ATH,ME2"
+Combat Medic,,Liz Danforth,,Creature — Human Cleric Soldier,{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,"FEM,ATH,ME2"
+Conch Horn,,Phil Foglio,,Artifact,"{1}, {T}, Sacrifice Conch Horn: Draw two cards, then put a card from your hand on top of your library.",FEM
+Deep Spawn,,Mark Tedin,,Creature — Homarid,"Trample\nAt the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.
+{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. (A creature with shroud can't be the target of spells or abilities.)","FEM,ME2"
+Delif's Cone,,Mark Tedin,,Artifact,"{T}, Sacrifice Delif's Cone: This turn, when target creature you control attacks and isn't blocked, you may gain life equal to its power. If you do, it assigns no combat damage this turn.",FEM
+Delif's Cube,,Mark Tedin,,Artifact,"{2}, {T}: This turn, when target creature you control attacks and isn't blocked, it assigns no combat damage this turn and you put a cube counter on Delif's Cube.\n{2}, Remove a cube counter from Delif's Cube: Regenerate target creature.",FEM
+Derelor,,Anson Maddocks,,Creature — Thrull,Black spells you cast cost {B} more to cast.,"FEM,5ED,6ED,MED"
+Draconian Cylix,,"Edward P. Beard, Jr.",,Artifact,"{2}, {T}, Discard a card at random: Regenerate target creature.",FEM
+Dwarven Armorer,,Bryon Wackwitz,,Creature — Dwarf,"{R}, {T}, Discard a card: Put a +0/+1 counter or a +1/+0 counter on target creature.",FEM
+Dwarven Catapult,,Jeff A. Menges,,Instant,"Dwarven Catapult deals X damage divided evenly, rounded down, among all creatures target opponent controls.","FEM,5ED,MED"
+Dwarven Hold,,Pat Morrissey,,Land,"Dwarven Hold enters the battlefield tapped.\nYou may choose not to untap Dwarven Hold during your untap step.
+At the beginning of your upkeep, if Dwarven Hold is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Dwarven Hold: Add {R} to your mana pool for each storage counter removed this way.","FEM,5ED"
+Dwarven Lieutenant,,Jeff A. Menges,,Creature — Dwarf Soldier,{1}{R}: Target Dwarf creature gets +1/+0 until end of turn.,FEM
+Dwarven Ruins,,Mark Poole,,Land,"Dwarven Ruins enters the battlefield tapped.\n{T}: Add {R} to your mana pool.
+{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.","FEM,5ED,6ED,BTD,ME2"
+Dwarven Soldier,,Randy Asplund-Faith,,Creature — Dwarf Soldier,"Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.","FEM,5ED,MED"
+Dwarven Soldier,,Douglas Shuler,,Creature — Dwarf Soldier,"Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.","FEM,5ED,MED"
+Dwarven Soldier,,Rob Alexander,,Creature — Dwarf Soldier,"Whenever Dwarven Soldier blocks or becomes blocked by one or more Orcs, Dwarven Soldier gets +0/+2 until end of turn.","FEM,5ED,MED"
+Ebon Praetor,,Randy Asplund-Faith,,Creature — Avatar Praetor,"First strike, trample\nAt the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.
+Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.","FEM,ME2"
+Ebon Stronghold,,Mark Poole,,Land,"Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B} to your mana pool.
+{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.","FEM,5ED,6ED,BTD,ME2,PD3"
+Elven Fortress,,Pete Venters,,Enchantment,{1}{G}: Target blocking creature gets +0/+1 until end of turn.,FEM
+Elven Fortress,,Randy Asplund-Faith,,Enchantment,{1}{G}: Target blocking creature gets +0/+1 until end of turn.,FEM
+Elven Fortress,,Mark Poole,,Enchantment,{1}{G}: Target blocking creature gets +0/+1 until end of turn.,FEM
+Elven Fortress,,Tom Wänerstrand,,Enchantment,{1}{G}: Target blocking creature gets +0/+1 until end of turn.,FEM
+Elven Lyre,,Kaja Foglio,,Artifact,"{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.","FEM,ME2"
+Elvish Farmer,,Richard Kane Ferguson,,Creature — Elf,"At the beginning of your upkeep, put a spore counter on Elvish Farmer.\nRemove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: You gain 2 life.","FEM,ME2"
+Elvish Hunter,,Mark Poole,,Creature — Elf Archer,"{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.","FEM,ME2"
+Elvish Hunter,,Anson Maddocks,,Creature — Elf Archer,"{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.","FEM,ME2"
+Elvish Hunter,,Susan Van Camp,,Creature — Elf Archer,"{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.","FEM,ME2"
+Elvish Scout,,Christopher Rush,,Creature — Elf Scout,"{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.",FEM
+Elvish Scout,,Mark Poole,,Creature — Elf Scout,"{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.",FEM
+Elvish Scout,,Pete Venters,,Creature — Elf Scout,"{G}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by it this turn.",FEM
+Farrel's Mantle,,Anthony Waters,,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to another target creature. If that player does, the attacking creature assigns no combat damage this turn.","FEM,ME2"
+Farrel's Zealot,,Melissa A. Benson,,Creature — Human,"Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.","FEM,ME2"
+Farrel's Zealot,,Richard Kane Ferguson,,Creature — Human,"Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.","FEM,ME2"
+Farrel's Zealot,,"Edward P. Beard, Jr.",,Creature — Human,"Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.","FEM,ME2"
+Farrelite Priest,,Phil Foglio,,Creature — Human Cleric,"{1}: Add {W} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Farrelite Priest at the beginning of the next end step.",FEM
+Feral Thallid,,Rob Alexander,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Feral Thallid.\nRemove three spore counters from Feral Thallid: Regenerate Feral Thallid.","FEM,ME2"
+Fungal Bloom,,Daniel Gelon,,Enchantment,{G}{G}: Put a spore counter on target Fungus.,"FEM,ME2"
+Goblin Chirurgeon,,Phil Foglio,,Creature — Goblin Shaman,Sacrifice a Goblin: Regenerate target creature.,"FEM,MED"
+Goblin Chirurgeon,,Dan Frazier,,Creature — Goblin Shaman,Sacrifice a Goblin: Regenerate target creature.,"FEM,MED"
+Goblin Chirurgeon,,Daniel Gelon,,Creature — Goblin Shaman,Sacrifice a Goblin: Regenerate target creature.,"FEM,MED"
+Goblin Flotilla,,Tom Wänerstrand,,Creature — Goblin,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAt the beginning of each combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.",FEM
+Goblin Grenade,,Ron Spencer,,Sorcery,"As an additional cost to cast Goblin Grenade, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to target creature or player.","FEM,ATH,MED,M12"
+Goblin Grenade,,Dan Frazier,,Sorcery,"As an additional cost to cast Goblin Grenade, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to target creature or player.","FEM,ATH,MED,M12"
+Goblin Grenade,,Christopher Rush,,Sorcery,"As an additional cost to cast Goblin Grenade, sacrifice a Goblin.\nGoblin Grenade deals 5 damage to target creature or player.","FEM,ATH,MED,M12"
+Goblin Kites,,Anson Maddocks,,Enchantment,"{R}: Target creature you control with toughness 2 or less gains flying until end of turn. Flip a coin at the beginning of the next end step. If you lose the flip, sacrifice that creature.",FEM
+Goblin War Drums,,Dan Frazier,,Enchantment,Creatures you control have menace. (They can't be blocked except by two or more creatures.),"FEM,5ED,7ED"
+Goblin War Drums,,Heather Hudson,,Enchantment,Creatures you control have menace. (They can't be blocked except by two or more creatures.),"FEM,5ED,7ED"
+Goblin War Drums,,Jeff A. Menges,,Enchantment,Creatures you control have menace. (They can't be blocked except by two or more creatures.),"FEM,5ED,7ED"
+Goblin War Drums,,Richard Kane Ferguson,,Enchantment,Creatures you control have menace. (They can't be blocked except by two or more creatures.),"FEM,5ED,7ED"
+Goblin Warrens,,Dan Frazier,,Enchantment,"{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.","FEM,5ED,ATH,6ED,ME4"
+Hand of Justice,,Melissa A. Benson,,Creature — Avatar,"{T}, Tap three untapped white creatures you control: Destroy target creature.","FEM,MED"
+Havenwood Battleground,,Mark Poole,,Land,"Havenwood Battleground enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.","FEM,5ED,6ED,BTD,ME2,C14"
+Heroism,,Mark Poole,,Enchantment,"Sacrifice a white creature: For each attacking red creature, prevent all combat damage that would be dealt by that creature this turn unless its controller pays {2}{R}.",FEM
+High Tide,,Drew Tucker,,Instant,"Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool (in addition to the mana the land produces).","FEM,pMEI,MED,VMA"
+High Tide,,Anson Maddocks,,Instant,"Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool (in addition to the mana the land produces).","FEM,pMEI,MED,VMA"
+High Tide,,Amy Weber,,Instant,"Until end of turn, whenever a player taps an Island for mana, that player adds {U} to his or her mana pool (in addition to the mana the land produces).","FEM,pMEI,MED,VMA"
+Hollow Trees,,Pat Morrissey,,Land,"Hollow Trees enters the battlefield tapped.\nYou may choose not to untap Hollow Trees during your untap step.
+At the beginning of your upkeep, if Hollow Trees is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Hollow Trees: Add {G} to your mana pool for each storage counter removed this way.","FEM,5ED"
+Homarid,,Bryon Wackwitz,,Creature — Homarid,"Homarid enters the battlefield with a tide counter on it.\nAt the beginning of your upkeep, put a tide counter on Homarid.
+As long as there is exactly one tide counter on Homarid, it gets -1/-1.
+As long as there are exactly three tide counters on Homarid, it gets +1/+1.
+Whenever there are four tide counters on Homarid, remove all tide counters from it.",FEM
+Homarid,,Mark Tedin,,Creature — Homarid,"Homarid enters the battlefield with a tide counter on it.\nAt the beginning of your upkeep, put a tide counter on Homarid.
+As long as there is exactly one tide counter on Homarid, it gets -1/-1.
+As long as there are exactly three tide counters on Homarid, it gets +1/+1.
+Whenever there are four tide counters on Homarid, remove all tide counters from it.",FEM
+Homarid,,Heather Hudson,,Creature — Homarid,"Homarid enters the battlefield with a tide counter on it.\nAt the beginning of your upkeep, put a tide counter on Homarid.
+As long as there is exactly one tide counter on Homarid, it gets -1/-1.
+As long as there are exactly three tide counters on Homarid, it gets +1/+1.
+Whenever there are four tide counters on Homarid, remove all tide counters from it.",FEM
+Homarid,,Quinton Hoover,,Creature — Homarid,"Homarid enters the battlefield with a tide counter on it.\nAt the beginning of your upkeep, put a tide counter on Homarid.
+As long as there is exactly one tide counter on Homarid, it gets -1/-1.
+As long as there are exactly three tide counters on Homarid, it gets +1/+1.
+Whenever there are four tide counters on Homarid, remove all tide counters from it.",FEM
+Homarid Shaman,,Amy Weber,,Creature — Homarid Shaman,{U}: Tap target green creature.,FEM
+Homarid Spawning Bed,,Douglas Shuler,,Enchantment,"{1}{U}{U}, Sacrifice a blue creature: Put X 1/1 blue Camarid creature tokens onto the battlefield, where X is the sacrificed creature's converted mana cost.","FEM,MED"
+Homarid Warrior,,Douglas Shuler,,Creature — Homarid Warrior,{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. (A creature with shroud can't be the target of spells or abilities.),"FEM,5ED"
+Homarid Warrior,,Daniel Gelon,,Creature — Homarid Warrior,{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. (A creature with shroud can't be the target of spells or abilities.),"FEM,5ED"
+Homarid Warrior,,Randy Asplund-Faith,,Creature — Homarid Warrior,{U}: Homarid Warrior gains shroud until end of turn and doesn't untap during your next untap step. Tap Homarid Warrior. (A creature with shroud can't be the target of spells or abilities.),"FEM,5ED"
+Hymn to Tourach,,Quinton Hoover,,Sorcery,Target player discards two cards at random.,"FEM,ATH,MED,V13,VMA"
+Hymn to Tourach,,Scott Kirschner,,Sorcery,Target player discards two cards at random.,"FEM,ATH,MED,V13,VMA"
+Hymn to Tourach,,Susan Van Camp,,Sorcery,Target player discards two cards at random.,"FEM,ATH,MED,V13,VMA"
+Hymn to Tourach,,Liz Danforth,,Sorcery,Target player discards two cards at random.,"FEM,ATH,MED,V13,VMA"
+Icatian Infantry,,"Edward P. Beard, Jr.",,Creature — Human Soldier,"{1}: Icatian Infantry gains first strike until end of turn.\n{1}: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",FEM
+Icatian Infantry,,Christopher Rush,,Creature — Human Soldier,"{1}: Icatian Infantry gains first strike until end of turn.\n{1}: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",FEM
+Icatian Infantry,,Douglas Shuler,,Creature — Human Soldier,"{1}: Icatian Infantry gains first strike until end of turn.\n{1}: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",FEM
+Icatian Infantry,,Drew Tucker,,Creature — Human Soldier,"{1}: Icatian Infantry gains first strike until end of turn.\n{1}: Icatian Infantry gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",FEM
+Icatian Javelineers,,Melissa A. Benson,,Creature — Human Soldier,"Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.","FEM,ATH,pGTW,TSB,ME2,DDO"
+Icatian Javelineers,,"Edward P. Beard, Jr.",,Creature — Human Soldier,"Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.","FEM,ATH,pGTW,TSB,ME2,DDO"
+Icatian Javelineers,,Scott Kirschner,,Creature — Human Soldier,"Icatian Javelineers enters the battlefield with a javelin counter on it.\n{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.","FEM,ATH,pGTW,TSB,ME2,DDO"
+Icatian Lieutenant,,Pete Venters,,Creature — Human Soldier,{1}{W}: Target Soldier creature gets +1/+0 until end of turn.,"FEM,MED"
+Icatian Moneychanger,,Drew Tucker,,Creature — Human,"Icatian Moneychanger enters the battlefield with three credit counters on it.\nWhen Icatian Moneychanger enters the battlefield, it deals 3 damage to you.
+At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.
+Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.",FEM
+Icatian Moneychanger,,"Edward P. Beard, Jr.",,Creature — Human,"Icatian Moneychanger enters the battlefield with three credit counters on it.\nWhen Icatian Moneychanger enters the battlefield, it deals 3 damage to you.
+At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.
+Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.",FEM
+Icatian Moneychanger,,Melissa A. Benson,,Creature — Human,"Icatian Moneychanger enters the battlefield with three credit counters on it.\nWhen Icatian Moneychanger enters the battlefield, it deals 3 damage to you.
+At the beginning of your upkeep, put a credit counter on Icatian Moneychanger.
+Sacrifice Icatian Moneychanger: You gain 1 life for each credit counter on Icatian Moneychanger. Activate this ability only during your upkeep.",FEM
+Icatian Phalanx,,Kaja Foglio,,Creature — Human Soldier,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","FEM,5ED,ME2"
+Icatian Priest,,Drew Tucker,,Creature — Human Cleric,{1}{W}{W}: Target creature gets +1/+1 until end of turn.,"FEM,10E,DDC,DD3_DVD"
+Icatian Scout,,Richard Kane Ferguson,,Creature — Human Soldier Scout,"{1}, {T}: Target creature gains first strike until end of turn.","FEM,5ED,ME2"
+Icatian Scout,,Douglas Shuler,,Creature — Human Soldier Scout,"{1}, {T}: Target creature gains first strike until end of turn.","FEM,5ED,ME2"
+Icatian Scout,,Rob Alexander,,Creature — Human Soldier Scout,"{1}, {T}: Target creature gains first strike until end of turn.","FEM,5ED,ME2"
+Icatian Scout,,Phil Foglio,,Creature — Human Soldier Scout,"{1}, {T}: Target creature gains first strike until end of turn.","FEM,5ED,ME2"
+Icatian Skirmishers,,Heather Hudson,,Creature — Human Soldier,"First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nWhenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.",FEM
+Icatian Store,,Pat Morrissey,,Land,"Icatian Store enters the battlefield tapped.\nYou may choose not to untap Icatian Store during your untap step.
+At the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.","FEM,5ED"
+Icatian Town,,Tom Wänerstrand,,Sorcery,Put four 1/1 white Citizen creature tokens onto the battlefield.,"FEM,5ED,6ED,MED"
+Implements of Sacrifice,,Margaret Organ-Kean,,Artifact,"{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.",FEM
+Initiates of the Ebon Hand,,Kaja Foglio,,Creature — Cleric,"{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.","FEM,5ED"
+Initiates of the Ebon Hand,,Heather Hudson,,Creature — Cleric,"{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.","FEM,5ED"
+Initiates of the Ebon Hand,,Liz Danforth,,Creature — Cleric,"{1}: Add {B} to your mana pool. If this ability has been activated four or more times this turn, sacrifice Initiates of the Ebon Hand at the beginning of the next end step.","FEM,5ED"
+Merseine,,Pete Venters,,Enchantment — Aura,"Enchant creature\nMerseine enters the battlefield with three net counters on it.
+Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.
+Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.",FEM
+Merseine,,Drew Tucker,,Enchantment — Aura,"Enchant creature\nMerseine enters the battlefield with three net counters on it.
+Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.
+Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.",FEM
+Merseine,,Margaret Organ-Kean,,Enchantment — Aura,"Enchant creature\nMerseine enters the battlefield with three net counters on it.
+Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.
+Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.",FEM
+Merseine,,Heather Hudson,,Enchantment — Aura,"Enchant creature\nMerseine enters the battlefield with three net counters on it.
+Enchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.
+Pay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.",FEM
+Mindstab Thrull,,Richard Kane Ferguson,,Creature — Thrull,"Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.","FEM,5ED,MED"
+Mindstab Thrull,,Heather Hudson,,Creature — Thrull,"Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.","FEM,5ED,MED"
+Mindstab Thrull,,Mark Tedin,,Creature — Thrull,"Whenever Mindstab Thrull attacks and isn't blocked, you may sacrifice it. If you do, defending player discards three cards.","FEM,5ED,MED"
+Necrite,,Ron Spencer,,Creature — Thrull,"Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.","FEM,5ED,ME2"
+Necrite,,Christopher Rush,,Creature — Thrull,"Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.","FEM,5ED,ME2"
+Necrite,,Drew Tucker,,Creature — Thrull,"Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.","FEM,5ED,ME2"
+Night Soil,,Sandra Everingham,,Enchantment,"{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,ME2,C13"
+Night Soil,,Heather Hudson,,Enchantment,"{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,ME2,C13"
+Night Soil,,Drew Tucker,,Enchantment,"{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,ME2,C13"
+Orcish Captain,,Mark Tedin,,Creature — Orc Warrior,"{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.","FEM,5ED,ME2"
+Orcish Spy,,Susan Van Camp,,Creature — Orc Rogue,{T}: Look at the top three cards of target player's library.,"FEM,8ED"
+Orcish Spy,,Daniel Gelon,,Creature — Orc Rogue,{T}: Look at the top three cards of target player's library.,"FEM,8ED"
+Orcish Spy,,Pete Venters,,Creature — Orc Rogue,{T}: Look at the top three cards of target player's library.,"FEM,8ED"
+Orcish Veteran,,Quinton Hoover,,Creature — Orc,Orcish Veteran can't block white creatures with power 2 or greater.\n{R}: Orcish Veteran gains first strike until end of turn.,"FEM,ME2"
+Orcish Veteran,,Melissa A. Benson,,Creature — Orc,Orcish Veteran can't block white creatures with power 2 or greater.\n{R}: Orcish Veteran gains first strike until end of turn.,"FEM,ME2"
+Orcish Veteran,,Douglas Shuler,,Creature — Orc,Orcish Veteran can't block white creatures with power 2 or greater.\n{R}: Orcish Veteran gains first strike until end of turn.,"FEM,ME2"
+Orcish Veteran,,Dan Frazier,,Creature — Orc,Orcish Veteran can't block white creatures with power 2 or greater.\n{R}: Orcish Veteran gains first strike until end of turn.,"FEM,ME2"
+Order of Leitbur,,Bryon Wackwitz,,Creature — Human Cleric Knight,Protection from black\n{W}: Order of Leitbur gains first strike until end of turn.
+{W}{W}: Order of Leitbur gets +1/+0 until end of turn.,"FEM,MED"
+Order of Leitbur,,Bryon Wackwitz,,Creature — Human Cleric Knight,Protection from black\n{W}: Order of Leitbur gains first strike until end of turn.
+{W}{W}: Order of Leitbur gets +1/+0 until end of turn.,"FEM,MED"
+Order of Leitbur,,Randy Asplund-Faith,,Creature — Human Cleric Knight,Protection from black\n{W}: Order of Leitbur gains first strike until end of turn.
+{W}{W}: Order of Leitbur gets +1/+0 until end of turn.,"FEM,MED"
+Order of the Ebon Hand,,Melissa A. Benson,,Creature — Cleric Knight,Protection from white\n{B}: Order of the Ebon Hand gains first strike until end of turn.
+{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.,"FEM,MED"
+Order of the Ebon Hand,,Christopher Rush,,Creature — Cleric Knight,Protection from white\n{B}: Order of the Ebon Hand gains first strike until end of turn.
+{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.,"FEM,MED"
+Order of the Ebon Hand,,Ron Spencer,,Creature — Cleric Knight,Protection from white\n{B}: Order of the Ebon Hand gains first strike until end of turn.
+{B}{B}: Order of the Ebon Hand gets +1/+0 until end of turn.,"FEM,MED"
+Orgg,,Daniel Gelon,,Creature — Orgg,Trample\nOrgg can't attack if defending player controls an untapped creature with power 3 or greater.
+Orgg can't block creatures with power 3 or greater.,"FEM,5ED,TSB"
+Raiding Party,,Quinton Hoover,,Enchantment,"Raiding Party can't be the target of white spells or abilities from white sources.\nSacrifice an Orc: Each player may tap any number of untapped white creatures he or she controls. For each creature tapped this way, that player chooses up to two Plains. Then destroy all Plains that weren't chosen this way by any player.",FEM
+Rainbow Vale,,Kaja Foglio,,Land,{T}: Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at the beginning of the next end step.,"FEM,MED"
+Ring of Renewal,,Douglas Shuler,,Artifact,"{5}, {T}: Discard a card at random, then draw two cards.","FEM,ME4"
+River Merfolk,,Douglas Shuler,,Creature — Merfolk,{U}: River Merfolk gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.),"FEM,MED"
+Ruins of Trokair,,Mark Poole,,Land,"Ruins of Trokair enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
+{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.","FEM,5ED,6ED,ME2"
+Sand Silos,,Pat Morrissey,,Land,"Sand Silos enters the battlefield tapped.\nYou may choose not to untap Sand Silos during your untap step.
+At the beginning of your upkeep, if Sand Silos is tapped, put a storage counter on it.
+{T}, Remove any number of storage counters from Sand Silos: Add {U} to your mana pool for each storage counter removed this way.","FEM,5ED"
+Seasinger,,Amy Weber,,Creature — Merfolk,"When you control no Islands, sacrifice Seasinger.\nYou may choose not to untap Seasinger during your untap step.
+{T}: Gain control of target creature whose controller controls an Island for as long as you control Seasinger and Seasinger remains tapped.","FEM,5ED,MED"
+Soul Exchange,,Anthony Waters,,Sorcery,"As an additional cost to cast Soul Exchange, exile a creature you control.\nReturn target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.","FEM,ME2"
+Spirit Shield,,Scott Kirschner,,Artifact,"You may choose not to untap Spirit Shield during your untap step.\n{2}, {T}: Target creature gets +0/+2 for as long as Spirit Shield remains tapped.",FEM
+Spore Cloud,,Susan Van Camp,,Instant,Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.,"FEM,ME2"
+Spore Cloud,,Amy Weber,,Instant,Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.,"FEM,ME2"
+Spore Cloud,,Jesper Myrfors,,Instant,Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.,"FEM,ME2"
+Spore Flower,,Margaret Organ-Kean,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Spore Flower.\nRemove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.","FEM,ME2"
+Svyelunite Priest,,Ron Spencer,,Creature — Merfolk Cleric,"{U}{U}, {T}: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. (It can't be the target of spells or abilities.)",FEM
+Svyelunite Temple,,Mark Poole,,Land,"Svyelunite Temple enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
+{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.","FEM,5ED,6ED,BTD,ME2"
+Thallid,,Ron Spencer,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,TSB,ME2,MMA"
+Thallid,,Daniel Gelon,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,TSB,ME2,MMA"
+Thallid,,"Edward P. Beard, Jr.",,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,TSB,ME2,MMA"
+Thallid,,Jesper Myrfors,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thallid.\nRemove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.","FEM,TSB,ME2,MMA"
+Thallid Devourer,,Ron Spencer,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thallid Devourer.\nRemove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.","FEM,ME2"
+Thelon's Chant,,Melissa A. Benson,,Enchantment,"At the beginning of your upkeep, sacrifice Thelon's Chant unless you pay {G}.\nWhenever a player puts a Swamp onto the battlefield, Thelon's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.",FEM
+Thelon's Curse,,Pete Venters,,Enchantment,"Blue creatures don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {U} for each creature chosen this way. If the player does, untap those creatures.",FEM
+Thelonite Druid,,Margaret Organ-Kean,,Creature — Human Cleric Druid,"{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.","FEM,ME2"
+Thelonite Monk,,Bryon Wackwitz,,Creature — Insect Monk Cleric,"{T}, Sacrifice a green creature: Target land becomes a Forest. (This effect lasts indefinitely.)",FEM
+Thorn Thallid,,Daniel Gelon,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thorn Thallid.\nRemove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.","FEM,MED"
+Thorn Thallid,,Heather Hudson,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thorn Thallid.\nRemove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.","FEM,MED"
+Thorn Thallid,,Jesper Myrfors,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thorn Thallid.\nRemove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.","FEM,MED"
+Thorn Thallid,,Mark Tedin,,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Thorn Thallid.\nRemove three spore counters from Thorn Thallid: Thorn Thallid deals 1 damage to target creature or player.","FEM,MED"
+Thrull Champion,,Daniel Gelon,,Creature — Thrull,Thrull creatures get +1/+1.\n{T}: Gain control of target Thrull for as long as you control Thrull Champion.,"FEM,MED"
+Thrull Retainer,,Ron Spencer,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1.
+Sacrifice Thrull Retainer: Regenerate enchanted creature.,"FEM,5ED,MED"
+Thrull Wizard,,Anson Maddocks,,Creature — Thrull Wizard,{1}{B}: Counter target black spell unless that spell's controller pays {B} or {3}.,FEM
+Tidal Flats,,Rob Alexander,,Enchantment,"{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.",FEM
+Tidal Flats,,Rob Alexander,,Enchantment,"{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.",FEM
+Tidal Flats,,Sandra Everingham,,Enchantment,"{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.",FEM
+Tidal Influence,,Tom Wänerstrand,,Enchantment,"Cast Tidal Influence only if no permanents named Tidal Influence are on the battlefield.\nTidal Influence enters the battlefield with a tide counter on it.
+At the beginning of your upkeep, put a tide counter on Tidal Influence.
+As long as there is exactly one tide counter on Tidal Influence, all blue creatures get -2/-0.
+As long as there are exactly three tide counters on Tidal Influence, all blue creatures get +2/+0.
+Whenever there are four tide counters on Tidal Influence, remove all tide counters from it.",FEM
+Tourach's Chant,,Richard Kane Ferguson,,Enchantment,"At the beginning of your upkeep, sacrifice Tourach's Chant unless you pay {B}.\nWhenever a player puts a Forest onto the battlefield, Tourach's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.",FEM
+Tourach's Gate,,Sandra Everingham,,Enchantment — Aura,"Enchant land you control\nSacrifice a Thrull: Put three time counters on Tourach's Gate.
+At the beginning of your upkeep, remove a time counter from Tourach's Gate. If there are no time counters on Tourach's Gate, sacrifice it.
+Tap enchanted land: Attacking creatures you control get +2/-1 until end of turn. Activate this ability only if enchanted land is untapped.",FEM
+Vodalian Knights,,Susan Van Camp,,Creature — Merfolk Knight,"First strike\nVodalian Knights can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Vodalian Knights.
+{U}: Vodalian Knights gains flying until end of turn.","FEM,MED"
+Vodalian Mage,,Susan Van Camp,,Creature — Merfolk Wizard,"{U}, {T}: Counter target spell unless its controller pays {1}.",FEM
+Vodalian Mage,,Mark Poole,,Creature — Merfolk Wizard,"{U}, {T}: Counter target spell unless its controller pays {1}.",FEM
+Vodalian Mage,,Quinton Hoover,,Creature — Merfolk Wizard,"{U}, {T}: Counter target spell unless its controller pays {1}.",FEM
+Vodalian Soldiers,,Melissa A. Benson,,Creature — Merfolk Soldier,,"FEM,5ED,6ED"
+Vodalian Soldiers,,Jeff A. Menges,,Creature — Merfolk Soldier,,"FEM,5ED,6ED"
+Vodalian Soldiers,,Richard Kane Ferguson,,Creature — Merfolk Soldier,,"FEM,5ED,6ED"
+Vodalian Soldiers,,Susan Van Camp,,Creature — Merfolk Soldier,,"FEM,5ED,6ED"
+Vodalian War Machine,,Amy Weber,,Creature — Wall,"Defender (This creature can't attack.)\nTap an untapped Merfolk you control: Vodalian War Machine can attack this turn as though it didn't have defender.
+Tap an untapped Merfolk you control: Vodalian War Machine gets +2/+1 until end of turn.
+When Vodalian War Machine dies, destroy all Merfolk tapped this turn to pay for its abilities.",FEM
+Zelyon Sword,,Scott Kirschner,,Artifact,"You may choose not to untap Zelyon Sword during your untap step.\n{3}, {T}: Target creature gets +2/+0 for as long as Zelyon Sword remains tapped.",FEM

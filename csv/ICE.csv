@@ -1,0 +1,446 @@
+name,cost,artist,number,type,text,printings
+Abyssal Specter,,Ruth Thompson,,Creature — Specter,"Flying\nWhenever Abyssal Specter deals damage to a player, that player discards a card.","ICE,5ED,6ED,BRB,7ED,DKM,8ED,DDC,DPA,DD3_DVD"
+Adarkar Sentinel,,Melissa A. Benson,,Artifact Creature — Soldier,{1}: Adarkar Sentinel gets +0/+1 until end of turn.,"ICE,ME2"
+Adarkar Unicorn,,Quinton Hoover,,Creature — Unicorn,{T}: Add {U} or {1}{U} to your mana pool. Spend this mana only to pay cumulative upkeep costs.,ICE
+Adarkar Wastes,,Mike Raabe,,Land,{T}: Add {1} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.,"ICE,5ED,6ED,7ED,9ED,10E"
+Aegis of the Meek,,L. A. Williams,,Artifact,"{1}, {T}: Target 1/1 creature gets +1/+2 until end of turn.",ICE
+Aggression,,Rick Emond,,Enchantment — Aura,"Enchant non-Wall creature\nEnchanted creature has first strike and trample.
+At the beginning of the end step of enchanted creature's controller, destroy that creature if it didn't attack this turn.",ICE
+Altar of Bone,,Melissa A. Benson,,Sorcery,"As an additional cost to cast Altar of Bone, sacrifice a creature.\nSearch your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.",ICE
+Amulet of Quoz,,Dan Frazier,,Artifact,"Remove Amulet of Quoz from your deck before playing if you're not playing for ante.\n{T}, Sacrifice Amulet of Quoz: Target opponent may ante the top card of his or her library. If he or she doesn't, you flip a coin. If you win the flip, that player loses the game. If you lose the flip, you lose the game. Activate this ability only during your upkeep.",ICE
+Anarchy,,Phil Foglio,,Sorcery,Destroy all white permanents.,"ICE,ME2"
+Arctic Foxes,,Mark Poole,,Creature — Fox,Arctic Foxes can't be blocked by creatures with power 2 or greater as long as defending player controls a snow land.,ICE
+Arcum's Sleigh,,Tom Wänerstrand,,Artifact,"{2}, {T}: Target creature gains vigilance until end of turn. Activate this ability only during combat and only if defending player controls a snow land.",ICE
+Arcum's Weathervane,,Tom Wänerstrand,,Artifact,"{2}, {T}: Target snow land is no longer snow.\n{2}, {T}: Target nonsnow basic land becomes snow.","ICE,CST"
+Arcum's Whistle,,Quinton Hoover,,Artifact,"{3}, {T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay {X}, where X is that creature's converted mana cost. If he or she doesn't, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack. Activate this ability only before attackers are declared.",ICE
+Arenson's Aura,,Nicola Leonard,,Enchantment,"{W}, Sacrifice an enchantment: Destroy target enchantment.\n{3}{U}{U}: Counter target enchantment spell.","ICE,5ED"
+Armor of Faith,,Anson Maddocks,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1.
+{W}: Enchanted creature gets +0/+1 until end of turn.,"ICE,5ED,ME2"
+Arnjlot's Ascent,,Drew Tucker,,Enchantment,"Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{1}: Target creature gains flying until end of turn.",ICE
+Ashen Ghoul,,Ron Spencer,,Creature — Zombie,Haste\n{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.,"ICE,CST,ME2"
+Aurochs,,"Ken Meyer, Jr.",,Creature — Aurochs,"Trample\nWhenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.","ICE,5ED,CST,ME2"
+Avalanche,,Brian Snõddy,,Sorcery,Destroy X target snow lands.,ICE
+Balduvian Barbarians,,Mark Poole,,Creature — Human Barbarian,,"ICE,6ED,7ED,8ED,9ED"
+Balduvian Bears,,Quinton Hoover,,Creature — Bear,,"ICE,DKM"
+Balduvian Conjurer,,Mark Tedin,,Creature — Human Wizard,{T}: Target snow land becomes a 2/2 creature until end of turn. It's still a land.,"ICE,ME2"
+Balduvian Hydra,,Melissa A. Benson,,Creature — Hydra,Balduvian Hydra enters the battlefield with X +1/+0 counters on it.\nRemove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.
+{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.,"ICE,ME2"
+Balduvian Shaman,,Quinton Hoover,,Creature — Human Cleric Shaman,"{T}: Change the text of target white enchantment you control that doesn't have cumulative upkeep by replacing all instances of one color word with another. (For example, you may change "black creatures can't attack" to "blue creatures can't attack.") That enchantment gains "Cumulative upkeep {1}." (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)",ICE
+Barbarian Guides,,Richard Thomas,,Creature — Human Barbarian,"{2}{R}, {T}: Choose a land type. Target creature you control gains snow landwalk of the chosen type until end of turn. Return that creature to its owner's hand at the beginning of the next end step. (It can't be blocked as long as defending player controls a snow land of that type.)",ICE
+Barbed Sextant,,Amy Weber,,Artifact,"{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.","ICE,5ED,DKM,CST,ME2"
+Baton of Morale,,Douglas Shuler,,Artifact,"{2}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",ICE
+Battle Cry,,Douglas Shuler,,Instant,"Untap all white creatures you control.\nWhenever a creature blocks this turn, it gets +0/+1 until end of turn.",ICE
+Battle Frenzy,,Brian Snõddy,,Instant,Green creatures you control get +1/+1 until end of turn.\nNongreen creatures you control get +1/+0 until end of turn.,ICE
+Binding Grasp,,Ruth Thompson,,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.
+You control enchanted creature.
+Enchanted creature gets +0/+1.","ICE,5ED,CST,ME2"
+Black Scarab,,Kaja Foglio,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by black creatures.
+Enchanted creature gets +2/+2 as long as an opponent controls a black permanent.,ICE
+Blessed Wine,,Kaja Foglio,,Instant,You gain 1 life.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,5ED"
+Blinking Spirit,,L. A. Williams,,Creature — Spirit,{0}: Return Blinking Spirit to its owner's hand.,"ICE,5ED,BRB,9ED"
+Blizzard,,Anson Maddocks,,Enchantment,"Cast Blizzard only if you control a snow land.\nCumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Creatures with flying don't untap during their controllers' untap steps.",ICE
+Blue Scarab,,Amy Weber,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by blue creatures.
+Enchanted creature gets +2/+2 as long as an opponent controls a blue permanent.,ICE
+Bone Shaman,,Anson Maddocks,,Creature — Giant Shaman,"{B}: Until end of turn, Bone Shaman gains "Creatures dealt damage by Bone Shaman this turn can't be regenerated this turn."",ICE
+Brainstorm,,Christopher Rush,,Instant,"Draw three cards, then put two cards from your hand on top of your library in any order.","ICE,5ED,MMQ,pFNM,BTD,CST,ME2,CMD,DDJ,CNS,VMA,C15"
+Brand of Ill Omen,,Rob Alexander,,Enchantment — Aura,"Enchant creature\nCumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Enchanted creature's controller can't cast creature spells.",ICE
+Breath of Dreams,,Phil Foglio,,Enchantment,"Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nGreen creatures have "Cumulative upkeep {1}."",ICE
+Brine Shaman,,Cornelius Brudi,,Creature — Human Cleric Shaman,"{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.\n{1}{U}{U}, Sacrifice a creature: Counter target creature spell.","ICE,ME2"
+Brown Ouphe,,Daniel Gelon,,Creature — Ouphe,"{1}{G}, {T}: Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)","ICE,MRD"
+Brushland,,Bryon Wackwitz,,Land,{T}: Add {1} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.,"ICE,5ED,ATH,6ED,7ED,9ED,10E"
+Burnt Offering,,Daniel Gelon,,Instant,"As an additional cost to cast Burnt Offering, sacrifice a creature.\nAdd X mana in any combination of {B} and/or {R} to your mana pool, where X is the sacrificed creature's converted mana cost.",ICE
+Call to Arms,,Randy Gallegos,,Enchantment,"As Call to Arms enters the battlefield, choose a color and an opponent.\nWhite creatures get +1/+1 as long as the chosen color is the most common color among nontoken permanents the chosen player controls but isn't tied for most common.
+When the chosen color isn't the most common color among nontoken permanents the chosen player controls or is tied for most common, sacrifice Call to Arms.","ICE,ME3"
+Caribou Range,,Ruth Thompson,,Enchantment — Aura,"Enchant land you control\nEnchanted land has "{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield."
+Sacrifice a Caribou token: You gain 1 life.","ICE,5ED,ME2"
+Celestial Sword,,Amy Weber,,Artifact,"{3}, {T}: Target creature you control gets +3/+3 until end of turn. Its controller sacrifices it at the beginning of the next end step.","ICE,ME4"
+Centaur Archer,,Melissa A. Benson,,Creature — Centaur Archer,{T}: Centaur Archer deals 1 damage to target creature with flying.,"ICE,MED"
+Chaos Lord,,Brian Snõddy,,Creature — Human,"First strike\nAt the beginning of your upkeep, target opponent gains control of Chaos Lord if the number of permanents is even.
+Chaos Lord can attack as though it had haste unless it entered the battlefield this turn.",ICE
+Chaos Moon,,Drew Tucker,,Enchantment,"At the beginning of each upkeep, count the number of permanents. If the number is odd, until end of turn, red creatures get +1/+1 and whenever a player taps a Mountain for mana, that player adds {R} to his or her mana pool (in addition to the mana the land produces). If the number is even, until end of turn, red creatures get -1/-1 and if a player taps a Mountain for mana, that Mountain produces colorless mana instead of any other type.",ICE
+Chromatic Armor,,Mark Poole,,Enchantment — Aura,"Enchant creature\nAs Chromatic Armor enters the battlefield, choose a color.
+Chromatic Armor enters the battlefield with a sleight counter on it.
+Prevent all damage that would be dealt to enchanted creature by sources of the last chosen color.
+{X}: Put a sleight counter on Chromatic Armor and choose a color. X is the number of sleight counters on Chromatic Armor.",ICE
+Chub Toad,,Daniel Gelon,,Creature — Frog,"Whenever Chub Toad blocks or becomes blocked, it gets +2/+2 until end of turn.","ICE,5ED,MED"
+Circle of Protection: Black,,Sandra Everingham,,Enchantment,"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.","LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,ITP,5ED,TMP,6ED,7ED,8ED,9ED"
+Circle of Protection: Blue,,Pete Venters,,Enchantment,"{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,8ED"
+Circle of Protection: Green,,Sandra Everingham,,Enchantment,"{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,8ED"
+Circle of Protection: Red,,Pete Venters,,Enchantment,"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,ITP,5ED,TMP,6ED,pFNM,7ED,8ED,9ED"
+Circle of Protection: White,,Sandra Everingham,,Enchantment,"{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,8ED"
+Clairvoyance,,"Ken Meyer, Jr.",,Instant,Look at target player's hand.\nDraw a card at the beginning of the next turn's upkeep.,ICE
+Cloak of Confusion,,Margaret Organ-Kean,,Enchantment — Aura,"Enchant creature you control\nWhenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random.","ICE,5ED,ME2"
+Cold Snap,,Randy Gallegos,,Enchantment,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of each player's upkeep, Cold Snap deals damage to that player equal to the number of snow lands he or she controls.",ICE
+Conquer,,Randy Gallegos,,Enchantment — Aura,Enchant land\nYou control enchanted land.,"ICE,5ED,6ED,ME2"
+Cooperation,,Phil Foglio,,Enchantment — Aura,"Enchant creature\nEnchanted creature has banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",ICE
+Counterspell,,L. A. Williams,,Instant,Counter target spell.,"LEA,LEB,2ED,CED,CEI,3ED,pLGM,4ED,ICE,5ED,TMP,pJGP,6ED,S99,MMQ,BRB,pFNM,S00,BTD,7ED,ME2,DD2,ME4,VMA,DD3_JVC,TPR"
+Crown of the Ages,,Dan Frazier,,Artifact,"{4}, {T}: Attach target Aura attached to a creature to another creature.","ICE,5ED"
+Curse of Marit Lage,,Amy Weber,,Enchantment,"When Curse of Marit Lage enters the battlefield, tap all Islands.\nIslands don't untap during their controllers' untap steps.",ICE
+Dance of the Dead,,Randy Gallegos,,Enchantment — Aura,"Enchant creature card in a graveyard\nWhen Dance of the Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Dance of the Dead." Put enchanted creature card onto the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.
+Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step.
+At the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If he or she does, untap that creature.","ICE,ME2"
+Dark Banishing,,Drew Tucker,,Instant,Destroy target nonblack creature. It can't be regenerated.,"ICE,MIR,TMP,7ED,DKM,8ED,9ED,CST,ME2,DDC,DD3_DVD,TPR"
+Dark Ritual,,Justin Hampton,,Instant,Add {B}{B}{B} to your mana pool.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,pJGP,USG,MMQ,BRB,BTD,DKM,CST,DDC,HOP,DDE,ME4,V13,VMA,DD3_DVD,TPR"
+Death Ward,,Harold McNeill,,Instant,Regenerate target creature.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,MED"
+Deflection,,Mike Raabe,,Instant,Change the target of target spell with a single target.,"ICE,5ED,6ED,7ED,8ED"
+Demonic Consultation,,Rob Alexander,,Instant,"Name a card. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal the named card. Put that card into your hand and exile all other cards revealed this way.","ICE,ME2"
+Despotic Scepter,,Richard Thomas,,Artifact,{T}: Destroy target permanent you own. It can't be regenerated.,"ICE,ME2"
+Diabolic Vision,,Anthony Waters,,Sorcery,Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.,"ICE,BTD,ME2"
+Dire Wolves,,Ron Spencer,,Creature — Wolf,"Dire Wolves has banding as long as you control a Plains. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",ICE
+Disenchant,,Brian Snõddy,,Instant,Destroy target artifact or enchantment.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,pARL,MIR,5ED,TMP,USG,ATH,6ED,MMQ,BRB,pFNM,S00,7ED,pMPR,CST,TSB,ME2,ME3,TPR"
+Dread Wight,,Daniel Gelon,,Creature — Zombie,"At end of combat, put a paralyzation counter on each creature blocking or blocked by Dread Wight and tap those creatures. Each of those creatures doesn't untap during its controller's untap step for as long as it has a paralyzation counter on it. Each of those creatures gains "{4}: Remove a paralyzation counter from this creature."","ICE,ME4"
+Dreams of the Dead,,Heather Hudson,,Enchantment,"{1}{U}: Return target white or black creature card from your graveyard to the battlefield. That creature gains "Cumulative upkeep {2}." If the creature would leave the battlefield, exile it instead of putting it anywhere else. (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)","ICE,ME2"
+Drift of the Dead,,Brian Snõddy,,Creature — Wall,Defender (This creature can't attack.)\nDrift of the Dead's power and toughness are each equal to the number of snow lands you control.,"ICE,CST,ME2"
+Drought,,NéNé Thomas,,Enchantment,"At the beginning of your upkeep, sacrifice Drought unless you pay {W}{W}.\nSpells cost an additional "Sacrifice a Swamp" to cast for each black mana symbol in their mana costs.
+Activated abilities cost an additional "Sacrifice a Swamp" to activate for each black mana symbol in their activation costs.",ICE
+Dwarven Armory,,Richard Thomas,,Enchantment,"{2}, Sacrifice a land: Put a +2/+2 counter on target creature. Activate this ability only during any upkeep step.",ICE
+Earthlink,,Richard Kane Ferguson,,Enchantment,"At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.\nWhenever a creature dies, that creature's controller sacrifices a land.","ICE,ME2"
+Earthlore,,Drew Tucker,,Enchantment — Aura,Enchant land you control\nTap enchanted land: Target blocking creature gets +1/+2 until end of turn. Activate this ability only if enchanted land is untapped.,ICE
+Elder Druid,,Richard Kane Ferguson,,Creature — Elf Cleric Druid,"{3}{G}, {T}: You may tap or untap target artifact, creature, or land.","ICE,5ED,6ED,7ED"
+Elemental Augury,,Anthony Waters,,Enchantment,"{3}: Look at the top three cards of target player's library, then put them back in any order.","ICE,ME2"
+Elkin Bottle,,Quinton Hoover,,Artifact,"{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.","ICE,5ED,DKM,ME2"
+Elvish Healer,,Rick Emond,,Creature — Elf Cleric,"{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn. If that creature is green, prevent the next 2 damage instead.",ICE
+Enduring Renewal,,Harold McNeill,,Enchantment,"Play with your hand revealed.\nIf you would draw a card, reveal the top card of your library instead. If it's a creature card, put it into your graveyard. Otherwise, draw a card.
+Whenever a creature is put into your graveyard from the battlefield, return it to your hand.","ICE,TSB"
+Energy Storm,,Sandra Everingham,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nPrevent all damage that would be dealt by instant and sorcery spells.
+Creatures with flying don't untap during their controllers' untap steps.","ICE,ME2"
+Enervate,,L. A. Williams,,Instant,"Tap target artifact, creature, or land.\nDraw a card at the beginning of the next turn's upkeep.","ICE,5ED,ME2"
+Errant Minion,,Harold McNeill,,Enchantment — Aura,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay any amount of mana. Errant Minion deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way.",ICE
+Errantry,,L. A. Williams,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+0 and can only attack alone.,"ICE,5ED,ME2"
+Essence Filter,,Rick Emond,,Sorcery,Destroy all enchantments or all nonwhite enchantments.,"ICE,ME2"
+Essence Flare,,Richard Kane Ferguson,,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+0.
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.","ICE,CST,ME2"
+Essence Vortex,,Margaret Organ-Kean,,Instant,Destroy target creature unless its controller pays life equal to its toughness. A creature destroyed this way can't be regenerated.,ICE
+Fanatical Fever,,Julie Baroh,,Instant,Target creature gets +3/+0 and gains trample until end of turn.,ICE
+Fear,,Rick Emond,,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,6ED,7ED,8ED,9ED,10E"
+Fiery Justice,,Melissa A. Benson,,Sorcery,Fiery Justice deals 5 damage divided as you choose among any number of target creatures and/or players. Target opponent gains 5 life.,"ICE,TSB,C13"
+Fire Covenant,,Dan Frazier,,Instant,"As an additional cost to cast Fire Covenant, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures.","ICE,MED"
+Flame Spirit,,Justin Hampton,,Creature — Elemental Spirit,{R}: Flame Spirit gets +1/+0 until end of turn.,"ICE,5ED,6ED,S00,ME2"
+Flare,,Drew Tucker,,Instant,Flare deals 1 damage to target creature or player.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,MIR,5ED"
+Flooded Woodlands,,Kaja Foglio,,Enchantment,Green creatures can't attack unless their controller sacrifices a land for each green creature he or she controls that's attacking. (This cost is paid as attackers are declared.),ICE
+Flow of Maggots,,Ron Spencer,,Creature — Insect,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nFlow of Maggots can't be blocked by non-Wall creatures.",ICE
+Folk of the Pines,,NéNé Thomas & Catherine Buck,,Creature — Dryad,{1}{G}: Folk of the Pines gets +1/+0 until end of turn.,"ICE,DKM,ME2"
+Forbidden Lore,,Christopher Rush,,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Target creature gets +2/+1 until end of turn.","ICE,ME2"
+Force Void,,Mark Tedin,,Instant,Counter target spell unless its controller pays {1}.\nDraw a card at the beginning of the next turn's upkeep.,ICE
+Forest,,Pat Morrissey,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Pat Morrissey,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Pat Morrissey,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forgotten Lore,,Harold McNeill,,Sorcery,"Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.","ICE,ME2"
+Formation,,"Ken Meyer, Jr.",,Instant,"Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nDraw a card at the beginning of the next turn's upkeep.",ICE
+Foul Familiar,,Anson Maddocks,,Creature — Spirit,"Foul Familiar can't block.\n{B}, Pay 1 life: Return Foul Familiar to its owner's hand.","ICE,DKM,ME2"
+Foxfire,,Margaret Organ-Kean,,Instant,Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,5ED"
+Freyalise Supplicant,,Liz Danforth & Douglas Shuler,,Creature — Human Cleric,"{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.",ICE
+Freyalise's Charm,,Margaret Organ-Kean,,Enchantment,"Whenever an opponent casts a black spell, you may pay {G}{G}. If you do, you draw a card.\n{G}{G}: Return Freyalise's Charm to its owner's hand.",ICE
+Freyalise's Winds,,Mark Tedin,,Enchantment,"Whenever a permanent becomes tapped, put a wind counter on it.\nIf a permanent with a wind counter on it would untap during its controller's untap step, remove all wind counters from it instead.","ICE,ME3"
+Fumarole,,Drew Tucker,,Sorcery,"As an additional cost to cast Fumarole, pay 3 life.\nDestroy target creature and target land.","ICE,ME2"
+Fylgja,,"Edward P. Beard, Jr.",,Enchantment — Aura,Enchant creature\nFylgja enters the battlefield with four healing counters on it.
+Remove a healing counter from Fylgja: Prevent the next 1 damage that would be dealt to enchanted creature this turn.
+{2}{W}: Put a healing counter on Fylgja.,ICE
+Fyndhorn Bow,,Rob Alexander,,Artifact,"{3}, {T}: Target creature gains first strike until end of turn.",ICE
+Fyndhorn Brownie,,Richard Thomas,,Creature — Ouphe,"{2}{G}, {T}: Untap target creature.","ICE,6ED"
+Fyndhorn Elder,,Christopher Rush,,Creature — Elf Druid,{T}: Add {G}{G} to your mana pool.,"ICE,5ED,6ED,7ED,8ED"
+Fyndhorn Elves,,Justin Hampton,,Creature — Elf Druid,{T}: Add {G} to your mana pool.,"ICE,DKM,MED,V13,VMA"
+Fyndhorn Pollen,,Phil Foglio,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAll creatures get -1/-0.
+{1}{G}: All creatures get -1/-0 until end of turn.","ICE,ME2"
+Game of Chaos,,Drew Tucker,,Sorcery,"Flip a coin. If you win the flip, you gain 1 life and target opponent loses 1 life, and you decide whether to flip again. If you lose the flip, you lose 1 life and that opponent gains 1 life, and that player decides whether to flip again. Double the life stakes with each flip.","ICE,5ED"
+Gangrenous Zombies,,Brian Snõddy,,Creature — Zombie,"{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.","ICE,CST,ME2"
+Gaze of Pain,,Anson Maddocks,,Sorcery,"Until end of turn, whenever a creature you control attacks and isn't blocked, you may choose to have it deal damage equal to its power to a target creature. If you do, it assigns no combat damage this turn.",ICE
+General Jarkeld,,Richard Thomas,,Legendary Creature — Human Soldier,{T}: Switch the blocking creatures of two target attacking creatures. Activate this ability only during the declare blockers step.,ICE
+Ghostly Flame,,Randy Gallegos,,Enchantment,Black and/or red permanents and spells are colorless sources of damage.,ICE
+Giant Growth,,L. A. Williams,,Instant,Target creature gets +3/+3 until end of turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,ATH,6ED,BRB,pSUS,pFNM,S00,BTD,7ED,pMPR,DKM,8ED,9ED,10E,EVG,ME2,M10,ME3,DDD,DPA,M11,ME4,RTR,M14,DD3_EVG,DD3_GVL"
+Giant Trap Door Spider,,Heather Hudson,,Creature — Spider,"{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.","ICE,DKM,CST,ME2"
+Glacial Chasm,,Liz Danforth,,Land,"Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Glacial Chasm enters the battlefield, sacrifice a land.
+Creatures you control can't attack.
+Prevent all damage that would be dealt to you.","ICE,ME2,V12"
+Glacial Crevasses,,Mike Raabe,,Enchantment,Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.,"ICE,ME2"
+Glacial Wall,,Dameon Willich,,Creature — Wall,Defender (This creature can't attack.),"ICE,5ED,6ED,7ED"
+Glaciers,,Mark Tedin,,Enchantment,"At the beginning of your upkeep, sacrifice Glaciers unless you pay {W}{U}.\nAll Mountains are Plains.",ICE
+Goblin Lyre,,Mike Kimble,,Artifact,"Sacrifice Goblin Lyre: Flip a coin. If you win the flip, Goblin Lyre deals damage to target opponent equal to the number of creatures you control. If you lose the flip, Goblin Lyre deals damage to you equal to the number of creatures that opponent controls.",ICE
+Goblin Mutant,,Daniel Gelon,,Creature — Goblin Mutant,Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.
+Goblin Mutant can't block creatures with power 3 or greater.,"ICE,ATH,DKM,MED"
+Goblin Sappers,,Jeff A. Menges,,Creature — Goblin,"{R}{R}, {T}: Target creature you control can't be blocked this turn. Destroy it and Goblin Sappers at end of combat.\n{R}{R}{R}{R}, {T}: Target creature you control can't be blocked this turn. Destroy it at end of combat.",ICE
+Goblin Ski Patrol,,Mark Poole,,Creature — Goblin,{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.,"ICE,ME2"
+Goblin Snowman,,Daniel Gelon,,Creature — Goblin,"Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn.\n{T}: Goblin Snowman deals 1 damage to target creature it's blocking.","ICE,ATH,TSB"
+Gorilla Pack,,Anthony Waters,,Creature — Ape,"Gorilla Pack can't attack unless defending player controls a Forest.\nWhen you control no Forests, sacrifice Gorilla Pack.",ICE
+Gravebind,,Drew Tucker,,Instant,Target creature can't be regenerated this turn.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,ME4"
+Green Scarab,,Nicola Leonard,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by green creatures.
+Enchanted creature gets +2/+2 as long as an opponent controls a green permanent.,ICE
+Grizzled Wolverine,,Cornelius Brudi,,Creature — Wolverine,"{R}: Grizzled Wolverine gets +2/+0 until end of turn. Activate this ability only during the declare blockers step, only if at least one creature is blocking Grizzled Wolverine, and only once each turn.",ICE
+Hallowed Ground,,Douglas Shuler,,Enchantment,{W}{W}: Return target nonsnow land you control to its owner's hand.,"ICE,MED"
+Halls of Mist,,Mark Poole,,Land,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nCreatures that attacked during their controller's last turn can't attack.",ICE
+Heal,,Mark Tedin,,Instant,Prevent the next 1 damage that would be dealt to target creature or player this turn.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,5ED,ME3"
+Hecatomb,,NéNé Thomas,,Enchantment,"When Hecatomb enters the battlefield, sacrifice Hecatomb unless you sacrifice four creatures.\nTap an untapped Swamp you control: Hecatomb deals 1 damage to target creature or player.","ICE,5ED,6ED,MED"
+Hematite Talisman,,L. A. Williams,,Artifact,"Whenever a player casts a red spell, you may pay {3}. If you do, untap target permanent.",ICE
+Hipparion,,Dameon Willich,,Creature — Horse,Hipparion can't block creatures with power 3 or greater unless you pay {1}.,"ICE,5ED"
+Hoar Shade,,Richard Thomas,,Creature — Shade,{B}: Hoar Shade gets +1/+1 until end of turn.,ICE
+Hot Springs,,Nicola Leonard,,Enchantment — Aura,Enchant land you control\nEnchanted land has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.",ICE
+Howl from Beyond,,Mark Poole,,Instant,Target creature gets +X/+0 until end of turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,6ED,7ED,ME4"
+Hurricane,,Cornelius Brudi,,Sorcery,Hurricane deals X damage to each creature with flying and each player.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,POR,PO2,ATH,6ED,BRB,7ED,DKM,10E"
+Hyalopterous Lemure,,Richard Thomas,,Creature — Spirit,{0}: Hyalopterous Lemure gets -1/-0 and gains flying until end of turn.,"ICE,MED"
+Hydroblast,,Kaja Foglio,,Instant,Choose one —\n• Counter target spell if it's red.
+• Destroy target permanent if it's red.,"ICE,5ED,MED"
+Hymn of Rebirth,,Richard Kane Ferguson,,Sorcery,Put target creature card from a graveyard onto the battlefield under your control.,"ICE,MED"
+Ice Cauldron,,Dan Frazier,,Artifact,"{X}, {T}: Put a charge counter on Ice Cauldron and exile a nonland card from your hand. You may cast that card for as long as it remains exiled. Note the type and amount of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Ice Cauldron.\n{T}, Remove a charge counter from Ice Cauldron: Add Ice Cauldron's last noted type and amount of mana to your mana pool. Spend this mana only to cast the last card exiled with Ice Cauldron.","ICE,ME4"
+Ice Floe,,Jeff A. Menges,,Land,You may choose not to untap Ice Floe during your untap step.\n{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.,"ICE,5ED,ME2"
+Iceberg,,Jeff A. Menges,,Enchantment,Iceberg enters the battlefield with X ice counters on it.\n{3}: Put an ice counter on Iceberg.
+Remove an ice counter from Iceberg: Add {1} to your mana pool.,"ICE,CST,ME2"
+Icequake,,Richard Kane Ferguson,,Sorcery,"Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.","ICE,ME2"
+Icy Manipulator,,Amy Weber,,Artifact,"{1}, {T}: Tap target artifact, creature, or land.","LEA,LEB,2ED,CED,CEI,ICE,pFNM,DKM,MRD,9ED,10E,ME4,DDH"
+Icy Prison,,Anson Maddocks,,Enchantment,"When Icy Prison enters the battlefield, exile target creature.\nAt the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.
+When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.","ICE,ME2"
+Illusionary Forces,,Justin Hampton,,Creature — Illusion,"Flying\nCumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)","ICE,MED"
+Illusionary Presence,,Kaja Foglio,,Creature — Illusion,"Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn. (It can't be blocked as long as defending player controls a land of that type.)",ICE
+Illusionary Terrain,,Rob Alexander,,Enchantment,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAs Illusionary Terrain enters the battlefield, choose two basic land types.
+Basic lands of the first chosen type are the second chosen type.",ICE
+Illusionary Wall,,Mark Poole,,Creature — Illusion Wall,"Defender, flying, first strike\nCumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)","ICE,MED"
+Illusions of Grandeur,,Quinton Hoover,,Enchantment,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Illusions of Grandeur enters the battlefield, you gain 20 life.
+When Illusions of Grandeur leaves the battlefield, you lose 20 life.","ICE,MED"
+Imposing Visage,,Phil Foglio,,Enchantment — Aura,Enchant creature\nEnchanted creature has menace. (It can't be blocked except by two or more creatures.),"ICE,5ED"
+Incinerate,,Mark Poole,,Instant,Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.,"pLGM,ICE,MIR,5ED,pMPR,DKM,CST,10E,ME2,DD2,DPA,M12,DD3_JVC"
+Infernal Darkness,,Phil Foglio,,Enchantment,"Cumulative upkeep—Pay {B} and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nIf a land is tapped for mana, it produces {B} instead of any other type.","ICE,ME2"
+Infernal Denizen,,Drew Tucker,,Creature — Demon,"At the beginning of your upkeep, sacrifice two Swamps. If you can't, tap Infernal Denizen, and an opponent may gain control of a creature you control of his or her choice for as long as Infernal Denizen remains on the battlefield.\n{T}: Gain control of target creature for as long as Infernal Denizen remains on the battlefield.",ICE
+Infinite Hourglass,,Harold McNeill,,Artifact,"At the beginning of your upkeep, put a time counter on Infinite Hourglass.\nAll creatures get +1/+0 for each time counter on Infinite Hourglass.
+{3}: Remove a time counter from Infinite Hourglass. Any player may activate this ability but only during any upkeep step.","ICE,5ED"
+Infuse,,Randy Gallegos,,Instant,"Untap target artifact, creature, or land.\nDraw a card at the beginning of the next turn's upkeep.","ICE,ME3"
+Island,,Anson Maddocks,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Anson Maddocks,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Anson Maddocks,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Jester's Cap,,Dan Frazier,,Artifact,"{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.","ICE,5ED,9ED,V10"
+Jester's Mask,,Dan Frazier,,Artifact,"Jester's Mask enters the battlefield tapped.\n{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.","ICE,ME2"
+Jeweled Amulet,,Dan Frazier,,Artifact,"{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.\n{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.","ICE,ME2"
+Johtull Wurm,,Daniel Gelon,,Creature — Wurm,"Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.","ICE,5ED,ME2"
+Jokulhaups,,Richard Thomas,,Sorcery,"Destroy all artifacts, creatures, and lands. They can't be regenerated.","ICE,5ED,6ED,DKM,MED"
+Juniper Order Druid,,Jeff A. Menges,,Creature — Human Cleric Druid,{T}: Untap target land.,ICE
+Justice,,Ruth Thompson,,Enchantment,"At the beginning of your upkeep, sacrifice Justice unless you pay {W}{W}.\nWhenever a red creature or spell deals damage, Justice deals that much damage to that creature's or spell's controller.","ICE,5ED"
+Karplusan Forest,,Nicola Leonard,,Land,{T}: Add {1} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.,"ICE,5ED,6ED,7ED,DKM,9ED,10E"
+Karplusan Giant,,Daniel Gelon,,Creature — Giant,Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.,"ICE,ME2"
+Karplusan Yeti,,Quinton Hoover,,Creature — Yeti,{T}: Karplusan Yeti deals damage equal to its power to target creature. That creature deals damage equal to its power to Karplusan Yeti.,"ICE,9ED"
+Kelsinko Ranger,,Mark Poole,,Creature — Human,{1}{W}: Target green creature gains first strike until end of turn.,ICE
+Kjeldoran Dead,,Melissa A. Benson,,Creature — Skeleton,"When Kjeldoran Dead enters the battlefield, sacrifice a creature.\n{B}: Regenerate Kjeldoran Dead.","ICE,5ED,6ED,CST,ME2"
+Kjeldoran Elite Guard,,Melissa A. Benson,,Creature — Human Soldier,"{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat.","ICE,CST,ME2"
+Kjeldoran Frostbeast,,Mark Poole,,Creature — Elemental Beast,"At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.","ICE,ME3"
+Kjeldoran Guard,,Anthony Waters,,Creature — Human Soldier,"{T}: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands.",ICE
+Kjeldoran Knight,,Ron Spencer,,Creature — Human Knight,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\n{1}{W}: Kjeldoran Knight gets +1/+0 until end of turn.
+{W}{W}: Kjeldoran Knight gets +0/+2 until end of turn.",ICE
+Kjeldoran Phalanx,,Richard Kane Ferguson,,Creature — Human Soldier,"First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",ICE
+Kjeldoran Royal Guard,,L. A. Williams,,Creature — Human Soldier,{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.,"ICE,5ED,6ED,7ED,10E"
+Kjeldoran Skycaptain,,Mark Poole,,Creature — Human Soldier,"Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","ICE,5ED,ME2"
+Kjeldoran Skyknight,,Mark Poole,,Creature — Human Knight,"Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",ICE
+Kjeldoran Warrior,,Mark Poole,,Creature — Human Warrior,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",ICE
+Knight of Stromgald,,Mark Poole,,Creature — Human Knight,Protection from white\n{B}: Knight of Stromgald gains first strike until end of turn.
+{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.,"ICE,5ED,ATH,ME2"
+Krovikan Elementalist,,Douglas Shuler,,Creature — Human Wizard,{2}{R}: Target creature gets +1/+0 until end of turn.\n{U}{U}: Target creature you control gains flying until end of turn. Sacrifice it at the beginning of the next end step.,ICE
+Krovikan Fetish,,Heather Hudson,,Enchantment — Aura,"Enchant creature\nWhen Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +1/+1.","ICE,5ED,ME2"
+Krovikan Sorcerer,,Pat Morrissey,,Creature — Human Wizard,"{T}, Discard a nonblack card: Draw a card.\n{T}, Discard a black card: Draw two cards, then discard one of them.","ICE,5ED,ME2,VMA"
+Krovikan Vampire,,Quinton Hoover,,Creature — Vampire,"At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.","ICE,ME2"
+Land Cap,,L. A. Williams,,Land,"Land Cap doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Land Cap.
+{T}: Add {W} or {U} to your mana pool. Put a depletion counter on Land Cap.",ICE
+Lapis Lazuli Talisman,,Amy Weber,,Artifact,"Whenever a player casts a blue spell, you may pay {3}. If you do, untap target permanent.",ICE
+Lava Burst,,Tom Wänerstrand,,Sorcery,"Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.","ICE,DKM,ME2"
+Lava Tubes,,Bryon Wackwitz,,Land,"Lava Tubes doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Lava Tubes.
+{T}: Add {B} or {R} to your mana pool. Put a depletion counter on Lava Tubes.",ICE
+Legions of Lim-Dûl,,Anson Maddocks,,Creature — Zombie,Snow swampwalk (This creature can't be blocked as long as defending player controls a snow Swamp.),"ICE,CST"
+Leshrac's Rite,,Richard Thomas,,Enchantment — Aura,Enchant creature\nEnchanted creature has swampwalk. (It can't be blocked as long as defending player controls a Swamp.),"ICE,5ED,6ED,7ED"
+Leshrac's Sigil,,Drew Tucker,,Enchantment,"Whenever an opponent casts a green spell, you may pay {B}{B}. If you do, look at that player's hand and choose a card from it. The player discards that card.\n{B}{B}: Return Leshrac's Sigil to its owner's hand.",ICE
+Lhurgoyf,,Pete Venters,,Creature — Lhurgoyf,Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.,"ICE,5ED,BRB,DKM,8ED,CMD"
+Lightning Blow,,Harold McNeill,,Instant,Target creature gains first strike until end of turn.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,ME3"
+Lim-Dûl's Cohort,,Douglas Shuler,,Creature — Zombie,"Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.","ICE,ME4"
+Lim-Dûl's Hex,,Liz Danforth,,Enchantment,"At the beginning of your upkeep, for each player, Lim-Dûl's Hex deals 1 damage to that player unless he or she pays {B} or {3}.",ICE
+Lost Order of Jarkeld,,Andi Rusu,,Creature — Human Knight,"As Lost Order of Jarkeld enters the battlefield, choose an opponent.\nLost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.","ICE,ME2"
+Lure,,Phil Foglio,,Enchantment — Aura,Enchant creature\nAll creatures able to block enchanted creature do so.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,6ED,MMQ,7ED,8ED,CHK,10E,M12"
+Maddening Wind,,Dameon Willich,,Enchantment — Aura,"Enchant creature\nCumulative upkeep {G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+At the beginning of the upkeep of enchanted creature's controller, Maddening Wind deals 2 damage to that player.",ICE
+Magus of the Unseen,,Kaja Foglio,,Creature — Human Wizard,"{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.","ICE,5ED,ME2"
+Malachite Talisman,,Christopher Rush,,Artifact,"Whenever a player casts a green spell, you may pay {3}. If you do, untap target permanent.",ICE
+Márton Stromgald,,Mark Poole,,Legendary Creature — Human Knight,"Whenever Márton Stromgald attacks, other attacking creatures get +1/+1 until end of turn for each attacking creature other than Márton Stromgald.\nWhenever Márton Stromgald blocks, other blocking creatures get +1/+1 until end of turn for each blocking creature other than Márton Stromgald.","ICE,MED"
+Melee,,Dameon Willich,,Instant,"Cast Melee only during your turn and only during combat before blockers are declared.\nYou choose which creatures block this combat and how those creatures block.
+Whenever a creature attacks and isn't blocked this combat, untap it and remove it from combat.",ICE
+Melting,,Randy Gallegos,,Enchantment,All lands are no longer snow.,ICE
+Mercenaries,,Cornelius Brudi,,Creature — Human Mercenary,"{3}: The next time Mercenaries would deal damage to you this turn, prevent that damage. Any player may activate this ability.",ICE
+Merieke Ri Berit,,Heather Hudson,,Legendary Creature — Human,"Merieke Ri Berit doesn't untap during your untap step.\n{T}: Gain control of target creature for as long as you control Merieke Ri Berit. When Merieke Ri Berit leaves the battlefield or becomes untapped, destroy that creature. It can't be regenerated.","ICE,TSB"
+Mesmeric Trance,,Dan Frazier,,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{U}, Discard a card: Draw a card.","ICE,ME2"
+Meteor Shower,,Rick Emond,,Sorcery,Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.,"ICE,ME2"
+Mind Ravel,,Mark Tedin,,Sorcery,Target player discards a card.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,5ED"
+Mind Warp,,Liz Danforth,,Sorcery,Look at target player's hand and choose X cards from it. That player discards those cards.,"ICE,5ED,6ED,pFNM"
+Mind Whip,,Drew Tucker,,Enchantment — Aura,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {3}. If he or she doesn't, Mind Whip deals 2 damage to that player and you tap that creature.",ICE
+Minion of Leshrac,,L. A. Williams,,Creature — Demon Minion,"Protection from black\nAt the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.
+{T}: Destroy target creature or land.","ICE,ME2"
+Minion of Tevesh Szat,,Julie Baroh,,Creature — Demon Minion,"At the beginning of your upkeep, Minion of Tevesh Szat deals 2 damage to you unless you pay {B}{B}.\n{T}: Target creature gets +3/-2 until end of turn.","ICE,ME4"
+Mistfolk,,Quinton Hoover,,Creature — Illusion,{U}: Counter target spell that targets Mistfolk.,"ICE,CST"
+Mole Worms,,Daniel Gelon,,Creature — Worm,You may choose not to untap Mole Worms during your untap step.\n{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mole Worms remains tapped.,"ICE,5ED"
+Monsoon,,NéNé Thomas,,Enchantment,"At the beginning of each player's end step, tap all untapped Islands that player controls and Monsoon deals X damage to the player, where X is the number of Islands tapped this way.",ICE
+Moor Fiend,,Anson Maddocks,,Creature — Horror,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),ICE
+Mountain,,Tom Wänerstrand,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tom Wänerstrand,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tom Wänerstrand,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain Goat,,Cornelius Brudi,,Creature — Goat,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"ICE,5ED,POR,6ED"
+Mountain Titan,,Melissa A. Benson,,Creature — Giant,"{1}{R}{R}: Until end of turn, whenever you cast a black spell, put a +1/+1 counter on Mountain Titan.",ICE
+Mudslide,,Brian Snõddy,,Enchantment,"Creatures without flying don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.","ICE,ME2"
+Musician,,Drew Tucker,,Creature — Human Wizard,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Put a music counter on target creature. If it doesn't have "At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it," it gains that ability.","ICE,ME2"
+Mystic Might,,Nicola Leonard,,Enchantment — Aura,"Enchant land you control\nCumulative upkeep {1}{U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Enchanted land has "{T}: Target creature gets +2/+2 until end of turn."",ICE
+Mystic Remora,,"Ken Meyer, Jr.",,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an opponent casts a noncreature spell, you may draw a card unless that player pays {4}.","ICE,MED"
+Nacre Talisman,,Mark Tedin,,Artifact,"Whenever a player casts a white spell, you may pay {3}. If you do, untap target permanent.",ICE
+Naked Singularity,,Mark Tedin,,Artifact,"Cumulative upkeep {3} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nIf tapped for mana, Plains produce {R}, Islands produce {G}, Swamps produce {W}, Mountains produce {U}, and Forests produce {B} instead of any other type.","ICE,ME4"
+Nature's Lore,,Rick Emond,,Sorcery,Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.,"ICE,5ED,POR,PO2,S99,MED,DDD,VMA,DD3_GVL"
+Necropotence,,Mark Tedin,,Enchantment,"Skip your draw step.\nWhenever you discard a card, exile that card from your graveyard.
+Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.","ICE,5ED,DKM,ME2,V09,VMA"
+Norritt,,Mike Raabe,,Creature — Imp,"{T}: Untap target blue creature.\n{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. If it doesn't, destroy it at the beginning of the next end step. Activate this ability only before attackers are declared.",ICE
+Oath of Lim-Dûl,,Douglas Shuler,,Enchantment,"Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)\n{B}{B}: Draw a card.",ICE
+Onyx Talisman,,Sandra Everingham,,Artifact,"Whenever a player casts a black spell, you may pay {3}. If you do, untap target permanent.",ICE
+Orcish Cannoneers,,Dan Frazier,,Creature — Orc Warrior,{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.,"ICE,DKM,ME2"
+Orcish Conscripts,,Douglas Shuler,,Creature — Orc,Orcish Conscripts can't attack unless at least two other creatures attack.\nOrcish Conscripts can't block unless at least two other creatures block.,"ICE,5ED,ME2"
+Orcish Farmer,,Dan Frazier,,Creature — Orc,{T}: Target land becomes a Swamp until its controller's next untap step.,"ICE,5ED,ME2"
+Orcish Healer,,Quinton Hoover,,Creature — Orc Cleric,"{R}{R}, {T}: Target creature can't be regenerated this turn.\n{B}{B}{R}, {T}: Regenerate target black or green creature.
+{R}{G}{G}, {T}: Regenerate target black or green creature.","ICE,CST"
+Orcish Librarian,,Phil Foglio,,Creature — Orc,"{R}, {T}: Look at the top eight cards of your library. Exile four of them at random, then put the rest on top of your library in any order.","ICE,TSB"
+Orcish Lumberjack,,Dan Frazier,,Creature — Orc,"{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.","ICE,CST,ME2,DDL,VMA"
+Orcish Squatters,,Richard Kane Ferguson,,Creature — Orc,"Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.","ICE,5ED,ME2"
+Order of the Sacred Torch,,Ruth Thompson,,Creature — Human Knight,"{T}, Pay 1 life: Counter target black spell.","ICE,5ED,6ED,ME2"
+Order of the White Shield,,Ruth Thompson,,Creature — Human Knight,Protection from black\n{W}: Order of the White Shield gains first strike until end of turn.
+{W}{W}: Order of the White Shield gets +1/+0 until end of turn.,"ICE,5ED,ATH,ME2"
+Pale Bears,,Anthony Waters,,Creature — Bear,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),ICE
+Panic,,Mike Kimble,,Instant,Cast Panic only during combat before blockers are declared.\nTarget creature can't block this turn.
+Draw a card at the beginning of the next turn's upkeep.,"ICE,5ED,ME2"
+Pentagram of the Ages,,Douglas Shuler,,Artifact,"{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.","ICE,5ED,6ED,ME4"
+Pestilence Rats,,Jeff A. Menges,,Creature — Rat,"Pestilence Rats's power is equal to the number of other Rats on the battlefield. (For example, as long as there are two other Rats on the battlefield, Pestilence Rats's power and toughness are 2/3.)",ICE
+Phantasmal Mount,,Melissa A. Benson,,Creature — Illusion Horse,"Flying\n{T}: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount.","ICE,ME2"
+Pit Trap,,Anson Maddocks,,Artifact,"{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.","ICE,USG,7ED"
+Plains,,Christopher Rush,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Christopher Rush,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Christopher Rush,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Polar Kraken,,Mark Tedin,,Creature — Kraken,"Trample\nPolar Kraken enters the battlefield tapped.
+Cumulative upkeep—Sacrifice a land. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)","ICE,MED"
+Portent,,Liz Danforth,,Sorcery,"Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.\nDraw a card at the beginning of the next turn's upkeep.","ICE,5ED,CST,ME2"
+Power Sink,,Mark Poole,,Instant,"Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,USG,6ED,BTD,VMA"
+Pox,,Cornelius Brudi,,Sorcery,"Each player loses a third of his or her life, then discards a third of the cards in his or her hand, then sacrifices a third of the creatures he or she controls, then sacrifices a third of the lands he or she controls. Round up each time.","ICE,5ED,MED"
+Prismatic Ward,,L. A. Williams,,Enchantment — Aura,"Enchant creature\nAs Prismatic Ward enters the battlefield, choose a color.
+Prevent all damage that would be dealt to enchanted creature by sources of the chosen color.","ICE,5ED"
+Pygmy Allosaurus,,Anson Maddocks,,Creature — Lizard,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),ICE
+Pyknite,,"Edward P. Beard, Jr.",,Creature — Ouphe,"When Pyknite enters the battlefield, draw a card at the beginning of the next turn's upkeep.",ICE
+Pyroblast,,Kaja Foglio,,Instant,Choose one —\n• Counter target spell if it's blue.
+• Destroy target permanent if it's blue.,"ICE,5ED,MED"
+Pyroclasm,,Pat Morrissey,,Sorcery,Pyroclasm deals 2 damage to each creature.,"ICE,POR,7ED,pMPR,DKM,8ED,9ED,10E,M10,M11,DDK,DDL"
+Rally,,Heather Hudson,,Instant,Blocking creatures get +1/+1 until end of turn.,ICE
+Ray of Command,,Harold McNeill,,Instant,"Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.","ICE,MIR,5ED,BRB,ME2,CMD,DDM"
+Ray of Erasure,,Mike Raabe,,Instant,Target player puts the top card of his or her library into his or her graveyard.\nDraw a card at the beginning of the next turn's upkeep.,ICE
+Reality Twist,,James Ernest,,Enchantment,"Cumulative upkeep {1}{U}{U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nIf tapped for mana, Plains produce {R}, Swamps produce {G}, Mountains produce {W}, and Forests produce {B} instead of any other type.",ICE
+Reclamation,,Dameon Willich,,Enchantment,Black creatures can't attack unless their controller sacrifices a land for each black creature he or she controls that's attacking. (This cost is paid as attackers are declared.),ICE
+Red Scarab,,Sandra Everingham,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by red creatures.
+Enchanted creature gets +2/+2 as long as an opponent controls a red permanent.,ICE
+Regeneration,,Justin Hampton,,Enchantment — Aura,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\n{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,6ED,7ED,8ED,9ED,10E"
+Rime Dryad,,Heather Hudson,,Creature — Dryad,Snow forestwalk (This creature can't be blocked as long as defending player controls a snow Forest.),ICE
+Ritual of Subdual,,Justin Hampton,,Enchantment,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nIf a land is tapped for mana, it produces colorless mana instead of any other type.","ICE,ME2"
+River Delta,,Sandra Everingham,,Land,"River Delta doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from River Delta.
+{T}: Add {U} or {B} to your mana pool. Put a depletion counter on River Delta.",ICE
+Runed Arch,,Phil Foglio,,Artifact,"Runed Arch enters the battlefield tapped.\n{X}, {T}, Sacrifice Runed Arch: X target creatures with power 2 or less can't be blocked this turn.",ICE
+Sabretooth Tiger,,Melissa A. Benson,,Creature — Cat,First strike,"ICE,5ED,6ED,7ED,8ED"
+Sacred Boon,,Mike Raabe,,Instant,"Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.","ICE,5ED,ME2"
+Scaled Wurm,,Daniel Gelon,,Creature — Wurm,,"ICE,5ED,6ED,BRB,BTD,9ED,CNS"
+Sea Spirit,,Rob Alexander,,Creature — Elemental Spirit,{U}: Sea Spirit gets +1/+0 until end of turn.,"ICE,5ED,ME2"
+Seizures,,Julie Baroh,,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature becomes tapped, Seizures deals 3 damage to that creature's controller unless that player pays {3}.",ICE
+Seraph,,Christopher Rush,,Creature — Angel,"Flying\nWhenever a creature dealt damage by Seraph this turn dies, put that card onto the battlefield under your control at the beginning of the next end step. Sacrifice the creature when you lose control of Seraph.","ICE,5ED,MED"
+Shambling Strider,,Douglas Shuler,,Creature — Yeti,{R}{G}: Shambling Strider gets +1/-1 until end of turn.,"ICE,BTD,MED"
+Shatter,,Bryon Wackwitz,,Instant,Destroy target artifact.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,TMP,6ED,7ED,DKM,8ED,MRD,9ED,M10,SOM,KTK,TPR"
+Shield Bearer,,Dan Frazier,,Creature — Human Soldier,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","ICE,5ED,ME2"
+Shield of the Ages,,Anson Maddocks,,Artifact,{2}: Prevent the next 1 damage that would be dealt to you this turn.,"ICE,MED"
+Shyft,,Richard Thomas,,Creature — Shapeshifter,"At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)","ICE,ME2"
+Sibilant Spirit,,Ron Spencer,,Creature — Spirit,"Flying\nWhenever Sibilant Spirit attacks, defending player may draw a card.","ICE,5ED,6ED,ME2"
+Silver Erne,,Melissa A. Benson,,Creature — Bird,"Flying, trample",ICE
+Skeleton Ship,,Amy Weber & Tom Wänerstrand,,Legendary Creature — Skeleton,"When you control no Islands, sacrifice Skeleton Ship.\n{T}: Put a -1/-1 counter on target creature.","ICE,ME2"
+Skull Catapult,,Bryon Wackwitz,,Artifact,"{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.","ICE,5ED,6ED,CST,ME2"
+Sleight of Mind,,Nicola Leonard,,Instant,"Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change "target black spell" to "target blue spell." This effect lasts indefinitely.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED"
+Snow Devil,,"Ken Meyer, Jr.",,Enchantment — Aura,Enchant creature\nEnchanted creature has flying.
+Enchanted creature has first strike as long as it's blocking and you control a snow land.,"ICE,CST"
+Snow Fortress,,Jeff A. Menges,,Artifact Creature — Wall,Defender (This creature can't attack.)\n{1}: Snow Fortress gets +1/+0 until end of turn.
+{1}: Snow Fortress gets +0/+1 until end of turn.
+{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.,"ICE,ME2"
+Snow Hound,,Pat Morrissey,,Creature — Hound,"{1}, {T}: Return Snow Hound and target green or blue creature you control to their owner's hand.",ICE
+Snow-Covered Forest,,Pat Morrissey,,Basic Snow Land — Forest,,"ICE,CSP,ME2"
+Snow-Covered Island,,Anson Maddocks,,Basic Snow Land — Island,,"ICE,CSP,ME2"
+Snow-Covered Mountain,,Tom Wänerstrand,,Basic Snow Land — Mountain,,"ICE,CSP,ME2"
+Snow-Covered Plains,,Christopher Rush,,Basic Snow Land — Plains,,"ICE,CSP,ME2"
+Snow-Covered Swamp,,Douglas Shuler,,Basic Snow Land — Swamp,,"ICE,CSP,ME2"
+Snowblind,,Douglas Shuler,,Enchantment — Aura,"Enchant creature\nEnchanted creature gets -X/-Y. If that creature is attacking, X is the number of snow lands defending player controls. Otherwise, X is the number of snow lands its controller controls. Y is equal to X or to enchanted creature's toughness minus 1, whichever is smaller.",ICE
+Snowfall,,Phil Foglio,,Enchantment,"Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever an Island is tapped for mana, its controller may add {U} to his or her mana pool (in addition to the mana the land produces). If that Island is snow, its controller may add {U}{U} to his or her mana pool instead. Spend this mana only to pay cumulative upkeep costs.",ICE
+Soldevi Golem,,Anson Maddocks,,Artifact Creature — Golem,"Soldevi Golem doesn't untap during your untap step.\nAt the beginning of your upkeep, you may untap target tapped creature an opponent controls. If you do, untap Soldevi Golem.","ICE,ME4"
+Soldevi Machinist,,Jeff A. Menges,,Creature — Human Wizard Artificer,{T}: Add {2} to your mana pool. Spend this mana only to activate abilities of artifacts.,"ICE,ME4"
+Soldevi Simulacrum,,Dan Frazier,,Artifact Creature — Soldier,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{1}: Soldevi Simulacrum gets +1/+0 until end of turn.","ICE,ME2"
+Songs of the Damned,,Pete Venters,,Instant,Add {B} to your mana pool for each creature card in your graveyard.,"ICE,ME2"
+Soul Barrier,,Harold McNeill,,Enchantment,"Whenever an opponent casts a creature spell, Soul Barrier deals 2 damage to that player unless he or she pays {2}.","ICE,5ED"
+Soul Burn,,Rob Alexander,,Sorcery,"Spend only black and/or red mana on X.\nSoul Burn deals X damage to target creature or player. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player's life total before Soul Burn dealt damage, or the creature's toughness.","ICE,INV,DKM,CST"
+Soul Kiss,,Nicola Leonard,,Enchantment — Aura,"Enchant creature\n{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.","ICE,ME2"
+Spectral Shield,,Margaret Organ-Kean,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +0/+2 and can't be the target of spells.,"ICE,ME3"
+Spoils of Evil,,Quinton Hoover,,Instant,"For each artifact or creature card in target opponent's graveyard, add {1} to your mana pool and you gain 1 life.",ICE
+Spoils of War,,Pete Venters,,Sorcery,X is the number of artifact and/or creature cards in an opponent's graveyard as you cast Spoils of War.\nDistribute X +1/+1 counters among any number of target creatures.,ICE
+Staff of the Ages,,Daniel Gelon,,Artifact,Creatures with landwalk abilities can be blocked as though they didn't have those abilities.,ICE
+Stampede,,Jeff A. Menges,,Instant,Attacking creatures get +1/+0 and gain trample until end of turn.,"ICE,5ED,ME2"
+Stench of Evil,,Mark Tedin,,Sorcery,"Destroy all Plains. For each land destroyed this way, Stench of Evil deals 1 damage to that land's controller unless he or she pays {2}.",ICE
+Stone Rain,,Kaja Foglio,,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED"
+Stone Spirit,,Jeff A. Menges,,Creature — Elemental Spirit,Stone Spirit can't be blocked by creatures with flying.,"ICE,5ED,ME2"
+Stonehands,,Dan Frazier,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +0/+2.
+{R}: Enchanted creature gets +1/+0 until end of turn.,"ICE,ME2"
+Storm Spirit,,Pete Venters,,Creature — Elemental Spirit,Flying\n{T}: Storm Spirit deals 2 damage to target creature.,"ICE,ME2"
+Stormbind,,NéNé Thomas & Phillip Mosness,,Enchantment,"{2}, Discard a card at random: Stormbind deals 2 damage to target creature or player.","ICE,TSB"
+Stromgald Cabal,,Anson Maddocks,,Creature — Human Knight,"{T}, Pay 1 life: Counter target white spell.","ICE,5ED,6ED,ME2"
+Stunted Growth,,NéNé Thomas,,Sorcery,Target player chooses three cards from his or her hand and puts them on top of his or her library in any order.,"ICE,ME2"
+Sulfurous Springs,,Phil Foglio,,Land,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.,"ICE,5ED,6ED,7ED,DKM,9ED,10E"
+Sunstone,,Phil Foglio,,Artifact,"{2}, Sacrifice a snow land: Prevent all combat damage that would be dealt this turn.",ICE
+Swamp,,Douglas Shuler,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Douglas Shuler,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Douglas Shuler,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swords to Plowshares,,Kaja Foglio,,Instant,Exile target creature. Its controller gains life equal to its power.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,pJGP,ATH,BRB,pFNM,CST,ME2,DDF,ME4,V13,CNS,VMA"
+Tarpan,,Margaret Organ-Kean,,Creature — Horse,"When Tarpan dies, you gain 1 life.","ICE,5ED"
+Thermokarst,,"Ken Meyer, Jr.",,Sorcery,"Destroy target land. If that land was a snow land, you gain 1 life.","ICE,ME2"
+Thoughtleech,,Mark Tedin,,Enchantment,"Whenever an Island an opponent controls becomes tapped, you may gain 1 life.","ICE,7ED"
+Thunder Wall,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.)\nFlying
+{U}: Thunder Wall gets +1/+1 until end of turn.,"ICE,ME2"
+Timberline Ridge,,Jeff A. Menges,,Land,"Timberline Ridge doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Timberline Ridge.
+{T}: Add {R} or {G} to your mana pool. Put a depletion counter on Timberline Ridge.",ICE
+Time Bomb,,Amy Weber,,Artifact,"At the beginning of your upkeep, put a time counter on Time Bomb.\n{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.","ICE,5ED,ME2"
+Tinder Wall,,Rick Emond,,Creature — Plant Wall,"Defender (This creature can't attack.)\nSacrifice Tinder Wall: Add {R}{R} to your mana pool.
+{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.","ICE,CST,ME2"
+Tor Giant,,Douglas Shuler,,Creature — Giant,,ICE
+Total War,,Drew Tucker,,Enchantment,"Whenever a player attacks with one or more creatures, destroy all untapped non-Wall creatures that player controls that didn't attack, except for creatures the player hasn't controlled continuously since the beginning of the turn.",ICE
+Touch of Death,,Melissa A. Benson,,Sorcery,Touch of Death deals 1 damage to target player. You gain 1 life.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,5ED"
+Touch of Vitae,,L. A. Williams,,Instant,"Until end of turn, target creature gains haste and "{0}: Untap this creature. Activate this ability only once."\nDraw a card at the beginning of the next turn's upkeep.",ICE
+Trailblazer,,Julie Baroh,,Instant,Target creature can't be blocked this turn.,ICE
+Underground River,,NéNé Thomas,,Land,{T}: Add {1} to your mana pool.\n{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.,"ICE,5ED,6ED,7ED,DKM,9ED,10E"
+Updraft,,L. A. Williams,,Instant,Target creature gains flying until end of turn.\nDraw a card at the beginning of the next turn's upkeep.,"ICE,5ED"
+Urza's Bauble,,Christopher Rush,,Artifact,"{T}, Sacrifice Urza's Bauble: Look at a card at random in target player's hand. You draw a card at the beginning of the next turn's upkeep.","ICE,5ED,MED"
+Veldt,,Bryon Wackwitz,,Land,"Veldt doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Veldt.
+{T}: Add {G} or {W} to your mana pool. Put a depletion counter on Veldt.",ICE
+Venomous Breath,,L. A. Williams,,Instant,"Choose target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.","ICE,MMQ"
+Vertigo,,Drew Tucker,,Instant,Vertigo deals 2 damage to target creature with flying. That creature loses flying until end of turn.,"ICE,6ED"
+Vexing Arcanix,,Randy Gallegos,,Artifact,"{3}, {T}: Target player names a card, then reveals the top card of his or her library. If it's the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and Vexing Arcanix deals 2 damage to him or her.","ICE,8ED"
+Vibrating Sphere,,Richard Thomas,,Artifact,"As long as it's your turn, creatures you control get +2/+0.\nAs long as it's not your turn, creatures you control get -0/-2.","ICE,ME4"
+Walking Wall,,Anthony Waters,,Artifact Creature — Wall,Defender\n{3}: Walking Wall gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.,"ICE,DKM,MED"
+Wall of Lava,,Pete Venters,,Creature — Wall,Defender (This creature can't attack.)\n{R}: Wall of Lava gets +1/+1 until end of turn.,ICE
+Wall of Pine Needles,,Brian Snõddy,,Creature — Plant Wall,Defender (This creature can't attack.)\n{G}: Regenerate Wall of Pine Needles.,ICE
+Wall of Shields,,Randy Gallegos,,Artifact Creature — Wall,"Defender (This creature can't attack.)\nBanding (If any creatures with banding you control are blocking a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by.)",ICE
+War Chariot,,Dameon Willich,,Artifact,"{3}, {T}: Target creature gains trample until end of turn.",ICE
+Warning,,Pat Morrissey,,Instant,Prevent all combat damage that would be dealt by target attacking creature this turn.,"ICE,ME2"
+Whalebone Glider,,Amy Weber,,Artifact,"{2}, {T}: Target creature with power 3 or less gains flying until end of turn.","ICE,CST"
+White Scarab,,Phil Foglio,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked by white creatures.
+Enchanted creature gets +2/+2 as long as an opponent controls a white permanent.,ICE
+Whiteout,,NéNé Thomas,,Instant,All creatures lose flying until end of turn.\nSacrifice a snow land: Return Whiteout from your graveyard to your hand.,"ICE,ME2"
+Wiitigo,,Melissa A. Benson,,Creature — Yeti,"Wiitigo enters the battlefield with six +1/+1 counters on it.\nAt the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.","ICE,ME2"
+Wild Growth,,Mike Raabe,,Enchantment — Aura,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,6ED,BTD,7ED"
+Wind Spirit,,Kaja Foglio,,Creature — Elemental Spirit,Flying\nMenace (This creature can't be blocked except by two or more creatures.),"ICE,5ED,6ED,ME2"
+Wings of Aesthir,,"Edward P. Beard, Jr.",,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+0 and has flying and first strike.,"ICE,CST,ME2"
+Winter's Chill,,"Edward P. Beard, Jr.",,Instant,"Cast Winter's Chill only during combat before blockers are declared.\nX can't be greater than the number of snow lands you control.
+Choose X target attacking creatures. For each of those creatures, its controller may pay {1} or {2}. If that player doesn't, destroy that creature at end of combat. If that player pays only {1}, prevent all combat damage that would be dealt to and dealt by that creature this combat.",ICE
+Withering Wisps,,NéNé Thomas,,Enchantment,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.\n{B}: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.","ICE,ME2"
+Woolly Mammoths,,Dan Frazier,,Creature — Elephant,Woolly Mammoths has trample as long as you control a snow land.,"ICE,CST,ME2"
+Woolly Spider,,Daniel Gelon,,Creature — Spider,"Reach (This creature can block creatures with flying.)\nWhenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.","ICE,ATH,BTD,DKM,ME2"
+Word of Blasting,,"Ken Meyer, Jr.",,Instant,Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.,"ICE,5ED,MMQ"
+Word of Undoing,,Christopher Rush,,Instant,Return target creature and all white Auras you own attached to it to their owners' hands.,"ICE,MED"
+Wrath of Marit Lage,,Mike Raabe,,Enchantment,"When Wrath of Marit Lage enters the battlefield, tap all red creatures.\nRed creatures don't untap during their controllers' untap steps.","ICE,8ED"
+Yavimaya Gnats,,Dan Frazier,,Creature — Insect,Flying\n{G}: Regenerate Yavimaya Gnats.,ICE
+Zur's Weirding,,Liz Danforth,,Enchantment,"Players play with their hands revealed.\nIf a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.","ICE,5ED,6ED,8ED,9ED"
+Zuran Enchanter,,Douglas Shuler,,Creature — Human Wizard,"{2}{B}, {T}: Target player discards a card. Activate this ability only during your turn.",ICE
+Zuran Orb,,Sandra Everingham,,Artifact,Sacrifice a land: You gain 2 life.,"ICE,MED,V10"
+Zuran Spellcaster,,"Edward P. Beard, Jr.",,Creature — Human Wizard,{T}: Zuran Spellcaster deals 1 damage to target creature or player.,"ICE,CST,ME2"

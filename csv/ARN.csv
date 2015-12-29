@@ -1,0 +1,100 @@
+name,cost,artist,number,type,text,printings
+Abu Ja'far,,"Ken Meyer, Jr.",,Creature — Human,"When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.","ARN,CHR"
+Aladdin,,Julie Baroh,,Creature — Human Rogue,"{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.","ARN,CHR,ME4"
+Aladdin's Lamp,,Mark Tedin,,Artifact,"{X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, put all but one of them on the bottom of your library in a random order, then draw a card. X can't be 0.","ARN,3ED,4ED"
+Aladdin's Ring,,Dan Frazier,,Artifact,"{8}, {T}: Aladdin's Ring deals 4 damage to target creature or player.","ARN,3ED,4ED,5ED,6ED,7ED,8ED,9ED"
+Ali Baba,,Julie Baroh,,Creature — Human Rogue,{R}: Tap target Wall.,"ARN,4ED"
+Ali from Cairo,,Mark Poole,,Creature — Human,Damage that would reduce your life total to less than 1 reduces it to 1 instead.,"ARN,ME4"
+Army of Allah,,Brian Snõddy,,Instant,Attacking creatures get +2/+0 until end of turn.,ARN
+Army of Allah,,Brian Snõddy,,Instant,Attacking creatures get +2/+0 until end of turn.,ARN
+Bazaar of Baghdad,,Jeff A. Menges,,Land,"{T}: Draw two cards, then discard three cards.","ARN,ME3,VMA"
+Bird Maiden,,Kaja Foglio,,Creature — Human Bird,Flying,"ARN,4ED,5ED,ME4"
+Bird Maiden,,Kaja Foglio,,Creature — Human Bird,Flying,"ARN,4ED,5ED,ME4"
+Bottle of Suleiman,,Jesper Myrfors,,Artifact,"{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you win the flip, put a 5/5 colorless Djinn artifact creature token with flying onto the battlefield. If you lose the flip, Bottle of Suleiman deals 5 damage to you.","ARN,3ED,4ED,5ED,6ED,ME4"
+Brass Man,,Christopher Rush,,Artifact Creature — Construct,"Brass Man doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.","ARN,3ED,4ED,ME4"
+Camel,,Sandra Everingham,,Creature — Camel,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nAs long as Camel is attacking, prevent all damage Deserts would deal to Camel and to creatures banded with Camel.",ARN
+City in a Bottle,,Drew Tucker,,Artifact,"Whenever a nontoken permanent originally printed in the Arabian Nights expansion other than City in a Bottle is on the battlefield, its controller sacrifices it.\nPlayers can't play cards originally printed in the Arabian Nights expansion.","ARN,VMA"
+City of Brass,,Mark Tedin,,Land,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color to your mana pool.","ARN,CHR,5ED,6ED,pSUS,7ED,8ED,ME4,MMA,MD1"
+Cuombajj Witches,,Kaja Foglio,,Creature — Human Wizard,{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.,"ARN,CHR,ATH,MED"
+Cyclone,,Mark Tedin,,Enchantment,"At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.","ARN,CHR,ME4"
+Dancing Scimitar,,Anson Maddocks,,Artifact Creature — Spirit,Flying (This creature can't be blocked except by creatures with flying or reach.),"ARN,3ED,4ED,5ED,6ED,9ED"
+Dandân,,Drew Tucker,,Creature — Fish,"Dandân can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Dandân.","ARN,CHR,5ED,TSB"
+Desert,,Jesper Myrfors,,Land — Desert,{T}: Add {1} to your mana pool.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.,"ARN,pFNM,TSB,V12"
+Desert Nomads,,Christopher Rush,,Creature — Human Nomad,Desertwalk\nPrevent all damage that would be dealt to Desert Nomads by Deserts.,ARN
+Desert Twister,,Susan Van Camp,,Sorcery,Destroy target permanent.,"ARN,3ED,4ED,5ED,MMQ,ME3,VMA,C14,C15"
+Diamond Valley,,Brian Snõddy,,Land,"{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.","ARN,MED"
+Drop of Honey,,Anson Maddocks,,Enchantment,"At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them.\nWhen there are no creatures on the battlefield, sacrifice Drop of Honey.","ARN,ME4"
+Ebony Horse,,Dameon Willich,,Artifact,"{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn.","ARN,3ED,4ED,ME4"
+El-Hajjâj,,Dameon Willich,,Creature — Human Wizard,"Whenever El-Hajjâj deals damage, you gain that much life.","ARN,3ED,4ED"
+Elephant Graveyard,,Rob Alexander,,Land,{T}: Add {1} to your mana pool.\n{T}: Regenerate target Elephant.,"ARN,ME4"
+Erg Raiders,,Dameon Willich,,Creature — Human Warrior,"At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.","ARN,3ED,4ED,5ED,MED"
+Erg Raiders,,Dameon Willich,,Creature — Human Warrior,"At the beginning of your end step, if Erg Raiders didn't attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn.","ARN,3ED,4ED,5ED,MED"
+Erhnam Djinn,,"Ken Meyer, Jr.",,Creature — Djinn,"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)","ARN,CHR,ATH,BTD,JUD,VMA"
+Eye for an Eye,,Mark Poole,,Instant,"The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source's controller.","ARN,3ED,4ED,5ED,ME4"
+Fishliver Oil,,Anson Maddocks,,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.),"ARN,CHR,9ED"
+Fishliver Oil,,Anson Maddocks,,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has islandwalk. (It can't be blocked as long as defending player controls an Island.),"ARN,CHR,9ED"
+Flying Carpet,,Mark Tedin,,Artifact,"{2}, {T}: Target creature gains flying until end of turn.","ARN,3ED,4ED,5ED,6ED,7ED,8ED,ME4"
+Flying Men,,Christopher Rush,,Creature — Human,Flying,"ARN,TSB"
+Ghazbán Ogre,,Jesper Myrfors,,Creature — Ogre,"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.","ARN,CHR,5ED,MED"
+Giant Tortoise,,Kaja Foglio,,Creature — Turtle,Giant Tortoise gets +0/+3 as long as it's untapped.,"ARN,4ED,MED,ME4"
+Giant Tortoise,,Kaja Foglio,,Creature — Turtle,Giant Tortoise gets +0/+3 as long as it's untapped.,"ARN,4ED,MED,ME4"
+Guardian Beast,,"Ken Meyer, Jr.",,Creature — Beast,"As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.","ARN,ME4"
+Hasran Ogress,,Dan Frazier,,Creature — Ogre,"Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.","ARN,CHR,ME4"
+Hasran Ogress,,Dan Frazier,,Creature — Ogre,"Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.","ARN,CHR,ME4"
+Hurr Jackal,,Drew Tucker,,Creature — Hound,{T}: Target creature can't be regenerated this turn.,"ARN,4ED"
+Ifh-Bíff Efreet,,Jesper Myrfors,,Creature — Efreet,Flying\n{G}: Ifh-Bíff Efreet deals 1 damage to each creature with flying and each player. Any player may activate this ability.,"ARN,MED"
+Island Fish Jasconius,,Jesper Myrfors,,Creature — Fish,"Island Fish Jasconius doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.
+Island Fish Jasconius can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Island Fish Jasconius.","ARN,3ED,4ED"
+Island of Wak-Wak,,Douglas Shuler,,Land,{T}: Target creature with flying has base power 0 until end of turn.,"ARN,MED"
+Jandor's Ring,,Dan Frazier,,Artifact,"{2}, {T}, Discard the last card you drew this turn: Draw a card.","ARN,3ED"
+Jandor's Saddlebags,,Dameon Willich,,Artifact,"{3}, {T}: Untap target creature.","ARN,3ED,4ED,5ED,7ED"
+Jeweled Bird,,Amy Weber,,Artifact,"Remove Jeweled Bird from your deck before playing if you're not playing for ante.\n{T}: Ante Jeweled Bird. If you do, put all other cards you own from the ante into your graveyard, then draw a card.","ARN,CHR"
+Jihad,,Brian Snõddy,,Enchantment,"As Jihad enters the battlefield, choose a color and an opponent.\nWhite creatures get +2/+1 as long as the chosen player controls a nontoken permanent of the chosen color.
+When the chosen player controls no nontoken permanents of the chosen color, sacrifice Jihad.",ARN
+Junún Efreet,,Christopher Rush,,Creature — Efreet,"Flying\nAt the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.","ARN,4ED,ME4"
+Juzám Djinn,,Mark Tedin,,Creature — Djinn,"At the beginning of your upkeep, Juzám Djinn deals 1 damage to you.","ARN,MED"
+Khabál Ghoul,,Douglas Shuler,,Creature — Zombie,"At the beginning of each end step, put a +1/+1 counter on Khabál Ghoul for each creature that died this turn.","ARN,MED"
+King Suleiman,,Mark Poole,,Creature — Human,{T}: Destroy target Djinn or Efreet.,ARN
+Kird Ape,,"Ken Meyer, Jr.",,Creature — Ape,Kird Ape gets +1/+2 as long as you control a Forest.,"ARN,3ED,pFNM,BTD,9ED,V09,DDH"
+Library of Alexandria,,Mark Poole,,Land,{T}: Add {1} to your mana pool.\n{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.,"ARN,ME4,VMA"
+Magnetic Mountain,,Susan Van Camp,,Enchantment,"Blue creatures don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {4} for each creature chosen this way. If the player does, untap those creatures.","ARN,3ED,4ED"
+Merchant Ship,,Tom Wänerstrand,,Creature — Human,"Merchant Ship can't attack unless defending player controls an Island.\nWhenever Merchant Ship attacks and isn't blocked, you gain 2 life.
+When you control no Islands, sacrifice Merchant Ship.",ARN
+Metamorphosis,,Christopher Rush,,Sorcery,"As an additional cost to cast Metamorphosis, sacrifice a creature.\nAdd X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.","ARN,CHR"
+Mijae Djinn,,Susan Van Camp,,Creature — Djinn,"Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it.","ARN,3ED,ME4"
+Moorish Cavalry,,Dameon Willich,,Creature — Human Knight,Trample,"ARN,TSB"
+Moorish Cavalry,,Dameon Willich,,Creature — Human Knight,Trample,"ARN,TSB"
+Mountain,,Douglas Shuler,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Nafs Asp,,Christopher Rush,,Creature — Snake,"Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.","ARN,4ED"
+Nafs Asp,,Christopher Rush,,Creature — Snake,"Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of his or her next draw step unless he or she pays {1} before that draw step.","ARN,4ED"
+Oasis,,Brian Snõddy,,Land,{T}: Prevent the next 1 damage that would be dealt to target creature this turn.,"ARN,4ED,ME4"
+Old Man of the Sea,,Susan Van Camp,,Creature — Djinn,You may choose not to untap Old Man of the Sea during your untap step.\n{T}: Gain control of target creature with power less than or equal to Old Man of the Sea's power for as long as Old Man of the Sea remains tapped and that creature's power remains less than or equal to Old Man of the Sea's power.,"ARN,ME3"
+Oubliette,,Douglas Shuler,,Enchantment,"When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.\nWhen Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.","ARN,MED"
+Oubliette,,Douglas Shuler,,Enchantment,"When Oubliette enters the battlefield, exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature.\nWhen Oubliette leaves the battlefield, return that exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it. If you do, return the other exiled cards to the battlefield under their owner's control attached to that permanent.","ARN,MED"
+Piety,,Mark Poole,,Instant,Blocking creatures get +0/+3 until end of turn.,"ARN,4ED"
+Piety,,Mark Poole,,Instant,Blocking creatures get +0/+3 until end of turn.,"ARN,4ED"
+Pyramids,,Amy Weber,,Artifact,"{2}: Choose one —\n• Destroy target Aura attached to a land.
+• The next time target land would be destroyed this turn, remove all damage marked on it instead.",ARN
+Repentant Blacksmith,,Drew Tucker,,Creature — Human,Protection from red,"ARN,CHR,5ED"
+Ring of Ma'rûf,,Dan Frazier,,Artifact,"{5}, {T}, Exile Ring of Ma'rûf: The next time you would draw a card this turn, instead choose a card you own from outside the game and put it into your hand.","ARN,MED"
+Rukh Egg,,Christopher Rush,,Creature — Bird,"When Rukh Egg dies, put a 4/4 red Bird creature token with flying onto the battlefield at the beginning of the next end step.","ARN,pREL,8ED,9ED"
+Rukh Egg,,Christopher Rush,,Creature — Bird,"When Rukh Egg dies, put a 4/4 red Bird creature token with flying onto the battlefield at the beginning of the next end step.","ARN,pREL,8ED,9ED"
+Sandals of Abdallah,,Dan Frazier,,Artifact,"{2}, {T}: Target creature gains islandwalk until end of turn. When that creature dies this turn, destroy Sandals of Abdallah. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)",ARN
+Sandstorm,,Brian Snõddy,,Instant,Sandstorm deals 1 damage to each attacking creature.,"ARN,4ED,MIR,BRB,ME4"
+Serendib Djinn,,Anson Maddocks,,Creature — Djinn,"Flying\nAt the beginning of your upkeep, sacrifice a land. If you sacrifice an Island this way, Serendib Djinn deals 3 damage to you.
+When you control no lands, sacrifice Serendib Djinn.","ARN,ME4"
+Serendib Efreet,,Anson Maddocks,,Creature — Efreet,"Flying\nAt the beginning of your upkeep, Serendib Efreet deals 1 damage to you.","ARN,3ED,MED,V09,VMA"
+Shahrazad,,Kaja Foglio,,Sorcery,"Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.",ARN
+Sindbad,,Julie Baroh,,Creature — Human,"{T}: Draw a card and reveal it. If it isn't a land card, discard it.","ARN,4ED,TSB"
+Singing Tree,,Rob Alexander,,Creature — Plant,{T}: Target attacking creature has base power 0 until end of turn.,"ARN,MED"
+Sorceress Queen,,Kaja Foglio,,Creature — Human Wizard,{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.,"ARN,3ED,4ED,RQS,ITP,5ED"
+Stone-Throwing Devils,,"Ken Meyer, Jr.",,Creature — Devil,First strike,ARN
+Stone-Throwing Devils,,"Ken Meyer, Jr.",,Creature — Devil,First strike,ARN
+Unstable Mutation,,Douglas Shuler,,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+At the beginning of the upkeep of enchanted creature's controller, put a -1/-1 counter on that creature.","ARN,3ED,4ED,5ED,TSB"
+War Elephant,,Kristen Bishop,,Creature — Elephant,"Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","ARN,CHR"
+War Elephant,,Kristen Bishop,,Creature — Elephant,"Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","ARN,CHR"
+Wyluli Wolf,,Susan Van Camp,,Creature — Wolf,{T}: Target creature gets +1/+1 until end of turn.,"ARN,5ED,6ED,MED"
+Wyluli Wolf,,Susan Van Camp,,Creature — Wolf,{T}: Target creature gets +1/+1 until end of turn.,"ARN,5ED,6ED,MED"
+Ydwen Efreet,,Drew Tucker,,Creature — Efreet,"Whenever Ydwen Efreet blocks, flip a coin. If you lose the flip, remove Ydwen Efreet from combat and it can't block this turn. Creatures it was blocking that had become blocked by only Ydwen Efreet this combat become unblocked.","ARN,MED"

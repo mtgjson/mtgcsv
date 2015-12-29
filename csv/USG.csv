@@ -1,0 +1,380 @@
+name,cost,artist,number,type,text,printings
+Absolute Grace,,Jeff Miracola,1,Enchantment,All creatures have protection from black.,USG
+Absolute Law,,Mark Zug,2,Enchantment,All creatures have protection from red.,USG
+Angelic Chorus,,Ron Spencer,3,Enchantment,"Whenever a creature enters the battlefield under your control, you gain life equal to its toughness.","USG,10E"
+Angelic Page,,Rebecca Guay,4,Creature — Angel Spirit,Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.,"USG,BRB,7ED,8ED,DDC,DD3_DVD"
+Brilliant Halo,,Randy Gallegos,5,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+2.
+When Brilliant Halo is put into a graveyard from the battlefield, return Brilliant Halo to its owner's hand.","USG,VMA"
+Catastrophe,,Andrew Robinson,6,Sorcery,Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.,"USG,BRB"
+Clear,,Andrew Robinson,7,Instant,"Destroy target enchantment.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Congregate,,Mark Zug,8,Instant,Target player gains 2 life for each creature on the battlefield.,"USG,HOP,CMD,M14,M15"
+Defensive Formation,,Greg Staples,9,Enchantment,"Rather than the attacking player, you assign the combat damage of each creature attacking you. You can divide that creature's combat damage as you choose among any of the creatures blocking it.",USG
+Disciple of Grace,,Robh Ruppel,10,Creature — Human Cleric,"Protection from black\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,ONS"
+Disciple of Law,,Matthew D. Wilson,11,Creature — Human Cleric,"Protection from red\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Disenchant,,Donato Giancola,12,Instant,Destroy target artifact or enchantment.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,pARL,MIR,5ED,TMP,USG,ATH,6ED,MMQ,BRB,pFNM,S00,7ED,pMPR,CST,TSB,ME2,ME3,TPR"
+Elite Archers,,Greg Staples,13,Creature — Human Soldier Archer,{T}: Elite Archers deals 3 damage to target attacking or blocking creature.,"USG,7ED,8ED"
+Faith Healer,,Randy Gallegos,14,Creature — Human Cleric,Sacrifice an enchantment: You gain life equal to the sacrificed enchantment's converted mana cost.,USG
+Glorious Anthem,,Kev Walker,15,Enchantment,Creatures you control get +1/+1.,"USG,pSUS,7ED,8ED,9ED,10E"
+Healing Salve,,Heather Hudson,16,Instant,Choose one —\n• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to target creature or player this turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,MIR,ITP,5ED,USG,6ED,BRB,7ED,8ED,DDC,ME4,DD3_DVD"
+Herald of Serra,,Matthew D. Wilson,17,Creature — Angel,"Flying, vigilance\nEcho {2}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Humble,,Val Mayerik,18,Instant,"Until end of turn, target creature loses all abilities and has base power and toughness 0/1.",USG
+Intrepid Hero,,Brian Snõddy,19,Creature — Human Soldier,{T}: Destroy target creature with power 4 or greater.,"USG,7ED,8ED,M13"
+Monk Idealist,,Daren Bader,20,Creature — Human Monk Cleric,"When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.","USG,C15"
+Monk Realist,,Daren Bader,21,Creature — Human Monk Cleric,"When Monk Realist enters the battlefield, destroy target enchantment.","USG,CMD"
+Opal Acrolith,,Robh Ruppel,22,Enchantment,"Whenever an opponent casts a creature spell, if Opal Acrolith is an enchantment, Opal Acrolith becomes a 2/4 Soldier creature.\n{0}: Opal Acrolith becomes an enchantment.",USG
+Opal Archangel,,Jeff Miracola,23,Enchantment,"When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.",USG
+Opal Caryatid,,Berry,24,Enchantment,"When an opponent casts a creature spell, if Opal Caryatid is an enchantment, Opal Caryatid becomes a 2/2 Soldier creature.",USG
+Opal Gargoyle,,Kev Walker,25,Enchantment,"When an opponent casts a creature spell, if Opal Gargoyle is an enchantment, Opal Gargoyle becomes a 2/2 Gargoyle creature with flying.",USG
+Opal Titan,,Paolo Parente,26,Enchantment,"When an opponent casts a creature spell, if Opal Titan is an enchantment, Opal Titan becomes a 4/4 Giant creature with protection from each of that spell's colors.",USG
+Pacifism,,Randy Gallegos,27,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack or block.,"MIR,TMP,USG,ATH,6ED,BRB,7ED,ONS,8ED,9ED,10E,DDC,M10,M11,M12,M13,M14,DD3_DVD,DTK,TPR"
+Pariah,,Jon J Muth,28,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nAll damage that would be dealt to you is dealt to enchanted creature instead.,"USG,7ED,10E"
+Path of Peace,,Val Mayerik,29,Sorcery,Destroy target creature. Its owner gains 4 life.,"POR,PO2,USG,S99"
+Pegasus Charger,,Val Mayerik,30,Creature — Pegasus,Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.),"USG,ATH,9ED"
+Planar Birth,,Adam Rex,31,Sorcery,Return all basic land cards from all graveyards to the battlefield tapped under their owners' control.,USG
+Presence of the Master,,Ciruelo,32,Enchantment,"Whenever a player casts an enchantment spell, counter it.","LEG,USG"
+Redeem,,D. Alexander Gregory,33,Instant,Prevent all damage that would be dealt this turn to up to two target creatures.,"USG,8ED"
+Remembrance,,Val Mayerik,34,Enchantment,"Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, and put it into your hand. If you do, shuffle your library.",USG
+Rune of Protection: Artifacts,,Scott M. Fischer,35,Enchantment,"{W}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Rune of Protection: Black,,Scott M. Fischer,36,Enchantment,"{W}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Rune of Protection: Blue,,Scott M. Fischer,37,Enchantment,"{W}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Rune of Protection: Green,,Scott M. Fischer,38,Enchantment,"{W}: The next time a green source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Rune of Protection: Lands,,Scott M. Fischer,39,Enchantment,"{W}: The next time a land source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Rune of Protection: Red,,Scott M. Fischer,40,Enchantment,"{W}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Rune of Protection: White,,Scott M. Fischer,41,Enchantment,"{W}: The next time a white source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Sanctum Custodian,,Paolo Parente,42,Creature — Human Cleric,{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.,"USG,BRB"
+Sanctum Guardian,,Donato Giancola,43,Creature — Human Cleric,"Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.","USG,BRB,9ED"
+Seasoned Marshal,,Matthew D. Wilson,44,Creature — Human Soldier,"Whenever Seasoned Marshal attacks, you may tap target creature.","POR,USG,BRB,7ED,8ED,9ED,DDF"
+Serra Avatar,,Dermot Power,45,Creature — Avatar,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.","pMEI,USG,pSUS,M13,C13,C14"
+Serra Zealot,,DiTerlizzi,46,Creature — Human Soldier,First strike,USG
+Serra's Embrace,,Terese Nielsen,47,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has flying and vigilance.,"USG,7ED,10E,DDC,DD3_DVD"
+Serra's Hymn,,Rebecca Guay,48,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Serra's Hymn.\nSacrifice Serra's Hymn: Prevent the next X damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose, where X is the number of verse counters on Serra's Hymn.",USG
+Serra's Liturgy,,rk post,49,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Serra's Liturgy.\n{W}, Sacrifice Serra's Liturgy: Destroy up to X target artifacts and/or enchantments, where X is the number of verse counters on Serra's Liturgy.",USG
+Shimmering Barrier,,D. Alexander Gregory,50,Creature — Wall,"Defender (This creature can't attack.)\nFirst strike
+Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Silent Attendant,,Rebecca Guay,51,Creature — Human Cleric,{T}: You gain 1 life.,USG
+Songstitcher,,Berry,52,Creature — Human Cleric,{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.,"USG,BRB"
+Soul Sculptor,,Ciruelo,53,Creature — Human,"{1}{W}, {T}: Target creature becomes an enchantment and loses all abilities until a player casts a creature spell.",USG
+Voice of Grace,,Jeff Miracola,54,Creature — Angel,"Flying, protection from black",USG
+Voice of Law,,Mark Zug,55,Creature — Angel,"Flying, protection from red",USG
+Waylay,,Greg Staples,56,Instant,Put three 2/2 white Knight creature tokens onto the battlefield. Exile them at the beginning of the next cleanup step.,USG
+Worship,,Mark Zug,57,Enchantment,"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.","USG,7ED,8ED,9ED"
+Academy Researchers,,Stephen Daniele,58,Creature — Human Wizard,"When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.","USG,10E"
+Annul,,Greg Simanson,59,Instant,Counter target artifact or enchantment spell.,"USG,MRD,THS"
+Arcane Laboratory,,Stephen Daniele,60,Enchantment,Each player can't cast more than one spell each turn.,"USG,7ED"
+Attunement,,Randy Gallegos,61,Enchantment,"Return Attunement to its owner's hand: Draw three cards, then discard four cards.",USG
+Back to Basics,,Andrew Robinson,62,Enchantment,Nonbasic lands don't untap during their controllers' untap steps.,USG
+"Barrin, Master Wizard",,Michael Sutfin,63,Legendary Creature — Human Wizard,"{2}, Sacrifice a permanent: Return target creature to its owner's hand.",USG
+Catalog,,Berry,64,Instant,"Draw two cards, then discard a card.","USG,8ED"
+Cloak of Mists,,John Matson,65,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked.,USG
+Confiscate,,Adam Rex,66,Enchantment — Aura,Enchant permanent (Target a permanent as you cast this. This card enters the battlefield attached to that permanent.)\nYou control enchanted permanent.,"USG,7ED,8ED,9ED"
+Coral Merfolk,,rk post,67,Creature — Merfolk,,"USG,7ED,M10,M12,M14"
+Curfew,,Randy Gallegos,68,Instant,Each player returns a creature he or she controls to its owner's hand.,"USG,BRB"
+Disruptive Student,,Randy Gallegos,69,Creature — Human Wizard,{T}: Counter target spell unless its controller pays {1}.,"USG,BRB"
+Douse,,Val Mayerik,70,Enchantment,{1}{U}: Counter target red spell.,USG
+Drifting Djinn,,Carl Critchlow,71,Creature — Djinn,"Flying\nAt the beginning of your upkeep, sacrifice Drifting Djinn unless you pay {1}{U}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Enchantment Alteration,,D. Alexander Gregory,72,Instant,Attach target Aura attached to a creature or land to another permanent of that type.,"LEG,CHR,USG"
+Energy Field,,John Matson,73,Enchantment,"Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field.",USG
+Exhaustion,,Paolo Parente,74,Sorcery,Creatures and lands target opponent controls don't untap during his or her next untap step.,"POR,PO2,USG,PTK,S99,9ED"
+Fog Bank,,Scott Kirschner,75,Creature — Wall,"Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank.","USG,CMD,M13,C13,C14"
+Gilded Drake,,Bob Eggleton,76,Creature — Drake,"Flying\nWhen Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't make an exchange, sacrifice Gilded Drake. This ability can't be countered except by spells and abilities. (This effect lasts indefinitely.)",USG
+Great Whale,,Bob Eggleton,77,Creature — Whale,"When Great Whale enters the battlefield, untap up to seven lands.",USG
+Hermetic Study,,Ron Spencer,78,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target creature or player.",USG
+Hibernation,,Scott Kirschner,79,Instant,Return all green permanents to their owners' hands.,"USG,7ED,8ED"
+Horseshoe Crab,,Scott Kirschner,80,Creature — Crab,{U}: Untap Horseshoe Crab.,"USG,10E"
+Imaginary Pet,,Heather Hudson,81,Creature — Illusion,"At the beginning of your upkeep, if you have a card in hand, return Imaginary Pet to its owner's hand.","USG,9ED"
+Launch,,Val Mayerik,82,Enchantment — Aura,"Enchant creature\nEnchanted creature has flying.
+When Launch is put into a graveyard from the battlefield, return Launch to its owner's hand.",USG
+Lilting Refrain,,Berry,83,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.",USG
+Lingering Mirage,,Jerry Tiritilli,84,Enchantment — Aura,"Enchant land\nEnchanted land is an Island.
+Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Morphling,,rk post,85,Creature — Shapeshifter,{U}: Untap Morphling.\n{U}: Morphling gains flying until end of turn.
+{U}: Morphling gains shroud until end of turn. (It can't be the target of spells or abilities.)
+{1}: Morphling gets +1/-1 until end of turn.
+{1}: Morphling gets -1/+1 until end of turn.,"pJGP,USG,VMA"
+Pendrell Drake,,Jeff Miracola,86,Creature — Drake,"Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Pendrell Flux,,Andrew Robinson,87,Enchantment — Aura,"Enchant creature\nEnchanted creature has "At the beginning of your upkeep, sacrifice this creature unless you pay its mana cost."",USG
+Peregrine Drake,,Bob Eggleton,88,Creature — Drake,"Flying\nWhen Peregrine Drake enters the battlefield, untap up to five lands.","USG,PC2"
+Power Sink,,Andrew Robinson,89,Instant,"Counter target spell unless its controller pays {X}. If he or she doesn't, that player taps all lands with mana abilities he or she controls and empties his or her mana pool.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,USG,6ED,BTD,VMA"
+Power Taint,,Brian Snõddy,90,Enchantment — Aura,"Enchant enchantment\nAt the beginning of the upkeep of enchanted enchantment's controller, that player loses 2 life unless he or she pays {2}.
+Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Recantation,,Greg Simanson,91,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Recantation.\n{U}, Sacrifice Recantation: Return up to X target permanents to their owners' hands, where X is the number of verse counters on Recantation.",USG
+Rescind,,Adam Rex,92,Instant,"Return target permanent to its owner's hand.\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,VMA"
+Rewind,,Dermot Power,93,Instant,Counter target spell. Untap up to four lands.,"pARL,USG,8ED,9ED,M13"
+Sandbar Merfolk,,rk post,94,Creature — Merfolk,"Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Sandbar Serpent,,Jim Nelson,95,Creature — Serpent,"Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Show and Tell,,Jeff Laubenstein,96,Sorcery,"Each player may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.","pJGP,USG"
+Somnophore,,Andrew Robinson,97,Creature — Illusion,"Flying\nWhenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield.",USG
+Spire Owl,,Steve Firchow,98,Creature — Bird,"Flying\nWhen Spire Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.",USG
+Stern Proctor,,Randy Gallegos,99,Creature — Human Wizard,"When Stern Proctor enters the battlefield, return target artifact or enchantment to its owner's hand.",USG
+Stroke of Genius,,Stephen Daniele,100,Instant,Target player draws X cards.,"pJGP,USG,VMA,C14,C15"
+Sunder,,Stephen Daniele,101,Instant,Return all lands to their owners' hands.,USG
+Telepathy,,Matthew D. Wilson,102,Enchantment,Your opponents play with their hands revealed.,"USG,7ED,8ED,9ED,10E,M10"
+Time Spiral,,Michael Sutfin,103,Sorcery,"Exile Time Spiral. Each player shuffles his or her graveyard and hand into his or her library, then draws seven cards. You untap up to six lands.",USG
+Tolarian Winds,,Lawrence Snelly,104,Instant,"Discard all the cards in your hand, then draw that many cards.","USG,BTD,7ED"
+Turnabout,,Heather Hudson,105,Instant,"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.","pMEI,USG,VMA"
+Veil of Birds,,Heather Hudson,106,Enchantment,"When an opponent casts a spell, if Veil of Birds is an enchantment, Veil of Birds becomes a 1/1 Bird creature with flying.",USG
+Veiled Apparition,,Andrew Robinson,107,Enchantment,"When an opponent casts a spell, if Veiled Apparition is an enchantment, Veiled Apparition becomes a 3/3 Illusion creature with flying and "At the beginning of your upkeep, sacrifice Veiled Apparition unless you pay {1}{U}."",USG
+Veiled Crocodile,,Paolo Parente,108,Enchantment,"When a player has no cards in hand, if Veiled Crocodile is an enchantment, Veiled Crocodile becomes a 4/4 Crocodile creature.",USG
+Veiled Sentry,,Ron Spears,109,Enchantment,"When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's converted mana cost.",USG
+Veiled Serpent,,Bob Eggleton,110,Enchantment,"When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature with "This creature can't attack unless defending player controls an Island."\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Windfall,,Pete Venters,111,Sorcery,"Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.","USG,BRB,CMD,C15"
+Wizard Mentor,,Jeff Miracola,112,Creature — Human Wizard,{T}: Return Wizard Mentor and target creature you control to their owner's hand.,USG
+Zephid,,Daren Bader,113,Creature — Illusion,Flying\nShroud (This creature can't be the target of spells or abilities.),USG
+Zephid's Embrace,,Daren Bader,114,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has flying and shroud. (It can't be the target of spells or abilities.),USG
+Abyssal Horror,,rk post,115,Creature — Horror,"Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards.","USG,S99,7ED"
+Befoul,,Pete Venters,116,Sorcery,Destroy target land or nonblack creature. It can't be regenerated.,"USG,7ED,CHK"
+Bereavement,,Andrew Goldhawk,117,Enchantment,"Whenever a green creature dies, its controller discards a card.","USG,7ED"
+Blood Vassal,,Chippy,118,Creature — Thrull,Sacrifice Blood Vassal: Add {B}{B} to your mana pool.,USG
+Bog Raiders,,Carl Critchlow,119,Creature — Zombie,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,S99,M11"
+Breach,,Greg Staples,120,Instant,Target creature gets +2/+0 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.),USG
+Cackling Fiend,,Brian Despain,121,Creature — Zombie,"When Cackling Fiend enters the battlefield, each opponent discards a card.","USG,BRB"
+Carrion Beetles,,Ron Spencer,122,Creature — Insect,"{2}{B}, {T}: Exile up to three target cards from a single graveyard.",USG
+Contamination,,Stephen Daniele,123,Enchantment,"At the beginning of your upkeep, sacrifice Contamination unless you sacrifice a creature.\nIf a land is tapped for mana, it produces {B} instead of any other type and amount.",USG
+Corrupt,,Vincent Evans,124,Sorcery,Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.,"pMEI,USG,7ED,pMPR,SHM,DDC,DDD,M11,M14,DD3_DVD,DD3_GVL"
+Crazed Skirge,,Ron Spencer,125,Creature — Imp,"Flying, haste","USG,BRB"
+Dark Hatchling,,Mark A. Nelson,126,Creature — Horror,"Flying\nWhen Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.","USG,CMD,PC2,VMA"
+Dark Ritual,,Tom Fleming,127,Instant,Add {B}{B}{B} to your mana pool.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,pJGP,USG,MMQ,BRB,BTD,DKM,CST,DDC,HOP,DDE,ME4,V13,VMA,DD3_DVD,TPR"
+Darkest Hour,,Heather Hudson,128,Enchantment,All creatures are black.,"USG,7ED"
+Despondency,,D. Alexander Gregory,129,Enchantment — Aura,"Enchant creature\nEnchanted creature gets -2/-0.
+When Despondency is put into a graveyard from the battlefield, return Despondency to its owner's hand.",USG
+Diabolic Servitude,,Scott M. Fischer,130,Enchantment,"When Diabolic Servitude enters the battlefield, return target creature card from your graveyard to the battlefield.\nWhen the creature put onto the battlefield with Diabolic Servitude dies, exile it and return Diabolic Servitude to its owner's hand.
+When Diabolic Servitude leaves the battlefield, exile the creature put onto the battlefield with Diabolic Servitude.","USG,PD3,C15"
+Discordant Dirge,,Carl Critchlow,131,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Discordant Dirge.\n{B}, Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards.",USG
+Duress,,Lawrence Snelly,132,Sorcery,"Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.","pMEI,pARL,USG,pFNM,7ED,DDC,M10,M11,PD3,M13,M14,MD1,DD3_DVD,DTK"
+Eastern Paladin,,Carl Critchlow,133,Creature — Zombie Knight,"{B}{B}, {T}: Destroy target green creature.","USG,7ED,8ED"
+Exhume,,Carl Critchlow,134,Sorcery,Each player puts a creature card from his or her graveyard onto the battlefield.,"USG,BRB,PD3"
+Expunge,,Christopher Moeller,135,Instant,"Destroy target nonartifact, nonblack creature. It can't be regenerated.\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,VMA"
+Flesh Reaver,,Pete Venters,136,Creature — Horror,"Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you.",USG
+Hollow Dogs,,Jeff Miracola,137,Creature — Zombie Hound,"Whenever Hollow Dogs attacks, it gets +2/+0 until end of turn.","USG,S99,BTD,7ED,9ED"
+Ill-Gotten Gains,,Greg Staples,138,Sorcery,"Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.","USG,CNS"
+Looming Shade,,Vincent Evans,139,Creature — Shade,{B}: Looming Shade gets +1/+1 until end of turn.,"USG,7ED,8ED,9ED,10E,M10"
+Lurking Evil,,Scott Kirschner,140,Enchantment,"Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying.","USG,VMA"
+Mana Leech,,Mark A. Nelson,141,Creature — Leech,You may choose not to untap Mana Leech during your untap step.\n{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.,USG
+No Rest for the Wicked,,Carl Critchlow,142,Enchantment,Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.,"USG,10E"
+Oppression,,Pete Venters,143,Enchantment,"Whenever a player casts a spell, that player discards a card.","USG,7ED"
+Order of Yawgmoth,,Chippy,144,Creature — Zombie Knight,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Order of Yawgmoth deals damage to a player, that player discards a card.","USG,DDE"
+Parasitic Bond,,Scott Kirschner,145,Enchantment — Aura,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Parasitic Bond deals 2 damage to that player.",USG
+Persecute,,D. Alexander Gregory,146,Sorcery,Choose a color. Target player reveals his or her hand and discards all cards of that color.,"USG,7ED,8ED,9ED"
+Pestilence,,Pete Venters,147,Enchantment,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.\n{B}: Pestilence deals 1 damage to each creature and each player.","LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,USG,6ED,BRB"
+Phyrexian Ghoul,,Pete Venters,148,Creature — Zombie,Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.,"USG,BRB,HOP,DDE"
+Planar Void,,Andrew Goldhawk,149,Enchantment,"Whenever another card is put into a graveyard from anywhere, exile that card.",USG
+Priest of Gix,,Brian Despain,150,Creature — Human Cleric Minion,"When Priest of Gix enters the battlefield, add {B}{B}{B} to your mana pool.","USG,DDE"
+Rain of Filth,,Stephen Daniele,151,Instant,"Until end of turn, lands you control gain "Sacrifice this land: Add {B} to your mana pool."",USG
+Ravenous Skirge,,Ron Spencer,152,Creature — Imp,"Flying\nWhenever Ravenous Skirge attacks, it gets +2/+0 until end of turn.",USG
+Reclusive Wight,,Vincent Evans,153,Creature — Zombie Minion,"At the beginning of your upkeep, if you control another nonland permanent, sacrifice Reclusive Wight.",USG
+Reprocess,,Mark Tedin,154,Sorcery,"Sacrifice any number of artifacts, creatures, and/or lands. Draw a card for each permanent sacrificed this way.","USG,7ED"
+Sanguine Guard,,Kev Walker,155,Creature — Zombie Knight,First strike\n{1}{B}: Regenerate Sanguine Guard.,"USG,DDE"
+Sicken,,Heather Hudson,156,Enchantment — Aura,"Enchant creature\nEnchanted creature gets -1/-1.
+Cycling {2} ({2}, Discard this card: Draw a card.)",USG
+Skirge Familiar,,Ron Spencer,157,Creature — Imp,Flying\nDiscard a card: Add {B} to your mana pool.,"USG,VMA"
+Skittering Skirge,,Ron Spencer,158,Creature — Imp,"Flying\nWhen you cast a creature spell, sacrifice Skittering Skirge.","pARL,USG,BTD"
+Sleeper Agent,,Randy Gallegos,159,Creature — Minion,"When Sleeper Agent enters the battlefield, target opponent gains control of it.\nAt the beginning of your upkeep, Sleeper Agent deals 2 damage to you.","USG,10E"
+Spined Fluke,,Mark A. Nelson,160,Creature — Worm Horror,"When Spined Fluke enters the battlefield, sacrifice a creature.\n{B}: Regenerate Spined Fluke.",USG
+Tainted Æther,,Thomas M. Baxa,161,Enchantment,"Whenever a creature enters the battlefield, its controller sacrifices a creature or land.","USG,7ED"
+Unnerve,,Terese Nielsen,162,Sorcery,Each opponent discards two cards.,"USG,BRB,CMD"
+Unworthy Dead,,Carl Critchlow,163,Creature — Skeleton,{B}: Regenerate Unworthy Dead.,USG
+Vampiric Embrace,,Thomas M. Baxa,164,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.
+Whenever a creature dealt damage by enchanted creature this turn dies, put a +1/+1 counter on that creature.",USG
+Vebulid,,Ron Spencer,165,Creature — Horror,"Vebulid enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.
+When Vebulid attacks or blocks, destroy it at end of combat.",USG
+Victimize,,Val Mayerik,166,Sorcery,"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.","USG,CNS,C14,C15"
+Vile Requiem,,Carl Critchlow,167,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Vile Requiem.\n{1}{B}, Sacrifice Vile Requiem: Destroy up to X target nonblack creatures, where X is the number of verse counters on Vile Requiem. They can't be regenerated.","USG,C13"
+Western Paladin,,Carl Critchlow,168,Creature — Zombie Knight,"{B}{B}, {T}: Destroy target white creature.","USG,7ED,8ED"
+Witch Engine,,Kev Walker,169,Creature — Horror,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{T}: Add {B}{B}{B}{B} to your mana pool. Target opponent gains control of Witch Engine. (Activate this ability only any time you could cast an instant.),USG
+Yawgmoth's Edict,,Scott Kirschner,170,Enchantment,"Whenever an opponent casts a white spell, that player loses 1 life and you gain 1 life.","USG,7ED"
+Yawgmoth's Will,,Ron Spencer,171,Sorcery,"Until end of turn, you may play cards from your graveyard.\nIf a card would be put into your graveyard from anywhere this turn, exile that card instead.","pJGP,USG,VMA"
+Acidic Soil,,Scott M. Fischer,172,Sorcery,Acidic Soil deals damage to each player equal to the number of lands he or she controls.,USG
+Antagonism,,Donato Giancola,173,Enchantment,"At the beginning of each player's end step, Antagonism deals 2 damage to that player unless one of his or her opponents was dealt damage this turn.",USG
+Arc Lightning,,Andrew Goldhawk,174,Sorcery,"Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.","pARL,USG,BRB,HOP,KTK,FRF_UGIN"
+Bedlam,,Mike Raabe,175,Enchantment,Creatures can't block.,"USG,7ED"
+Brand,,Donato Giancola,176,Instant,"Gain control of all permanents you own. (This effect lasts indefinitely.)\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Bravado,,Jerry Tiritilli,177,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 for each other creature you control.,USG
+Bulwark,,Brian Snõddy,178,Enchantment,"At the beginning of your upkeep, Bulwark deals X damage to target opponent, where X is the number of cards in your hand minus the number of cards in that player's hand.",USG
+Crater Hellion,,Daren Bader,179,Creature — Hellion Beast,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Crater Hellion enters the battlefield, it deals 4 damage to each other creature.","USG,DDL,C13,VMA"
+Destructive Urge,,Andrew Robinson,180,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, that player sacrifices a land.",USG
+Disorder,,Terese Nielsen,181,Sorcery,Disorder deals 2 damage to each white creature and each player who controls a white creature.,"USG,7ED"
+Dromosaur,,Ciruelo,182,Creature — Lizard,"Whenever Dromosaur blocks or becomes blocked, it gets +2/-2 until end of turn.",USG
+Electryte,,Thomas M. Baxa,183,Creature — Beast,"Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.",USG
+Falter,,Mike Raabe,184,Instant,Creatures without flying can't block this turn.,"USG,VMA"
+Fault Line,,Ron Spencer,185,Instant,Fault Line deals X damage to each creature without flying and each player.,USG
+Fiery Mantle,,Bob Eggleton,186,Enchantment — Aura,"Enchant creature\n{R}: Enchanted creature gets +1/+0 until end of turn.
+When Fiery Mantle is put into a graveyard from the battlefield, return Fiery Mantle to its owner's hand.",USG
+Fire Ants,,Tom Fleming,187,Creature — Insect,{T}: Fire Ants deals 1 damage to each other creature without flying.,"USG,BRB"
+Gamble,,Andrew Goldhawk,188,Sorcery,"Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.","USG,VMA"
+Goblin Cadets,,Jerry Tiritilli,189,Creature — Goblin,"Whenever Goblin Cadets blocks or becomes blocked, target opponent gains control of it. (This removes Goblin Cadets from combat.)","USG,CMD"
+Goblin Lackey,,Jerry Tiritilli,190,Creature — Goblin,"Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.","USG,V09,VMA"
+Goblin Matron,,DiTerlizzi,191,Creature — Goblin,"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, and put it into your hand. If you do, shuffle your library.","PO2,USG,ATH,7ED,EVG,VMA,DD3_EVG"
+Goblin Offensive,,Carl Critchlow,192,Sorcery,Put X 1/1 red Goblin creature tokens onto the battlefield.,"USG,ATH,HOP"
+Goblin Patrol,,Greg Staples,193,Creature — Goblin,"Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)","USG,VMA"
+Goblin Raider,,Greg Staples,194,Creature — Goblin Warrior,Goblin Raider can't block.,"PO2,USG,7ED,8ED,9ED"
+Goblin Spelunkers,,DiTerlizzi,195,Creature — Goblin Warrior,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"USG,7ED,RAV"
+Goblin War Buggy,,DiTerlizzi,196,Creature — Goblin,"Haste\nEcho {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Guma,,Daren Bader,197,Creature — Cat,Protection from blue,USG
+Headlong Rush,,Dermot Power,198,Instant,Attacking creatures gain first strike until end of turn.,USG
+Heat Ray,,Brian Snõddy,199,Instant,Heat Ray deals X damage to target creature.,"USG,BRB,ROE,M15"
+Jagged Lightning,,Mike Raabe,200,Sorcery,Jagged Lightning deals 3 damage to each of two target creatures.,"PO2,USG,S99"
+Lay Waste,,Terese Nielsen,201,Sorcery,"Destroy target land.\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,ONS"
+Lightning Dragon,,Ron Spencer,202,Creature — Dragon,"Flying\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+{R}: Lightning Dragon gets +1/+0 until end of turn.","pPRE,USG,VMA"
+Meltdown,,Donato Giancola,203,Sorcery,Destroy each artifact with converted mana cost X or less.,USG
+Okk,,Mike Raabe,204,Creature — Goblin,Okk can't attack unless a creature with greater power also attacks.\nOkk can't block unless a creature with greater power also blocks.,"USG,7ED,8ED"
+Outmaneuver,,Greg Staples,205,Instant,X target blocked creatures assign their combat damage this turn as though they weren't blocked.,USG
+Rain of Salt,,Adam Rex,206,Sorcery,Destroy two target lands.,"POR,USG"
+Raze,,Mike Raabe,207,Sorcery,"As an additional cost to cast Raze, sacrifice a land.\nDestroy target land.",USG
+Reflexes,,Steve White,208,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has first strike. (It deals combat damage before creatures without first strike.),"USG,7ED,8ED,9ED"
+Retromancer,,Robh Ruppel,209,Creature — Viashino Shaman,"Whenever Retromancer becomes the target of a spell or ability, Retromancer deals 3 damage to that spell or ability's controller.",USG
+Rumbling Crescendo,,Lawrence Snelly,210,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Rumbling Crescendo.\n{R}, Sacrifice Rumbling Crescendo: Destroy up to X target lands, where X is the number of verse counters on Rumbling Crescendo.",USG
+Scald,,Adam Rex,211,Enchantment,"Whenever a player taps an Island for mana, Scald deals 1 damage to that player.",USG
+Scoria Wurm,,Steve Firchow,212,Creature — Wurm,"At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.","USG,10E"
+Scrap,,Donato Giancola,213,Instant,"Destroy target artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Shiv's Embrace,,Bob Eggleton,214,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has flying.
+{R}: Enchanted creature gets +1/+0 until end of turn.,"USG,M11,DDG,M14"
+Shivan Hellkite,,Bob Eggleton,215,Creature — Dragon,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.,"USG,10E,DDG"
+Shivan Raptor,,Bob Eggleton,216,Creature — Lizard,"First strike, haste\nEcho {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Shower of Sparks,,Christopher Moeller,217,Instant,Shower of Sparks deals 1 damage to target creature and 1 damage to target player.,"USG,BRB,DDL"
+Sneak Attack,,Jerry Tiritilli,218,Enchantment,{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.,"pJGP,USG"
+Steam Blast,,Mike Raabe,219,Sorcery,Steam Blast deals 2 damage to each creature and each player.,"USG,BRB"
+Sulfuric Vapors,,Lawrence Snelly,220,Enchantment,"If a red spell would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.",USG
+Thundering Giant,,Mark Zug,221,Creature — Giant,Haste (This creature can attack and {T} as soon as it comes under your control.),"USG,BTD,10E,MMA,M15"
+Torch Song,,Thomas M. Baxa,222,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Torch Song.\n{2}{R}, Sacrifice Torch Song: Torch Song deals X damage to target creature or player, where X is the number of verse counters on Torch Song.",USG
+Viashino Outrider,,Ciruelo,223,Creature — Viashino,"Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Viashino Runner,,Steve White,224,Creature — Viashino,Menace (This creature can't be blocked except by two or more creatures.),"USG,10E"
+Viashino Sandswimmer,,Pete Venters,225,Creature — Viashino,"{R}: Flip a coin. If you win the flip, return Viashino Sandswimmer to its owner's hand. If you lose the flip, sacrifice Viashino Sandswimmer.",USG
+Viashino Weaponsmith,,Dermot Power,226,Creature — Viashino,"Whenever Viashino Weaponsmith becomes blocked by a creature, Viashino Weaponsmith gets +2/+2 until end of turn.",USG
+Vug Lizard,,Heather Hudson,227,Creature — Lizard,"Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nEcho {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Wildfire,,Carl Critchlow,228,Sorcery,Each player sacrifices four lands. Wildfire deals 4 damage to each creature.,"PO2,USG,7ED,9ED,MM2"
+Abundance,,Rebecca Guay,229,Enchantment,"If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.","USG,10E"
+Acridian,,rk post,230,Creature — Insect,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Albino Troll,,Paolo Parente,231,Creature — Troll,"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll.","USG,pFNM,DDD,DD3_GVL"
+Anaconda,,Stephen Daniele,232,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,7ED,9ED"
+Argothian Elder,,DiTerlizzi,233,Creature — Elf Druid,{T}: Untap two target lands.,"USG,BRB"
+Argothian Enchantress,,Daren Bader,234,Creature — Human Druid,"Shroud (This creature can't be the target of spells or abilities.)\nWhenever you cast an enchantment spell, draw a card.","pJGP,USG"
+Argothian Swine,,Randy Elliott,235,Creature — Boar,Trample,USG
+Argothian Wurm,,Kev Walker,236,Creature — Wurm,"Trample\nWhen Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library.",USG
+Blanchwood Armor,,Paolo Parente,237,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature gets +1/+1 for each Forest you control.,"USG,7ED,8ED,9ED,10E,DPA"
+Blanchwood Treefolk,,DiTerlizzi,238,Creature — Treefolk,,USG
+Bull Hippo,,Daren Bader,239,Creature — Hippo,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),"POR,pPOD,USG,S99,7ED"
+Carpet of Flowers,,Rebecca Guay,240,Enchantment,"At the beginning of each of your main phases, if you haven't added mana to your mana pool with this ability this turn, you may add up to X mana of any one color to your mana pool, where X is the number of Islands target opponent controls.",USG
+Cave Tiger,,Hannibal King,241,Creature — Cat,"Whenever Cave Tiger becomes blocked by a creature, Cave Tiger gets +1/+1 until end of turn.",USG
+Child of Gaea,,Paolo Parente,242,Creature — Elemental,"Trample\nAt the beginning of your upkeep, sacrifice Child of Gaea unless you pay {G}{G}.
+{1}{G}: Regenerate Child of Gaea.",USG
+Citanul Centaurs,,Val Mayerik,243,Creature — Centaur,"Shroud (This creature can't be the target of spells or abilities.)\nEcho {3}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Citanul Hierophants,,Vincent Evans,244,Creature — Human Druid,Creatures you control have "{T}: Add {G} to your mana pool.",USG
+Cradle Guard,,Mark Zug,245,Creature — Treefolk,"Trample\nEcho {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Crosswinds,,Randy Elliott,246,Enchantment,Creatures with flying get -2/-0.,USG
+Elvish Herder,,Tom Fleming,247,Creature — Elf,{G}: Target creature gains trample until end of turn.,USG
+Elvish Lyrist,,Rebecca Guay,248,Creature — Elf,"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.","USG,BRB,pSUS,7ED,8ED"
+Endless Wurm,,DiTerlizzi,249,Creature — Wurm,"Trample\nAt the beginning of your upkeep, sacrifice Endless Wurm unless you sacrifice an enchantment.",USG
+Exploration,,Brian Snõddy,250,Enchantment,You may play an additional land on each of your turns.,"USG,CNS"
+Fecundity,,Rebecca Guay,251,Enchantment,"Whenever a creature dies, that creature's controller may draw a card.","USG,BRB,8ED,C13"
+Fertile Ground,,Heather Hudson,252,Enchantment — Aura,"Enchant land\nWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).","USG,BRB,INV,8ED,LRW,HOP,DDE"
+Fortitude,,Daren Bader,253,Enchantment — Aura,"Enchant creature\nSacrifice a Forest: Regenerate enchanted creature.
+When Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand.",USG
+Gaea's Bounty,,Stephen Daniele,254,Sorcery,"Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library.",USG
+Gaea's Embrace,,Paolo Parente,255,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+3 and has trample.
+{G}: Regenerate enchanted creature.,"USG,VMA"
+Gorilla Warrior,,Steve White,256,Creature — Ape Warrior,,"POR,USG,S99,BRB"
+Greater Good,,Pete Venters,257,Enchantment,"Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.","pJGP,USG,9ED"
+Greener Pastures,,Heather Hudson,258,Enchantment,"At the beginning of each player's upkeep, if that player controls more lands than each other player, the player puts a 1/1 green Saproling creature token onto the battlefield.",USG
+Hawkeater Moth,,Heather Hudson,259,Creature — Insect,Flying\nShroud (This creature can't be the target of spells or abilities.),USG
+Hidden Ancients,,Daren Bader,260,Enchantment,"When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.",USG
+Hidden Guerrillas,,Christopher Moeller,261,Enchantment,"When an opponent casts an artifact spell, if Hidden Guerrillas is an enchantment, Hidden Guerrillas becomes a 5/3 Soldier creature with trample.",USG
+Hidden Herd,,Andrew Robinson,262,Enchantment,"When an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature.",USG
+Hidden Predators,,John Matson,263,Enchantment,"When an opponent controls a creature with power 4 or greater, if Hidden Predators is an enchantment, Hidden Predators becomes a 4/4 Beast creature.",USG
+Hidden Spider,,Thomas M. Baxa,264,Enchantment,"When an opponent casts a creature spell with flying, if Hidden Spider is an enchantment, Hidden Spider becomes a 3/5 Spider creature with reach. (It can block creatures with flying.)",USG
+Hidden Stag,,Berry,265,Enchantment,"Whenever an opponent plays a land, if Hidden Stag is an enchantment, Hidden Stag becomes a 3/2 Elk Beast creature.\nWhenever you play a land, if Hidden Stag is a creature, Hidden Stag becomes an enchantment.",USG
+Hush,,Rebecca Guay,266,Sorcery,"Destroy all enchantments.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Lull,,Terese Nielsen,267,Instant,"Prevent all combat damage that would be dealt this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Midsummer Revel,,Steve Firchow,268,Enchantment,"At the beginning of your upkeep, you may put a verse counter on Midsummer Revel.\n{G}, Sacrifice Midsummer Revel: Put X 3/3 green Beast creature tokens onto the battlefield, where X is the number of verse counters on Midsummer Revel.",USG
+Pouncing Jaguar,,Daren Bader,269,Creature — Cat,"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)","pARL,USG"
+Priest of Titania,,Rebecca Guay,270,Creature — Elf Druid,{T}: Add {G} to your mana pool for each Elf on the battlefield.,"USG,pFNM,C14"
+Rejuvenate,,Greg Simanson,271,Sorcery,"You gain 6 life.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Retaliation,,Tom Fleming,272,Enchantment,"Creatures you control have "Whenever this creature becomes blocked by a creature, this creature gets +1/+1 until end of turn."",USG
+Sporogenesis,,Ron Spencer,273,Enchantment,"At the beginning of your upkeep, you may put a fungus counter on target nontoken creature.\nWhenever a creature with a fungus counter on it dies, put a 1/1 green Saproling creature token onto the battlefield for each fungus counter on that creature.
+When Sporogenesis leaves the battlefield, remove all fungus counters from all creatures.",USG
+Spreading Algae,,Stephen Daniele,274,Enchantment — Aura,"Enchant Swamp\nWhen enchanted land becomes tapped, destroy it.
+When Spreading Algae is put into a graveyard from the battlefield, return Spreading Algae to its owner's hand.","USG,8ED"
+Symbiosis,,Jeff Miracola,275,Instant,Two target creatures each get +2/+2 until end of turn.,"USG,BRB"
+Titania's Boon,,Val Mayerik,276,Sorcery,Put a +1/+1 counter on each creature you control.,USG
+Titania's Chosen,,Mark Zug,277,Creature — Elf Archer,"Whenever a player casts a green spell, put a +1/+1 counter on Titania's Chosen.","USG,C14"
+Treefolk Seedlings,,John Matson,278,Creature — Treefolk,Treefolk Seedlings's toughness is equal to the number of Forests you control.,"USG,7ED"
+Treetop Rangers,,Daren Bader,279,Creature — Elf,Treetop Rangers can't be blocked except by creatures with flying.,USG
+Venomous Fangs,,Lawrence Snelly,280,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to a creature, destroy the other creature.",USG
+Vernal Bloom,,Bob Eggleton,281,Enchantment,"Whenever a Forest is tapped for mana, its controller adds {G} to his or her mana pool (in addition to the mana the land produces).","USG,7ED,8ED"
+War Dance,,Terese Nielsen,282,Enchantment,"At the beginning of your upkeep, you may put a verse counter on War Dance.\nSacrifice War Dance: Target creature gets +X/+X until end of turn, where X is the number of verse counters on War Dance.",USG
+Whirlwind,,John Matson,283,Sorcery,Destroy all creatures with flying.,"USG,S99,C14"
+Wild Dogs,,Terese Nielsen,284,Creature — Hound,"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs.\nCycling {2} ({2}, Discard this card: Draw a card.)",USG
+Winding Wurm,,DiTerlizzi,285,Creature — Wurm,"Echo {4}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",USG
+Barrin's Codex,,DiTerlizzi,286,Artifact,"At the beginning of your upkeep, you may put a page counter on Barrin's Codex.\n{4}, {T}, Sacrifice Barrin's Codex: Draw X cards, where X is the number of page counters on Barrin's Codex.",USG
+Cathodion,,Henry G. Higgenbotham,287,Artifact Creature — Construct,"When Cathodion dies, add {3} to your mana pool.","USG,MRD,C14,MM2"
+Chimeric Staff,,Michael Sutfin,288,Artifact,{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.,"USG,10E"
+Citanul Flute,,Berry,289,Artifact,"{X}, {T}: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.","USG,10E"
+Claws of Gix,,Henry G. Higgenbotham,290,Artifact,"{1}, Sacrifice a permanent: You gain 1 life.","USG,TSB"
+Copper Gnomes,,Jeff Laubenstein,291,Artifact Creature — Gnome,"{4}, Sacrifice Copper Gnomes: You may put an artifact card from your hand onto the battlefield.",USG
+Crystal Chimes,,Donato Giancola,292,Artifact,"{3}, {T}, Sacrifice Crystal Chimes: Return all enchantment cards from your graveyard to your hand.","USG,C15"
+Dragon Blood,,Greg Simanson,293,Artifact,"{3}, {T}: Put a +1/+1 counter on target creature.","USG,MRD,DDL"
+Endoskeleton,,Mark Tedin,294,Artifact,"You may choose not to untap Endoskeleton during your untap step.\n{2}, {T}: Target creature gets +0/+3 for as long as Endoskeleton remains tapped.",USG
+Fluctuator,,John Matson,295,Artifact,Cycling abilities you activate cost you up to {2} less to activate.,USG
+Grafted Skullcap,,Brian Despain,296,Artifact,"At the beginning of your draw step, draw an additional card.\nAt the beginning of your end step, discard your hand.","USG,7ED"
+Hopping Automaton,,Val Mayerik,297,Artifact Creature — Construct,{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.,USG
+"Karn, Silver Golem",,Mark Zug,298,Legendary Artifact Creature — Golem,"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.","pARL,USG,V10,VMA"
+Lifeline,,D. Alexander Gregory,299,Artifact,"Whenever a creature dies, if another creature is on the battlefield, return the first card to the battlefield under its owner's control at the beginning of the next end step.",USG
+Lotus Blossom,,Randy Gallegos,300,Artifact,"At the beginning of your upkeep, you may put a petal counter on Lotus Blossom.\n{T}, Sacrifice Lotus Blossom: Add X mana of any one color to your mana pool, where X is the number of petal counters on Lotus Blossom.",USG
+Metrognome,,Jeff Laubenstein,301,Artifact,"When a spell or ability an opponent controls causes you to discard Metrognome, put four 1/1 colorless Gnome artifact creature tokens onto the battlefield.\n{4}, {T}: Put a 1/1 colorless Gnome artifact creature token onto the battlefield.",USG
+Mishra's Helix,,Berry,302,Artifact,"{X}, {T}: Tap X target lands.",USG
+Mobile Fort,,Mark Tedin,303,Artifact Creature — Wall,Defender (This creature can't attack.)\n{3}: Mobile Fort gets +3/-1 until end of turn and can attack this turn as though it didn't have defender. Activate this ability only once each turn.,USG
+Noetic Scales,,Andrew Robinson,304,Artifact,"At the beginning of each player's upkeep, return to its owner's hand each creature that player controls with power greater than the number of cards in his or her hand.",USG
+Phyrexian Colossus,,Mark Tedin,305,Artifact Creature — Golem,Phyrexian Colossus doesn't untap during your untap step.\nPay 8 life: Untap Phyrexian Colossus.
+Phyrexian Colossus can't be blocked except by three or more creatures.,"USG,7ED,8ED,DDE"
+Phyrexian Processor,,Ron Spencer,306,Artifact,"As Phyrexian Processor enters the battlefield, pay any amount of life.\n{4}, {T}: Put an X/X black Minion creature token onto the battlefield, where X is the life paid as Phyrexian Processor entered the battlefield.","USG,DDE"
+Pit Trap,,Brian Snõddy,307,Artifact,"{2}, {T}, Sacrifice Pit Trap: Destroy target attacking creature without flying. It can't be regenerated.","ICE,USG,7ED"
+Purging Scythe,,Matthew D. Wilson,308,Artifact,"At the beginning of your upkeep, Purging Scythe deals 2 damage to the creature with the least toughness. If two or more creatures are tied for least toughness, you choose one of them.",USG
+Smokestack,,Scott Kirschner,309,Artifact,"At the beginning of your upkeep, you may put a soot counter on Smokestack.\nAt the beginning of each player's upkeep, that player sacrifices a permanent for each soot counter on Smokestack.","USG,VMA,V14"
+Temporal Aperture,,Michael Sutfin,310,Artifact,"{5}, {T}: Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)",USG
+Thran Turbine,,Brian Snõddy,311,Artifact,"At the beginning of your upkeep, you may add {1} or {2} to your mana pool. You can't spend this mana to cast spells.",USG
+Umbilicus,,Dermot Power,312,Artifact,"At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",USG
+Urza's Armor,,rk post,313,Artifact,"If a source would deal damage to you, prevent 1 of that damage.","USG,8ED"
+Voltaic Key,,Henry G. Higgenbotham,314,Artifact,"{1}, {T}: Untap target artifact.","USG,DDE,M11"
+Wall of Junk,,Adam Rex,315,Artifact Creature — Wall,"Defender (This creature can't attack.)\nWhen Wall of Junk blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",USG
+Whetstone,,Greg Simanson,316,Artifact,{3}: Each player puts the top two cards of his or her library into his or her graveyard.,USG
+Wirecat,,Michael Sutfin,317,Artifact Creature — Cat,Wirecat can't attack or block if an enchantment is on the battlefield.,USG
+Worn Powerstone,,Henry G. Higgenbotham,318,Artifact,Worn Powerstone enters the battlefield tapped.\n{T}: Add {2} to your mana pool.,"USG,DDE,C14,C15"
+Blasted Landscape,,Ciruelo,319,Land,"{T}: Add {1} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)","USG,C15"
+Drifting Meadow,,Bob Eggleton,320,Land,"Drifting Meadow enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,ATH,BRB,C13,C14,C15"
+Gaea's Cradle,,Mark Zug,321,Legendary Land,{T}: Add {G} to your mana pool for each creature you control.,"pJGP,USG"
+Phyrexian Tower,,Chippy,322,Legendary Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice a creature: Add {B}{B} to your mana pool.",USG
+Polluted Mire,,Stephen Daniele,323,Land,"Polluted Mire enters the battlefield tapped.\n{T}: Add {B} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,ATH,BRB,BTD,DDD,PD3,C14,DD3_GVL,C15"
+Remote Isle,,Ciruelo,324,Land,"Remote Isle enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,BRB,BTD,C14"
+Serra's Sanctum,,Ciruelo,325,Legendary Land,{T}: Add {W} to your mana pool for each enchantment you control.,USG
+Shivan Gorge,,John Matson,326,Legendary Land,"{T}: Add {1} to your mana pool.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.","USG,V12"
+Slippery Karst,,Stephen Daniele,327,Land,"Slippery Karst enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,ATH,BRB,BTD,DDD,C13,C14,DD3_GVL,C15"
+Smoldering Crater,,Mark Tedin,328,Land,"Smoldering Crater enters the battlefield tapped.\n{T}: Add {R} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)","USG,ATH,BTD,C13,C14,C15"
+Thran Quarry,,Michael Sutfin,329,Land,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color to your mana pool.","USG,pSUS"
+Tolarian Academy,,Stephen Daniele,330,Legendary Land,{T}: Add {U} to your mana pool for each artifact you control.,"USG,VMA"
+Plains,,Rob Alexander,331,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Rob Alexander,332,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Rob Alexander,333,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Rob Alexander,334,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Donato Giancola,335,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Donato Giancola,336,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Donato Giancola,337,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Donato Giancola,338,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,John Avon,339,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,John Avon,340,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,John Avon,341,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,John Avon,342,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,343,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,344,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,345,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,John Avon,346,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Anthony S. Waters,347,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Anthony S. Waters,348,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Anthony S. Waters,349,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Anthony S. Waters,350,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

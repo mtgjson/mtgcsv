@@ -1,0 +1,317 @@
+name,cost,artist,number,type,text,printings
+Battlewise Valor,,Zack Stella,1,Instant,Target creature gets +2/+2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Cavalry Pegasus,,Kev Walker,2,Creature — Pegasus,"Flying\nWhenever Cavalry Pegasus attacks, each attacking Human gains flying until end of turn.","DDL,THS"
+Celestial Archon,,Matt Stewart,3,Enchantment Creature — Archon,"Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nFlying, first strike
+Enchanted creature gets +4/+4 and has flying and first strike.","pPRE,THS,C15"
+Chained to the Rocks,,Aaron Miller,4,Enchantment — Aura,"Enchant Mountain you control\nWhen Chained to the Rocks enters the battlefield, exile target creature an opponent controls until Chained to the Rocks leaves the battlefield. (That creature returns under its owner's control.)",THS
+Chosen by Heliod,,Zack Stella,5,Enchantment — Aura,"Enchant creature\nWhen Chosen by Heliod enters the battlefield, draw a card.
+Enchanted creature gets +0/+2.",THS
+Dauntless Onslaught,,Peter Mohrbacher,6,Instant,Up to two target creatures each get +2/+2 until end of turn.,"THS,DDN,DDO"
+Decorated Griffin,,Phill Simmer,7,Creature — Griffin,Flying\n{1}{W}: Prevent the next 1 combat damage that would be dealt to you this turn.,THS
+Divine Verdict,,Raymond Swanland,8,Instant,Destroy target attacking or blocking creature.,"M10,M13,THS,M15,ORI"
+"Elspeth, Sun's Champion",,Eric Deschamps,9,Planeswalker — Elspeth,+1: Put three 1/1 white Soldier creature tokens onto the battlefield.\n−3: Destroy all creatures with power 4 or greater.
+−7: You get an emblem with "Creatures you control get +2/+2 and have flying.","THS,DDO"
+Ephara's Warden,,Zack Stella,10,Creature — Human Cleric,{T}: Tap target creature with power 3 or less.,THS
+Evangel of Heliod,,Nils Hamm,11,Creature — Human Cleric,"When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",THS
+Fabled Hero,,Aaron Miller,12,Creature — Human Soldier,"Double strike\nHeroic — Whenever you cast a spell that targets Fabled Hero, put a +1/+1 counter on Fabled Hero.",THS
+Favored Hoplite,,Winona Nelson,13,Creature — Human Soldier,"Heroic — Whenever you cast a spell that targets Favored Hoplite, put a +1/+1 counter on Favored Hoplite and prevent all damage that would be dealt to it this turn.",THS
+Gift of Immortality,,Matt Stewart,14,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under its owner's control. Return Gift of Immortality to the battlefield attached to that creature at the beginning of the next end step.",THS
+Glare of Heresy,,Raymond Swanland,15,Sorcery,Exile target white permanent.,THS
+Gods Willing,,Mark Winters,16,Instant,Target creature you control gains protection from the color of your choice until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+"Heliod, God of the Sun",,Jaime Jones,17,Legendary Enchantment Creature — God,"Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)
+Other creatures you control have vigilance.
+{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield.",THS
+Heliod's Emissary,,Sam Burley,18,Enchantment Creature — Elk,"Bestow {6}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nWhenever Heliod's Emissary or enchanted creature attacks, tap target creature an opponent controls.
+Enchanted creature gets +3/+3.",THS
+Hopeful Eidolon,,Min Yum,19,Enchantment Creature — Spirit,"Bestow {3}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)
+Enchanted creature gets +1/+1 and has lifelink.",THS
+Hundred-Handed One,,Brad Rigney,20,Creature — Giant,"Vigilance\n{3}{W}{W}{W}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+As long as Hundred-Handed One is monstrous, it has reach and can block an additional ninety-nine creatures each combat.",THS
+Lagonna-Band Elder,,Min Yum,21,Creature — Centaur Advisor,"When Lagonna-Band Elder enters the battlefield, if you control an enchantment, you gain 3 life.",THS
+Last Breath,,Nils Hamm,22,Instant,Exile target creature with power 2 or less. Its controller gains 4 life.,"MMQ,SHM,THS"
+Leonin Snarecaster,,Kev Walker,23,Creature — Cat Soldier,"When Leonin Snarecaster enters the battlefield, you may tap target creature.","THS,DDN"
+Observant Alseid,,Todd Lockwood,24,Enchantment Creature — Nymph,"Bestow {4}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nVigilance
+Enchanted creature gets +2/+2 and has vigilance.",THS
+Ordeal of Heliod,,Lucas Graciano,25,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Heliod.
+When you sacrifice Ordeal of Heliod, you gain 10 life.",THS
+Phalanx Leader,,David Palumbo,26,Creature — Human Soldier,"Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control.","pMGD,THS"
+Ray of Dissolution,,Terese Nielsen,27,Instant,Destroy target enchantment. You gain 3 life.,THS
+Scholar of Athreos,,Cynthia Sheppard,28,Creature — Human Cleric,{2}{B}: Each opponent loses 1 life. You gain life equal to the life lost this way.,THS
+Setessan Battle Priest,,Wesley Burt,29,Creature — Human Cleric,"Heroic — Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.",THS
+Setessan Griffin,,Greg Staples,30,Creature — Griffin,Flying\n{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.,THS
+Silent Artisan,,Anthony Palumbo,31,Creature — Giant,,THS
+Soldier of the Pantheon,,Eric Deschamps,32,Creature — Human Soldier,"Protection from multicolored\nWhenever an opponent casts a multicolored spell, you gain 1 life.",THS
+Spear of Heliod,,Yeong-Hao Han,33,Legendary Enchantment Artifact,"Creatures you control get +1/+1.\n{1}{W}{W}, {T}: Destroy target creature that dealt damage to you this turn.",THS
+Traveling Philosopher,,James Ryman,34,Creature — Human Advisor,,THS
+Vanquish the Foul,,Eric Deschamps,35,Sorcery,Destroy target creature with power 4 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Wingsteed Rider,,Cynthia Sheppard,36,Creature — Human Knight,"Flying\nHeroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider.",THS
+Yoked Ox,,Ryan Yee,37,Creature — Ox,,"THS,ORI"
+Annul,,Christine Choi,38,Instant,Counter target artifact or enchantment spell.,"USG,MRD,THS"
+Aqueous Form,,Slawomir Maniak,39,Enchantment — Aura,"Enchant creature\nEnchanted creature can't be blocked.
+Whenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",THS
+Artisan of Forms,,Min Yum,40,Creature — Human Wizard,"Heroic — Whenever you cast a spell that targets Artisan of Forms, you may have Artisan of Forms become a copy of target creature and gain this ability.",THS
+Benthic Giant,,Jaime Jones,41,Creature — Giant,Hexproof (This creature can't be the target of spells or abilities your opponents control.),THS
+Bident of Thassa,,Yeong-Hao Han,42,Legendary Enchantment Artifact,"Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able.","pLPA,THS,C15"
+Breaching Hippocamp,,Christopher Burdett,43,Creature — Horse Fish,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Breaching Hippocamp enters the battlefield, untap another target creature you control.",THS
+Coastline Chimera,,Dan Scott,44,Creature — Chimera,Flying\n{1}{W}: Coastline Chimera can block an additional creature this turn.,THS
+Crackling Triton,,Greg Staples,45,Creature — Merfolk Wizard,"{2}{R}, Sacrifice Crackling Triton: Crackling Triton deals 2 damage to target creature or player.",THS
+Curse of the Swine,,James Ryman,46,Sorcery,"Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.",THS
+Dissolve,,Wesley Burt,47,Instant,Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),"pFNM,THS"
+Fate Foretold,,Dan Scott,48,Enchantment — Aura,"Enchant creature\nWhen Fate Foretold enters the battlefield, draw a card.
+When enchanted creature dies, its controller draws a card.",THS
+Gainsay,,Clint Cearley,49,Instant,Counter target blue spell.,"PLS,THS"
+Griptide,,Adam Paquette,50,Instant,Put target creature on top of its owner's library.,"DKA,THS,DDM"
+Horizon Scholar,,Karl Kopinski,51,Creature — Sphinx,"Flying\nWhen Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",THS
+Lost in a Labyrinth,,Winona Nelson,52,Instant,Target creature gets -3/-0 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Master of Waves,,Karl Kopinski,53,Creature — Merfolk Wizard,"Protection from red\nElemental creatures you control get +1/+1.
+When Master of Waves enters the battlefield, put a number of 1/0 blue Elemental creature tokens onto the battlefield equal to your devotion to blue. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)",THS
+Meletis Charlatan,,Jason A. Engle,54,Creature — Human Wizard,"{2}{U}, {T}: The controller of target instant or sorcery spell copies it. That player may choose new targets for the copy.",THS
+Mnemonic Wall,,Trevor Claxton,55,Creature — Wall,"Defender\nWhen Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand.","ROE,THS,C13"
+Nimbus Naiad,,David Palumbo,56,Enchantment Creature — Nymph,"Bestow {4}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nFlying
+Enchanted creature gets +2/+2 and has flying.",THS
+Omenspeaker,,Dallas Williams,57,Creature — Human Wizard,"When Omenspeaker enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","THS,DDO"
+Ordeal of Thassa,,Howard Lyon,58,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Thassa.
+When you sacrifice Ordeal of Thassa, draw two cards.",THS
+Prescient Chimera,,Daarken,59,Creature — Chimera,"Flying\nWhenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",THS
+Prognostic Sphinx,,Steve Prescott,60,Creature — Sphinx,"Flying\nDiscard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.
+Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","THS,CPK"
+Sea God's Revenge,,Eric Velhagen,61,Sorcery,Return up to three target creatures your opponents control to their owners' hands. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Sealock Monster,,Adam Paquette,62,Creature — Octopus,"Sealock Monster can't attack unless defending player controls an Island.\n{5}{U}{U}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Sealock Monster becomes monstrous, target land becomes an Island in addition to its other types.","THS,DDO"
+Shipbreaker Kraken,,Jack Wang,63,Creature — Kraken,"{6}{U}{U}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)\nWhen Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don't untap during their controllers' untap steps for as long as you control Shipbreaker Kraken.","pPRE,THS"
+Stymied Hopes,,Peter Mohrbacher,64,Instant,Counter target spell unless its controller pays {1}. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Swan Song,,Peter Mohrbacher,65,Instant,"Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.",THS
+"Thassa, God of the Sea",,Jason Chan,66,Legendary Enchantment Creature — God,"Indestructible\nAs long as your devotion to blue is less than five, Thassa isn't a creature. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)
+At the beginning of your upkeep, scry 1.
+{1}{U}: Target creature you control can't be blocked this turn.",THS
+Thassa's Bounty,,Ryan Yee,67,Sorcery,Draw three cards. Target player puts the top three cards of his or her library into his or her graveyard.,THS
+Thassa's Emissary,,Sam Burley,68,Enchantment Creature — Crab,"Bestow {5}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nWhenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.
+Enchanted creature gets +3/+3.",THS
+Triton Fortune Hunter,,Clint Cearley,69,Creature — Merfolk Soldier,"Heroic — Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.",THS
+Triton Shorethief,,Howard Lyon,70,Creature — Merfolk Rogue,,THS
+Triton Tactics,,Jack Wang,71,Instant,"Up to two target creatures each get +0/+3 until end of turn. Untap those creatures. At this turn's next end of combat, tap each creature that was blocked by one of those creatures this turn and it doesn't untap during its controller's next untap step.",THS
+Vaporkin,,Seb McKinnon,72,Creature — Elemental,Flying\nVaporkin can block only creatures with flying.,THS
+Voyage's End,,Chris Rahn,73,Instant,Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Wavecrash Triton,,Ryan Barger,74,Creature — Merfolk Wizard,"Heroic — Whenever you cast a spell that targets Wavecrash Triton, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",THS
+Abhorrent Overlord,,Slawomir Maniak,75,Creature — Demon,"Flying\nWhen Abhorrent Overlord enters the battlefield, put a number of 1/1 black Harpy creature tokens with flying onto the battlefield equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+At the beginning of your upkeep, sacrifice a creature.","pPRE,THS"
+Agent of the Fates,,Matt Stewart,76,Creature — Human Assassin,"Deathtouch\nHeroic — Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.",THS
+Asphodel Wanderer,,Scott Chou,77,Creature — Skeleton Soldier,{2}{B}: Regenerate Asphodel Wanderer.,THS
+Baleful Eidolon,,Min Yum,78,Enchantment Creature — Spirit,"Bestow {4}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+Enchanted creature gets +1/+1 and has deathtouch.",THS
+Blood-Toll Harpy,,Kev Walker,79,Creature — Harpy,"Flying\nWhen Blood-Toll Harpy enters the battlefield, each player loses 1 life.",THS
+Boon of Erebos,,James Ryman,80,Instant,Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.,THS
+Cavern Lampad,,Volkan Baga,81,Enchantment Creature — Nymph,"Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nIntimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Enchanted creature gets +2/+2 and has intimidate.",THS
+Cutthroat Maneuver,,Brad Rigney,82,Instant,Up to two target creatures each get +1/+1 and gain lifelink until end of turn.,THS
+Dark Betrayal,,Nils Hamm,83,Instant,Destroy target black creature.,THS
+Disciple of Phenax,,John Severin Brassell,84,Creature — Human Cleric,"When Disciple of Phenax enters the battlefield, target player reveals a number of cards from his or her hand equal to your devotion to black. You choose one of them. That player discards that card. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",THS
+"Erebos, God of the Dead",,Peter Mohrbacher,85,Legendary Enchantment Creature — God,"Indestructible\nAs long as your devotion to black is less than five, Erebos isn't a creature. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+Your opponents can't gain life.
+{1}{B}, Pay 2 life: Draw a card.",THS
+Erebos's Emissary,,Sam Burley,86,Enchantment Creature — Snake,"Bestow {5}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nDiscard a creature card: Erebos's Emissary gets +2/+2 until end of turn. If Erebos's Emissary is an Aura, enchanted creature gets +2/+2 until end of turn instead.
+Enchanted creature gets +3/+3.",THS
+Felhide Minotaur,,Kev Walker,87,Creature — Minotaur,,THS
+Fleshmad Steed,,Robbie Trevino,88,Creature — Horse,"Whenever another creature dies, tap Fleshmad Steed.",THS
+Gray Merchant of Asphodel,,Robbie Trevino,89,Creature — Zombie,"When Gray Merchant of Asphodel enters the battlefield, each opponent loses X life, where X is your devotion to black. You gain life equal to the life lost this way. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)","THS,C14"
+Hero's Downfall,,Ryan Pancoast,90,Instant,Destroy target creature or planeswalker.,"THS,CPK"
+Hythonia the Cruel,,Chris Rahn,91,Legendary Creature — Gorgon,"Deathtouch\n{6}{B}{B}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Hythonia the Cruel becomes monstrous, destroy all non-Gorgon creatures.",THS
+Insatiable Harpy,,Matt Stewart,92,Creature — Harpy,"Flying, lifelink",THS
+Keepsake Gorgon,,Aaron Miller,93,Creature — Gorgon,"Deathtouch\n{5}{B}{B}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)
+When Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.",THS
+Lash of the Whip,,Dan Scott,94,Instant,Target creature gets -4/-4 until end of turn.,THS
+Loathsome Catoblepas,,Christopher Burdett,95,Creature — Beast,"{2}{G}: Loathsome Catoblepas must be blocked this turn if able.\nWhen Loathsome Catoblepas dies, target creature an opponent controls gets -3/-3 until end of turn.",THS
+March of the Returned,,Mark Zug,96,Sorcery,Return up to two target creature cards from your graveyard to your hand.,THS
+Mogis's Marauder,,Chase Stone,97,Creature — Human Berserker,"When Mogis's Marauder enters the battlefield, up to X target creatures each gain intimidate and haste until end of turn, where X is your devotion to black. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it. Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",THS
+Nighthowler,,Nils Hamm,98,Enchantment Creature — Horror,"Bestow {2}{B}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nNighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards.","pMGD,THS,C15"
+Ordeal of Erebos,,Tyler Jacobson,99,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Erebos.
+When you sacrifice Ordeal of Erebos, target player discards two cards.",THS
+Pharika's Cure,,Igor Kieryluk,100,Instant,Pharika's Cure deals 2 damage to target creature and you gain 2 life.,THS
+Read the Bones,,Lars Grant-West,101,Sorcery,"Scry 2, then draw two cards. You lose 2 life. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","THS,C14,ORI,DDP"
+Rescue from the Underworld,,Raymond Swanland,102,Instant,"As an additional cost to cast Rescue from the Underworld, sacrifice a creature.\nChoose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.",THS
+Returned Centaur,,Lucas Graciano,103,Creature — Zombie Centaur,"When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.","THS,ORI"
+Returned Phalanx,,Seb McKinnon,104,Creature — Zombie Soldier,Defender\n{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.,THS
+Scourgemark,,Franz Vohwinkel,105,Enchantment — Aura,"Enchant creature\nWhen Scourgemark enters the battlefield, draw a card.
+Enchanted creature gets +1/+0.",THS
+Sip of Hemlock,,Nils Hamm,106,Sorcery,Destroy target creature. Its controller loses 2 life.,THS
+Thoughtseize,,Lucas Graciano,107,Sorcery,Target player reveals his or her hand. You choose a nonland card from it. That player discards that card. You lose 2 life.,"LRW,THS"
+Tormented Hero,,Winona Nelson,108,Creature — Human Warrior,"Tormented Hero enters the battlefield tapped.\nHeroic — Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way.","pFNM,THS"
+Viper's Kiss,,Svetlin Velinov,109,Enchantment — Aura,"Enchant creature\nEnchanted creature gets -1/-1, and its activated abilities can't be activated.",THS
+Whip of Erebos,,Yeong-Hao Han,110,Legendary Enchantment Artifact,"Creatures you control have lifelink.\n{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.","THS,CPK"
+Akroan Crusader,,Johann Bodin,111,Creature — Human Soldier,"Heroic — Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.",THS
+Anger of the Gods,,Noah Bradley,112,Sorcery,"Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.",THS
+Arena Athlete,,Jason Chan,113,Creature — Human,"Heroic — Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can't block this turn.",THS
+Borderland Minotaur,,Greg Staples,114,Creature — Minotaur Warrior,,THS
+Boulderfall,,Ralph Horsley,115,Instant,Boulderfall deals 5 damage divided as you choose among any number of target creatures and/or players.,THS
+Coordinated Assault,,John Severin Brassell,116,Instant,Up to two target creatures each get +1/+0 and gain first strike until end of turn.,THS
+Deathbellow Raider,,Wayne Reynolds,117,Creature — Minotaur Berserker,Deathbellow Raider attacks each turn if able.\n{2}{B}: Regenerate Deathbellow Raider.,THS
+Demolish,,Volkan Baga,118,Sorcery,Destroy target artifact or land.,"ODY,8ED,9ED,10E,ZEN,M11,AVR,M14,THS,ORI"
+Dragon Mantle,,Anthony Palumbo,119,Enchantment — Aura,"Enchant creature\nWhen Dragon Mantle enters the battlefield, draw a card.
+Enchanted creature has "{R}: This creature gets +1/+0 until end of turn."",THS
+Ember Swallower,,Slawomir Maniak,120,Creature — Elemental,"{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Ember Swallower becomes monstrous, each player sacrifices three lands.","pPRE,THS"
+Fanatic of Mogis,,Matt Stewart,121,Creature — Minotaur Shaman,"When Fanatic of Mogis enters the battlefield, it deals damage to each opponent equal to your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)",THS
+Firedrinker Satyr,,Anthony Palumbo,122,Creature — Satyr Shaman,"Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.\n{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.",THS
+Flamespeaker Adept,,Lucas Graciano,123,Creature — Human Shaman,"Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.",THS
+Hammer of Purphoros,,Yeong-Hao Han,124,Legendary Enchantment Artifact,"Creatures you control have haste.\n{2}{R}, {T}, Sacrifice a land: Put a 3/3 colorless Golem enchantment artifact creature token onto the battlefield.",THS
+Ill-Tempered Cyclops,,Peter Mohrbacher,125,Creature — Cyclops,"Trample\n{5}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)",THS
+Labyrinth Champion,,Chase Stone,126,Creature — Human Warrior,"Heroic — Whenever you cast a spell that targets Labyrinth Champion, Labyrinth Champion deals 2 damage to target creature or player.",THS
+Lightning Strike,,Adam Paquette,127,Instant,Lightning Strike deals 3 damage to target creature or player.,"THS,M15"
+Magma Jet,,Maciej Kuciara,128,Instant,"Magma Jet deals 2 damage to target creature or player. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)","pFNM,5DN,DD2,DDL,THS,DD3_JVC"
+Messenger's Speed,,Clint Cearley,129,Enchantment — Aura,Enchant creature\nEnchanted creature has trample and haste.,THS
+Minotaur Skullcleaver,,Phill Simmer,130,Creature — Minotaur Berserker,"Haste\nWhen Minotaur Skullcleaver enters the battlefield, it gets +2/+0 until end of turn.",THS
+Ordeal of Purphoros,,Maciej Kuciara,131,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Purphoros.
+When you sacrifice Ordeal of Purphoros, it deals 3 damage to target creature or player.","DDL,THS"
+Peak Eruption,,Adam Paquette,132,Sorcery,Destroy target Mountain. Peak Eruption deals 3 damage to that land's controller.,THS
+Portent of Betrayal,,Daarken,133,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Priest of Iroas,,Clint Cearley,134,Creature — Human Cleric,"{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment.",THS
+"Purphoros, God of the Forge",,Eric Deschamps,135,Legendary Enchantment Creature — God,"Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.
+Whenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.
+{2}{R}: Creatures you control get +1/+0 until end of turn.",THS
+Purphoros's Emissary,,Sam Burley,136,Enchantment Creature — Ox,"Bestow {6}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nMenace (This creature can't be blocked except by two or more creatures.)
+Enchanted creature gets +3/+3 and has menace.",THS
+Rage of Purphoros,,Mathias Kollros,137,Sorcery,Rage of Purphoros deals 4 damage to target creature. It can't be regenerated this turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Rageblood Shaman,,Mike Bierek,138,Creature — Minotaur Shaman,Trample\nOther Minotaur creatures you control get +1/+1 and have trample.,THS
+Satyr Rambler,,John Stanko,139,Creature — Satyr,Trample,THS
+Spark Jolt,,Mike Bierek,140,Instant,Spark Jolt deals 1 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),THS
+Spearpoint Oread,,Todd Lockwood,141,Enchantment Creature — Nymph,"Bestow {5}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nFirst strike
+Enchanted creature gets +2/+2 and has first strike.",THS
+Stoneshock Giant,,Lars Grant-West,142,Creature — Giant,"{6}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Stoneshock Giant becomes monstrous, creatures without flying your opponents control can't block this turn.","THS,C15"
+Stormbreath Dragon,,Slawomir Maniak,143,Creature — Dragon,"Flying, haste, protection from white\n{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Stormbreath Dragon becomes monstrous, it deals damage to each opponent equal to the number of cards in that player's hand.",THS
+Titan of Eternal Fire,,Aleksi Briclot,144,Creature — Giant,"Each Human creature you control has "{R}, {T}: This creature deals 1 damage to target creature or player."",THS
+Titan's Strength,,Karl Kopinski,145,Instant,Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.),"THS,ORI"
+Two-Headed Cerberus,,Karl Kopinski,146,Creature — Hound,Double strike (This creature deals both first-strike and regular combat damage.),THS
+Wild Celebrants,,Igor Kieryluk,147,Creature — Satyr,"When Wild Celebrants enters the battlefield, you may destroy target artifact.",THS
+Agent of Horizons,,Clint Cearley,148,Creature — Human Rogue,{2}{U}: Agent of Horizons can't be blocked this turn.,THS
+"Anthousa, Setessan Hero",,Howard Lyon,149,Legendary Creature — Human Warrior,"Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They're still lands.","pPRE,THS"
+Arbor Colossus,,Jaime Jones,150,Creature — Giant,"Reach\n{3}{G}{G}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+When Arbor Colossus becomes monstrous, destroy target creature with flying an opponent controls.","THS,C15"
+Artisan's Sorrow,,Jung Park,151,Instant,"Destroy target artifact or enchantment. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",THS
+Boon Satyr,,Wesley Burt,152,Enchantment Creature — Satyr,"Flash\nBestow {3}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)
+Enchanted creature gets +4/+2.",THS
+Bow of Nylea,,Yeong-Hao Han,153,Legendary Enchantment Artifact,"Attacking creatures you control have deathtouch.\n{1}{G}, {T}: Choose one —
+• Put a +1/+1 counter on target creature.
+• Bow of Nylea deals 2 damage to target creature with flying.
+• You gain 3 life.
+• Put up to four target cards from your graveyard on the bottom of your library in any order.",THS
+Centaur Battlemaster,,Kev Walker,154,Creature — Centaur Warrior,"Heroic — Whenever you cast a spell that targets Centaur Battlemaster, put three +1/+1 counters on Centaur Battlemaster.",THS
+Commune with the Gods,,Aleksi Briclot,155,Sorcery,Reveal the top five cards of your library. You may put a creature or enchantment card from among them into your hand. Put the rest into your graveyard.,THS
+Defend the Hearth,,Raymond Swanland,156,Instant,Prevent all combat damage that would be dealt to players this turn.,THS
+Fade into Antiquity,,Noah Bradley,157,Sorcery,Exile target artifact or enchantment.,THS
+Feral Invocation,,Mathias Kollros,158,Enchantment — Aura,Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature
+Enchanted creature gets +2/+2.,THS
+Hunt the Hunter,,Ryan Barger,159,Sorcery,Target green creature you control gets +2/+2 until end of turn. It fights target green creature an opponent controls.,THS
+Karametra's Acolyte,,Chase Stone,160,Creature — Human Druid,{T}: Add an amount of {G} to your mana pool equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.),"pMEI,THS"
+Leafcrown Dryad,,Volkan Baga,161,Enchantment Creature — Nymph Dryad,"Bestow {3}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nReach
+Enchanted creature gets +2/+2 and has reach.",THS
+Mistcutter Hydra,,Ryan Pancoast,162,Creature — Hydra,"Mistcutter Hydra can't be countered.\nHaste, protection from blue
+Mistcutter Hydra enters the battlefield with X +1/+1 counters on it.",THS
+Nemesis of Mortals,,Mathias Kollros,163,Creature — Snake,"Nemesis of Mortals costs {1} less to cast for each creature card in your graveyard.\n{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)",THS
+Nessian Asp,,Alex Horley-Orlandelli,164,Creature — Snake,"Reach\n{6}{G}: Monstrosity 4. (If this creature isn't monstrous, put four +1/+1 counters on it and it becomes monstrous.)","THS,DDO"
+Nessian Courser,,Steve Prescott,165,Creature — Centaur Warrior,,"FUT,THS"
+"Nylea, God of the Hunt",,Chris Rahn,166,Legendary Enchantment Creature — God,"Indestructible\nAs long as your devotion to green is less than five, Nylea isn't a creature. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+Other creatures you control have trample.
+{3}{G}: Target creature gets +2/+2 until end of turn.",THS
+Nylea's Disciple,,Trevor Claxton,167,Creature — Centaur Archer,"When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",THS
+Nylea's Emissary,,Sam Burley,168,Enchantment Creature — Cat,"Bestow {5}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nTrample
+Enchanted creature gets +3/+3 and has trample.",THS
+Nylea's Presence,,Ralph Horsley,169,Enchantment — Aura,"Enchant land\nWhen Nylea's Presence enters the battlefield, draw a card.
+Enchanted land is every basic land type in addition to its other types.",THS
+Ordeal of Nylea,,David Palumbo,170,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature attacks, put a +1/+1 counter on it. Then if it has three or more +1/+1 counters on it, sacrifice Ordeal of Nylea.
+When you sacrifice Ordeal of Nylea, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",THS
+Pheres-Band Centaurs,,Mark Winters,171,Creature — Centaur Warrior,,THS
+"Polukranos, World Eater",,Johann Bodin,172,Legendary Creature — Hydra,"{X}{X}{G}: Monstrosity X. (If this creature isn't monstrous, put X +1/+1 counters on it and it becomes monstrous.)\nWhen Polukranos, World Eater becomes monstrous, it deals X damage divided as you choose among any number of target creatures your opponents control. Each of those creatures deals damage equal to its power to Polukranos.","DDL,THS"
+Reverent Hunter,,Wesley Burt,173,Creature — Human Archer,"When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",THS
+Satyr Hedonist,,Chase Stone,174,Creature — Satyr,"{R}, Sacrifice Satyr Hedonist: Add {R}{R}{R} to your mana pool.","DDL,THS"
+Satyr Piper,,Christopher Moeller,175,Creature — Satyr Rogue,{3}{G}: Target creature must be blocked this turn if able.,THS
+Savage Surge,,Jasper Sandner,176,Instant,Target creature gets +2/+2 until end of turn. Untap that creature.,"RTR,THS"
+Sedge Scorpion,,John Stanko,177,Creature — Scorpion,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),THS
+Shredding Winds,,Christopher Moeller,178,Instant,Shredding Winds deals 7 damage to target creature with flying.,THS
+Staunch-Hearted Warrior,,Greg Staples,179,Creature — Human Warrior,"Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior.",THS
+Sylvan Caryatid,,Chase Stone,180,Creature — Plant,"Defender, hexproof\n{T}: Add one mana of any color to your mana pool.","pMEI,THS"
+Time to Feed,,Wayne Reynolds,181,Sorcery,"Choose target creature an opponent controls. When that creature dies this turn, you gain 3 life. Target creature you control fights that creature. (Each deals damage equal to its power to the other.)","THS,DDO"
+Voyaging Satyr,,Tyler Jacobson,182,Creature — Satyr Druid,{T}: Untap target land.,THS
+Vulpine Goliath,,Adam Paquette,183,Creature — Fox,Trample,THS
+Warriors' Lesson,,Steve Prescott,184,Instant,"Until end of turn, up to two target creatures you control each gain "Whenever this creature deals combat damage to a player, draw a card."",THS
+Akroan Hoplite,,Igor Kieryluk,185,Creature — Human Soldier,"Whenever Akroan Hoplite attacks, it gets +X/+0 until end of turn, where X is the number of attacking creatures you control.",THS
+Anax and Cymede,,Willian Murai,186,Legendary Creature — Human Soldier,"First strike, vigilance\nHeroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.","DDL,THS"
+Ashen Rider,,Chris Rahn,187,Creature — Archon,"Flying\nWhen Ashen Rider enters the battlefield or dies, exile target permanent.",THS
+"Ashiok, Nightmare Weaver",,Karla Ortiz,188,Planeswalker — Ashiok,"+2: Exile the top three cards of target opponent's library.\n−X: Put a creature card with converted mana cost X exiled with Ashiok, Nightmare Weaver onto the battlefield under your control. That creature is a Nightmare in addition to its other types.
+−10: Exile all cards from all opponents' hands and graveyards.",THS
+Battlewise Hoplite,,Willian Murai,189,Creature — Human Soldier,"Heroic — Whenever you cast a spell that targets Battlewise Hoplite, put a +1/+1 counter on Battlewise Hoplite, then scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",THS
+Chronicler of Heroes,,John Stanko,190,Creature — Centaur Wizard,"When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it.",THS
+Daxos of Meletis,,Karla Ortiz,191,Legendary Creature — Human Soldier,"Daxos of Meletis can't be blocked by creatures with power 3 or greater.\nWhenever Daxos of Meletis deals combat damage to a player, exile the top card of that player's library. You gain life equal to that card's converted mana cost. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.",THS
+Destructive Revelry,,Kev Walker,192,Instant,Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.,"DDL,THS"
+Fleecemane Lion,,Slawomir Maniak,193,Creature — Cat,"{3}{G}{W}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nAs long as Fleecemane Lion is monstrous, it has hexproof and indestructible.",THS
+Horizon Chimera,,Sam Burley,194,Creature — Chimera,"Flash (You may cast this spell any time you could cast an instant.)\nFlying, trample
+Whenever you draw a card, you gain 1 life.",THS
+Kragma Warcaller,,Gabor Szikszai,195,Creature — Minotaur Warrior,"Minotaur creatures you control have haste.\nWhenever a Minotaur you control attacks, it gets +2/+0 until end of turn.",THS
+Medomai the Ageless,,David Palumbo,196,Legendary Creature — Sphinx,"Flying\nWhenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.
+Medomai the Ageless can't attack during extra turns.",THS
+Pharika's Mender,,Peter Mohrbacher,197,Creature — Gorgon,"When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.",THS
+Polis Crusher,,Chase Stone,198,Creature — Cyclops,"Trample, protection from enchantments\n{4}{R}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)
+Whenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.",THS
+Prophet of Kruphix,,Winona Nelson,199,Creature — Human Wizard,Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature cards as though they had flash.,"THS,CPK"
+Psychic Intrusion,,Jaime Jones,200,Sorcery,"Target opponent reveals his or her hand. You choose a nonland card from that player's graveyard or hand and exile it. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any color to cast that spell.",THS
+Reaper of the Wilds,,Karl Kopinski,201,Creature — Gorgon,"Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{B}: Reaper of the Wilds gains deathtouch until end of turn.
+{1}{G}: Reaper of the Wilds gains hexproof until end of turn.","THS,DDM,CPK"
+Sentry of the Underworld,,Dave Kendall,202,Creature — Griffin Skeleton,"Flying, vigilance\n{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld.",THS
+Shipwreck Singer,,Daarken,203,Creature — Siren,"Flying\n{1}{U}: Target creature an opponent controls attacks this turn if able.
+{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.",THS
+Spellheart Chimera,,Svetlin Velinov,204,Creature — Chimera,"Flying, trample\nSpellheart Chimera's power is equal to the number of instant and sorcery cards in your graveyard.",THS
+Steam Augury,,Dave Kendall,205,Instant,Reveal the top five cards of your library and separate them into two piles. An opponent chooses one of those piles. Put that pile into your hand and the other into your graveyard.,"THS,DDN,C15"
+Triad of Fates,,Daarken,206,Legendary Creature — Human Wizard,"{1}, {T}: Put a fate counter on another target creature.\n{W}, {T}: Exile target creature that has a fate counter on it, then return it to the battlefield under its owner's control.
+{B}, {T}: Exile target creature that has a fate counter on it. Its controller draws two cards.",THS
+"Tymaret, the Murder King",,Volkan Baga,207,Legendary Creature — Zombie Warrior,"{1}{R}, Sacrifice another creature: Tymaret, the Murder King deals 2 damage to target player.\n{1}{B}, Sacrifice a creature: Return Tymaret from your graveyard to your hand.",THS
+Underworld Cerberus,,Svetlin Velinov,208,Creature — Hound,"Underworld Cerberus can't be blocked except by three or more creatures.\nCards in graveyards can't be the targets of spells or abilities.
+When Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand.",THS
+"Xenagos, the Reveler",,Jason Chan,209,Planeswalker — Xenagos,"+1: Add X mana in any combination of {R} and/or {G} to your mana pool, where X is the number of creatures you control.\n0: Put a 2/2 red and green Satyr creature token with haste onto the battlefield.
+−6: Exile the top seven cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield.",THS
+Akroan Horse,,Seb McKinnon,210,Artifact Creature — Horse,"Defender\nWhen Akroan Horse enters the battlefield, an opponent gains control of it.
+At the beginning of your upkeep, each opponent puts a 1/1 white Soldier creature token onto the battlefield.",THS
+Anvilwrought Raptor,,James Zapata,211,Artifact Creature — Bird,"Flying, first strike",THS
+Bronze Sable,,Jasper Sandner,212,Artifact Creature — Sable,,"THS,M15"
+Burnished Hart,,Yeong-Hao Han,213,Artifact Creature — Elk,"{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.","THS,C14,C15"
+Colossus of Akros,,Zack Stella,214,Artifact Creature — Golem,"Defender, indestructible\n{10}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)
+As long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.",THS
+Flamecast Wheel,,Jasper Sandner,215,Artifact,"{5}, {T}, Sacrifice Flamecast Wheel: Flamecast Wheel deals 3 damage to target creature.",THS
+Fleetfeather Sandals,,Steve Prescott,216,Artifact — Equipment,Equipped creature has flying and haste.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),THS
+Guardians of Meletis,,Magali Villeneuve,217,Artifact Creature — Golem,Defender (This creature can't attack.),"THS,ORI"
+Opaline Unicorn,,Christine Choi,218,Artifact Creature — Unicorn,{T}: Add one mana of any color to your mana pool.,THS
+Prowler's Helm,,Igor Kieryluk,219,Artifact — Equipment,Equipped creature can't be blocked except by Walls.\nEquip {2},THS
+Pyxis of Pandemonium,,David Palumbo,220,Artifact,"{T}: Each player exiles the top card of his or her library face down.\n{7}, {T}, Sacrifice Pyxis of Pandemonium: Each player turns face up all cards he or she owns exiled with Pyxis of Pandemonium, then puts all permanent cards among them onto the battlefield.",THS
+Traveler's Amulet,,Franz Vohwinkel,221,Artifact,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.","ISD,THS"
+Witches' Eye,,Daniel Ljunggren,222,Artifact — Equipment,"Equipped creature has "{1}, {T}: Scry 1." (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)\nEquip {1}",THS
+"Nykthos, Shrine to Nyx",,Jung Park,223,Legendary Land,"{T}: Add {1} to your mana pool.\n{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",THS
+Temple of Abandon,,Mike Bierek,224,Land,"Temple of Abandon enters the battlefield tapped.\nWhen Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {R} or {G} to your mana pool.",THS
+Temple of Deceit,,Raymond Swanland,225,Land,"Temple of Deceit enters the battlefield tapped.\nWhen Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {U} or {B} to your mana pool.",THS
+Temple of Mystery,,Noah Bradley,226,Land,"Temple of Mystery enters the battlefield tapped.\nWhen Temple of Mystery enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {G} or {U} to your mana pool.","THS,CPK"
+Temple of Silence,,Karl Kopinski,227,Land,"Temple of Silence enters the battlefield tapped.\nWhen Temple of Silence enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {W} or {B} to your mana pool.",THS
+Temple of Triumph,,Jason Felix,228,Land,"Temple of Triumph enters the battlefield tapped.\nWhen Temple of Triumph enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+{T}: Add {R} or {W} to your mana pool.",THS
+Unknown Shores,,Seb McKinnon,229,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Add one mana of any color to your mana pool.",THS
+Plains,,Rob Alexander,230,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Steven Belledin,231,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Adam Paquette,232,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Raoul Vitale,233,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Rob Alexander,234,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Steven Belledin,235,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Adam Paquette,236,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Raoul Vitale,237,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Rob Alexander,238,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Steven Belledin,239,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Adam Paquette,240,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Raoul Vitale,241,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Rob Alexander,242,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Steven Belledin,243,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Adam Paquette,244,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Raoul Vitale,245,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,246,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Steven Belledin,247,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Adam Paquette,248,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Raoul Vitale,249,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

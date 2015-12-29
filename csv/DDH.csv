@@ -1,0 +1,104 @@
+name,cost,artist,number,type,text,printings
+Ajani Vengeant,,Izzy,1,Planeswalker — Ajani,+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.
+−7: Destroy all lands target player controls.,"pPRE,pLPA,ALA,DDH"
+Kird Ape,,Terese Nielsen,2,Creature — Ape,Kird Ape gets +1/+2 as long as you control a Forest.,"ARN,3ED,pFNM,BTD,9ED,V09,DDH"
+Essence Warden,,Terese Nielsen,3,Creature — Elf Shaman,"Whenever another creature enters the battlefield, you gain 1 life.","PLC,DDH,C14"
+Wild Nacatl,,Wayne Reynolds,4,Creature — Cat Warrior,Wild Nacatl gets +1/+1 as long as you control a Mountain.\nWild Nacatl gets +1/+1 as long as you control a Plains.,"pFNM,ALA,DDH"
+Loam Lion,,Daniel Ljunggren,5,Creature — Cat,Loam Lion gets +1/+2 as long as you control a Forest.,"WWK,DDH"
+Canyon Wildcat,,Gary Leach,6,Creature — Cat,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"TMP,8ED,DDH,TPR"
+Jade Mage,,Izzy,7,Creature — Human Shaman,{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.,"M12,DDH,C13"
+Sylvan Ranger,,Christopher Moeller,8,Creature — Elf Scout,"When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.","pWPN,M11,DDH,C14"
+Ajani's Pridemate,,Svetlin Velinov,9,Creature — Cat Soldier,"Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.","M11,DDH,C13,M15"
+Qasali Pridemage,,Chris Rahn,10,Creature — Cat Wizard,"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.","pFNM,ARB,DDH"
+Grazing Gladehart,,Ryan Pancoast,11,Creature — Antelope,"Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life.","ZEN,DDH,C13,DDO,DDP"
+Fleetfoot Panther,,Mark Brill,12,Creature — Cat,"Flash\nWhen Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.","PLS,DDH"
+Woolly Thoctar,,Wayne Reynolds,13,Creature — Beast,,"pWPN,ALA,DDH"
+Briarhorn,,Nils Hamm,14,Creature — Elemental,"Flash\nWhen Briarhorn enters the battlefield, target creature gets +3/+3 until end of turn.
+Evoke {1}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","LRW,HOP,DDH"
+Loxodon Hierarch,,Kev Walker,15,Creature — Elephant Cleric,"When Loxodon Hierarch enters the battlefield, you gain 4 life.\n{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.","RAV,DDH"
+Spitemare,,Matt Cavotta,16,Creature — Elemental,"Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.","EVE,DDH"
+Marisi's Twinclaws,,Izzy,17,Creature — Cat Warrior,Double strike,"pWPN,ARB,DDH"
+Ageless Entity,,Jeff Miracola,18,Creature — Elemental,"Whenever you gain life, put that many +1/+1 counters on Ageless Entity.","DST,DDH"
+Pride of Lions,,Carl Critchlow,19,Creature — Cat,You may have Pride of Lions assign its combat damage as though it weren't blocked.,"S99,7ED,DDH"
+Nacatl Hunt-Pride,,Steve Prescott,20,Creature — Cat Warrior,"Vigilance\n{R}, {T}: Target creature can't block this turn.
+{G}, {T}: Target creature blocks this turn if able.","CON,DDH"
+Firemane Angel,,Matt Cavotta,21,Creature — Angel,"Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.
+{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.","RAV,DDH"
+Ajani's Mantra,,James Paick,22,Enchantment,"At the beginning of your upkeep, you may gain 1 life.","M11,DDH"
+Lightning Helix,,Raymond Swanland,23,Instant,Lightning Helix deals 3 damage to target creature or player and you gain 3 life.,"pMPR,RAV,HOP,DDH,MMA,DDN"
+Lead the Stampede,,Efrem Palacios,24,Sorcery,Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.,"MBS,DDH,CNS"
+Griffin Guide,,Jim Nelson,25,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.
+When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.","TSP,DDG,DDH,DDL"
+Recumbent Bliss,,Todd Lockwood,26,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block.
+At the beginning of your upkeep, you may gain 1 life.","EVE,DDH"
+Searing Meditation,,Dave Dorman,27,Enchantment,"Whenever you gain life, you may pay {2}. If you do, Searing Meditation deals 2 damage to target creature or player.","RAV,DDH"
+Behemoth Sledge,,Dave Allsop,28,Artifact — Equipment,Equipped creature gets +2/+2 and has lifelink and trample.\nEquip {3},"ARB,DDH,C13"
+Naya Charm,,Jesper Ejsing,29,Instant,Choose one —\n• Naya Charm deals 3 damage to target creature.
+• Return target card from a graveyard to its owner's hand.
+• Tap all creatures target player controls.,"ALA,DDH,C13"
+Sylvan Bounty,,Chris Rahn,30,Instant,"Target player gains 8 life.\nBasic landcycling {1}{G} ({1}{G}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,DDH,MMA,MM2"
+Titanic Ultimatum,,Steve Prescott,31,Sorcery,"Until end of turn, creatures you control get +5/+5 and gain first strike, lifelink, and trample.","ALA,DDH"
+Evolving Wilds,,Steven Belledin,32,Land,"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","pMEI,pFNM,ROE,CMD,DDH,DKA,M13,DDK,C13,M15,DDN,C14,DDO,DTK,MM2,ORI,DDP,BFZ,C15"
+Graypelt Refuge,,Philip Straub,33,Land,"Graypelt Refuge enters the battlefield tapped.\nWhen Graypelt Refuge enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.","ZEN,ARC,DDH,PC2,DDP"
+Jungle Shrine,,Wayne Reynolds,34,Land,"Jungle Shrine enters the battlefield tapped.\n{T}: Add {R}, {G}, or {W} to your mana pool.","ALA,DDH,C13"
+Kazandu Refuge,,Franz Vohwinkel,35,Land,"Kazandu Refuge enters the battlefield tapped.\nWhen Kazandu Refuge enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.","ZEN,ARC,CMD,DDH,PC2,DDL,C13"
+Sapseep Forest,,Aleksi Briclot,36,Land — Forest,"({T}: Add {G} to your mana pool.)\nSapseep Forest enters the battlefield tapped.
+{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.","SHM,DDH"
+"Vitu-Ghazi, the City-Tree",,Martina Pilcerova,37,Land,"{T}: Add {1} to your mana pool.\n{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.","RAV,ARC,DDH,PC2,C13"
+Forest,,Zoltan Boros & Gabor Szikszai,38,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Zoltan Boros & Gabor Szikszai,39,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Zoltan Boros & Gabor Szikszai,40,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Zoltan Boros & Gabor Szikszai,41,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+"Nicol Bolas, Planeswalker",,Izzy,42,Planeswalker — Bolas,"+3: Destroy target noncreature permanent.\n−2: Gain control of target creature.
+−9: Nicol Bolas, Planeswalker deals 7 damage to target player. That player discards seven cards, then sacrifices seven permanents.","CON,DDH,M13"
+Surveilling Sprite,,Terese Nielsen,43,Creature — Faerie Rogue,"Flying\nWhen Surveilling Sprite dies, you may draw a card.","RAV,DDH"
+Nightscape Familiar,,Jeff Easley,44,Creature — Zombie,Blue spells and red spells you cast cost {1} less to cast.\n{1}{B}: Regenerate Nightscape Familiar.,"PLS,DDH,C13,VMA"
+Slavering Nulls,,Dave Kendall,45,Creature — Goblin Zombie,"Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.","WWK,DDH"
+Brackwater Elemental,,Thomas M. Baxa,46,Creature — Elemental,"When Brackwater Elemental attacks or blocks, sacrifice it at the beginning of the next end step.\nUnearth {2}{U} ({2}{U}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)","CON,DDH"
+Morgue Toad,,Franz Vohwinkel,47,Creature — Frog,Sacrifice Morgue Toad: Add {U}{R} to your mana pool.,"PLS,DDH"
+Hellfire Mongrel,,Dan Scott,48,Creature — Elemental Hound,"At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.","ZEN,DDH"
+Dimir Cutpurse,,Kev Walker,49,Creature — Spirit,"Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.","RAV,DDH"
+Steamcore Weird,,Justin Norman,50,Creature — Weird,"When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.","GPT,DDH,DDJ"
+Moroii,,Dan Scott,51,Creature — Vampire,"Flying\nAt the beginning of your upkeep, you lose 1 life.","RAV,DDH"
+Blazing Specter,,Marc Fishman,52,Creature — Specter,"Flying, haste\nWhenever Blazing Specter deals combat damage to a player, that player discards a card.","INV,DDH,VMA"
+Fire-Field Ogre,,Mitch Cotie,53,Creature — Ogre Mutant,First strike\nUnearth {U}{B}{R} ({U}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.),"ALA,DDH"
+Shriekmaw,,Steve Prescott,54,Creature — Elemental,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhen Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature.
+Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)","pREL,LRW,ARC,CMD,DDH,C14,C15"
+Ogre Savant,,Paolo Parente,55,Creature — Ogre Wizard,"When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.","GPT,DDH,DDJ"
+Jhessian Zombies,,Ash Wood,56,Creature — Zombie,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nIslandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)","ARB,DDH"
+Igneous Pouncer,,Chippy,57,Creature — Elemental,"Haste\nSwampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)","ARB,DDH"
+Vapor Snag,,Raymond Swanland,58,Instant,Return target creature to its owner's hand. Its controller loses 1 life.,"NPH,DDH,MM2"
+Countersquall,,Anthony Francisco,59,Instant,Counter target noncreature spell. Its controller loses 2 life.,"CON,DDH"
+Obelisk of Grixis,,Nils Hamm,60,Artifact,"{T}: Add {U}, {B}, or {R} to your mana pool.","ALA,DDH,C13"
+Recoil,,Alan Pollack,61,Instant,Return target permanent to its owner's hand. Then that player discards a card.,"INV,DDH"
+Undermine,,Massimilano Frezzato,62,Instant,Counter target spell. Its controller loses 3 life.,"INV,DDH"
+Grixis Charm,,Lars Grant-West,63,Instant,Choose one —\n• Return target permanent to its owner's hand.
+• Target creature gets -4/-4 until end of turn.
+• Creatures you control get +2/+0 until end of turn.,"ALA,DDH,C13"
+Icy Manipulator,,Matt Cavotta,64,Artifact,"{1}, {T}: Tap target artifact, creature, or land.","LEA,LEB,2ED,CED,CEI,ICE,pFNM,DKM,MRD,9ED,10E,ME4,DDH"
+Deep Analysis,,Jesper Ejsing,65,Sorcery,"Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)","pFNM,TOR,DDH,C13,VMA"
+Agonizing Demise,,Mark Brill,66,Instant,"Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nDestroy target nonblack creature. It can't be regenerated. If Agonizing Demise was kicked, it deals damage equal to that creature's power to the creature's controller.","INV,DDH"
+Slave of Bolas,,Steve Argyle,67,Sorcery,Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.,"pWPN,ARB,DDH"
+Elder Mastery,,Dave Allsop,68,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3 and has flying.
+Whenever enchanted creature deals damage to a player, that player discards two cards.","CON,DDH"
+Cruel Ultimatum,,Ralph Horsley,69,Sorcery,"Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.","ALA,DDH,V13,C13"
+Profane Command,,Wayne England,70,Sorcery,Choose two —\n• Target player loses X life. 
+• Return target creature card with converted mana cost X or less from your graveyard to the battlefield.
+• Target creature gets -X/-X until end of turn.
+• Up to X target creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.),"LRW,HOP,DDH,C14,MM2"
+Spite,,David Martin,71a,Instant,Counter target noncreature spell.,"INV,DDH"
+Malice,,David Martin,71b,Instant,Destroy target nonblack creature. It can't be regenerated.,"INV,DDH"
+Pain,,David Martin,72a,Sorcery,Target player discards a card.,"INV,DDH"
+Suffering,,David Martin,72b,Sorcery,Destroy target land.,"INV,DDH"
+Rise,,Pete Venters,73a,Sorcery,Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.,"DIS,DDH"
+Fall,,Pete Venters,73b,Sorcery,"Target player reveals two cards at random from his or her hand, then discards each nonland card revealed this way.","DIS,DDH"
+Crumbling Necropolis,,Dave Kendall,74,Land,"Crumbling Necropolis enters the battlefield tapped.\n{T}: Add {U}, {B}, or {R} to your mana pool.","ALA,DDH,C13"
+Rupture Spire,,Jaime Jones,75,Land,"Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.
+{T}: Add one mana of any color to your mana pool.","CON,H09,CMD,DDH,PC2,C13"
+Terramorphic Expanse,,Dan Scott,76,Land,"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.","TSP,10E,M10,HOP,H09,DDE,ARC,M11,CMD,DDH,PC2,MMA,C13,DDN,C14,C15"
+Swamp,,Mark Tedin,77,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Mark Tedin,78,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Mark Tedin,79,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Mountain,,Mark Tedin,80,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"

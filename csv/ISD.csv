@@ -1,0 +1,311 @@
+name,cost,artist,number,type,text,printings
+Abbey Griffin,,Jaime Jones,1,Creature — Griffin,"Flying, vigilance",ISD
+Angel of Flight Alabaster,,Howard Lyon,2,Creature — Angel,"Flying\nAt the beginning of your upkeep, return target Spirit card from your graveyard to your hand.",ISD
+Angelic Overseer,,Jason Chan,3,Creature — Angel,"Flying\nAs long as you control a Human, Angelic Overseer has hexproof and indestructible.",ISD
+Avacynian Priest,,Greg Staples,4,Creature — Human Cleric,"{1}, {T}: Tap target non-Human creature.",ISD
+Bonds of Faith,,Steve Argyle,5,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2 as long as it's a Human. Otherwise, it can't attack or block.","ISD,DDL"
+Champion of the Parish,,Svetlin Velinov,6,Creature — Human Soldier,"Whenever another Human enters the battlefield under your control, put a +1/+1 counter on Champion of the Parish.",ISD
+Chapel Geist,,Peter Mohrbacher,7,Creature — Spirit,Flying,ISD
+Cloistered Youth,,Igor Kieryluk,8a,Creature — Human,"At the beginning of your upkeep, you may transform Cloistered Youth.",ISD
+Unholy Fiend,,Igor Kieryluk,8b,Creature — Horror,"At the beginning of your end step, you lose 1 life.",ISD
+Dearly Departed,,Daniel Ljunggren,9,Creature — Spirit,"Flying\nAs long as Dearly Departed is in your graveyard, each Human creature you control enters the battlefield with an additional +1/+1 counter on it.",ISD
+Divine Reckoning,,Greg Staples,10,Sorcery,Each player chooses a creature he or she controls. Destroy the rest.\nFlashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Doomed Traveler,,Lars Grant-West,11,Creature — Human Soldier,"When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.","ISD,DDK,CNS"
+Elder Cathar,,Chris Rahn,12,Creature — Human Soldier,"When Elder Cathar dies, put a +1/+1 counter on target creature you control. If that creature is a Human, put two +1/+1 counters on it instead.",ISD
+Elite Inquisitor,,Jana Schirmer & Johannes Voss,13,Creature — Human Soldier,"First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies","pMGD,ISD"
+Feeling of Dread,,John Stanko,14,Instant,Tap up to two target creatures.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Fiend Hunter,,Wayne Reynolds,15,Creature — Human Cleric,"When Fiend Hunter enters the battlefield, you may exile another target creature.\nWhen Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner's control.","ISD,DDK,C13"
+Gallows Warden,,Dan Scott,16,Creature — Spirit,Flying\nOther Spirit creatures you control get +0/+1.,ISD
+Geist-Honored Monk,,Clint Cearley,17,Creature — Human Monk,"Vigilance\nGeist-Honored Monk's power and toughness are each equal to the number of creatures you control.
+When Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.","ISD,C14"
+Ghostly Possession,,Howard Lyon,18,Enchantment — Aura,Enchant creature\nEnchanted creature has flying.
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.,ISD
+Intangible Virtue,,Clint Cearley,19,Enchantment,Creature tokens you control get +1/+1 and have vigilance.,"ISD,MD1,CNS"
+Mausoleum Guard,,David Palumbo,20,Creature — Human Scout,"When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.","ISD,DDK"
+Mentor of the Meek,,Jana Schirmer & Johannes Voss,21,Creature — Human Soldier,"Whenever another creature with power 2 or less enters the battlefield under your control, you may pay {1}. If you do, draw a card.","ISD,C14"
+Midnight Haunting,,Matt Stewart,22,Instant,Put two 1/1 white Spirit creature tokens with flying onto the battlefield.,"ISD,C14"
+"Mikaeus, the Lunarch",,Steven Belledin,23,Legendary Creature — Human Cleric,"Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.\n{T}: Put a +1/+1 counter on Mikaeus.
+{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.","V11,ISD"
+Moment of Heroism,,Christopher Moeller,24,Instant,Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.),"ISD,DDL,CNS"
+Nevermore,,Jason A. Engle,25,Enchantment,"As Nevermore enters the battlefield, name a nonland card.\nThe named card can't be cast.",ISD
+Paraselene,,Ryan Yee,26,Sorcery,Destroy all enchantments. You gain 1 life for each enchantment destroyed this way.,ISD
+Purify the Grave,,Drew Baker,27,Instant,Exile target card from a graveyard.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Rally the Peasants,,Jaime Jones,28,Instant,Creatures you control get +2/+0 until end of turn.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Rebuke,,Igor Kieryluk,29,Instant,Destroy target attacking creature.,ISD
+Selfless Cathar,,Slawomir Maniak,30,Creature — Human Cleric,"{1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.","ISD,M15"
+Silverchase Fox,,Howard Lyon,31,Creature — Fox,"{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.","ISD,CNS"
+Slayer of the Wicked,,Anthony Palumbo,32,Creature — Human Soldier,"When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.",ISD
+Smite the Monstrous,,Jason Felix,33,Instant,Destroy target creature with power 4 or greater.,"ISD,DDL,KTK,FRF_UGIN,BFZ"
+Spare from Evil,,Jason Felix,34,Instant,Creatures you control gain protection from non-Human creatures until end of turn.,ISD
+Spectral Rider,,Igor Kieryluk,35,Creature — Spirit Knight,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.),ISD
+Stony Silence,,Wayne England,36,Enchantment,Activated abilities of artifacts can't be activated.,ISD
+Thraben Purebloods,,Martina Pilcerova,37,Creature — Hound,,ISD
+Thraben Sentry,,David Rapoza,38a,Creature — Human Soldier,"Vigilance\nWhenever another creature you control dies, you may transform Thraben Sentry.",ISD
+Thraben Militia,,David Rapoza,38b,Creature — Human Soldier,Trample,ISD
+Unruly Mob,,Ryan Pancoast,39,Creature — Human,"Whenever another creature you control dies, put a +1/+1 counter on Unruly Mob.",ISD
+Urgent Exorcism,,Svetlin Velinov,40,Instant,Destroy target Spirit or enchantment.,ISD
+Village Bell-Ringer,,David Palumbo,41,Creature — Human Scout,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Village Bell-Ringer enters the battlefield, untap all creatures you control.",ISD
+Voiceless Spirit,,Daarken,42,Creature — Spirit,"Flying, first strike",ISD
+Armored Skaab,,Volkan Baga,43,Creature — Zombie Warrior,"When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.",ISD
+Back from the Brink,,Anthony Palumbo,44,Enchantment,Exile a creature card from your graveyard and pay its mana cost: Put a token onto the battlefield that's a copy of that card. Activate this ability only any time you could cast a sorcery.,ISD
+Battleground Geist,,Clint Cearley,45,Creature — Spirit,Flying\nOther Spirit creatures you control get +1/+0.,ISD
+Cackling Counterpart,,David Rapoza,46,Instant,Put a token onto the battlefield that's a copy of target creature you control.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD,C14"
+Civilized Scholar,,Michael C. Hayes,47a,Creature — Human Advisor,"{T}: Draw a card, then discard a card. If a creature card is discarded this way, untap Civilized Scholar, then transform it.",ISD
+Homicidal Brute,,Michael C. Hayes,47b,Creature — Human Mutant,"At the beginning of your end step, if Homicidal Brute didn't attack this turn, tap Homicidal Brute, then transform it.",ISD
+Claustrophobia,,Ryan Pancoast,48,Enchantment — Aura,"Enchant creature\nWhen Claustrophobia enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.","ISD,M14,DDM,ORI"
+Curiosity,,Igor Kieryluk,49,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to an opponent, you may draw a card.","EXO,8ED,ISD,TPR"
+Curse of the Bloody Tome,,Jaime Jones,50,Enchantment — Aura Curse,"Enchant player\nAt the beginning of enchanted player's upkeep, that player puts the top two cards of his or her library into his or her graveyard.","pWPN,ISD"
+Delver of Secrets,,Nils Hamm,51a,Creature — Human Wizard,"At the beginning of your upkeep, look at the top card of your library. You may reveal that card. If an instant or sorcery card is revealed this way, transform Delver of Secrets.",ISD
+Insectile Aberration,,Nils Hamm,51b,Creature — Human Insect,Flying,ISD
+Deranged Assistant,,Nils Hamm,52,Creature — Human Wizard,"{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.",ISD
+Dissipate,,Tomasz Jedruszek,53,Instant,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","MIR,pFNM,ISD,DDJ,M15"
+Dream Twist,,Dan Scott,54,Instant,Target player puts the top three cards of his or her library into his or her graveyard.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Forbidden Alchemy,,David Rapoza,55,Instant,Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.\nFlashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pFNM,ISD"
+Fortress Crab,,Vincent Proce,56,Creature — Crab,,ISD
+Frightful Delusion,,Anthony Palumbo,57,Instant,Counter target spell unless its controller pays {1}. That player discards a card.,ISD
+Grasp of Phantoms,,Izzy,58,Sorcery,Put target creature on top of its owner's library.\nFlashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Hysterical Blindness,,Wayne England,59,Instant,Creatures your opponents control get -4/-0 until end of turn.,ISD
+Invisible Stalker,,Bud Cook,60,Creature — Human Rogue,Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nInvisible Stalker can't be blocked.,ISD
+Laboratory Maniac,,Jason Felix,61,Creature — Human Wizard,"If you would draw a card while your library has no cards in it, you win the game instead.",ISD
+Lantern Spirit,,Johann Bodin,62,Creature — Spirit,Flying\n{U}: Return Lantern Spirit to its owner's hand.,ISD
+Lost in the Mist,,David Palumbo,63,Instant,Counter target spell. Return target permanent to its owner's hand.,ISD
+Ludevic's Test Subject,,Nils Hamm,64a,Creature — Lizard,"Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.","pLPA,ISD"
+Ludevic's Abomination,,Nils Hamm,64b,Creature — Lizard Horror,Trample,"pLPA,ISD"
+Makeshift Mauler,,James Ryman,65,Creature — Zombie Horror,"As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.",ISD
+Memory's Journey,,Slawomir Maniak,66,Instant,Target player shuffles up to three target cards from his or her graveyard into his or her library.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Mindshrieker,,Dave Kendall,67,Creature — Spirit Bird,"Flying\n{2}: Target player puts the top card of his or her library into his or her graveyard. Mindshrieker gets +X/+X until end of turn, where X is that card's converted mana cost.",ISD
+Mirror-Mad Phantasm,,Howard Lyon,68,Creature — Spirit,"Flying\n{1}{U}: Mirror-Mad Phantasm's owner shuffles it into his or her library. If that player does, he or she reveals cards from the top of that library until a card named Mirror-Mad Phantasm is revealed. The player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.",ISD
+Moon Heron,,Charles Urbach,69,Creature — Spirit Bird,Flying,ISD
+Murder of Crows,,Drew Baker,70,Creature — Bird,"Flying\nWhenever another creature dies, you may draw a card. If you do, discard a card.",ISD
+Rooftop Storm,,John Stanko,71,Enchantment,You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.,ISD
+Runic Repetition,,Svetlin Velinov,72,Sorcery,Return target exiled card with flashback you own to your hand.,ISD
+Selhoff Occultist,,Igor Kieryluk,73,Creature — Human Rogue,"Whenever Selhoff Occultist or another creature dies, target player puts the top card of his or her library into his or her graveyard.",ISD
+Sensory Deprivation,,Steven Belledin,74,Enchantment — Aura,Enchant creature\nEnchanted creature gets -3/-0.,"ISD,M14"
+Silent Departure,,John Avon,75,Sorcery,Return target creature to its owner's hand.\nFlashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Skaab Goliath,,Volkan Baga,76,Creature — Zombie Giant,"As an additional cost to cast Skaab Goliath, exile two creature cards from your graveyard.\nTrample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)","ISD,ORI"
+Skaab Ruinator,,Chris Rahn,77,Creature — Zombie Horror,"As an additional cost to cast Skaab Ruinator, exile three creature cards from your graveyard.\nFlying
+You may cast Skaab Ruinator from your graveyard.",ISD
+Snapcaster Mage,,Volkan Baga,78,Creature — Human Wizard,"Flash\nWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",ISD
+Spectral Flight,,Johann Bodin,79,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has flying.,ISD
+Stitched Drake,,Chris Rahn,80,Creature — Zombie Drake,"As an additional cost to cast Stitched Drake, exile a creature card from your graveyard.\nFlying",ISD
+Stitcher's Apprentice,,Johann Bodin,81,Creature — Homunculus,"{1}{U}, {T}: Put a 2/2 blue Homunculus creature token onto the battlefield, then sacrifice a creature.",ISD
+Sturmgeist,,Terese Nielsen,82,Creature — Spirit,"Flying\nSturmgeist's power and toughness are each equal to the number of cards in your hand.
+Whenever Sturmgeist deals combat damage to a player, draw a card.",ISD
+Think Twice,,Anthony Francisco,83,Instant,Draw a card.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"TSP,ISD"
+Undead Alchemist,,Michael C. Hayes,84,Creature — Zombie,"If a Zombie you control would deal combat damage to a player, instead that player puts that many cards from the top of his or her library into his or her graveyard.\nWhenever a creature card is put into an opponent's graveyard from his or her library, exile that card and put a 2/2 black Zombie creature token onto the battlefield.",ISD
+Abattoir Ghoul,,Volkan Baga,85,Creature — Zombie,"First strike\nWhenever a creature dealt damage by Abattoir Ghoul this turn dies, you gain life equal to that creature's toughness.",ISD
+Altar's Reap,,Donato Giancola,86,Instant,"As an additional cost to cast Altar's Reap, sacrifice a creature.\nDraw two cards.","ISD,M14,CNS,BFZ,C15"
+Army of the Damned,,Ryan Pancoast,87,Sorcery,Put thirteen 2/2 black Zombie creature tokens onto the battlefield tapped.\nFlashback {7}{B}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD,C13"
+Bitterheart Witch,,Karl Kopinski,88,Creature — Human Shaman,"Deathtouch\nWhen Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.",ISD
+Bloodgift Demon,,Peter Mohrbacher,89,Creature — Demon,"Flying\nAt the beginning of your upkeep, target player draws a card and loses 1 life.","ISD,C14"
+Bloodline Keeper,,Jason Chan,90a,Creature — Vampire,Flying\n{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.
+{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.,ISD
+Lord of Lineage,,Jason Chan,90b,Creature — Vampire,Flying\nOther Vampire creatures you control get +2/+2.
+{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.,ISD
+Brain Weevil,,Anthony Jones,91,Creature — Insect,Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nSacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.,"ISD,DDJ"
+Bump in the Night,,Kev Walker,92,Sorcery,Target opponent loses 3 life.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD,DDK"
+Corpse Lunge,,Christopher Moeller,93,Instant,"As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.\nCorpse Lunge deals damage equal to the exiled card's power to target creature.",ISD
+Curse of Death's Hold,,Clint Cearley,94,Enchantment — Aura Curse,Enchant player\nCreatures enchanted player controls get -1/-1.,ISD
+Curse of Oblivion,,Jana Schirmer & Johannes Voss,95,Enchantment — Aura Curse,"Enchant player\nAt the beginning of enchanted player's upkeep, that player exiles two cards from his or her graveyard.",ISD
+Dead Weight,,Randy Gallegos,96,Enchantment — Aura,Enchant creature\nEnchanted creature gets -2/-2.,ISD
+Diregraf Ghoul,,Dave Kendall,97,Creature — Zombie,Diregraf Ghoul enters the battlefield tapped.,"pMGD,ISD"
+Disciple of Griselbrand,,Clint Cearley,98,Creature — Human Cleric,"{1}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.","ISD,C13"
+Endless Ranks of the Dead,,Ryan Yee,99,Enchantment,"At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.",ISD
+Falkenrath Noble,,Slawomir Maniak,100,Creature — Vampire,"Flying\nWhenever Falkenrath Noble or another creature dies, target player loses 1 life and you gain 1 life.",ISD
+Ghoulcaller's Chant,,Randy Gallegos,101,Sorcery,Choose one —\n• Return target creature card from your graveyard to your hand.
+• Return two target Zombie cards from your graveyard to your hand.,ISD
+Ghoulraiser,,Steve Prescott,102,Creature — Zombie,"When Ghoulraiser enters the battlefield, return a Zombie card at random from your graveyard to your hand.",ISD
+Gruesome Deformity,,Matt Stewart,103,Enchantment — Aura,Enchant creature\nEnchanted creature has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.),ISD
+Heartless Summoning,,Anthony Palumbo,104,Enchantment,Creature spells you cast cost {2} less to cast.\nCreatures you control get -1/-1.,ISD
+Liliana of the Veil,,Steve Argyle,105,Planeswalker — Liliana,+1: Each player discards a card.\n−2: Target player sacrifices a creature.
+−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of his or her choice.,ISD
+Manor Skeleton,,Eric Deschamps,106,Creature — Skeleton,Haste\n{1}{B}: Regenerate Manor Skeleton.,ISD
+Markov Patrician,,Jana Schirmer & Johannes Voss,107,Creature — Vampire,Lifelink (Damage dealt by this creature also causes you to gain that much life.),ISD
+Maw of the Mire,,Vincent Proce,108,Sorcery,Destroy target land. You gain 4 life.,ISD
+Moan of the Unhallowed,,Nils Hamm,109,Sorcery,Put two 2/2 black Zombie creature tokens onto the battlefield.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Morkrut Banshee,,Svetlin Velinov,110,Creature — Spirit,"Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.","ISD,CNS,C14"
+Night Terrors,,Christopher Moeller,111,Sorcery,Target player reveals his or her hand. You choose a nonland card from it. Exile that card.,ISD
+Reaper from the Abyss,,Matt Stewart,112,Creature — Demon,"Flying\nMorbid — At the beginning of each end step, if a creature died this turn, destroy target non-Demon creature.","ISD,C14"
+Rotting Fensnake,,Tomasz Jedruszek,113,Creature — Zombie Snake,,ISD
+Screeching Bat,,Slawomir Maniak,114a,Creature — Bat,"Flying\nAt the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Screeching Bat.",ISD
+Stalking Vampire,,Slawomir Maniak,114b,Creature — Vampire,"At the beginning of your upkeep, you may pay {2}{B}{B}. If you do, transform Stalking Vampire.",ISD
+Sever the Bloodline,,Clint Cearley,115,Sorcery,Exile target creature and all other creatures with the same name as that creature.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD,C15"
+Skeletal Grimace,,Eric Deschamps,116,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 and has "{B}: Regenerate this creature.",ISD
+Skirsdag High Priest,,Jason A. Engle,117,Creature — Human Cleric,"Morbid — {T}, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.","ISD,C14"
+Stromkirk Patrol,,Karl Kopinski,118,Creature — Vampire Soldier,"Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.",ISD
+Tribute to Hunger,,Dave Kendall,119,Instant,Target opponent sacrifices a creature. You gain life equal to that creature's toughness.,ISD
+Typhoid Rats,,Kev Walker,120,Creature — Rat,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"ISD,CNS,M15,FRF"
+Unbreathing Horde,,Dave Kendall,121,Creature — Zombie,"Unbreathing Horde enters the battlefield with a +1/+1 counter on it for each other Zombie you control and each Zombie card in your graveyard.\nIf Unbreathing Horde would be dealt damage, prevent that damage and remove a +1/+1 counter from it.",ISD
+Unburial Rites,,Ryan Pancoast,122,Sorcery,Return target creature card from your graveyard to the battlefield.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Vampire Interloper,,James Ryman,123,Creature — Vampire Scout,Flying\nVampire Interloper can't block.,ISD
+Victim of Night,,Winona Nelson,124,Instant,"Destroy target non-Vampire, non-Werewolf, non-Zombie creature.",ISD
+Village Cannibals,,Bud Cook,125,Creature — Human,"Whenever another Human creature dies, put a +1/+1 counter on Village Cannibals.",ISD
+Walking Corpse,,Igor Kieryluk,126,Creature — Zombie,,"ISD,M13,M15"
+Ancient Grudge,,Ryan Yee,127,Instant,Destroy target artifact.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pFNM,TSP,ISD"
+Ashmouth Hound,,Daarken,128,Creature — Elemental Hound,"Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.","ISD,DDK"
+Balefire Dragon,,Eric Deschamps,129,Creature — Dragon,"Flying\nWhenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls.",ISD
+Blasphemous Act,,Daarken,130,Sorcery,Blasphemous Act costs {1} less to cast for each creature on the battlefield.\nBlasphemous Act deals 13 damage to each creature.,"ISD,C14"
+Bloodcrazed Neonate,,Cynthia Sheppard,131,Creature — Vampire,"Bloodcrazed Neonate attacks each turn if able.\nWhenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.","pWPN,ISD"
+Brimstone Volley,,Eytan Zana,132,Instant,Brimstone Volley deals 3 damage to target creature or player.\nMorbid — Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.,"ISD,CNS"
+Burning Vengeance,,Raymond Swanland,133,Enchantment,"Whenever you cast a spell from your graveyard, Burning Vengeance deals 2 damage to target creature or player.",ISD
+Charmbreaker Devils,,Dan Scott,134,Creature — Devil,"At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.\nWhenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn.","ISD,C13,C15"
+Crossway Vampire,,Mark Evans,135,Creature — Vampire,"When Crossway Vampire enters the battlefield, target creature can't block this turn.",ISD
+Curse of Stalked Prey,,Christopher Moeller,136,Enchantment — Aura Curse,"Enchant player\nWhenever a creature deals combat damage to enchanted player, put a +1/+1 counter on that creature.",ISD
+Curse of the Nightly Hunt,,Daarken,137,Enchantment — Aura Curse,Enchant player\nCreatures enchanted player controls attack each turn if able.,"ISD,C15"
+Curse of the Pierced Heart,,E. M. Gist,138,Enchantment — Aura Curse,"Enchant player\nAt the beginning of enchanted player's upkeep, Curse of the Pierced Heart deals 1 damage to that player.",ISD
+Desperate Ravings,,John Stanko,139,Instant,"Draw two cards, then discard a card at random.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)","ISD,C15"
+Devil's Play,,Austin Hsu,140,Sorcery,Devil's Play deals X damage to target creature or player.\nFlashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pMEI,ISD,DDK"
+Falkenrath Marauders,,James Ryman,141,Creature — Vampire Warrior,"Flying, haste\nWhenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.",ISD
+Feral Ridgewolf,,Martina Pilcerova,142,Creature — Wolf,Trample\n{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.,ISD
+Furor of the Bitten,,Randy Gallegos,143,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and attacks each turn if able.,ISD
+Geistflame,,Scott Chou,144,Instant,Geistflame deals 1 damage to target creature or player.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD,DDK"
+Hanweir Watchkeep,,Wayne Reynolds,145a,Creature — Human Warrior Werewolf,"Defender\nAt the beginning of each upkeep, if no spells were cast last turn, transform Hanweir Watchkeep.",ISD
+Bane of Hanweir,,Wayne Reynolds,145b,Creature — Werewolf,"Bane of Hanweir attacks each turn if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Bane of Hanweir.",ISD
+Harvest Pyre,,Ryan Yee,146,Instant,"As an additional cost to cast Harvest Pyre, exile X cards from your graveyard.\nHarvest Pyre deals X damage to target creature.",ISD
+Heretic's Punishment,,Vincent Proce,147,Enchantment,"{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard.  Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.",ISD
+Infernal Plunge,,Daarken,148,Sorcery,"As an additional cost to cast Infernal Plunge, sacrifice a creature.\nAdd {R}{R}{R} to your mana pool.",ISD
+Instigator Gang,,Greg Staples,149a,Creature — Human Werewolf,"Attacking creatures you control get +1/+0.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.",ISD
+Wildblood Pack,,Greg Staples,149b,Creature — Werewolf,"Trample\nAttacking creatures you control get +3/+0.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Wildblood Pack.",ISD
+Into the Maw of Hell,,Raymond Swanland,150,Sorcery,Destroy target land. Into the Maw of Hell deals 13 damage to target creature.,ISD
+Kessig Wolf,,Wayne England,151,Creature — Wolf,{1}{R}: Kessig Wolf gains first strike until end of turn.,ISD
+Kruin Outlaw,,David Rapoza,152a,Creature — Human Rogue Werewolf,"First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.",ISD
+Terror of Kruin Pass,,David Rapoza,152b,Creature — Werewolf,"Double strike\nWerewolves you control have menace. (They can't be blocked except by two or more creatures.)
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.",ISD
+Night Revelers,,Steve Argyle,153,Creature — Vampire,Night Revelers has haste as long as an opponent controls a Human.,ISD
+Nightbird's Clutches,,Jason A. Engle,154,Sorcery,Up to two target creatures can't block this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Past in Flames,,Anthony Jones,155,Sorcery,Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Pitchburn Devils,,Johann Bodin,156,Creature — Devil,"When Pitchburn Devils dies, it deals 3 damage to target creature or player.","ISD,M14,CNS"
+Rage Thrower,,Peter Mohrbacher,157,Creature — Human Shaman,"Whenever another creature dies, Rage Thrower deals 2 damage to target player.",ISD
+Rakish Heir,,Winona Nelson,158,Creature — Vampire,"Whenever a Vampire you control deals combat damage to a player, put a +1/+1 counter on it.",ISD
+Reckless Waif,,Michael C. Hayes,159a,Creature — Human Rogue Werewolf,"At the beginning of each upkeep, if no spells were cast last turn, transform Reckless Waif.",ISD
+Merciless Predator,,Michael C. Hayes,159b,Creature — Werewolf,"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Merciless Predator.",ISD
+Riot Devils,,Svetlin Velinov,160,Creature — Devil,,ISD
+Rolling Temblor,,Cliff Childs,161,Sorcery,Rolling Temblor deals 2 damage to each creature without flying.\nFlashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Scourge of Geier Reach,,Jung Park,162,Creature — Elemental,Scourge of Geier Reach gets +1/+1 for each creature your opponents control.,ISD
+Skirsdag Cultist,,Slawomir Maniak,163,Creature — Human Shaman,"{R}, {T}, Sacrifice a creature: Skirsdag Cultist deals 2 damage to target creature or player.","ISD,DDK"
+Stromkirk Noble,,James Ryman,164,Creature — Vampire,"Stromkirk Noble can't be blocked by Humans.\nWhenever Stromkirk Noble deals combat damage to a player, put a +1/+1 counter on it.",ISD
+Tormented Pariah,,Bud Cook,165a,Creature — Human Warrior Werewolf,"At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.",ISD
+Rampaging Werewolf,,Bud Cook,165b,Creature — Werewolf,"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Rampaging Werewolf.",ISD
+Traitorous Blood,,Raymond Swanland,166,Sorcery,Gain control of target creature until end of turn. Untap it. It gains trample and haste until end of turn.,ISD
+Vampiric Fury,,Matt Stewart,167,Instant,Vampire creatures you control get +2/+0 and gain first strike until end of turn.,ISD
+Village Ironsmith,,Christopher Moeller,168a,Creature — Human Werewolf,"First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.",ISD
+Ironfang,,Christopher Moeller,168b,Creature — Werewolf,"First strike\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.",ISD
+Ambush Viper,,Alan Pollack,169,Creature — Snake,Flash (You may cast this spell any time you could cast an instant.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.),ISD
+Avacyn's Pilgrim,,Jana Schirmer & Johannes Voss,170,Creature — Human Monk,{T}: Add {W} to your mana pool.,"pFNM,ISD"
+Boneyard Wurm,,Jaime Jones,171,Creature — Wurm,Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.,"pWPN,ISD,DDJ"
+Bramblecrush,,Drew Baker,172,Sorcery,Destroy target noncreature permanent.,"ISD,M14"
+Caravan Vigil,,Drew Baker,173,Sorcery,"Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.\nMorbid — You may put that card onto the battlefield instead of putting it into your hand if a creature died this turn.",ISD
+Creeping Renaissance,,Tomasz Jedruszek,174,Sorcery,Choose a permanent type. Return all cards of the chosen type from your graveyard to your hand.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Darkthicket Wolf,,Wayne England,175,Creature — Wolf,{2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.,ISD
+Daybreak Ranger,,Steve Prescott,176a,Creature — Human Archer Werewolf,"{T}: Daybreak Ranger deals 2 damage to target creature with flying.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Daybreak Ranger.",ISD
+Nightfall Predator,,Steve Prescott,176b,Creature — Werewolf,"{R}, {T}: Nightfall Predator fights target creature. (Each deals damage equal to its power to the other.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Nightfall Predator.",ISD
+Elder of Laurels,,Terese Nielsen,177,Creature — Human Advisor,"{3}{G}: Target creature gets +X/+X until end of turn, where X is the number of creatures you control.",ISD
+Essence of the Wild,,Terese Nielsen,178,Creature — Avatar,Creatures you control enter the battlefield as a copy of Essence of the Wild.,ISD
+Festerhide Boar,,Nils Hamm,179,Creature — Boar,Trample\nMorbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.,"ISD,DDM"
+Full Moon's Rise,,Terese Nielsen,180,Enchantment,Werewolf creatures you control get +1/+0 and have trample.\nSacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.,ISD
+Garruk Relentless,,Eric Deschamps,181a,Planeswalker — Garruk,"When Garruk Relentless has two or fewer loyalty counters on him, transform him.\n0: Garruk Relentless deals 3 damage to target creature. That creature deals damage equal to its power to him.
+0: Put a 2/2 green Wolf creature token onto the battlefield.",ISD
+"Garruk, the Veil-Cursed",,Eric Deschamps,181b,Planeswalker — Garruk,"+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.\n−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.
+−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",ISD
+Gatstaf Shepherd,,Mark Evans,182a,Creature — Human Werewolf,"At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Shepherd.",ISD
+Gatstaf Howler,,Mark Evans,182b,Creature — Werewolf,"Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.",ISD
+Gnaw to the Bone,,Scott Chou,183,Instant,You gain 2 life for each creature card in your graveyard.\nFlashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Grave Bramble,,Anthony Jones,184,Creature — Plant,"Defender, protection from Zombies",ISD
+Grizzled Outcasts,,Randy Gallegos,185a,Creature — Human Werewolf,"At the beginning of each upkeep, if no spells were cast last turn, transform Grizzled Outcasts.",ISD
+Krallenhorde Wantons,,Randy Gallegos,185b,Creature — Werewolf,"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.",ISD
+Gutter Grime,,Erica Yang,186,Enchantment,"Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with "This creature's power and toughness are each equal to the number of slime counters on Gutter Grime."",ISD
+Hamlet Captain,,Wayne Reynolds,187,Creature — Human Warrior,"Whenever Hamlet Captain attacks or blocks, other Human creatures you control get +1/+1 until end of turn.",ISD
+Hollowhenge Scavenger,,Slawomir Maniak,188,Creature — Elemental,"Morbid — When Hollowhenge Scavenger enters the battlefield, if a creature died this turn, you gain 5 life.",ISD
+Kessig Cagebreakers,,Wayne England,189,Creature — Human Rogue,"Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.","ISD,C15"
+Kindercatch,,Terese Nielsen,190,Creature — Spirit,,ISD
+Lumberknot,,Jason A. Engle,191,Creature — Treefolk,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever a creature dies, put a +1/+1 counter on Lumberknot.","ISD,PC2"
+Make a Wish,,Howard Lyon,192,Sorcery,Return two cards at random from your graveyard to your hand.,ISD
+Mayor of Avabruck,,Svetlin Velinov,193a,Creature — Human Advisor Werewolf,"Other Human creatures you control get +1/+1.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.","pPRE,ISD"
+Howlpack Alpha,,Svetlin Velinov,193b,Creature — Werewolf,"Each other creature you control that's a Werewolf or a Wolf gets +1/+1.\nAt the beginning of your end step, put a 2/2 green Wolf creature token onto the battlefield.
+At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.","pPRE,ISD"
+Moldgraf Monstrosity,,Tomasz Jedruszek,194,Creature — Insect,"Trample\nWhen Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.",ISD
+Moonmist,,Ryan Yee,195,Instant,Transform all Humans. Prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves. (Only double-faced cards can be transformed.),ISD
+Mulch,,Christopher Moeller,196,Sorcery,Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.,"STH,ISD,TPR,C15"
+Naturalize,,Scott Chou,197,Instant,Destroy target artifact or enchantment.,"ONS,8ED,9ED,10E,ALA,M10,ROE,DPA,M11,M12,ISD,M13,GTC,M14,M15,KTK,DTK"
+Orchard Spirit,,Howard Lyon,198,Creature — Spirit,Orchard Spirit can't be blocked except by creatures with flying or reach.,"ISD,ORI"
+Parallel Lives,,Steve Prescott,199,Enchantment,"If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.",ISD
+Prey Upon,,Dave Kendall,200,Sorcery,Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.),"ISD,M13,DDL"
+Ranger's Guile,,Steve Prescott,201,Instant,Target creature you control gets +1/+1 and gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.),"ISD,M14,M15"
+Somberwald Spider,,Volkan Baga,202,Creature — Spider,Reach (This creature can block creatures with flying.)\nMorbid — Somberwald Spider enters the battlefield with two +1/+1 counters on it if a creature died this turn.,ISD
+Spider Spawning,,Daniel Ljunggren,203,Sorcery,Put a 1/2 green Spider creature token with reach onto the battlefield for each creature card in your graveyard.\nFlashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ISD,C15"
+Spidery Grasp,,James Ryman,204,Instant,Untap target creature. It gets +2/+4 and gains reach until end of turn. (It can block creatures with flying.),ISD
+Splinterfright,,Eric Deschamps,205,Creature — Elemental,"Trample\nSplinterfright's power and toughness are each equal to the number of creature cards in your graveyard.
+At the beginning of your upkeep, put the top two cards of your library into your graveyard.",ISD
+Travel Preparations,,Vincent Proce,206,Sorcery,Put a +1/+1 counter on each of up to two target creatures.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ISD
+Tree of Redemption,,Vincent Proce,207,Creature — Plant,Defender\n{T}: Exchange your life total with Tree of Redemption's toughness.,ISD
+Ulvenwald Mystics,,Dan Scott,208a,Creature — Human Shaman Werewolf,"At the beginning of each upkeep, if no spells were cast last turn, transform Ulvenwald Mystics.",ISD
+Ulvenwald Primordials,,Dan Scott,208b,Creature — Werewolf,"{G}: Regenerate Ulvenwald Primordials.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulvenwald Primordials.",ISD
+Villagers of Estwald,,Kev Walker,209a,Creature — Human Werewolf,"At the beginning of each upkeep, if no spells were cast last turn, transform Villagers of Estwald.",ISD
+Howlpack of Estwald,,Kev Walker,209b,Creature — Werewolf,"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack of Estwald.",ISD
+Woodland Sleuth,,Tomasz Jedruszek,210,Creature — Human Scout,"Morbid — When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.",ISD
+Wreath of Geists,,Jason A. Engle,211,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.",ISD
+Evil Twin,,Greg Staples,212,Creature — Shapeshifter,"You may have Evil Twin enter the battlefield as a copy of any creature on the battlefield except it gains "{U}{B}, {T}: Destroy target creature with the same name as this creature."",ISD
+Geist of Saint Traft,,Igor Kieryluk,213,Legendary Creature — Spirit Cleric,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever Geist of Saint Traft attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.","ISD,pWCQ"
+"Grimgrin, Corpse-Born",,Peter Mohrbacher,214,Legendary Creature — Zombie Warrior,"Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.\nSacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
+Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",ISD
+Olivia Voldaren,,Eric Deschamps,215,Legendary Creature — Vampire,Flying\n{1}{R}: Olivia Voldaren deals 1 damage to another target creature. That creature becomes a Vampire in addition to its other types. Put a +1/+1 counter on Olivia Voldaren.
+{3}{B}{B}: Gain control of target Vampire for as long as you control Olivia Voldaren.,ISD
+Blazing Torch,,Scott Chou,216,Artifact — Equipment,"Equipped creature can't be blocked by Vampires or Zombies.\nEquipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)","ZEN,ISD"
+Butcher's Cleaver,,Jason Felix,217,Artifact — Equipment,"Equipped creature gets +3/+0.\nAs long as equipped creature is a Human, it has lifelink.
+Equip {3}",ISD
+Cellar Door,,Rob Alexander,218,Artifact,"{3}, {T}: Target player puts the bottom card of his or her library into his or her graveyard. If it's a creature card, you put a 2/2 black Zombie creature token onto the battlefield.",ISD
+Cobbled Wings,,Matt Stewart,219,Artifact — Equipment,Equipped creature has flying.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),ISD
+Creepy Doll,,Matt Stewart,220,Artifact Creature — Construct,"Indestructible\nWhenever Creepy Doll deals combat damage to a creature, flip a coin. If you win the flip, destroy that creature.",ISD
+Demonmail Hauberk,,Jason Felix,221,Artifact — Equipment,Equipped creature gets +4/+2.\nEquip—Sacrifice a creature.,ISD
+Galvanic Juggernaut,,Lucas Graciano,222,Artifact Creature — Juggernaut,"Galvanic Juggernaut attacks each turn if able.\nGalvanic Juggernaut doesn't untap during your untap step.
+Whenever another creature dies, untap Galvanic Juggernaut.","ISD,CNS"
+Geistcatcher's Rig,,Vincent Proce,223,Artifact Creature — Construct,"When Geistcatcher's Rig enters the battlefield, you may have it deal 4 damage to target creature with flying.",ISD
+Ghoulcaller's Bell,,Lars Grant-West,224,Artifact,{T}: Each player puts the top card of his or her library into his or her graveyard.,ISD
+Graveyard Shovel,,Martina Pilcerova,225,Artifact,"{2}, {T}: Target player exiles a card from his or her graveyard. If it's a creature card, you gain 2 life.",ISD
+Grimoire of the Dead,,Steven Belledin,226,Legendary Artifact,"{1}, {T}, Discard a card: Put a study counter on Grimoire of the Dead.\n{T}, Remove three study counters from Grimoire of the Dead and sacrifice it: Put all creature cards from all graveyards onto the battlefield under your control. They're black Zombies in addition to their other colors and types.",ISD
+Inquisitor's Flail,,Rob Alexander,227,Artifact — Equipment,"If equipped creature would deal combat damage, it deals double that damage instead.\nIf another creature would deal combat damage to equipped creature, it deals double that damage to equipped creature instead.
+Equip {2}",ISD
+Manor Gargoyle,,Matt Stewart,228,Artifact Creature — Gargoyle,"Defender\nManor Gargoyle has indestructible as long as it has defender.
+{1}: Until end of turn, Manor Gargoyle loses defender and gains flying.",ISD
+Mask of Avacyn,,James Paick,229,Artifact — Equipment,Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {3},ISD
+One-Eyed Scarecrow,,Dave Kendall,230,Artifact Creature — Scarecrow,Defender\nCreatures with flying your opponents control get -1/-0.,ISD
+Runechanter's Pike,,John Avon,231,Artifact — Equipment,"Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.\nEquip {2}",ISD
+Sharpened Pitchfork,,Winona Nelson,232,Artifact — Equipment,"Equipped creature has first strike.\nAs long as equipped creature is a Human, it gets +1/+1.
+Equip {1}",ISD
+Silver-Inlaid Dagger,,Austin Hsu,233,Artifact — Equipment,"Equipped creature gets +2/+0.\nAs long as equipped creature is a Human, it gets an additional +1/+0.
+Equip {2}",ISD
+Traveler's Amulet,,Alan Pollack,234,Artifact,"{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.","ISD,THS"
+Trepanation Blade,,Daniel Ljunggren,235,Artifact — Equipment,"Whenever equipped creature attacks, defending player reveals cards from the top of his or her library until he or she reveals a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into his or her graveyard.\nEquip {2}",ISD
+Witchbane Orb,,John Avon,236,Artifact,"When Witchbane Orb enters the battlefield, destroy all Curses attached to you.\nYou have hexproof. (You can't be the target of spells or abilities your opponents control, including Aura spells.)",ISD
+Wooden Stake,,David Palumbo,237,Artifact — Equipment,"Equipped creature gets +1/+0.\nWhenever equipped creature blocks or becomes blocked by a Vampire, destroy that creature. It can't be regenerated.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",ISD
+Clifftop Retreat,,John Avon,238,Land,Clifftop Retreat enters the battlefield tapped unless you control a Mountain or a Plains.\n{T}: Add {R} or {W} to your mana pool.,ISD
+Gavony Township,,Peter Mohrbacher,239,Land,"{T}: Add {1} to your mana pool.\n{2}{G}{W}, {T}: Put a +1/+1 counter on each creature you control.",ISD
+Ghost Quarter,,Peter Mohrbacher,240,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.","DIS,ISD,MD1,C14,C15"
+Hinterland Harbor,,Karl Kopinski,241,Land,Hinterland Harbor enters the battlefield tapped unless you control a Forest or an Island.\n{T}: Add {G} or {U} to your mana pool.,ISD
+Isolated Chapel,,Cliff Childs,242,Land,Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B} to your mana pool.,"ISD,MD1"
+Kessig Wolf Run,,Eytan Zana,243,Land,"{T}: Add {1} to your mana pool.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.","ISD,V13"
+Moorland Haunt,,James Paick,244,Land,"{T}: Add {1} to your mana pool.\n{W}{U}, {T}, Exile a creature card from your graveyard: Put a 1/1 white Spirit creature token with flying onto the battlefield.",ISD
+Nephalia Drownyard,,Cliff Childs,245,Land,"{T}: Add {1} to your mana pool.\n{1}{U}{B}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.",ISD
+Shimmering Grotto,,Cliff Childs,246,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Add one mana of any color to your mana pool.","LRW,ISD,PC2,M14"
+Stensia Bloodhall,,John Avon,247,Land,"{T}: Add {1} to your mana pool.\n{3}{B}{R}, {T}: Stensia Bloodhall deals 2 damage to target player.",ISD
+Sulfur Falls,,Cliff Childs,248,Land,Sulfur Falls enters the battlefield tapped unless you control an Island or a Mountain.\n{T}: Add {U} or {R} to your mana pool.,ISD
+Woodland Cemetery,,Lars Grant-West,249,Land,Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G} to your mana pool.,ISD
+Plains,,Adam Paquette,250,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Jung Park,251,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Eytan Zana,252,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,James Paick,253,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Adam Paquette,254,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Jung Park,255,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,James Paick,256,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Adam Paquette,257,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Jung Park,258,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,James Paick,259,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Adam Paquette,260,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Eytan Zana,261,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,James Paick,262,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jung Park,263,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Eytan Zana,264,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

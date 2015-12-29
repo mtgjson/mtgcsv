@@ -1,0 +1,155 @@
+name,cost,artist,number,type,text,printings
+Academy Rector,,Heather Hudson,1,Creature — Human Cleric,"When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.",UDS
+Archery Training,,Mark Brill,2,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, you may put an arrow counter on Archery Training.
+Enchanted creature has "{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training."",UDS
+Capashen Knight,,Kev Walker,3,Creature — Human Knight,First strike (This creature deals combat damage before creatures without first strike.)\n{1}{W}: Capashen Knight gets +1/+0 until end of turn.,"UDS,M14"
+Capashen Standard,,Todd Lockwood,4,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+1.
+{2}, Sacrifice Capashen Standard: Draw a card.",UDS
+Capashen Templar,,Todd Lockwood,5,Creature — Human Knight,{W}: Capashen Templar gets +0/+1 until end of turn.,UDS
+False Prophet,,Eric Peterson,6,Creature — Human Cleric,"When False Prophet dies, exile all creatures.","pPRE,UDS,CMD"
+Fend Off,,Paolo Parente,7,Instant,"Prevent all combat damage that would be dealt by target creature this turn.\nCycling {2} ({2}, Discard this card: Draw a card.)",UDS
+Field Surgeon,,Heather Hudson,8,Creature — Human Cleric,Tap an untapped creature you control: Prevent the next 1 damage that would be dealt to target creature this turn.,UDS
+Flicker,,Douglas Shuler,9,Sorcery,"Exile target nontoken permanent, then return it to the battlefield under its owner's control.",UDS
+Jasmine Seer,,Donato Giancola,10,Creature — Human Wizard,"{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.",UDS
+Mask of Law and Grace,,Kev Walker,11,Enchantment — Aura,Enchant creature\nEnchanted creature has protection from black and from red.,UDS
+Master Healer,,Adam Rex,12,Creature — Human Cleric,{T}: Prevent the next 4 damage that would be dealt to target creature or player this turn.,"UDS,7ED,8ED,9ED"
+Opalescence,,John Avon,13,Enchantment,Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.,UDS
+Reliquary Monk,,Thomas M. Baxa,14,Creature — Human Monk Cleric,"When Reliquary Monk dies, destroy target artifact or enchantment.",UDS
+Replenish,,Jim Nelson,15,Sorcery,Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.),UDS
+Sanctimony,,Mark Brill,16,Enchantment,"Whenever an opponent taps a Mountain for mana, you may gain 1 life.","UDS,7ED,8ED"
+Scent of Jasmine,,Douglas Shuler,17,Instant,Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.,UDS
+Scour,,Eric Peterson,18,Instant,"Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Serra Advocate,,Scott Hampton,19,Creature — Angel,Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.,"UDS,7ED,DDC,DD3_DVD"
+Solidarity,,John Zeleznik,20,Instant,Creatures you control get +0/+5 until end of turn.,"UDS,8ED"
+Tethered Griffin,,Matthew D. Wilson,21,Creature — Griffin,"Flying\nWhen you control no enchantments, sacrifice Tethered Griffin.",UDS
+Tormented Angel,,Greg & Tim Hildebrandt,22,Creature — Angel,Flying,UDS
+Voice of Duty,,Mark Zug,23,Creature — Angel,"Flying, protection from green",UDS
+Voice of Reason,,Ray Lago,24,Creature — Angel,"Flying, protection from blue",UDS
+Wall of Glare,,Patrick Ho,25,Creature — Wall,Defender (This creature can't attack.)\nWall of Glare can block any number of creatures.,UDS
+Aura Thief,,Ron Spears,26,Creature — Illusion,"Flying\nWhen Aura Thief dies, you gain control of all enchantments. (You don't get to move Auras.)",UDS
+Blizzard Elemental,,Thomas M. Baxa,27,Creature — Elemental,Flying\n{3}{U}: Untap Blizzard Elemental.,"UDS,BTD"
+Brine Seer,,Donato Giancola,28,Creature — Human Wizard,"{2}{U}, {T}: Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.",UDS
+Bubbling Beebles,,Jeff Miracola,29,Creature — Beeble,Bubbling Beebles can't be blocked as long as defending player controls an enchantment.,UDS
+Disappear,,"Edward P. Beard, Jr.",30,Enchantment — Aura,Enchant creature\n{U}: Return enchanted creature and Disappear to their owners' hands.,UDS
+Donate,,Jeff Miracola,31,Sorcery,Target player gains control of target permanent you control.,UDS
+Fatigue,,Jeff Miracola,32,Sorcery,Target player skips his or her next draw step.,UDS
+Fledgling Osprey,,Heather Hudson,33,Creature — Bird,Fledgling Osprey has flying as long as it's enchanted.,UDS
+Illuminated Wings,,Jim Nelson,34,Enchantment — Aura,"Enchant creature\nEnchanted creature has flying.
+{2}, Sacrifice Illuminated Wings: Draw a card.",UDS
+Iridescent Drake,,Jim Nelson,35,Creature — Drake,"Flying\nWhen Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to Iridescent Drake.",UDS
+Kingfisher,,"Edward P. Beard, Jr.",36,Creature — Bird,"Flying\nWhen Kingfisher dies, draw a card.",UDS
+Mental Discipline,,"Edward P. Beard, Jr.",37,Enchantment,"{1}{U}, Discard a card: Draw a card.",UDS
+Metathran Elite,,Jim Nelson,38,Creature — Metathran Soldier,Metathran Elite can't be blocked as long as it's enchanted.,UDS
+Metathran Soldier,,Paolo Parente,39,Creature — Metathran Soldier,Metathran Soldier can't be blocked.,UDS
+Opposition,,Todd Lockwood,40,Enchantment,"Tap an untapped creature you control: Tap target artifact, creature, or land.","UDS,7ED"
+Private Research,,Scott M. Fischer,41,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, you may put a page counter on Private Research.
+When enchanted creature dies, draw a card for each page counter on Private Research.",UDS
+Quash,,Don Hazeltine,42,Instant,"Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.","UDS,BOK"
+"Rayne, Academy Chancellor",,Matthew D. Wilson,43,Legendary Creature — Human Wizard,"Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card. You may draw an additional card if Rayne, Academy Chancellor is enchanted.",UDS
+Rescue,,Greg Staples,44,Instant,Return target permanent you control to its owner's hand.,UDS
+Scent of Brine,,Greg Staples,45,Instant,Reveal any number of blue cards in your hand. Counter target spell unless its controller pays {1} for each card revealed this way.,UDS
+Sigil of Sleep,,Greg & Tim Hildebrandt,46,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to a player, return target creature that player controls to its owner's hand.","UDS,DDI"
+Telepathic Spies,,Thomas M. Baxa,47,Creature — Human Wizard,"When Telepathic Spies enters the battlefield, look at target opponent's hand.","UDS,7ED"
+Temporal Adept,,Heather Hudson,48,Creature — Human Wizard,"{U}{U}{U}, {T}: Return target permanent to its owner's hand.","UDS,7ED,8ED,9ED"
+Thieving Magpie,,Una Fricker,49,Creature — Bird,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Thieving Magpie deals damage to an opponent, draw a card.","UDS,7ED,8ED,9ED,10E,DPA"
+Treachery,,Matthew D. Wilson,50,Enchantment — Aura,"Enchant creature\nWhen Treachery enters the battlefield, untap up to five lands.
+You control enchanted creature.",UDS
+Apprentice Necromancer,,Pete Venters,51,Creature — Zombie Wizard,"{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it.",UDS
+Attrition,,Scott M. Fischer,52,Enchantment,"{B}, Sacrifice a creature: Destroy target nonblack creature.","UDS,CMD"
+Body Snatcher,,Mark Zug,53,Creature — Minion,"When Body Snatcher enters the battlefield, exile it unless you discard a creature card.\nWhen Body Snatcher dies, exile Body Snatcher and return target creature card from your graveyard to the battlefield.",UDS
+Bubbling Muck,,Greg & Tim Hildebrandt,54,Sorcery,"Until end of turn, whenever a player taps a Swamp for mana, that player adds {B} to his or her mana pool (in addition to the mana the land produces).",UDS
+Carnival of Souls,,Brian Snõddy,55,Enchantment,"Whenever a creature enters the battlefield, you lose 1 life and add {B} to your mana pool.",UDS
+Chime of Night,,Pete Venters,56,Enchantment — Aura,"Enchant creature\nWhen Chime of Night is put into a graveyard from the battlefield, destroy target nonblack creature.",UDS
+Disease Carriers,,Chippy & Matthew Wilson,57,Creature — Rat,"When Disease Carriers dies, target creature gets -2/-2 until end of turn.",UDS
+Dying Wail,,Brian Snõddy,58,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, target player discards two cards.",UDS
+Encroach,,rk post,59,Sorcery,Target player reveals his or her hand. You choose a nonbasic land card from it. That player discards that card.,UDS
+Eradicate,,Kev Walker,60,Sorcery,"Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Festering Wound,,Chippy & Matthew Wilson,61,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, you may put an infection counter on Festering Wound.
+At the beginning of the upkeep of enchanted creature's controller, Festering Wound deals X damage to that player, where X is the number of infection counters on Festering Wound.",UDS
+Lurking Jackals,,Greg Staples,62,Enchantment,"When an opponent has 10 or less life, if Lurking Jackals is an enchantment, it becomes a 3/2 Hound creature.",UDS
+Nightshade Seer,,Donato Giancola,63,Creature — Human Wizard,"{2}{B}, {T}: Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.",UDS
+Phyrexian Monitor,,Carl Critchlow,64,Creature — Skeleton,{B}: Regenerate Phyrexian Monitor.,UDS
+Phyrexian Negator,,John Zeleznik,65,Creature — Horror,"Trample\nWhenever Phyrexian Negator is dealt damage, sacrifice that many permanents.","pJGP,UDS,DDE"
+Plague Dogs,,Chippy & Matthew Wilson,66,Creature — Zombie Hound,"When Plague Dogs dies, all creatures get -1/-1 until end of turn.\n{2}, Sacrifice Plague Dogs: Draw a card.",UDS
+Rapid Decay,,Chippy,67,Instant,"Exile up to three target cards from a single graveyard.\nCycling {2} ({2}, Discard this card: Draw a card.)",UDS
+Ravenous Rats,,Carl Critchlow,68,Creature — Rat,"When Ravenous Rats enters the battlefield, target opponent discards a card.","PO2,UDS,S99,INV,8ED,9ED,10E,DDD,DPA,M13,DDJ,DD3_GVL"
+Scent of Nightshade,,John Avon,69,Instant,"Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.",UDS
+Skittering Horror,,Mark Zug,70,Creature — Horror,"When you cast a creature spell, sacrifice Skittering Horror.","UDS,BTD"
+Slinking Skirge,,Ron Spencer,71,Creature — Imp,"Flying\n{2}, Sacrifice Slinking Skirge: Draw a card.",UDS
+Soul Feast,,Ray Lago,72,Sorcery,Target player loses 4 life and you gain 4 life.,"UDS,S99,7ED,8ED,9ED,10E"
+Squirming Mass,,Ron Spencer,73,Creature — Horror,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.),UDS
+Twisted Experiment,,rk post,74,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/-1.,UDS
+Yawgmoth's Bargain,,Michael Sutfin,75,Enchantment,Skip your draw step.\nPay 1 life: Draw a card.,"UDS,VMA"
+Æther Sting,,Pete Venters,76,Enchantment,"Whenever an opponent casts a creature spell, Æther Sting deals 1 damage to that player.",UDS
+Bloodshot Cyclops,,Ray Lago,77,Creature — Cyclops Giant,"{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature's power to target creature or player.","UDS,7ED,8ED"
+Cinder Seer,,Donato Giancola,78,Creature — Human Wizard,"{2}{R}, {T}: Reveal any number of red cards in your hand. Cinder Seer deals X damage to target creature or player, where X is the number of cards revealed this way.",UDS
+Colos Yearling,,Patrick Ho,79,Creature — Goat Beast,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\n{R}: Colos Yearling gets +1/+0 until end of turn.,UDS
+Covetous Dragon,,rk post,80,Creature — Dragon,"Flying\nWhen you control no artifacts, sacrifice Covetous Dragon.",UDS
+Flame Jet,,John Avon,81,Sorcery,"Flame Jet deals 3 damage to target player.\nCycling {2} ({2}, Discard this card: Draw a card.)",UDS
+Goblin Berserker,,Christopher Rush,82,Creature — Goblin Berserker,"First strike, haste",UDS
+Goblin Festival,,Jeff Laubenstein,83,Enchantment,"{2}: Goblin Festival deals 1 damage to target creature or player. Flip a coin. If you lose the flip, choose one of your opponents. That player gains control of Goblin Festival.",UDS
+Goblin Gardener,,Dan Frazier,84,Creature — Goblin,"When Goblin Gardener dies, destroy target land.","UDS,7ED"
+Goblin Marshal,,DiTerlizzi,85,Creature — Goblin Warrior,"Echo {4}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Goblin Marshal enters the battlefield or dies, put two 1/1 red Goblin creature tokens onto the battlefield.",UDS
+Goblin Masons,,DiTerlizzi,86,Creature — Goblin,"When Goblin Masons dies, destroy target Wall.",UDS
+Hulking Ogre,,Greg & Tim Hildebrandt,87,Creature — Ogre,Hulking Ogre can't block.,"UDS,S99"
+Impatience,,Mark Brill,88,Enchantment,"At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.","UDS,7ED"
+Incendiary,,Jeff Laubenstein,89,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, you may put a fuse counter on Incendiary.
+When enchanted creature dies, Incendiary deals X damage to target creature or player, where X is the number of fuse counters on Incendiary.",UDS
+Keldon Champion,,Mark Tedin,90,Creature — Human Barbarian,"Haste\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Keldon Champion enters the battlefield, it deals 3 damage to target player.","UDS,HOP,PD2"
+Keldon Vandals,,Greg Staples,91,Creature — Human Rogue,"Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Keldon Vandals enters the battlefield, destroy target artifact.",UDS
+Landslide,,Jeff Laubenstein,92,Sorcery,Sacrifice any number of Mountains. Landslide deals that much damage to target player.,UDS
+Mark of Fury,,Thomas M. Baxa,93,Enchantment — Aura,"Enchant creature\nEnchanted creature has haste.
+At the beginning of the end step, return Mark of Fury to its owner's hand.",UDS
+Reckless Abandon,,Ron Spears,94,Sorcery,"As an additional cost to cast Reckless Abandon, sacrifice a creature.\nReckless Abandon deals 4 damage to target creature or player.","UDS,DDN"
+Repercussion,,Michael Sutfin,95,Enchantment,"Whenever a creature is dealt damage, Repercussion deals that much damage to that creature's controller.",UDS
+Scent of Cinder,,Marc Fishman,96,Sorcery,"Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.","pMEI,UDS"
+Sowing Salt,,Todd Lockwood,97,Sorcery,"Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Trumpet Blast,,Carl Critchlow,98,Instant,Attacking creatures get +2/+0 until end of turn.,"UDS,M10,M13,CNS,KTK"
+Wake of Destruction,,Todd Lockwood,99,Sorcery,Destroy target land and all other lands with the same name as that land.,UDS
+Wild Colos,,Marc Fishman,100,Creature — Goat Beast,Haste,UDS
+Ancient Silverback,,Paolo Parente,101,Creature — Ape,"{G}: Regenerate Ancient Silverback. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","UDS,7ED,9ED,M15"
+Compost,,Douglas Shuler,102,Enchantment,"Whenever a black card is put into an opponent's graveyard from anywhere, you may draw a card.","UDS,7ED"
+Elvish Lookout,,Greg & Tim Hildebrandt,103,Creature — Elf,Shroud (This creature can't be the target of spells or abilities.),UDS
+Elvish Piper,,Scott M. Fischer,104,Creature — Elf Shaman,"{G}, {T}: You may put a creature card from your hand onto the battlefield.","UDS,7ED,8ED,9ED,10E,M10"
+Emperor Crocodile,,Kev Walker,105,Creature — Crocodile,"When you control no other creatures, sacrifice Emperor Crocodile.","UDS,8ED,9ED"
+Gamekeeper,,Scott Hampton,106,Creature — Elf,"When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.","UDS,CNS"
+Goliath Beetle,,Hazeltine,107,Creature — Insect,Trample,UDS
+Heart Warden,,Adam Rex,108,Creature — Elf Druid,"{T}: Add {G} to your mana pool.\n{2}, Sacrifice Heart Warden: Draw a card.",UDS
+Hunting Moa,,DiTerlizzi,109,Creature — Bird Beast,"Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature.","UDS,TSB,ARC"
+Ivy Seer,,Donato Giancola,110,Creature — Elf Wizard,"{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.",UDS
+Magnify,,Michael Sutfin,111,Instant,All creatures get +1/+1 until end of turn.,UDS
+Marker Beetles,,Ron Spencer,112,Creature — Insect,"When Marker Beetles dies, target creature gets +1/+1 until end of turn.\n{2}, Sacrifice Marker Beetles: Draw a card.",UDS
+Momentum,,Carl Critchlow,113,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, you may put a growth counter on Momentum.
+Enchanted creature gets +1/+1 for each growth counter on Momentum.",UDS
+Multani's Decree,,Eric Peterson,114,Sorcery,Destroy all enchantments. You gain 2 life for each enchantment destroyed this way.,UDS
+Pattern of Rebirth,,Mark Brill,115,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, that creature's controller may search his or her library for a creature card and put that card onto the battlefield. If that player does, he or she shuffles his or her library.",UDS
+Plated Spider,,Ron Spencer,116,Creature — Spider,Reach (This creature can block creatures with flying.),"UDS,BTD"
+Plow Under,,"Edward P. Beard, Jr.",117,Sorcery,Put two target lands on top of their owners' libraries.,"UDS,8ED"
+"Rofellos, Llanowar Emissary",,Michael Sutfin,118,Legendary Creature — Elf Druid,{T}: Add {G} to your mana pool for each Forest you control.,"UDS,VMA"
+Rofellos's Gift,,Pete Venters,119,Sorcery,Reveal any number of green cards in your hand. Return an enchantment card from your graveyard to your hand for each card revealed this way.,UDS
+Scent of Ivy,,John Avon,120,Instant,"Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.",UDS
+Splinter,,Daren Bader,121,Sorcery,"Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Taunting Elf,,Scott M. Fischer,122,Creature — Elf,All creatures able to block Taunting Elf do so.,"UDS,ONS"
+Thorn Elemental,,rk post,123,Creature — Elemental,You may have Thorn Elemental assign its combat damage as though it weren't blocked.,"UDS,S99,7ED,8ED"
+Yavimaya Elder,,Ray Lago,124,Creature — Human Druid,"When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.\n{2}, Sacrifice Yavimaya Elder: Draw a card.","UDS,DDE,CMD,VMA"
+Yavimaya Enchantress,,Matthew D. Wilson,125,Creature — Human Druid,Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.,"UDS,7ED,8ED,9ED,10E"
+Braidwood Cup,,Greg & Tim Hildebrandt,126,Artifact,{T}: You gain 1 life.,UDS
+Braidwood Sextant,,Hazeltine,127,Artifact,"{2}, {T}, Sacrifice Braidwood Sextant: Search your library for a basic land card, reveal that card, and put it into your hand. Then shuffle your library.",UDS
+Brass Secretary,,DiTerlizzi,128,Artifact Creature — Construct,"{2}, Sacrifice Brass Secretary: Draw a card.",UDS
+Caltrops,,Jeff Laubenstein,129,Artifact,"Whenever a creature attacks, Caltrops deals 1 damage to it.","UDS,7ED"
+Extruder,,Mark Tedin,130,Artifact Creature — Juggernaut,"Echo {4} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nSacrifice an artifact: Put a +1/+1 counter on target creature.",UDS
+Fodder Cannon,,DiTerlizzi,131,Artifact,"{4}, {T}, Sacrifice a creature: Fodder Cannon deals 4 damage to target creature.","UDS,8ED"
+Junk Diver,,Eric Peterson,132,Artifact Creature — Bird,"Flying\nWhen Junk Diver dies, return another target artifact card from your graveyard to your hand.","UDS,C14"
+Mantis Engine,,John Zeleznik,133,Artifact Creature — Insect,{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)\n{2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.),"UDS,10E"
+Masticore,,Paolo Parente,134,Artifact Creature — Masticore,"At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\n{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.","UDS,V10,VMA"
+Metalworker,,Hazeltine,135,Artifact Creature — Construct,{T}: Reveal any number of artifact cards in your hand. Add {2} to your mana pool for each card revealed this way.,UDS
+Powder Keg,,Dan Frazier,136,Artifact,"At the beginning of your upkeep, you may put a fuse counter on Powder Keg.\n{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.","UDS,pMPR"
+Scrying Glass,,Patrick Ho,137,Artifact,"{3}, {T}: Choose a number greater than 0 and a color. Target opponent reveals his or her hand. If that opponent reveals exactly the chosen number of cards of the chosen color, you draw a card.",UDS
+Storage Matrix,,Patrick Ho,138,Artifact,"As long as Storage Matrix is untapped, each player chooses artifact, creature, or land during his or her untap step. That player can untap only permanents of the chosen type this step.","UDS,9ED"
+Thran Dynamo,,Ron Spears,139,Artifact,{T}: Add {3} to your mana pool.,"UDS,ARC,V13,C14"
+Thran Foundry,,John Zeleznik,140,Artifact,"{1}, {T}, Exile Thran Foundry: Target player shuffles his or her graveyard into his or her library.",UDS
+Thran Golem,,Ron Spears,141,Artifact Creature — Golem,"As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample.","UDS,9ED,M12,PC2"
+Urza's Incubator,,Pete Venters,142,Artifact,"As Urza's Incubator enters the battlefield, choose a creature type.\nCreature spells of the chosen type cost {2} less to cast.","UDS,C15"
+Yavimaya Hollow,,Douglas Shuler,143,Legendary Land,"{T}: Add {1} to your mana pool.\n{G}, {T}: Regenerate target creature.","UDS,VMA"

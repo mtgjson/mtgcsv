@@ -1,0 +1,165 @@
+name,cost,artist,number,type,text,printings
+Ancestor's Chosen,,Pete Venters,1,Creature — Human Cleric,"First strike (This creature deals combat damage before creatures without first strike.)\nWhen Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.","JUD,10E"
+Aven Warcraft,,Roger Raupp,2,Instant,"Creatures you control get +0/+2 until end of turn.\nThreshold — If seven or more cards are in your graveyard, choose a color. Creatures you control also gain protection from the chosen color until end of turn.",JUD
+Battle Screech,,Randy Gallegos,3,Sorcery,Put two 1/1 white Bird creature tokens with flying onto the battlefield.\nFlashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.),"JUD,VMA"
+Battlewise Aven,,Wayne England,4,Creature — Bird Soldier,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.",JUD
+Benevolent Bodyguard,,Roger Raupp,5,Creature — Human Cleric,Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.,"JUD,VMA"
+Border Patrol,,Roger Raupp,6,Creature — Human Nomad,Vigilance,JUD
+Cagemail,,Scott M. Fischer,7,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and can't attack.,JUD
+Chastise,,Carl Critchlow,8,Instant,Destroy target attacking creature. You gain life equal to its power.,"JUD,8ED,9ED"
+Commander Eesha,,Rebecca Guay,9,Legendary Creature — Bird Soldier,"Flying, protection from creatures",JUD
+Funeral Pyre,,Carl Critchlow,10,Instant,Exile target card from a graveyard. Its owner puts a 1/1 white Spirit creature token with flying onto the battlefield.,JUD
+Glory,,Donato Giancola,11,Creature — Incarnation,Flying\n{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.,"pPRE,JUD"
+Golden Wish,,Alan Pollack,12,Sorcery,"You may choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Exile Golden Wish.",JUD
+Guided Strike,,Dave Dorman,13,Instant,Target creature gets +1/+0 and gains first strike until end of turn.\nDraw a card.,"WTH,JUD"
+Lead Astray,,Adam Rex,14,Instant,Tap up to two target creatures.,JUD
+Nomad Mythmaker,,Eric Peterson,15,Creature — Human Nomad Cleric,"{W}, {T}: Put target Aura card from a graveyard onto the battlefield under your control attached to a creature you control.","JUD,10E"
+Phantom Flock,,David Martin,16,Creature — Bird Soldier Spirit,"Flying\nPhantom Flock enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock.",JUD
+Phantom Nomad,,Jim Nelson,17,Creature — Spirit Nomad,"Phantom Nomad enters the battlefield with two +1/+1 counters on it.\nIf damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad.","JUD,VMA"
+Prismatic Strands,,Eric Peterson,18,Instant,Prevent all damage that sources of the color of your choice would deal this turn.\nFlashback—Tap an untapped white creature you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Pulsemage Advocate,,Jeff Easley,19,Creature — Human Cleric,{T}: Return three target cards from an opponent's graveyard to his or her hand. Return target creature card from your graveyard to the battlefield.,JUD
+Ray of Revelation,,Doug Chaffee,20,Instant,Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"JUD,DKA"
+Selfless Exorcist,,Christopher Moeller,21,Creature — Human Cleric,{T}: Exile target creature card from a graveyard. That card deals damage equal to its power to Selfless Exorcist.,JUD
+Shieldmage Advocate,,Christopher Moeller,22,Creature — Human Cleric,{T}: Return target card from an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.,JUD
+Silver Seraph,,Matthew D. Wilson,23,Creature — Angel,Flying\nThreshold — Other creatures you control get +2/+2 as long as seven or more cards are in your graveyard.,JUD
+Solitary Confinement,,Scott M. Fischer,24,Enchantment,"At the beginning of your upkeep, sacrifice Solitary Confinement unless you discard a card.\nSkip your draw step.
+You have shroud. (You can't be the target of spells or abilities.)
+Prevent all damage that would be dealt to you.",JUD
+Soulcatchers' Aerie,,Rob Alexander,25,Enchantment,"Whenever a Bird is put into your graveyard from the battlefield, put a feather counter on Soulcatchers' Aerie.\nBird creatures get +1/+1 for each feather counter on Soulcatchers' Aerie.",JUD
+Spirit Cairn,,Gary Ruddell,26,Enchantment,"Whenever a player discards a card, you may pay {W}. If you do, put a 1/1 white Spirit creature token with flying onto the battlefield.","JUD,VMA"
+Spurnmage Advocate,,Ron Spears,27,Creature — Human Nomad,{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target attacking creature.,"JUD,CMD"
+Suntail Hawk,,Heather Hudson,28,Creature — Bird,Flying,"JUD,8ED,9ED,10E,M14"
+Test of Endurance,,Mike Ploog,29,Enchantment,"At the beginning of your upkeep, if you have 50 or more life, you win the game.",JUD
+Trained Pronghorn,,John Matson,30,Creature — Antelope,Discard a card: Prevent all damage that would be dealt to Trained Pronghorn this turn.,JUD
+Unquestioned Authority,,Alex Horley-Orlandelli,31,Enchantment — Aura,"Enchant creature\nWhen Unquestioned Authority enters the battlefield, draw a card.
+Enchanted creature has protection from creatures.","JUD,CNS"
+Valor,,Kev Walker,32,Creature — Incarnation,"First strike\nAs long as Valor is in your graveyard and you control a Plains, creatures you control have first strike.","JUD,TSB"
+Vigilant Sentry,,Eric Peterson,33,Creature — Human Nomad,"Threshold — As long as seven or more cards are in your graveyard, Vigilant Sentry gets +1/+1 and has "{T}: Target attacking or blocking creature gets +3/+3 until end of turn."",JUD
+Aven Fogbringer,,"Edward P. Beard, Jr.",34,Creature — Bird Wizard,"Flying\nWhen Aven Fogbringer enters the battlefield, return target land to its owner's hand.",JUD
+Cephalid Constable,,Alan Pollack,35,Creature — Cephalid Wizard,"Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.","JUD,10E"
+Cephalid Inkshrouder,,Tony Szczudlo,36,Creature — Cephalid,Discard a card: Cephalid Inkshrouder gains shroud until end of turn and can't be blocked this turn. (A creature with shroud can't be the target of spells or abilities.),JUD
+Cunning Wish,,Jim Nelson,37,Instant,"You may choose an instant card you own from outside the game, reveal that card, and put it into your hand. Exile Cunning Wish.","pJGP,JUD"
+Defy Gravity,,Ben Thompson,38,Instant,Target creature gains flying until end of turn.\nFlashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Envelop,,Don Hazeltine,39,Instant,Counter target sorcery spell.,JUD
+Flash of Insight,,Ben Thompson,40,Instant,"Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.\nFlashback—{1}{U}, Exile X blue cards from your graveyard. (You may cast this card from your graveyard for its flashback cost, then exile it. You can't exile Flash of Insight to pay for its own flashback cost.)",JUD
+Grip of Amnesia,,Bradley Williams,41,Instant,Counter target spell unless its controller exiles all cards from his or her graveyard.\nDraw a card.,JUD
+Hapless Researcher,,Ron Spears,42,Creature — Human Wizard,"Sacrifice Hapless Researcher: Draw a card, then discard a card.",JUD
+Keep Watch,,Fred Rahmqvist,43,Instant,Draw a card for each attacking creature.,"JUD,HOP"
+Laquatus's Disdain,,Pete Venters,44,Instant,Counter target spell cast from a graveyard.\nDraw a card.,JUD
+Lost in Thought,,Ben Thompson,45,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated. Its controller may exile three cards from his or her graveyard for that player to ignore this effect until end of turn.",JUD
+Mental Note,,Bradley Williams,46,Instant,Put the top two cards of your library into your graveyard.\nDraw a card.,JUD
+Mirror Wall,,Mark Brill,47,Creature — Wall,Defender (This creature can't attack.)\n{W}: Mirror Wall can attack this turn as though it didn't have defender.,JUD
+Mist of Stagnation,,Mike Ploog,48,Enchantment,"Permanents don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player chooses a permanent for each card in his or her graveyard, then untaps those permanents.",JUD
+Quiet Speculation,,John Avon,49,Sorcery,Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles his or her library.,JUD
+Scalpelexis,,Mark Tedin,50,Creature — Beast,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Scalpelexis deals combat damage to a player, that player exiles the top four cards of his or her library. If two or more of those cards have the same name, repeat this process.","JUD,10E"
+Spelljack,,Pete Venters,51,Instant,"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.)",JUD
+Telekinetic Bonds,,Jim Nelson,52,Enchantment,"Whenever a player discards a card, you may pay {1}{U}. If you do, you may tap or untap target permanent.",JUD
+Web of Inertia,,Don Hazeltine,53,Enchantment,"At the beginning of combat on each opponent's turn, that player may exile a card from his or her graveyard. If the player doesn't, creatures he or she controls can't attack you this turn.",JUD
+Wonder,,Rebecca Guay,54,Creature — Incarnation,"Flying\nAs long as Wonder is in your graveyard and you control an Island, creatures you control have flying.","pFNM,JUD,CMD,C13"
+Wormfang Behemoth,,Heather Hudson,55,Creature — Nightmare Fish Beast,"When Wormfang Behemoth enters the battlefield, exile all cards from your hand.\nWhen Wormfang Behemoth leaves the battlefield, return the exiled cards to their owner's hand.",JUD
+Wormfang Crab,,Glen Angus,56,Creature — Nightmare Crab,"Wormfang Crab can't be blocked.\nWhen Wormfang Crab enters the battlefield, an opponent chooses a permanent you control other than Wormfang Crab and exiles it.
+When Wormfang Crab leaves the battlefield, return the exiled card to the battlefield under its owner's control.",JUD
+Wormfang Drake,,Thomas M. Baxa,57,Creature — Nightmare Drake,"Flying\nWhen Wormfang Drake enters the battlefield, sacrifice it unless you exile a creature you control other than Wormfang Drake.
+When Wormfang Drake leaves the battlefield, return the exiled card to the battlefield under its owner's control.",JUD
+Wormfang Manta,,Heather Hudson,58,Creature — Nightmare Fish Beast,"Flying\nWhen Wormfang Manta enters the battlefield, you skip your next turn.
+When Wormfang Manta leaves the battlefield, you take an extra turn after this one.",JUD
+Wormfang Newt,,Doug Chaffee,59,Creature — Nightmare Salamander Beast,"When Wormfang Newt enters the battlefield, exile a land you control.\nWhen Wormfang Newt leaves the battlefield, return the exiled card to the battlefield under its owner's control.",JUD
+Wormfang Turtle,,John Avon,60,Creature — Nightmare Turtle Beast,"When Wormfang Turtle enters the battlefield, exile a land you control.\nWhen Wormfang Turtle leaves the battlefield, return the exiled card to the battlefield under its owner's control.",JUD
+Balthor the Defiled,,Carl Critchlow,61,Legendary Creature — Zombie Dwarf,"Minion creatures get +1/+1.\n{B}{B}{B}, Exile Balthor the Defiled: Each player returns all black and all red creature cards from his or her graveyard to the battlefield.",JUD
+Cabal Therapy,,Ron Spencer,62,Sorcery,Name a nonland card. Target player reveals his or her hand and discards all cards with that name.\nFlashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pFNM,JUD,PD3"
+Cabal Trainee,,Pete Venters,63,Creature — Human Minion,Sacrifice Cabal Trainee: Target creature gets -2/-0 until end of turn.,JUD
+Death Wish,,Jeff Easley,64,Sorcery,"You may choose a card you own from outside the game and put it into your hand. You lose half your life, rounded up. Exile Death Wish.",JUD
+Earsplitting Rats,,Heather Hudson,65,Creature — Rat,"When Earsplitting Rats enters the battlefield, each player discards a card.\nDiscard a card: Regenerate Earsplitting Rats.",JUD
+Filth,,Thomas M. Baxa,66,Creature — Incarnation,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nAs long as Filth is in your graveyard and you control a Swamp, creatures you control have swampwalk.",JUD
+Grave Consequences,,Tim Hildebrandt,67,Instant,Each player may exile any number of cards from his or her graveyard. Then each player loses 1 life for each card in his or her graveyard.\nDraw a card.,JUD
+Guiltfeeder,,Mark Tedin,68,Creature — Horror,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.",JUD
+Masked Gorgon,,Matthew D. Wilson,69,Creature — Gorgon,Green creatures and white creatures have protection from Gorgons.\nThreshold — Masked Gorgon has protection from green and from white as long as seven or more cards are in your graveyard.,JUD
+Morality Shift,,Jerry Tiritilli,70,Sorcery,Exchange your graveyard and library. Then shuffle your library.,JUD
+Rats' Feast,,Bob Petillo,71,Sorcery,Exile X target cards from a single graveyard.,JUD
+Stitch Together,,Arnie Swekel,72,Sorcery,Return target creature card from your graveyard to your hand.\nThreshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.,"JUD,CMD"
+Sutured Ghoul,,Carl Critchlow,73,Creature — Zombie,"Trample\nAs Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.
+Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.","JUD,M12"
+Toxic Stench,,Bradley Williams,74,Instant,"Target nonblack creature gets -1/-1 until end of turn.\nThreshold — If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.",JUD
+Treacherous Vampire,,Kev Walker,75,Creature — Vampire,"Flying\nWhenever Treacherous Vampire attacks or blocks, sacrifice it unless you exile a card from your graveyard.
+Threshold — As long as seven or more cards are in your graveyard, Treacherous Vampire gets +2/+2 and has "When Treacherous Vampire dies, you lose 6 life."",JUD
+Treacherous Werewolf,,Mark Tedin,76,Creature — Werewolf Minion,"Threshold — As long as seven or more cards are in your graveyard, Treacherous Werewolf gets +2/+2 and has "When Treacherous Werewolf dies, you lose 4 life."",JUD
+Anger,,John Avon,77,Creature — Incarnation,"Haste\nAs long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.","JUD,CMD,DDI"
+Arcane Teachings,,Mark Brill,78,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature gets +2/+2 and has "{T}: This creature deals 1 damage to target creature or player.","JUD,10E"
+Barbarian Bully,,Mike Ploog,79,Creature — Human Barbarian,Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Activate this ability only once each turn.,JUD
+Book Burning,,Dave Dorman,80,Sorcery,"Any player may have Book Burning deal 6 damage to him or her. If no one does, target player puts the top six cards of his or her library into his or her graveyard.",JUD
+Breaking Point,,Matthew D. Wilson,81,Sorcery,"Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures. Creatures destroyed this way can't be regenerated.","JUD,DDK"
+Browbeat,,Mark Tedin,82,Sorcery,"Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.","pFNM,JUD,TSB,HOP,PD2,DDK"
+Burning Wish,,Scott M. Fischer,83,Sorcery,"You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.","pJGP,JUD,VMA"
+Dwarven Bloodboiler,,Arnie Swekel,84,Creature — Dwarf,Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.,JUD
+Dwarven Driller,,"Edward P. Beard, Jr.",85,Creature — Dwarf,{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.,JUD
+Dwarven Scorcher,,Thomas M. Baxa,86,Creature — Dwarf,Sacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.,JUD
+Ember Shot,,Alan Pollack,87,Instant,Ember Shot deals 3 damage to target creature or player.\nDraw a card.,JUD
+Firecat Blitz,,David Martin,88,Sorcery,"Put X 1/1 red Elemental Cat creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.\nFlashback—{R}{R}, Sacrifice X Mountains. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",JUD
+Flaring Pain,,Glen Angus,89,Instant,Damage can't be prevented this turn.\nFlashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Fledgling Dragon,,Greg Staples,90,Creature — Dragon,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Fledgling Dragon gets +3/+3 and has "{R}: Fledgling Dragon gets +1/+0 until end of turn."",JUD
+Goretusk Firebeast,,Keith Garletts,91,Creature — Elemental Boar Beast,"When Goretusk Firebeast enters the battlefield, it deals 4 damage to target player.",JUD
+Infectious Rage,,Christopher Moeller,92,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/-1.
+When enchanted creature dies, choose a creature at random Infectious Rage can enchant. Return Infectious Rage to the battlefield attached to that creature.",JUD
+"Jeska, Warrior Adept",,rk post,93,Legendary Creature — Human Barbarian Warrior,"First strike, haste\n{T}: Jeska, Warrior Adept deals 1 damage to target creature or player.",JUD
+Lava Dart,,Darrell Riche,94,Instant,Lava Dart deals 1 damage to target creature or player.\nFlashback—Sacrifice a Mountain. (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Liberated Dwarf,,Greg Hildebrandt,95,Creature — Dwarf,"{R}, Sacrifice Liberated Dwarf: Target green creature gets +1/+0 and gains first strike until end of turn.",JUD
+Lightning Surge,,Ron Spears,96,Sorcery,"Lightning Surge deals 4 damage to target creature or player.\nThreshold — If seven or more cards are in your graveyard, instead Lightning Surge deals 6 damage to that creature or player and the damage can't be prevented.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",JUD
+Planar Chaos,,Ron Spencer,97,Enchantment,"At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice Planar Chaos.\nWhenever a player casts a spell, that player flips a coin. If he or she loses the flip, counter that spell.",JUD
+Shaman's Trance,,Greg Hildebrandt,98,Instant,"Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.",JUD
+Soulgorger Orgg,,John Matson,99,Creature — Nightmare Orgg,"Trample\nWhen Soulgorger Orgg enters the battlefield, you lose all but 1 life.
+When Soulgorger Orgg leaves the battlefield, you gain life equal to the life you lost when it entered the battlefield.",JUD
+Spellgorger Barbarian,,Mark Romanoski,100,Creature — Human Nightmare Barbarian,"When Spellgorger Barbarian enters the battlefield, discard a card at random.\nWhen Spellgorger Barbarian leaves the battlefield, draw a card.",JUD
+Swelter,,Ben Thompson,101,Sorcery,Swelter deals 2 damage to each of two target creatures.,JUD
+Swirling Sandstorm,,Tony Szczudlo,102,Sorcery,Threshold — Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.,JUD
+Worldgorger Dragon,,Wayne England,103,Creature — Nightmare Dragon,"Flying, trample\nWhen Worldgorger Dragon enters the battlefield, exile all other permanents you control.
+When Worldgorger Dragon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.","JUD,VMA"
+Anurid Barkripper,,Randy Gallegos,104,Creature — Frog Beast,Threshold — Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.,JUD
+Anurid Swarmsnapper,,John Matson,105,Creature — Frog Beast,Reach (This creature can block creatures with flying.)\n{1}{G}: Anurid Swarmsnapper can block an additional creature this turn.,JUD
+Battlefield Scrounger,,Daren Bader,106,Creature — Centaur,"Threshold — Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn, and only if seven or more cards are in your graveyard.",JUD
+Brawn,,Matt Cavotta,107,Creature — Incarnation,"Trample\nAs long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.","JUD,CMD"
+Canopy Claws,,Matthew Mitchell,108,Instant,Target creature loses flying until end of turn.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Centaur Rootcaster,,Eric Peterson,109,Creature — Centaur Druid,"Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.",JUD
+Crush of Wurms,,Christopher Moeller,110,Sorcery,Put three 6/6 green Wurm creature tokens onto the battlefield.\nFlashback {9}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Elephant Guide,,Jim Nelson,111,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.","JUD,DDD,CNS,VMA,DD3_GVL"
+Epic Struggle,,Greg & Tim Hildebrandt,112,Enchantment,"At the beginning of your upkeep, if you control twenty or more creatures, you win the game.",JUD
+Erhnam Djinn,,Greg Staples,113,Creature — Djinn,"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can't be blocked as long as defending player controls a Forest.)","ARN,CHR,ATH,BTD,JUD,VMA"
+Exoskeletal Armor,,Wayne England,114,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.",JUD
+Folk Medicine,,Matt Cavotta,115,Instant,You gain 1 life for each creature you control.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Forcemage Advocate,,Darrell Riche,116,Creature — Centaur Shaman,{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.,JUD
+Genesis,,Mark Zug,117,Creature — Incarnation,"At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.","pJGP,JUD,VMA"
+Giant Warthog,,Kev Walker,118,Creature — Boar Beast,Trample,JUD
+Grizzly Fate,,Dave Dorman,119,Sorcery,Put two 2/2 green Bear creature tokens onto the battlefield.\nThreshold — Put four 2/2 green Bear creature tokens onto the battlefield instead if seven or more cards are in your graveyard.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"JUD,VMA"
+Harvester Druid,,David Martin,120,Creature — Human Druid,{T}: Add to your mana pool one mana of any color that a land you control could produce.,JUD
+Ironshell Beetle,,Heather Hudson,121,Creature — Insect,"When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.",JUD
+Krosan Reclamation,,Gary Ruddell,122,Instant,Target player shuffles up to two target cards from his or her graveyard into his or her library.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),JUD
+Krosan Wayfarer,,"Edward P. Beard, Jr.",123,Creature — Human Druid,Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.,JUD
+Living Wish,,Eric Peterson,124,Sorcery,"You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.","pJGP,JUD"
+Nantuko Tracer,,Greg Staples,125,Creature — Insect Druid,"When Nantuko Tracer enters the battlefield, you may put target card from a graveyard on the bottom of its owner's library.",JUD
+Nullmage Advocate,,Darrell Riche,126,Creature — Insect Druid,{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.,"JUD,PC2"
+Phantom Centaur,,Carl Critchlow,127,Creature — Centaur Spirit,"Protection from black\nPhantom Centaur enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.",JUD
+Phantom Nantuko,,Wayne England,128,Creature — Insect Spirit,"Trample\nPhantom Nantuko enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko.
+{T}: Put a +1/+1 counter on Phantom Nantuko.","JUD,C13"
+Phantom Tiger,,Brian Snõddy,129,Creature — Cat Spirit,"Phantom Tiger enters the battlefield with two +1/+1 counters on it.\nIf damage would be dealt to Phantom Tiger, prevent that damage. Remove a +1/+1 counter from Phantom Tiger.",JUD
+Seedtime,,Rebecca Guay,130,Instant,Cast Seedtime only during your turn.\nTake an extra turn after this one if an opponent cast a blue spell this turn.,JUD
+Serene Sunset,,David Martin,131,Instant,Prevent all combat damage X target creatures would deal this turn.,JUD
+Sudden Strength,,Alan Pollack,132,Instant,Target creature gets +3/+3 until end of turn.\nDraw a card.,"JUD,VMA"
+Sylvan Safekeeper,,Pete Venters,133,Creature — Human Wizard,Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.),"JUD,C14"
+"Thriss, Nantuko Primus",,John Avon,134,Legendary Creature — Insect Druid,"{G}, {T}: Target creature gets +5/+5 until end of turn.",JUD
+Tunneler Wurm,,Jeff Easley,135,Creature — Wurm,Discard a card: Regenerate Tunneler Wurm.,JUD
+Venomous Vines,,Ron Spencer,136,Sorcery,Destroy target enchanted permanent.,JUD
+Anurid Brushhopper,,Arnie Swekel,137,Creature — Frog Beast,Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.,JUD
+Hunting Grounds,,Mark Brill,138,Enchantment,"Threshold — As long as seven or more cards are in your graveyard, Hunting Grounds has "Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield."",JUD
+Mirari's Wake,,David Martin,139,Enchantment,"Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.","JUD,pPRO,CM1,CNS"
+Phantom Nishoba,,Arnie Swekel,140,Creature — Cat Beast Spirit,"Trample\nPhantom Nishoba enters the battlefield with seven +1/+1 counters on it.
+Whenever Phantom Nishoba deals damage, you gain that much life.
+If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.",JUD
+Krosan Verge,,Tony Szczudlo,141,Land,"Krosan Verge enters the battlefield tapped.\n{T}: Add {1} to your mana pool.
+{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.","JUD,ARC,PC2"
+Nantuko Monastery,,Rob Alexander,142,Land,{T}: Add {1} to your mana pool.\nThreshold — {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.,"JUD,ARC"
+Riftstone Portal,,Don Hazeltine,143,Land,"{T}: Add {1} to your mana pool.\nAs long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."",JUD

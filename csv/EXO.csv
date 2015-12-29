@@ -1,0 +1,158 @@
+name,cost,artist,number,type,text,printings
+Allay,,Randy Gallegos,1,Instant,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nDestroy target enchantment.",EXO
+Angelic Blessing,,Mark Zug,2,Sorcery,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),"POR,PO2,EXO,S99,S00,9ED,10E,TPR"
+Cataclysm,,Jim Nelson,3,Sorcery,"Each player chooses from among the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.","EXO,V14,TPR"
+Charging Paladin,,Ciruelo,4,Creature — Human Knight,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.","POR,EXO,S99,DDC,DD3_DVD,TPR"
+Convalescence,,D. Alexander Gregory,5,Enchantment,"At the beginning of your upkeep, if you have 10 or less life, you gain 1 life.",EXO
+Exalted Dragon,,Matthew D. Wilson,6,Creature — Dragon,Flying\nExalted Dragon can't attack unless you sacrifice a land. (This cost is paid as attackers are declared.),"EXO,TPR"
+High Ground,,rk post,7,Enchantment,Each creature you control can block an additional creature.,"EXO,10E"
+Keeper of the Light,,D. Alexander Gregory,8,Creature — Human Wizard,"{W}, {T}: Choose target opponent who had more life than you did as you activated this ability. You gain 3 life.",EXO
+Kor Chant,,John Matson,9,Instant,All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.,"EXO,CNS,TPR"
+Limited Resources,,Keith Parkinson,10,Enchantment,"When Limited Resources enters the battlefield, each player chooses five lands he or she controls and sacrifices the rest.\nPlayers can't play lands as long as ten or more lands are on the battlefield.",EXO
+Oath of Lieges,,Mark Zug,11,Enchantment,"At the beginning of each player's upkeep, that player chooses target player who controls more lands than he or she does and is his or her opponent. The first player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.",EXO
+Paladin en-Vec,,Randy Elliott,12,Creature — Human Knight,"First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)","EXO,9ED,10E,TPR"
+Peace of Mind,,Randy Elliott,13,Enchantment,"{W}, Discard a card: You gain 3 life.","EXO,9ED"
+Pegasus Stampede,,Mark Zug,14,Sorcery,"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nPut a 1/1 white Pegasus creature token with flying onto the battlefield.","EXO,ATH,TPR"
+Penance,,Terese Nielsen,15,Enchantment,"Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage this turn, prevent that damage.",EXO
+Reaping the Rewards,,Heather Hudson,16,Instant,"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nYou gain 2 life.",EXO
+Reconnaissance,,Val Mayerik,17,Enchantment,{0}: Remove target attacking creature you control from combat and untap it.,EXO
+Shackles,,Heather Hudson,18,Enchantment — Aura,Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+{W}: Return Shackles to its owner's hand.,"EXO,INV,TPR"
+Shield Mate,,Randy Elliott,19,Creature — Human Soldier,Sacrifice Shield Mate: Target creature gets +0/+4 until end of turn.,EXO
+Soltari Visionary,,Adam Rex,20,Creature — Soltari Cleric,"Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.",EXO
+Soul Warden,,Randy Gallegos,21,Creature — Human Cleric,"Whenever another creature enters the battlefield, you gain 1 life.","EXO,BRB,9ED,10E,M10,HOP,MD1"
+Standing Troops,,Daren Bader,22,Creature — Human Soldier,Vigilance,"EXO,6ED,7ED,8ED,DDO,TPR"
+Treasure Hunter,,Adam Rex,23,Creature — Human,"When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.","EXO,10E"
+Wall of Nets,,Terese Nielsen,24,Creature — Wall,"Defender (This creature can't attack.)\nAt end of combat, exile all creatures blocked by Wall of Nets.
+When Wall of Nets leaves the battlefield, return all cards exiled with Wall of Nets to the battlefield under their owners' control.",EXO
+Welkin Hawk,,Rob Alexander,25,Creature — Bird,"Flying\nWhen Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.",EXO
+Zealots en-Dal,,Brom,26,Creature — Human Soldier,"At the beginning of your upkeep, if all nonland permanents you control are white, you gain 1 life.",EXO
+Æther Tide,,Andrew Robinson,27,Sorcery,"As an additional cost to cast Æther Tide, discard X creature cards.\nReturn X target creatures to their owners' hands.",EXO
+Cunning,,Kev Walker,28,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+When enchanted creature attacks or blocks, sacrifice Cunning at the beginning of the next cleanup step.",EXO
+Curiosity,,Val Mayerik,29,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to an opponent, you may draw a card.","EXO,8ED,ISD,TPR"
+Dominating Licid,,Heather Hudson,30,Creature — Licid,"{1}{U}{U}, {T}: Dominating Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect.\nYou control enchanted creature.",EXO
+Ephemeron,,Keith Parkinson,31,Creature — Illusion,Flying\nDiscard a card: Return Ephemeron to its owner's hand.,"EXO,VMA,TPR"
+Equilibrium,,Jeff Miracola,32,Enchantment,"Whenever you cast a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.","EXO,7ED"
+"Ertai, Wizard Adept",,Terese Nielsen,33,Legendary Creature — Human Wizard,"{2}{U}{U}, {T}: Counter target spell.",EXO
+Fade Away,,Jeff Miracola,34,Sorcery,"For each creature, its controller sacrifices a permanent unless he or she pays {1}.",EXO
+Forbid,,Scott Kirschner,35,Instant,"Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nCounter target spell.","EXO,pFNM,TPR"
+Keeper of the Mind,,Matthew D. Wilson,36,Creature — Human Wizard,"{U}, {T}: Choose target opponent who had at least two more cards in hand than you did as you activated this ability. Draw a card.",EXO
+Killer Whale,,Stephen Daniele,37,Creature — Whale,{U}: Killer Whale gains flying until end of turn.,"EXO,BTD,VMA,TPR"
+Mana Breach,,Rebecca Guay,38,Enchantment,"Whenever a player casts a spell, that player returns a land he or she controls to its owner's hand.","EXO,7ED"
+Merfolk Looter,,Ron Spencer,39,Creature — Merfolk Rogue,"{T}: Draw a card, then discard a card.","EXO,7ED,10E,M10,M12,TPR"
+Mind Over Matter,,Keith Parkinson,40,Enchantment,"Discard a card: You may tap or untap target artifact, creature, or land.",EXO
+Mirozel,,Jim Nelson,41,Creature — Illusion,"Flying\nWhen Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand.",EXO
+Oath of Scholars,,Michael Sutfin,42,Enchantment,"At the beginning of each player's upkeep, that player chooses target player who has more cards in hand than he or she does and is his or her opponent. The first player may discard his or her hand and draw three cards.",EXO
+Robe of Mirrors,,John Matson,43,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature has shroud. (It can't be the target of spells or abilities.),"EXO,10E"
+Rootwater Mystic,,Michael Sutfin,44,Creature — Merfolk Wizard,{1}{U}: Look at the top card of target player's library.,EXO
+School of Piranha,,Daren Bader,45,Creature — Fish,"At the beginning of your upkeep, sacrifice School of Piranha unless you pay {1}{U}.",EXO
+Scrivener,,Heather Hudson,46,Creature — Human Wizard,"When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.","EXO,ODY,VMA,TPR"
+Thalakos Drifters,,Andrew Robinson,47,Creature — Thalakos,Discard a card: Thalakos Drifters gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.),"EXO,VMA,TPR"
+Thalakos Scout,,Daren Bader,48,Creature — Thalakos Soldier Scout,Shadow (This creature can block or be blocked by only creatures with shadow.)\nDiscard a card: Return Thalakos Scout to its owner's hand.,"EXO,TPR"
+Theft of Dreams,,Richard Kane Ferguson,49,Sorcery,Draw a card for each tapped creature target opponent controls.,"POR,PO2,EXO,ME4"
+Treasure Trove,,Michael Sutfin,50,Enchantment,{2}{U}{U}: Draw a card.,"EXO,7ED,8ED,9ED"
+Wayward Soul,,DiTerlizzi,51,Creature — Spirit,Flying\n{U}: Put Wayward Soul on top of its owner's library.,"EXO,BTD,TPR"
+Whiptongue Frog,,Jeff Miracola,52,Creature — Frog,{U}: Whiptongue Frog gains flying until end of turn.,EXO
+Carnophage,,Pete Venters,53,Creature — Zombie,"At the beginning of your upkeep, tap Carnophage unless you pay 1 life.","EXO,pFNM,VMA,TPR"
+Cat Burglar,,DiTerlizzi,54,Creature — Kor Rogue Minion,"{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",EXO
+Culling the Weak,,Scott M. Fischer,55,Instant,"As an additional cost to cast Culling the Weak, sacrifice a creature.\nAdd {B}{B}{B}{B} to your mana pool.",EXO
+Cursed Flesh,,Ron Spencer,56,Enchantment — Aura,Enchant creature\nEnchanted creature gets -1/-1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.),"EXO,INV,TPR"
+Dauthi Cutthroat,,Dermot Power,57,Creature — Dauthi Minion,"Shadow (This creature can block or be blocked by only creatures with shadow.)\n{1}{B}, {T}: Destroy target creature with shadow.",EXO
+Dauthi Jackal,,Adam Rex,58,Creature — Dauthi Hound,"Shadow (This creature can block or be blocked by only creatures with shadow.)\n{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.","EXO,TPR"
+Dauthi Warlord,,Kev Walker,59,Creature — Dauthi Soldier,Shadow (This creature can block or be blocked by only creatures with shadow.)\nDauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.,"EXO,TPR"
+Death's Duet,,Keith Parkinson,60,Sorcery,Return two target creature cards from your graveyard to your hand.,"EXO,TPR"
+Entropic Specter,,Ron Spencer,61,Creature — Specter Spirit,"Flying\nAs Entropic Specter enters the battlefield, choose an opponent.
+Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand.
+Whenever Entropic Specter deals damage to a player, that player discards a card.",EXO
+Fugue,,Randy Gallegos,62,Sorcery,Target player discards three cards.,"EXO,7ED,TPR"
+Grollub,,Chippy,63,Creature — Beast,"Whenever Grollub is dealt damage, each opponent gains that much life.",EXO
+Hatred,,Brom,64,Instant,"As an additional cost to cast Hatred, pay X life.\nTarget creature gets +X/+0 until end of turn.",EXO
+Keeper of the Dead,,Brom,65,Creature — Human Wizard,"{B}, {T}: Choose target opponent who had at least two fewer creature cards in his or her graveyard than you did as you activated this ability. Destroy target nonblack creature he or she controls.",EXO
+Mind Maggots,,Ron Spencer,66,Creature — Insect,"When Mind Maggots enters the battlefield, discard any number of creature cards. For each card discarded this way, put two +1/+1 counters on Mind Maggots.",EXO
+Nausea,,Jeff Miracola,67,Sorcery,All creatures get -1/-1 until end of turn.,"EXO,7ED,8ED"
+Necrologia,,Brom,68,Instant,"Cast Necrologia only during your end step.\nAs an additional cost to cast Necrologia, pay X life.
+Draw X cards.","EXO,7ED,TPR"
+Oath of Ghouls,,Brom,69,Enchantment,"At the beginning of each player's upkeep, that player chooses target player whose graveyard has fewer creature cards in it than his or her graveyard does and is his or her opponent. The first player may return a creature card from his or her graveyard to his or her hand.",EXO
+Pit Spawn,,Thomas M. Baxa,70,Creature — Demon,"First strike\nAt the beginning of your upkeep, sacrifice Pit Spawn unless you pay {B}{B}.
+Whenever Pit Spawn deals damage to a creature, exile that creature.",EXO
+Plaguebearer,,Ron Spencer,71,Creature — Zombie,{X}{X}{B}: Destroy target nonblack creature with converted mana cost X.,EXO
+Recurring Nightmare,,Jeff Laubenstein,72,Enchantment,"Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.","EXO,VMA,TPR"
+Scare Tactics,,DiTerlizzi,73,Instant,Creatures you control get +1/+0 until end of turn.,EXO
+Slaughter,,Pete Venters,74,Instant,"Buyback—Pay 4 life. (You may pay 4 life in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nDestroy target nonblack creature. It can't be regenerated.",EXO
+Spike Cannibal,,Joel Biske,75,Creature — Spike,"Spike Cannibal enters the battlefield with a +1/+1 counter on it.\nWhen Spike Cannibal enters the battlefield, move all +1/+1 counters from all creatures onto it.",EXO
+Thrull Surgeon,,rk post,76,Creature — Thrull,"{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.","EXO,10E,TPR"
+Vampire Hounds,,Kev Walker,77,Creature — Vampire Hound,Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.,"EXO,TPR"
+Volrath's Dungeon,,Stephen Daniele,78,Enchantment,Pay 5 life: Destroy Volrath's Dungeon. Any player may activate this ability but only during his or her turn.\nDiscard a card: Target player puts a card from his or her hand on top of his or her library. Activate this ability only any time you could cast a sorcery.,EXO
+Anarchist,,Brom,79,Creature — Human Wizard,"When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.","EXO,ODY,9ED,TPR"
+Cinder Crawler,,Jim Nelson,80,Creature — Salamander,{R}: Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked.,EXO
+Dizzying Gaze,,Thomas M. Baxa,81,Enchantment — Aura,Enchant creature you control\n{R}: Enchanted creature deals 1 damage to target creature with flying.,EXO
+Fighting Chance,,Mike Raabe,82,Instant,"For each blocking creature, flip a coin. If you win the flip, prevent all combat damage that would be dealt by that creature this turn.",EXO
+Flowstone Flood,,Paolo Parente,83,Sorcery,"Buyback—Pay 3 life, Discard a card at random. (You may pay 3 life and discard a card at random in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nDestroy target land.",EXO
+Furnace Brood,,Jeff Miracola,84,Creature — Elemental,{R}: Target creature can't be regenerated this turn.,"EXO,TPR"
+Keeper of the Flame,,Terese Nielsen,85,Creature — Human Wizard,"{R}, {T}: Choose target opponent who had more life than you did as you activated this ability. Keeper of the Flame deals 2 damage to him or her.",EXO
+Mage il-Vec,,John Matson,86,Creature — Human Wizard,"{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.","EXO,TPR"
+Maniacal Rage,,Pete Venters,87,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and can't block.,"EXO,BRB,INV,CON,TPR"
+Mogg Assassin,,Dermot Power,88,Creature — Goblin Assassin,"{T}: You choose target creature an opponent controls, and that opponent chooses target creature. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.",EXO
+Monstrous Hound,,Dermot Power,89,Creature — Hound,Monstrous Hound can't attack unless you control more lands than defending player.\nMonstrous Hound can't block unless you control more lands than attacking player.,"pPRE,EXO"
+Oath of Mages,,Keith Parkinson,90,Enchantment,"At the beginning of each player's upkeep, that player chooses target player who has more life than he or she does and is his or her opponent. The first player may have Oath of Mages deal 1 damage to the second player.",EXO
+Ogre Shaman,,Paolo Parente,91,Creature — Ogre Shaman,"{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.","EXO,TPR"
+Onslaught,,Paolo Parente,92,Enchantment,"Whenever you cast a creature spell, tap target creature.",EXO
+Pandemonium,,Pete Venters,93,Enchantment,"Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.","EXO,TSB,TPR"
+Paroxysm,,Scott Kirschner,94,Enchantment — Aura,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, that player reveals the top card of his or her library. If that card is a land card, destroy that creature. Otherwise, it gets +3/+3 until end of turn.",EXO
+Price of Progress,,Richard Kane Ferguson,95,Instant,Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.,"EXO,PD2"
+Raging Goblin,,Brian Snõddy,96,Creature — Goblin Berserker,Haste (This creature can attack and {T} as soon as it comes under your control.),"POR,PO2,EXO,ATH,6ED,S99,BRB,BTD,7ED,8ED,9ED,10E,EVG,M10,DD3_EVG"
+Ravenous Baboons,,Daren Bader,97,Creature — Ape,"When Ravenous Baboons enters the battlefield, destroy target nonbasic land.",EXO
+Reckless Ogre,,Paolo Parente,98,Creature — Ogre,"Whenever Reckless Ogre attacks alone, it gets +3/+0 until end of turn.",EXO
+Sabertooth Wyvern,,Keith Parkinson,99,Creature — Drake,"Flying, first strike","EXO,TPR"
+Scalding Salamander,,Terese Nielsen,100,Creature — Salamander,"Whenever Scalding Salamander attacks, you may have it deal 1 damage to each creature without flying defending player controls.",EXO
+Seismic Assault,,Dermot Power,101,Enchantment,Discard a land card: Seismic Assault deals 2 damage to target creature or player.,"EXO,7ED,8ED,10E"
+Shattering Pulse,,Donato Giancola,102,Instant,"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nDestroy target artifact.",EXO
+Sonic Burst,,Brian Snõddy,103,Instant,"As an additional cost to cast Sonic Burst, discard a card at random.\nSonic Burst deals 4 damage to target creature or player.","EXO,BTD"
+Spellshock,,Thomas M. Baxa,104,Enchantment,"Whenever a player casts a spell, Spellshock deals 2 damage to that player.","EXO,TPR"
+Avenging Druid,,Daren Bader,105,Creature — Human Druid,"Whenever Avenging Druid deals damage to an opponent, you may reveal cards from the top of your library until you reveal a land card. If you do, put that card onto the battlefield and put all other cards revealed this way into your graveyard.",EXO
+Bequeathal,,D. Alexander Gregory,106,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, you draw two cards.",EXO
+Cartographer,,Jeff Laubenstein,107,Creature — Human,"When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.","EXO,ODY"
+Crashing Boars,,Ron Spencer,108,Creature — Boar,"Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.","EXO,BTD,TPR"
+Elven Palisade,,Mark Zug,109,Enchantment,Sacrifice a Forest: Target attacking creature gets -3/-0 until end of turn.,EXO
+Elvish Berserker,,Paolo Parente,110,Creature — Elf Berserker,"Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.","EXO,9ED,10E"
+Jackalope Herd,,Ron Spencer,111,Creature — Rabbit Beast,"When you cast a spell, return Jackalope Herd to its owner's hand.",EXO
+Keeper of the Beasts,,rk post,112,Creature — Human Wizard,"{G}, {T}: Choose target opponent who controlled more creatures than you did as you activated this ability. Put a 2/2 green Beast creature token onto the battlefield.",EXO
+Manabond,,Stephen Daniele,113,Enchantment,"At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.","EXO,TPR"
+"Mirri, Cat Warrior",,Daren Bader,114,Legendary Creature — Cat Warrior,"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)","EXO,ATH,10E,TPR"
+Oath of Druids,,Daren Bader,115,Enchantment,"At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.","pJGP,EXO,VMA,TPR"
+Plated Rootwalla,,Randy Elliott,116,Creature — Lizard,{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.,"EXO,BRB"
+Predatory Hunger,,Brom,117,Enchantment — Aura,"Enchant creature\nWhenever an opponent casts a creature spell, put a +1/+1 counter on enchanted creature.",EXO
+Pygmy Troll,,Daniel Gelon,118,Creature — Troll,"Whenever Pygmy Troll becomes blocked by a creature, Pygmy Troll gets +1/+1 until end of turn.\n{G}: Regenerate Pygmy Troll.",EXO
+Rabid Wolverines,,Daren Bader,119,Creature — Wolverine,"Whenever Rabid Wolverines becomes blocked by a creature, Rabid Wolverines gets +1/+1 until end of turn.",EXO
+Reclaim,,Andrew Robinson,120,Instant,Put target card from your graveyard on top of your library.,"EXO,7ED,9ED,M12,ORI"
+Resuscitate,,Rebecca Guay,121,Instant,"Until end of turn, creatures you control gain "{1}: Regenerate this creature."",EXO
+Rootwater Alligator,,Stephen Daniele,122,Creature — Crocodile,Sacrifice a Forest: Regenerate Rootwater Alligator.,EXO
+Skyshroud Elite,,Paolo Parente,123,Creature — Elf,Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.,"EXO,BRB"
+Skyshroud War Beast,,Jim Nelson,124,Creature — Beast,"Trample\nAs Skyshroud War Beast enters the battlefield, choose an opponent.
+Skyshroud War Beast's power and toughness are each equal to the number of nonbasic lands the chosen player controls.",EXO
+Song of Serenity,,DiTerlizzi,125,Enchantment,Creatures that are enchanted can't attack or block.,EXO
+Spike Hatcher,,Stephen Daniele,126,Creature — Spike,"Spike Hatcher enters the battlefield with six +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.","EXO,TPR"
+Spike Rogue,,Heather Hudson,127,Creature — Spike,"Spike Rogue enters the battlefield with two +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Rogue: Put a +1/+1 counter on target creature.
+{2}, Remove a +1/+1 counter from a creature you control: Put a +1/+1 counter on Spike Rogue.",EXO
+Spike Weaver,,Mike Raabe,128,Creature — Spike,"Spike Weaver enters the battlefield with three +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.","EXO,BRB"
+Survival of the Fittest,,Pete Venters,129,Enchantment,"{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.","pJGP,EXO,VMA,TPR"
+Wood Elves,,Rebecca Guay,130,Creature — Elf Scout,"When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.","POR,EXO,S99,7ED,8ED,9ED,pGTW,EVG,C14,DD3_EVG,C15"
+Coat of Arms,,Scott M. Fischer,131,Artifact,"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)","EXO,7ED,8ED,9ED,10E,M10,H09,DPA,TPR"
+Erratic Portal,,John Matson,132,Artifact,"{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.","EXO,TPR"
+Medicine Bag,,DiTerlizzi,133,Artifact,"{1}, {T}, Discard a card: Regenerate target creature.",EXO
+Memory Crystal,,Michael Sutfin,134,Artifact,Buyback costs cost {2} less.,EXO
+Mindless Automaton,,Brian Snõddy,135,Artifact Creature — Construct,"Mindless Automaton enters the battlefield with two +1/+1 counters on it.\n{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton.
+Remove two +1/+1 counters from Mindless Automaton: Draw a card.","EXO,TSB,TPR"
+Null Brooch,,DiTerlizzi,136,Artifact,"{2}, {T}, Discard your hand: Counter target noncreature spell.",EXO
+Skyshaper,,Donato Giancola,137,Artifact,Sacrifice Skyshaper: Creatures you control gain flying until end of turn.,"EXO,TPR"
+Spellbook,,Ciruelo,138,Artifact,You have no maximum hand size.,"EXO,7ED,8ED,9ED,10E,M10"
+Sphere of Resistance,,Doug Chaffee,139,Artifact,Spells cost {1} more to cast.,"EXO,VMA"
+Thopter Squadron,,Doug Chaffee,140,Artifact Creature — Thopter,"Flying\nThopter Squadron enters the battlefield with three +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.
+{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.","EXO,VMA,TPR"
+Transmogrifying Licid,,Jim Nelson,141,Artifact Creature — Licid,"{1}, {T}: Transmogrifying Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {1} to end this effect.\nEnchanted creature gets +1/+1 and is an artifact in addition to its other types.",EXO
+Workhorse,,DiTerlizzi,142,Artifact Creature — Horse,Workhorse enters the battlefield with four +1/+1 counters on it.\nRemove a +1/+1 counter from Workhorse: Add {1} to your mana pool.,EXO
+City of Traitors,,Kev Walker,143,Land,"When you play another land, sacrifice City of Traitors.\n{T}: Add {2} to your mana pool.","EXO,TPR"

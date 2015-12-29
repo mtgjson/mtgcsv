@@ -1,0 +1,373 @@
+name,cost,artist,number,type,text,printings
+Aegis of Honor,,Ron Spears,1,Enchantment,"{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.",ODY
+Ancestral Tribute,,"Edward P. Beard, Jr.",2,Sorcery,You gain 2 life for each card in your graveyard.\nFlashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Angelic Wall,,John Avon,3,Creature — Wall,Defender (This creature can't attack.)\nFlying,"PO2,ODY,10E,AVR,M14"
+Animal Boneyard,,"Edward P. Beard, Jr.",4,Enchantment — Aura,"Enchant land\nEnchanted land has "{T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness."",ODY
+Auramancer,,Rebecca Guay,5,Creature — Human Wizard,"When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.","ODY,pWPN,M12,PC2,M14,DDL,ORI"
+Aven Archer,,Mark Zug,6,Creature — Bird Soldier Archer,"Flying\n{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.",ODY
+Aven Cloudchaser,,Justin Sweet,7,Creature — Bird Soldier,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aven Cloudchaser enters the battlefield, destroy target enchantment.","ODY,8ED,9ED,10E"
+Aven Flock,,Greg & Tim Hildebrandt,8,Creature — Bird Soldier,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{W}: Aven Flock gets +0/+1 until end of turn.,"ODY,8ED,9ED"
+Aven Shrine,,Wayne England,9,Enchantment,"Whenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell.",ODY
+Balancing Act,,Scott M. Fischer,10,Sorcery,"Each player chooses a number of permanents he or she controls equal to the number of permanents controlled by the player who controls the fewest, then sacrifices the rest. Each player discards cards the same way.",ODY
+Beloved Chaplain,,Darrell Riche,11,Creature — Human Cleric,Protection from creatures,ODY
+Blessed Orator,,Terese Nielsen,12,Creature — Human Cleric,Other creatures you control get +0/+1.,"ODY,9ED"
+Cantivore,,Daren Bader,13,Creature — Lhurgoyf,Vigilance\nCantivore's power and toughness are each equal to the number of enchantment cards in all graveyards.,ODY
+Cease-Fire,,Darrell Riche,14,Instant,Target player can't cast creature spells this turn.\nDraw a card.,ODY
+Confessor,,John Avon,15,Creature — Human Cleric,"Whenever a player discards a card, you may gain 1 life.",ODY
+Dedicated Martyr,,Dave Dorman,16,Creature — Human Cleric,"{W}, Sacrifice Dedicated Martyr: You gain 3 life.",ODY
+Delaying Shield,,Luca Zontini,17,Enchantment,"If damage would be dealt to you, put that many delay counters on Delaying Shield instead.\nAt the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.",ODY
+Devoted Caretaker,,Clyde Caldwell,18,Creature — Human Cleric,"{W}, {T}: Target permanent you control gains protection from instant spells and from sorcery spells until end of turn.",ODY
+Divine Sacrament,,Ray Lago,19,Enchantment,White creatures get +1/+1.\nThreshold — White creatures get an additional +1/+1 as long as seven or more cards are in your graveyard.,ODY
+Dogged Hunter,,rk post,20,Creature — Human Nomad,{T}: Destroy target creature token.,ODY
+Earnest Fellowship,,Heather Hudson,21,Enchantment,Each creature has protection from its colors.,ODY
+Embolden,,Rebecca Guay,22,Instant,"Prevent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",ODY
+Gallantry,,Mark Tedin,23,Instant,Target blocking creature gets +4/+4 until end of turn.\nDraw a card.,"TMP,ODY,TPR"
+Graceful Antelope,,Heather Hudson,24,Creature — Antelope,"Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)\nWhenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield.",ODY
+Hallowed Healer,,Ben Thompson,25,Creature — Human Cleric,{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.\nThreshold — {T}: Prevent the next 4 damage that would be dealt to target creature or player this turn. Activate this ability only if seven or more cards are in your graveyard.,ODY
+Karmic Justice,,Ray Lago,26,Enchantment,"Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.","ODY,C15"
+Kirtar's Desire,,Pete Venters,27,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack.
+Threshold — Enchanted creature can't block as long as seven or more cards are in your graveyard.,ODY
+Kirtar's Wrath,,Kev Walker,28,Sorcery,"Destroy all creatures. They can't be regenerated.\nThreshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.","ODY,C13"
+Lieutenant Kirtar,,Paolo Parente,29,Legendary Creature — Bird Soldier,"Flying\n{1}{W}, Sacrifice Lieutenant Kirtar: Exile target attacking creature.",ODY
+Life Burst,,John Avon,30,Instant,"Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard.",ODY
+Luminous Guardian,,Terese Nielsen,31,Creature — Human Nomad,{W}: Luminous Guardian gets +0/+1 until end of turn.\n{2}: Luminous Guardian can block an additional creature this turn.,ODY
+Master Apothecary,,Terese Nielsen,32,Creature — Human Cleric,Tap an untapped Cleric you control: Prevent the next 2 damage that would be dealt to target creature or player this turn.,ODY
+Mystic Crusader,,Kev Walker,33,Creature — Human Nomad Mystic,"Protection from black and from red\nThreshold — As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.",ODY
+Mystic Penitent,,Larry Elmore,34,Creature — Human Nomad Mystic,"Vigilance\nThreshold — As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.",ODY
+Mystic Visionary,,Matt Cavotta,35,Creature — Human Nomad Mystic,Threshold — Mystic Visionary has flying as long as seven or more cards are in your graveyard.,ODY
+Mystic Zealot,,Paolo Parente,36,Creature — Human Nomad Mystic,"Threshold — As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.","ODY,VMA"
+Nomad Decoy,,Pete Venters,37,Creature — Human Nomad,"{W}, {T}: Tap target creature.\nThreshold — {W}{W}, {T}: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.",ODY
+Patrol Hound,,Daren Bader,38,Creature — Hound,Discard a card: Patrol Hound gains first strike until end of turn.,ODY
+"Pianna, Nomad Captain",,D. Alexander Gregory,39,Legendary Creature — Human Nomad,"Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn.","ODY,VMA"
+Pilgrim of Justice,,Orizio Daniele,40,Creature — Human Cleric,"Protection from red\n{W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.",ODY
+Pilgrim of Virtue,,Massimilano Frezzato,41,Creature — Human Cleric,"Protection from black\n{W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.",ODY
+Ray of Distortion,,Carl Critchlow,42,Instant,Destroy target artifact or enchantment.\nFlashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Resilient Wanderer,,Clyde Caldwell,43,Creature — Human Nomad,First strike\nDiscard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.,ODY
+Sacred Rites,,Bradley Williams,44,Instant,Discard any number of cards. Creatures you control get +0/+1 until end of turn for each card discarded this way.,ODY
+Second Thoughts,,Ray Lago,45,Instant,Exile target attacking creature.\nDraw a card.,ODY
+Shelter,,Christopher Moeller,46,Instant,Target creature you control gains protection from the color of your choice until end of turn.\nDraw a card.,"ODY,VMA"
+Soulcatcher,,Ron Spencer,47,Creature — Bird Soldier,"Flying\nWhenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.","ODY,CNS"
+Sphere of Duty,,Christopher Moeller,48,Enchantment,"If a green source would deal damage to you, prevent 2 of that damage.",ODY
+Sphere of Grace,,Christopher Moeller,49,Enchantment,"If a black source would deal damage to you, prevent 2 of that damage.",ODY
+Sphere of Law,,Christopher Moeller,50,Enchantment,"If a red source would deal damage to you, prevent 2 of that damage.",ODY
+Sphere of Reason,,Christopher Moeller,51,Enchantment,"If a blue source would deal damage to you, prevent 2 of that damage.",ODY
+Sphere of Truth,,Christopher Moeller,52,Enchantment,"If a white source would deal damage to you, prevent 2 of that damage.",ODY
+Spiritualize,,Christopher Moeller,53,Instant,"Until end of turn, whenever target creature deals damage, you gain that much life.\nDraw a card.",ODY
+Tattoo Ward,,Ben Thompson,54,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.
+Sacrifice Tattoo Ward: Destroy target enchantment.,ODY
+Testament of Faith,,Roger Raupp,55,Enchantment,{X}: Testament of Faith becomes an X/X Wall creature with defender in addition to its other types until end of turn.,ODY
+Tireless Tribe,,Carl Critchlow,56,Creature — Human Nomad,Discard a card: Tireless Tribe gets +0/+4 until end of turn.,ODY
+Wayward Angel,,Mark Tedin,57,Creature — Angel Horror,"Flying, vigilance\nThreshold — As long as seven or more cards are in your graveyard, Wayward Angel gets +3/+3, is black, has trample, and has "At the beginning of your upkeep, sacrifice a creature."",ODY
+"Aboshan, Cephalid Emperor",,Christopher Moeller,58,Legendary Creature — Cephalid,Tap an untapped Cephalid you control: Tap target permanent.\n{U}{U}{U}: Tap all creatures without flying.,ODY
+Aboshan's Desire,,Ciruelo,59,Enchantment — Aura,Enchant creature\nEnchanted creature has flying.
+Threshold — Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.),ODY
+Æther Burst,,Adam Rex,60,Instant,"Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Æther Burst in all graveyards as you cast Æther Burst.",ODY
+Amugaba,,Heather Hudson,61,Creature — Illusion,"Flying\n{2}{U}, Discard a card: Return Amugaba to its owner's hand.",ODY
+Aura Graft,,Ray Lago,62,Instant,Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.,"ODY,10E"
+Aven Fisher,,Christopher Moeller,63,Creature — Bird Soldier,"Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aven Fisher dies, you may draw a card.","ODY,8ED,9ED,10E"
+Aven Smokeweaver,,Kev Walker,64,Creature — Bird Soldier,"Flying, protection from red",ODY
+Aven Windreader,,Greg & Tim Hildebrandt,65,Creature — Bird Soldier Wizard,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{U}: Target player reveals the top card of his or her library.,"ODY,9ED,10E"
+Balshan Beguiler,,Ray Lago,66,Creature — Human Wizard,"Whenever Balshan Beguiler deals combat damage to a player, that player reveals the top two cards of his or her library. You choose one of those cards and put it into his or her graveyard.",ODY
+Balshan Griffin,,Wayne England,67,Creature — Griffin,"Flying\n{1}{U}, Discard a card: Return Balshan Griffin to its owner's hand.",ODY
+Bamboozle,,Alan Pollack,68,Sorcery,Target player reveals the top four cards of his or her library. You choose two of those cards and put them into his or her graveyard. Put the rest on top of his or her library in any order.,ODY
+Battle of Wits,,Mark Brill,69,Enchantment,"At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.","ODY,9ED,M13"
+Careful Study,,Scott M. Fischer,70,Sorcery,"Draw two cards, then discard two cards.",ODY
+Cephalid Broker,,Dave Dorman,71,Creature — Cephalid,"{T}: Target player draws two cards, then discards two cards.",ODY
+Cephalid Looter,,Keith Garletts,72,Creature — Cephalid Rogue,"{T}: Target player draws a card, then discards a card.",ODY
+Cephalid Retainer,,Tony Szczudlo,73,Creature — Cephalid,{U}{U}: Tap target creature without flying.,ODY
+Cephalid Scout,,Alan Pollack,74,Creature — Cephalid Wizard Scout,"Flying\n{2}{U}, Sacrifice a land: Draw a card.",ODY
+Cephalid Shrine,,Wayne England,75,Enchantment,"Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell.",ODY
+Chamber of Manipulation,,Wayne England,76,Enchantment — Aura,"Enchant land\nEnchanted land has "{T}, Discard a card: Gain control of target creature until end of turn."",ODY
+Cognivore,,Adam Rex,77,Creature — Lhurgoyf,Flying\nCognivore's power and toughness are each equal to the number of instant cards in all graveyards.,ODY
+Concentrate,,Glen Angus & Arnie Swekel,78,Sorcery,Draw three cards.,"ODY,8ED,PC2,C14"
+Cultural Exchange,,Daren Bader,79,Sorcery,Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.),ODY
+Deluge,,Wayne England,80,Instant,Tap all creatures without flying.,"ODY,10E,DPA"
+Dematerialize,,Mike Ploog,81,Sorcery,Return target permanent to its owner's hand.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Divert,,Christopher Moeller,82,Instant,Change the target of target spell with a single target unless that spell's controller pays {2}.,ODY
+Dreamwinder,,Wayne England,83,Creature — Serpent,"Dreamwinder can't attack unless defending player controls an Island.\n{U}, Sacrifice an Island: Target land becomes an Island until end of turn.",ODY
+Escape Artist,,Scott M. Fischer,84,Creature — Human Wizard,"Escape Artist can't be blocked.\n{U}, Discard a card: Return Escape Artist to its owner's hand.",ODY
+Extract,,Matt Cavotta,85,Sorcery,Search target player's library for a card and exile it. Then that player shuffles his or her library.,ODY
+Fervent Denial,,Scott M. Fischer,86,Instant,Counter target spell.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Immobilizing Ink,,Darrell Riche,87,Enchantment — Aura,"Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Discard a card: Untap this creature."",ODY
+Laquatus's Creativity,,Don Hazeltine,88,Sorcery,"Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.",ODY
+Patron Wizard,,Donato Giancola,89,Creature — Human Wizard,Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.,ODY
+Pedantic Learning,,Heather Hudson,90,Enchantment,"Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card.",ODY
+Peek,,Adam Rex,91,Instant,Look at target player's hand.\nDraw a card.,"ODY,10E"
+Persuasion,,Adam Rex,92,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nYou control enchanted creature.,"ODY,10E"
+Phantom Whelp,,Wayne England,93,Creature — Illusion Hound,"When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",ODY
+Predict,,Rebecca Guay,94,Instant,"Name a card, then target player puts the top card of his or her library into his or her graveyard. If that card is the named card, you draw two cards. Otherwise, you draw a card.",ODY
+Psionic Gift,,Orizio Daniele,95,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target creature or player.",ODY
+Pulsating Illusion,,Arnie Swekel,96,Creature — Illusion,Flying\nDiscard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate this ability only once each turn.,ODY
+Puppeteer,,Scott M. Fischer,97,Creature — Human Wizard,"{U}, {T}: You may tap or untap target creature.","ODY,8ED,9ED,10E"
+Repel,,Terese Nielsen,98,Instant,Put target creature on top of its owner's library.,"ODY,VMA"
+Rites of Refusal,,Bradley Williams,99,Instant,Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.,ODY
+Scrivener,,Kev Walker,100,Creature — Human Wizard,"When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.","EXO,ODY,VMA,TPR"
+Shifty Doppelganger,,Greg Staples,101,Creature — Shapeshifter,"{3}{U}, Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield.",ODY
+Standstill,,Heather Hudson,102,Enchantment,"When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.","pMEI,ODY"
+Syncopate,,Pete Venters,103,Instant,"Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.","ODY,RTR"
+Think Tank,,Jim Nelson,104,Enchantment,"At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.",ODY
+Thought Devourer,,Jim Nelson,105,Creature — Beast,Flying\nYour maximum hand size is reduced by four.,ODY
+Thought Eater,,Luca Zontini,106,Creature — Beast,Flying\nYour maximum hand size is reduced by three.,ODY
+Thought Nibbler,,Arnie Swekel,107,Creature — Beast,Flying\nYour maximum hand size is reduced by two.,ODY
+Time Stretch,,Paolo Parente,108,Sorcery,Target player takes two extra turns after this one.,"ODY,10E"
+Touch of Invisibility,,Eric Peterson,109,Sorcery,Target creature can't be blocked this turn.\nDraw a card.,ODY
+Traumatize,,Greg Staples,110,Sorcery,"Target player puts the top half of his or her library, rounded down, into his or her graveyard.","ODY,9ED,10E,M10,M11,M14"
+Treetop Sentinel,,Carl Critchlow,111,Creature — Bird Soldier,"Flying, protection from green",ODY
+Unifying Theory,,Ron Spears,112,Enchantment,"Whenever a player casts a spell, that player may pay {2}. If the player does, he or she draws a card.",ODY
+Upheaval,,Kev Walker,113,Sorcery,Return all permanents to their owners' hands.,"ODY,VMA,V14"
+Words of Wisdom,,Eric Peterson,114,Instant,"You draw two cards, then each other player draws a card.",ODY
+Afflict,,Roger Raupp,115,Instant,Target creature gets -1/-1 until end of turn.\nDraw a card.,"ODY,10E"
+Bloodcurdler,,Adam Rex,116,Creature — Horror,"Flying\nAt the beginning of your upkeep, put the top card of your library into your graveyard.
+Threshold — As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has "At the beginning of your end step, exile two cards from your graveyard."",ODY
+"Braids, Cabal Minion",,Eric Peterson,117,Legendary Creature — Human Minion,"At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.",ODY
+Buried Alive,,Greg Staples,118,Sorcery,Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.,"WTH,ODY,CMD,PD3"
+Cabal Inquisitor,,Alex Horley-Orlandelli,119,Creature — Human Minion,"Threshold — {1}{B}, {T}, Exile two cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery, and only if seven or more cards are in your graveyard.",ODY
+Cabal Patriarch,,Mark Zug,120,Legendary Creature — Human Wizard,"{2}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.\n{2}{B}, Exile a creature card from your graveyard: Target creature gets -2/-2 until end of turn.",ODY
+Cabal Shrine,,Ben Thompson,121,Enchantment,"Whenever a player casts a spell, that player discards X cards, where X is the number of cards in all graveyards with the same name as that spell.",ODY
+Caustic Tar,,John Avon,122,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Target player loses 3 life.","ODY,M15"
+Childhood Horror,,Larry Elmore,123,Creature — Horror,"Flying\nThreshold — As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block.",ODY
+Coffin Purge,,Pete Venters,124,Instant,Exile target card from a graveyard.\nFlashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Crypt Creeper,,John Matson,125,Creature — Zombie,Sacrifice Crypt Creeper: Exile target card from a graveyard.,"ODY,AVR"
+Cursed Monstrosity,,Jeff Remmer,126,Creature — Horror,"Flying\nWhenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.",ODY
+Decaying Soil,,Don Hazeltine,127,Enchantment,"At the beginning of your upkeep, exile a card from your graveyard.\nThreshold — As long as seven or more cards are in your graveyard, Decaying Soil has "Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {1}. If you do, return that card to your hand."",ODY
+Decompose,,Tony Szczudlo,128,Sorcery,Exile up to three target cards from a single graveyard.,"ODY,DDK"
+Diabolic Tutor,,Rick Farrell,129,Sorcery,Search your library for a card and put that card into your hand. Then shuffle your library.,"ODY,8ED,9ED,10E,M10,M11,CMD,M12,M14"
+Dirty Wererat,,Daren Bader,130,Creature — Human Rat Minion,"{B}, Discard a card: Regenerate Dirty Wererat.\nThreshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.",ODY
+Dusk Imp,,"Edward P. Beard, Jr.",131,Creature — Imp,Flying,"ODY,8ED,10E,DDC,DPA,DD3_DVD"
+Entomb,,Ron Spears,132,Instant,Search your library for a card and put that card into your graveyard. Then shuffle your library.,"pJGP,ODY,PD3"
+Execute,,Gary Ruddell,133,Instant,Destroy target white creature. It can't be regenerated.\nDraw a card.,"ODY,8ED,9ED"
+Face of Fear,,Thomas M. Baxa,134,Creature — Horror,"{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",ODY
+Famished Ghoul,,Adam Rex,135,Creature — Zombie,"{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard.",ODY
+Filthy Cur,,Adam Rex,136,Creature — Hound,"Whenever Filthy Cur is dealt damage, you lose that much life.",ODY
+Fledgling Imp,,John Matson,137,Creature — Imp,"{B}, Discard a card: Fledgling Imp gains flying until end of turn.",ODY
+Frightcrawler,,Matt Cavotta,138,Creature — Horror,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nThreshold — As long as seven or more cards are in your graveyard, Frightcrawler gets +2/+2 and can't block.",ODY
+Ghastly Demise,,Gary Ruddell,139,Instant,Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.,ODY
+Gravedigger,,Tony Szczudlo,140,Creature — Zombie,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.","POR,TMP,6ED,S99,BTD,7ED,ODY,8ED,9ED,pGTW,10E,M10,HOP,M11,CMD,M12,M15,TPR"
+Gravestorm,,Alex Horley-Orlandelli,141,Enchantment,"At the beginning of your upkeep, target opponent may exile a card from his or her graveyard. If that player doesn't, you may draw a card.",ODY
+Haunting Echoes,,Arnie Swekel,142,Sorcery,"Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.","ODY,M10,M11"
+Hint of Insanity,,Luca Zontini,143,Sorcery,Target player reveals his or her hand. That player discards all nonland cards with the same name as another card in his or her hand.,ODY
+Infected Vermin,,Anthony S. Waters,144,Creature — Rat,{2}{B}: Infected Vermin deals 1 damage to each creature and each player.\nThreshold — {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.,ODY
+Innocent Blood,,Carl Critchlow,145,Sorcery,Each player sacrifices a creature.,"ODY,HOP"
+Last Rites,,Bradley Williams,146,Sorcery,"Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.","ODY,PD3"
+Malevolent Awakening,,Alex Horley-Orlandelli,147,Enchantment,"{1}{B}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.",ODY
+Mind Burst,,Marc Fishman,148,Sorcery,"Target player discards X cards, where X is one plus the number of cards named Mind Burst in all graveyards.",ODY
+Mindslicer,,Kev Walker,149,Creature — Horror,"When Mindslicer dies, each player discards his or her hand.","ODY,9ED"
+Morbid Hunger,,Eric Peterson,150,Sorcery,Morbid Hunger deals 3 damage to target creature or player. You gain 3 life.\nFlashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Morgue Theft,,Justin Sweet,151,Sorcery,Return target creature card from your graveyard to your hand.\nFlashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Mortivore,,Anthony S. Waters,152,Creature — Lhurgoyf,Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.\n{B}: Regenerate Mortivore.,"ODY,9ED,10E,DPA,CMD"
+Nefarious Lich,,Jerry Tiritilli,153,Enchantment,"If damage would be dealt to you, exile that many cards from your graveyard instead. If you can't, you lose the game.\nIf you would gain life, draw that many cards instead.
+When Nefarious Lich leaves the battlefield, you lose the game.",ODY
+Overeager Apprentice,,Ray Lago,154,Creature — Human Minion,"Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.","ODY,DDC,DD3_DVD"
+Painbringer,,Pete Venters,155,Creature — Human Minion,"{T}, Exile any number of cards from your graveyard: Target creature gets -X/-X until end of turn, where X is the number of cards exiled this way.",ODY
+Patriarch's Desire,,Eric Peterson,156,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/-2.
+Threshold — Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.,ODY
+Repentant Vampire,,Mark Tedin,157,Creature — Vampire,"Flying\nWhenever a creature dealt damage by Repentant Vampire this turn dies, put a +1/+1 counter on Repentant Vampire.
+Threshold — As long as seven or more cards are in your graveyard, Repentant Vampire is white and has "{T}: Destroy target black creature."",ODY
+Rotting Giant,,Kev Walker,158,Creature — Zombie Giant,"Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a card from your graveyard.",ODY
+Sadistic Hypnotist,,Paolo Parente,159,Creature — Human Minion,Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.,"ODY,DDJ"
+Screams of the Damned,,Jerry Tiritilli,160,Enchantment,"{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.",ODY
+Skeletal Scrying,,Bob Petillo,161,Instant,"As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.\nYou draw X cards and you lose X life.","ODY,CNS,C14"
+Skull Fracture,,Paolo Parente,162,Sorcery,Target player discards a card.\nFlashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Stalking Bloodsucker,,Greg Staples,163,Creature — Vampire,"Flying\n{1}{B}, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn.",ODY
+Tainted Pact,,Adam Rex,164,Instant,"Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.",ODY
+Tombfire,,Arnie Swekel,165,Sorcery,Target player exiles all cards with flashback from his or her graveyard.,ODY
+Traveling Plague,,Dave Dorman,166,Enchantment — Aura,"Enchant creature\nAt the beginning of each upkeep, put a plague counter on Traveling Plague.
+Enchanted creature gets -1/-1 for each plague counter on Traveling Plague.
+When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.",ODY
+Whispering Shade,,Daren Bader,167,Creature — Shade,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{B}: Whispering Shade gets +1/+1 until end of turn.,ODY
+Zombie Assassin,,Pete Venters,168,Creature — Zombie Assassin,"{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.",ODY
+Zombie Cannibal,,Adam Rex,169,Creature — Zombie,"Whenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard.",ODY
+Zombie Infestation,,Thomas M. Baxa,170,Enchantment,Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.,"ODY,ARC,M12,PD3"
+Zombify,,Mark Romanoski,171,Sorcery,Return target creature card from your graveyard to the battlefield.,"pMPR,ODY,8ED,9ED,ARC"
+Acceptable Losses,,Mike Ploog,172,Sorcery,"As an additional cost to cast Acceptable Losses, discard a card at random.\nAcceptable Losses deals 5 damage to target creature.",ODY
+Anarchist,,Greg & Tim Hildebrandt,173,Creature — Human Wizard,"When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.","EXO,ODY,9ED,TPR"
+Ashen Firebeast,,Mark Tedin,174,Creature — Elemental Beast,{1}{R}: Ashen Firebeast deals 1 damage to each creature without flying.,ODY
+Barbarian Lunatic,,Ron Spears,175,Creature — Human Barbarian,"{2}{R}, Sacrifice Barbarian Lunatic: Barbarian Lunatic deals 2 damage to target creature.",ODY
+Bash to Bits,,Gary Ruddell,176,Instant,Destroy target artifact.\nFlashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Battle Strain,,Dave Dorman,177,Enchantment,"Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller.",ODY
+Blazing Salvo,,rk post,178,Instant,Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.,"ODY,DDK"
+Bomb Squad,,Greg & Tim Hildebrandt,179,Creature — Dwarf,"{T}: Put a fuse counter on target creature.\nAt the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.
+Whenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.",ODY
+Burning Sands,,Ron Spencer,180,Enchantment,"Whenever a creature dies, that creature's controller sacrifices a land.",ODY
+Chainflinger,,Scott M. Fischer,181,Creature — Beast,"{1}{R}, {T}: Chainflinger deals 1 damage to target creature or player.\nThreshold — {2}{R}, {T}: Chainflinger deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.",ODY
+Chance Encounter,,Mark Brill,182,Enchantment,"Whenever you win a coin flip, put a luck counter on Chance Encounter.\nAt the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.",ODY
+Demolish,,Gary Ruddell,183,Sorcery,Destroy target artifact or land.,"ODY,8ED,9ED,10E,ZEN,M11,AVR,M14,THS,ORI"
+Demoralize,,Greg & Tim Hildebrandt,184,Instant,"All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)\nThreshold — If seven or more cards are in your graveyard, creatures can't block this turn.",ODY
+Dwarven Grunt,,Mike Ploog,185,Creature — Dwarf,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),ODY
+Dwarven Recruiter,,Ciruelo,186,Creature — Dwarf,"When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards and reveal those cards. Shuffle your library, then put them on top of it in any order.",ODY
+Dwarven Shrine,,Matt Cavotta,187,Enchantment,"Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.",ODY
+Dwarven Strike Force,,Mike Ploog,188,Creature — Dwarf Berserker,Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.,ODY
+Earth Rift,,Wayne England,189,Sorcery,Destroy target land.\nFlashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Ember Beast,,Wayne England,190,Creature — Beast,Ember Beast can't attack or block alone.,"ODY,GTC"
+Engulfing Flames,,Marc Fishman,191,Instant,Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Epicenter,,Anthony S. Waters,192,Sorcery,Target player sacrifices a land.\nThreshold — Each player sacrifices all lands he or she controls instead if seven or more cards are in your graveyard.,ODY
+Firebolt,,Ron Spencer,193,Sorcery,Firebolt deals 2 damage to target creature or player.\nFlashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pFNM,ODY,DD2,DD3_JVC"
+Flame Burst,,Ron Spencer,194,Instant,"Flame Burst deals X damage to target creature or player, where X is 2 plus the number of cards named Flame Burst in all graveyards.",ODY
+Frenetic Ogre,,Ron Spears,195,Creature — Ogre,"{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn.",ODY
+Halberdier,,Ben Thompson,196,Creature — Human Barbarian,First strike,ODY
+Impulsive Maneuvers,,Dave Dorman,197,Enchantment,"Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.",ODY
+"Kamahl, Pit Fighter",,Kev Walker,198,Legendary Creature — Human Barbarian,"Haste (This creature can attack and {T} as soon as it comes under your control.)\n{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.","ODY,10E,p15A,DPA,DDL"
+Kamahl's Desire,,Dave Dorman,199,Enchantment — Aura,Enchant creature\nEnchanted creature has first strike.
+Threshold — Enchanted creature gets +3/+0 as long as seven or more cards are in your graveyard.,ODY
+Lava Blister,,Rob Alexander,200,Sorcery,Destroy target nonbasic land unless its controller has Lava Blister deal 6 damage to him or her.,ODY
+Liquid Fire,,Greg Staples,201,Sorcery,"As an additional cost to cast Liquid Fire, choose a number between 0 and 5.\nLiquid Fire deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number.",ODY
+Mad Dog,,Ron Spencer,202,Creature — Hound,"At the beginning of your end step, if Mad Dog didn't attack or come under your control this turn, sacrifice it.",ODY
+Magma Vein,,Glen Angus,203,Enchantment,"{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying.",ODY
+Magnivore,,Carl Critchlow,204,Creature — Lhurgoyf,Haste (This creature can attack the turn it comes under your control.)\nMagnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.,"ODY,9ED"
+Mine Layer,,Mark Brill,205,Creature — Dwarf,"{1}{R}, {T}: Put a mine counter on target land.\nWhenever a land with a mine counter on it becomes tapped, destroy it.
+When Mine Layer leaves the battlefield, remove all mine counters from all lands.",ODY
+Minotaur Explorer,,Dave Dorman,206,Creature — Minotaur Scout,"When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.",ODY
+Molten Influence,,Franz Vohwinkel,207,Instant,Counter target instant or sorcery spell unless its controller has Molten Influence deal 4 damage to him or her.,ODY
+Mudhole,,Gary Ruddell,208,Instant,Target player exiles all land cards from his or her graveyard.,ODY
+Need for Speed,,Christopher Moeller,209,Enchantment,Sacrifice a land: Target creature gains haste until end of turn.,ODY
+Obstinate Familiar,,Terese Nielsen,210,Creature — Lizard,"If you would draw a card, you may skip that draw instead.",ODY
+Pardic Firecat,,Glen Angus,211,Creature — Elemental Cat,"Haste\nIf Pardic Firecat is in a graveyard, effects from spells named Flame Burst count it as a card named Flame Burst.",ODY
+Pardic Miner,,Tony Szczudlo,212,Creature — Dwarf,Sacrifice Pardic Miner: Target player can't play lands this turn.,ODY
+Pardic Swordsmith,,Bob Petillo,213,Creature — Dwarf,"{R}, Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn.",ODY
+Price of Glory,,Darrell Riche,214,Enchantment,"Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.",ODY
+Reckless Charge,,Scott M. Fischer,215,Sorcery,Target creature gets +3/+0 and gains haste until end of turn.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ODY,HOP,VMA"
+Recoup,,Dave Dorman,216,Sorcery,Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ODY,DDK"
+Rites of Initiation,,Bradley Williams,217,Instant,Discard any number of cards at random. Creatures you control get +1/+0 until end of turn for each card discarded this way.,"ODY,VMA"
+Savage Firecat,,Dave Dorman,218,Creature — Elemental Cat,"Trample\nSavage Firecat enters the battlefield with seven +1/+1 counters on it.
+Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.",ODY
+Scorching Missile,,Don Hazeltine,219,Sorcery,Scorching Missile deals 4 damage to target player.\nFlashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Seize the Day,,Greg Staples,220,Sorcery,"Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",ODY
+Shower of Coals,,Matt Cavotta,221,Sorcery,Shower of Coals deals 2 damage to each of up to three target creatures and/or players.\nThreshold — Shower of Coals deals 4 damage to each of those creatures and/or players instead if seven or more cards are in your graveyard.,ODY
+Spark Mage,,Paolo Parente,222,Creature — Dwarf Wizard,"Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.",ODY
+Steam Vines,,Anthony S. Waters,223,Enchantment — Aura,"Enchant land\nWhen enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of his or her choice.",ODY
+Thermal Blast,,Franz Vohwinkel,224,Instant,Thermal Blast deals 3 damage to target creature.\nThreshold — Thermal Blast deals 5 damage to that creature instead if seven or more cards are in your graveyard.,ODY
+Tremble,,Ciruelo,225,Sorcery,Each player sacrifices a land.,ODY
+Volcanic Spray,,Matt Cavotta,226,Sorcery,Volcanic Spray deals 1 damage to each creature without flying and each player.\nFlashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Volley of Boulders,,Tony Szczudlo,227,Sorcery,Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.\nFlashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ODY,DDI"
+Whipkeeper,,Ron Spencer,228,Creature — Dwarf,{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.,ODY
+Bearscape,,Heather Hudson,229,Enchantment,"{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.",ODY
+Beast Attack,,Ciruelo,230,Instant,Put a 4/4 green Beast creature token onto the battlefield.\nFlashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ODY,DDD,DD3_GVL"
+Call of the Herd,,Carl Critchlow,231,Sorcery,Put a 3/3 green Elephant creature token onto the battlefield.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"ODY,TSB,pGPX"
+Cartographer,,Donato Giancola,232,Creature — Human,"When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.","EXO,ODY"
+Chatter of the Squirrel,,Jim Nelson,233,Sorcery,Put a 1/1 green Squirrel creature token onto the battlefield.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Chlorophant,,John Avon,234,Creature — Elemental,"At the beginning of your upkeep, you may put a +1/+1 counter on Chlorophant.\nThreshold — As long as seven or more cards are in your graveyard, Chlorophant has "At the beginning of your upkeep, you may put another +1/+1 counter on Chlorophant."",ODY
+Crashing Centaur,,Eric Peterson,235,Creature — Centaur,"{G}, Discard a card: Crashing Centaur gains trample until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)",ODY
+Deep Reconnaissance,,Jeff Remmer,236,Sorcery,Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.\nFlashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Diligent Farmhand,,Gary Ruddell,237,Creature — Human Druid,"{1}{G}, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.\nIf Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.",ODY
+Druid Lyrist,,Mark Zug,238,Creature — Human Druid,"{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment.",ODY
+Druid's Call,,Greg & Tim Hildebrandt,239,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.",ODY
+Elephant Ambush,,Anthony S. Waters,240,Instant,Put a 3/3 green Elephant creature token onto the battlefield.\nFlashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Gorilla Titan,,Heather Hudson,241,Creature — Ape,Trample\nGorilla Titan gets +4/+4 as long as there are no cards in your graveyard.,ODY
+Ground Seal,,"Edward P. Beard, Jr.",242,Enchantment,"When Ground Seal enters the battlefield, draw a card.\nCards in graveyards can't be the targets of spells or abilities.","ODY,M13"
+Holistic Wisdom,,Rebecca Guay,243,Enchantment,"{2}, Exile a card from your hand: Return target card from your graveyard to your hand if it shares a card type with the card exiled this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",ODY
+Howling Gale,,Greg Staples,244,Instant,Howling Gale deals 1 damage to each creature with flying and each player.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Ivy Elemental,,Ron Spencer,245,Creature — Elemental,Ivy Elemental enters the battlefield with X +1/+1 counters on it.,"ODY,HOP"
+Krosan Archer,,Ron Spears,246,Creature — Centaur Archer,"Reach (This creature can block creatures with flying.)\n{G}, Discard a card: Krosan Archer gets +0/+2 until end of turn.",ODY
+Krosan Avenger,,D. Alexander Gregory,247,Creature — Human Druid,Trample\nThreshold — {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.,ODY
+Krosan Beast,,Kev Walker,248,Creature — Squirrel Beast,Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.,ODY
+Leaf Dancer,,Greg & Tim Hildebrandt,249,Creature — Centaur,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),ODY
+Metamorphic Wurm,,Thomas M. Baxa,250,Creature — Elephant Wurm,Threshold — Metamorphic Wurm gets +4/+4 as long as seven or more cards are in your graveyard.,ODY
+Moment's Peace,,Rebecca Guay,251,Instant,Prevent all combat damage that would be dealt this turn.\nFlashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Muscle Burst,,Gary Ruddell,252,Instant,"Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named Muscle Burst in all graveyards.",ODY
+Nantuko Disciple,,Justin Sweet,253,Creature — Insect Druid,"{G}, {T}: Target creature gets +2/+2 until end of turn.","ODY,8ED"
+Nantuko Elder,,Daren Bader,254,Creature — Insect Druid,{T}: Add {1}{G} to your mana pool.,ODY
+Nantuko Mentor,,John Matson,255,Creature — Insect Druid,"{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power.",ODY
+Nantuko Shrine,,Rebecca Guay,256,Enchantment,"Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.",ODY
+New Frontiers,,Ron Spencer,257,Sorcery,Each player may search his or her library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched his or her library this way shuffles it.,ODY
+Nimble Mongoose,,Terese Nielsen,258,Creature — Mongoose,Shroud (This creature can't be the target of spells or abilities.)\nThreshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.,ODY
+Nut Collector,,Christopher Moeller,259,Creature — Human Druid,"At the beginning of your upkeep, you may put a 1/1 green Squirrel creature token onto the battlefield.\nThreshold — Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard.",ODY
+Overrun,,Carl Critchlow,260,Sorcery,Creatures you control get +3/+3 and gain trample until end of turn.,"TMP,ATH,ODY,10E,M10,DDD,DPA,M12,PC2,C14,DD3_GVL,TPR,C15"
+Piper's Melody,,Greg & Tim Hildebrandt,261,Sorcery,Shuffle any number of target creature cards from your graveyard into your library.,ODY
+Primal Frenzy,,Alex Horley-Orlandelli,262,Enchantment — Aura,Enchant creature\nEnchanted creature has trample.,ODY
+Rabid Elephant,,Dave Dorman,263,Creature — Elephant,"Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.",ODY
+Refresh,,Keith Garletts,264,Instant,Regenerate target creature.\nDraw a card.,ODY
+Rites of Spring,,Bradley Williams,265,Sorcery,"Discard any number of cards. Search your library for up to that many basic land cards, reveal those cards, and put them into your hand. Then shuffle your library.",ODY
+Roar of the Wurm,,Kev Walker,266,Sorcery,Put a 6/6 green Wurm creature token onto the battlefield.\nFlashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),"pFNM,ODY,VMA"
+"Seton, Krosan Protector",,Greg Staples,267,Legendary Creature — Centaur Druid,Tap an untapped Druid you control: Add {G} to your mana pool.,ODY
+Seton's Desire,,Ciruelo,268,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2.
+Threshold — As long as seven or more cards are in your graveyard, all creatures able to block enchanted creature do so.",ODY
+Simplify,,Greg & Tim Hildebrandt,269,Sorcery,Each player sacrifices an enchantment.,ODY
+Skyshooter,,Jerry Tiritilli,270,Creature — Centaur Archer,"Reach (This creature can block creatures with flying.)\n{T}, Sacrifice Skyshooter: Destroy target attacking or blocking creature with flying.",ODY
+Spellbane Centaur,,Rick Farrell,271,Creature — Centaur,Creatures you control can't be the targets of blue spells or abilities from blue sources.,ODY
+Springing Tiger,,Arnie Swekel,272,Creature — Cat,Threshold — Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.,ODY
+Squirrel Mob,,Carl Critchlow,273,Creature — Squirrel,Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.,ODY
+Squirrel Nest,,Anthony S. Waters,274,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield.","ODY,CNS"
+Still Life,,Matt Cavotta,275,Enchantment,{G}{G}: Still Life becomes a 4/3 Centaur creature in addition to its other types until end of turn.,ODY
+Stone-Tongue Basilisk,,Wayne England,276,Creature — Basilisk,"Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat.\nThreshold — As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so.","pPRE,ODY"
+Sylvan Might,,Arnie Swekel,277,Instant,Target creature gets +2/+2 and gains trample until end of turn.\nFlashback {2}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.),ODY
+Terravore,,Jim Nelson,278,Creature — Lhurgoyf,Trample\nTerravore's power and toughness are each equal to the number of land cards in all graveyards.,ODY
+Twigwalker,,Carl Critchlow,279,Creature — Insect,"{1}{G}, Sacrifice Twigwalker: Two target creatures each get +2/+2 until end of turn.",ODY
+Verdant Succession,,"Edward P. Beard, Jr.",280,Enchantment,"Whenever a green nontoken creature dies, that creature's controller may search his or her library for a card with the same name as that creature and put it onto the battlefield. If that player does, he or she shuffles his or her library.",ODY
+Vivify,,Greg Staples,281,Instant,Target land becomes a 3/3 creature until end of turn. It's still a land.\nDraw a card.,ODY
+Werebear,,Carl Critchlow,282,Creature — Human Bear Druid,{T}: Add {G} to your mana pool.\nThreshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.,ODY
+Wild Mongrel,,Anthony S. Waters,283,Creature — Hound,Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.,"pFNM,ODY,DDD,VMA,DD3_GVL"
+Woodland Druid,,Rick Farrell,284,Creature — Human Druid,,ODY
+Zoologist,,Alex Horley-Orlandelli,285,Creature — Human Druid,"{3}{G}, {T}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.",ODY
+Atogatog,,Ron Spears,286,Legendary Creature — Atog,"Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where X is the sacrificed creature's power.",ODY
+Decimate,,Alex Horley-Orlandelli,287,Sorcery,"Destroy target artifact, target creature, target enchantment, and target land.","ODY,CNS"
+Iridescent Angel,,Matt Cavotta,288,Creature — Angel,"Flying, protection from all colors","ODY,V15"
+Lithatog,,Franz Vohwinkel,289,Creature — Atog,Sacrifice an artifact: Lithatog gets +1/+1 until end of turn.\nSacrifice a land: Lithatog gets +1/+1 until end of turn.,ODY
+Mystic Enforcer,,Gary Ruddell,290,Creature — Human Nomad Mystic,"Protection from black\nThreshold — As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.","ODY,TSB"
+Phantatog,,Glen Angus,291,Creature — Atog,Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn.\nDiscard a card: Phantatog gets +1/+1 until end of turn.,ODY
+Psychatog,,"Edward P. Beard, Jr.",292,Creature — Atog,Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.,"pMPR,ODY,VMA"
+Sarcatog,,Mark Brill,293,Creature — Atog,Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn.\nSacrifice an artifact: Sarcatog gets +1/+1 until end of turn.,ODY
+Shadowmage Infiltrator,,Rick Farrell,294,Creature — Human Wizard,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.","ODY,TSB,MM2"
+Thaumatog,,Monte Michael Moore,295,Creature — Atog,Sacrifice a land: Thaumatog gets +1/+1 until end of turn.\nSacrifice an enchantment: Thaumatog gets +1/+1 until end of turn.,ODY
+Vampiric Dragon,,Gary Ruddell,296,Creature — Vampire Dragon,"Flying\nWhenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.
+{1}{R}: Vampiric Dragon deals 1 damage to target creature.","ODY,ARC"
+Catalyst Stone,,Tony Szczudlo,297,Artifact,Flashback costs you pay cost up to {2} less.\nFlashback costs your opponents pay cost {2} more.,ODY
+Charmed Pendant,,Anthony S. Waters,298,Artifact,"{T}, Put the top card of your library into your graveyard: For each colored mana symbol in that card's mana cost, add one mana of that color to your mana pool. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B} to your mana pool.)",ODY
+Darkwater Egg,,David Martin,299,Artifact,"{2}, {T}, Sacrifice Darkwater Egg: Add {U}{B} to your mana pool. Draw a card.",ODY
+Junk Golem,,Brian Snõddy,300,Artifact Creature — Golem,"Junk Golem enters the battlefield with three +1/+1 counters on it.\nAt the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.
+{1}, Discard a card: Put a +1/+1 counter on Junk Golem.",ODY
+Limestone Golem,,Mark Tedin,301,Artifact Creature — Golem,"{2}, Sacrifice Limestone Golem: Target player draws a card.",ODY
+Millikin,,Alex Horley-Orlandelli,302,Artifact Creature — Construct,"{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.",ODY
+Mirari,,Donato Giancola,303,Legendary Artifact,"Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.","ODY,TSB,V10,C13"
+Mossfire Egg,,David Martin,304,Artifact,"{2}, {T}, Sacrifice Mossfire Egg: Add {R}{G} to your mana pool. Draw a card.",ODY
+Otarian Juggernaut,,Brian Snõddy,305,Artifact Creature — Juggernaut,"Otarian Juggernaut can't be blocked by Walls.\nThreshold — As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each turn if able.",ODY
+Patchwork Gnomes,,Jerry Tiritilli,306,Artifact Creature — Gnome,Discard a card: Regenerate Patchwork Gnomes.,"TMP,ODY,TPR"
+Sandstone Deadfall,,Jim Nelson,307,Artifact,"{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature.",ODY
+Shadowblood Egg,,David Martin,308,Artifact,"{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R} to your mana pool. Draw a card.",ODY
+Skycloud Egg,,David Martin,309,Artifact,"{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U} to your mana pool. Draw a card.",ODY
+Steamclaw,,Jim Nelson,310,Artifact,"{3}, {T}: Exile target card from a graveyard.\n{1}, Sacrifice Steamclaw: Exile target card from a graveyard.",ODY
+Sungrass Egg,,David Martin,311,Artifact,"{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W} to your mana pool. Draw a card.",ODY
+Abandoned Outpost,,"Edward P. Beard, Jr.",312,Land,"Abandoned Outpost enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
+{T}, Sacrifice Abandoned Outpost: Add one mana of any color to your mana pool.",ODY
+Barbarian Ring,,John Avon,313,Land,"{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.\nThreshold — {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.","ODY,PD2"
+Bog Wreckage,,Brian Snõddy,314,Land,"Bog Wreckage enters the battlefield tapped.\n{T}: Add {B} to your mana pool.
+{T}, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.",ODY
+Cabal Pit,,John Avon,315,Land,"{T}: Add {B} to your mana pool. Cabal Pit deals 1 damage to you.\nThreshold — {B}, {T}, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.",ODY
+Centaur Garden,,John Avon,316,Land,"{T}: Add {G} to your mana pool. Centaur Garden deals 1 damage to you.\nThreshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.",ODY
+Cephalid Coliseum,,John Avon,317,Land,"{T}: Add {U} to your mana pool. Cephalid Coliseum deals 1 damage to you.\nThreshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.","ODY,V12"
+Crystal Quarry,,Alan Pollack,318,Land,"{T}: Add {1} to your mana pool.\n{5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.",ODY
+Darkwater Catacombs,,Monte Michael Moore,319,Land,"{1}, {T}: Add {U}{B} to your mana pool.",ODY
+Deserted Temple,,Rob Alexander,320,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Untap target land.",ODY
+Mossfire Valley,,John Avon,321,Land,"{1}, {T}: Add {R}{G} to your mana pool.",ODY
+Nomad Stadium,,David Martin,322,Land,"{T}: Add {W} to your mana pool. Nomad Stadium deals 1 damage to you.\nThreshold — {W}, {T}, Sacrifice Nomad Stadium: You gain 4 life. Activate this ability only if seven or more cards are in your graveyard.",ODY
+Petrified Field,,Glen Angus,323,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Petrified Field: Return target land card from your graveyard to your hand.",ODY
+Ravaged Highlands,,David Martin,324,Land,"Ravaged Highlands enters the battlefield tapped.\n{T}: Add {R} to your mana pool.
+{T}, Sacrifice Ravaged Highlands: Add one mana of any color to your mana pool.",ODY
+Seafloor Debris,,Larry Elmore,325,Land,"Seafloor Debris enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
+{T}, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.",ODY
+Shadowblood Ridge,,Glen Angus,326,Land,"{1}, {T}: Add {B}{R} to your mana pool.",ODY
+Skycloud Expanse,,Rob Alexander,327,Land,"{1}, {T}: Add {W}{U} to your mana pool.",ODY
+Sungrass Prairie,,Ron Spencer,328,Land,"{1}, {T}: Add {G}{W} to your mana pool.",ODY
+Tarnished Citadel,,David Martin,329,Land,{T}: Add {1} to your mana pool.\n{T}: Add one mana of any color to your mana pool. Tarnished Citadel deals 3 damage to you.,ODY
+Timberland Ruins,,Alan Pollack,330,Land,"Timberland Ruins enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+{T}, Sacrifice Timberland Ruins: Add one mana of any color to your mana pool.",ODY
+Plains,,Alan Pollack,331,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Don Hazeltine,332,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Eric Peterson,333,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Rob Alexander,334,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Alan Pollack,335,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Ben Thompson,336,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Larry Elmore,337,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Rob Alexander,338,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Jerry Tiritilli,339,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Arnie Swekel,340,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Rob Alexander,341,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Alan Pollack,342,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Anthony S. Waters,343,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Franz Vohwinkel,344,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Rob Alexander,345,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Tony Szczudlo,346,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Larry Elmore,347,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,348,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Jerry Tiritilli,349,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Tony Szczudlo,350,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

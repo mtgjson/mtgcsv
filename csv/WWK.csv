@@ -1,0 +1,177 @@
+name,cost,artist,number,type,text,printings
+Admonition Angel,,Steve Argyle,1,Creature — Angel,"Flying\nLandfall — Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.
+When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.",WWK
+Apex Hawks,,David Palumbo,2,Creature — Bird,Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)\nFlying
+Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Archon of Redemption,,Steven Belledin,3,Creature — Archon,"Flying\nWhenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power.",WWK
+Battle Hurda,,Christopher Moeller,4,Creature — Giant,First strike,WWK
+Fledgling Griffin,,Christopher Moeller,5,Creature — Griffin,"Landfall — Whenever a land enters the battlefield under your control, Fledgling Griffin gains flying until end of turn.",WWK
+Guardian Zendikon,,John Avon,6,Enchantment — Aura,"Enchant land\nEnchanted land is a 2/6 white Wall creature with defender. It's still a land.
+When enchanted land dies, return that card to its owner's hand.","WWK,CNS"
+Hada Freeblade,,Cyril Van Der Haegen,7,Creature — Human Soldier Ally,"Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.","pWPN,WWK"
+Iona's Judgment,,Mike Bierek,8,Sorcery,Exile target creature or enchantment.,WWK
+Join the Ranks,,Kekai Kotaki,9,Instant,Put two 1/1 white Soldier Ally creature tokens onto the battlefield.,WWK
+Kitesail Apprentice,,Austin Hsu,10,Creature — Kor Soldier,"As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying.",WWK
+Kor Firewalker,,Matt Stewart,11,Creature — Kor Soldier,"Protection from red\nWhenever a player casts a red spell, you may gain 1 life.","pWPN,WWK"
+Lightkeeper of Emeria,,James Ryman,12,Creature — Angel,"Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.)\nFlying
+When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.","WWK,CMD"
+Loam Lion,,Daniel Ljunggren,13,Creature — Cat,Loam Lion gets +1/+2 as long as you control a Forest.,"WWK,DDH"
+Marsh Threader,,David Palumbo,14,Creature — Kor Scout,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),WWK
+Marshal's Anthem,,Matt Stewart,15,Enchantment,"Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)\nCreatures you control get +1/+1.
+When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.","WWK,C14,C15"
+Perimeter Captain,,Steven Belledin,16,Creature — Human Soldier,"Defender\nWhenever a creature you control with defender blocks, you may gain 2 life.",WWK
+Refraction Trap,,Zoltan Boros & Gabor Szikszai,17,Instant — Trap,"If an opponent cast a red instant or sorcery spell this turn, you may pay {W} rather than pay Refraction Trap's mana cost.\nPrevent the next 3 damage that a source of your choice would deal to you and/or permanents you control this turn. If damage is prevented this way, Refraction Trap deals that much damage to target creature or player.",WWK
+Rest for the Weary,,James Paick,18,Instant,"Target player gains 4 life.\nLandfall — If you had a land enter the battlefield under your control this turn, that player gains 8 life instead.",WWK
+Ruin Ghost,,Jason A. Engle,19,Creature — Spirit,"{W}, {T}: Exile target land you control, then return it to the battlefield under your control.",WWK
+Stoneforge Mystic,,Mike Bierek,20,Creature — Kor Artificer,"When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.\n{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.",WWK
+Talus Paladin,,Svetlin Velinov,21,Creature — Human Knight Ally,"Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.",WWK
+Terra Eternal,,Daniel Ljunggren,22,Enchantment,All lands have indestructible.,WWK
+Veteran's Reflexes,,Scott Chou,23,Instant,Target creature gets +1/+1 until end of turn. Untap that creature.,WWK
+Æther Tradewinds,,Kieran Yanner,24,Instant,Return target permanent you control and target permanent you don't control to their owners' hands.,"WWK,CNS"
+Calcite Snapper,,David Palumbo,25,Creature — Turtle,"Shroud (This creature can't be the target of spells or abilities.)\nLandfall — Whenever a land enters the battlefield under your control, you may switch Calcite Snapper's power and toughness until end of turn.",WWK
+Dispel,,Vance Kovacs,26,Instant,Counter target instant spell.,"WWK,RTR,BFZ"
+Enclave Elite,,Igor Kieryluk,27,Creature — Merfolk Soldier,Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)\nIslandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Goliath Sphinx,,Greg Staples,28,Creature — Sphinx,Flying,WWK
+Halimar Excavator,,Kev Walker,29,Creature — Human Wizard Ally,"Whenever Halimar Excavator or another Ally enters the battlefield under your control, target player puts the top X cards of his or her library into his or her graveyard, where X is the number of Allies you control.",WWK
+Horizon Drake,,Adi Granov,30,Creature — Drake,"Flying, protection from lands",WWK
+"Jace, the Mind Sculptor",,Jason Chan,31,Planeswalker — Jace,"+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.
+−1: Return target creature to its owner's hand.
+−12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.","WWK,V13,VMA"
+Jwari Shapeshifter,,Kev Walker,32,Creature — Shapeshifter Ally,You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.,WWK
+Mysteries of the Deep,,Véronique Meignaud,33,Instant,"Draw two cards.\nLandfall — If you had a land enter the battlefield under your control this turn, draw three cards instead.",WWK
+Permafrost Trap,,Howard Lyon,34,Instant — Trap,"If an opponent had a green creature enter the battlefield under his or her control this turn, you may pay {U} rather than pay Permafrost Trap's mana cost.\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step.",WWK
+Quest for Ula's Temple,,Rob Alexander,35,Enchantment,"At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.\nAt the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.",WWK
+Sejiri Merfolk,,Anthony Francisco,36,Creature — Merfolk Soldier,"As long as you control a Plains, Sejiri Merfolk has first strike and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",WWK
+Selective Memory,,Chippy,37,Sorcery,Search your library for any number of nonland cards and exile them. Then shuffle your library.,WWK
+Spell Contortion,,Wayne Reynolds,38,Instant,Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)\nCounter target spell unless its controller pays {2}. Draw a card for each time Spell Contortion was kicked.,WWK
+Surrakar Banisher,,Matt Cavotta,39,Creature — Surrakar,"When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.","WWK,DDO"
+"Thada Adel, Acquisitor",,Andrew Robinson,40,Legendary Creature — Merfolk Rogue,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles his or her library. Until end of turn, you may play that card.",WWK
+Tideforce Elemental,,Donato Giancola,41,Creature — Elemental,"{U}, {T}: You may tap or untap another target creature.\nLandfall — Whenever a land enters the battlefield under your control, you may untap Tideforce Elemental.",WWK
+Treasure Hunt,,Daren Bader,42,Sorcery,"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.","pMEI,pMPR,WWK"
+Twitch,,Scott Chou,43,Instant,"You may tap or untap target artifact, creature, or land.\nDraw a card.","TMP,10E,WWK,TPR"
+Vapor Snare,,Trevor Claxton,44,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+At the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.",WWK
+Voyager Drake,,Kieran Yanner,45,Creature — Drake,"Multikicker {U} (You may pay an additional {U} any number of times as you cast this spell.)\nFlying
+When Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.",WWK
+Wind Zendikon,,Vincent Proce,46,Enchantment — Aura,"Enchant land\nEnchanted land is a 2/2 blue Elemental creature with flying. It's still a land.
+When enchanted land dies, return that card to its owner's hand.",WWK
+Abyssal Persecutor,,Chippy,47,Creature — Demon,"Flying, trample\nYou can't win the game and your opponents can't lose the game.","WWK,C14"
+Agadeem Occultist,,Vance Kovacs,48,Creature — Human Shaman Ally,{T}: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.,WWK
+"Anowon, the Ruin Sage",,Dan Scott,49,Legendary Creature — Vampire Shaman,"At the beginning of your upkeep, each player sacrifices a non-Vampire creature.",WWK
+Bloodhusk Ritualist,,Daarken,50,Creature — Vampire Shaman,"Multikicker {B} (You may pay an additional {B} any number of times as you cast this spell.)\nWhen Bloodhusk Ritualist enters the battlefield, target opponent discards a card for each time it was kicked.",WWK
+Bojuka Brigand,,Johann Bodin,51,Creature — Human Warrior Ally,"Bojuka Brigand can't block.\nWhenever Bojuka Brigand or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Bojuka Brigand.",WWK
+Brink of Disaster,,Alex Horley-Orlandelli,52,Enchantment — Aura,"Enchant creature or land\nWhen enchanted permanent becomes tapped, destroy it.","WWK,M12"
+Butcher of Malakir,,Jason Chan,53,Creature — Vampire Warrior,"Flying\nWhenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.","WWK,CMD,DDK,C14,DDP,C15"
+Caustic Crawler,,Raymond Swanland,54,Creature — Insect,"Landfall — Whenever a land enters the battlefield under your control, you may have target creature get -1/-1 until end of turn.",WWK
+Corrupted Zendikon,,John Avon,55,Enchantment — Aura,"Enchant land\nEnchanted land is a 3/3 black Ooze creature. It's still a land.
+When enchanted land dies, return that card to its owner's hand.",WWK
+Dead Reckoning,,Svetlin Velinov,56,Sorcery,"You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card's power to target creature.",WWK
+Death's Shadow,,Howard Lyon,57,Creature — Avatar,"Death's Shadow gets -X/-X, where X is your life total.",WWK
+Jagwasp Swarm,,Austin Hsu,58,Creature — Insect,Flying,WWK
+Kalastria Highborn,,D. Alexander Gregory,59,Creature — Vampire Shaman,"Whenever Kalastria Highborn or another Vampire you control dies, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.","pWPN,WWK"
+Mire's Toll,,Alex Horley-Orlandelli,60,Sorcery,Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.,WWK
+Nemesis Trap,,Ryan Pancoast,61,Instant — Trap,"If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.\nExile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.","WWK,CMD"
+Pulse Tracker,,Andrew Robinson,62,Creature — Vampire Rogue,"Whenever Pulse Tracker attacks, each opponent loses 1 life.","WWK,DDM"
+Quag Vampires,,Jason Felix,63,Creature — Vampire Rogue,Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)\nSwampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Quest for the Nihil Stone,,Mike Bierek,64,Enchantment,"Whenever an opponent discards a card, you may put a quest counter on Quest for the Nihil Stone.\nAt the beginning of each opponent's upkeep, if that player has no cards in hand and Quest for the Nihil Stone has two or more quest counters on it, you may have that player lose 5 life.",WWK
+Ruthless Cullblade,,rk post,65,Creature — Vampire Warrior,Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.,WWK
+Scrib Nibblers,,Daren Bader,66,Creature — Rat,"{T}: Exile the top card of target player's library. If it's a land card, you gain 1 life.\nLandfall — Whenever a land enters the battlefield under your control, you may untap Scrib Nibblers.",WWK
+Shoreline Salvager,,Igor Kieryluk,67,Creature — Surrakar,"Whenever Shoreline Salvager deals combat damage to a player, if you control an Island, you may draw a card.",WWK
+Smother,,Karl Kopinski,68,Instant,Destroy target creature with converted mana cost 3 or less. It can't be regenerated.,"pFNM,ONS,WWK,DDP"
+Tomb Hex,,Izzy,69,Instant,"Target creature gets -2/-2 until end of turn.\nLandfall — If you had a land enter the battlefield under your control this turn, that creature gets -4/-4 until end of turn instead.",WWK
+Urge to Feed,,Johann Bodin,70,Instant,"Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.","WWK,DDK"
+Akoum Battlesinger,,Adi Granov,71,Creature — Human Berserker Ally,"Haste\nWhenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.",WWK
+Bazaar Trader,,Matt Cavotta,72,Creature — Goblin,"{T}: Target player gains control of target artifact, creature, or land you control.",WWK
+Bull Rush,,Christopher Moeller,73,Instant,Target creature gets +2/+0 until end of turn.,WWK
+Chain Reaction,,Trevor Claxton,74,Sorcery,"Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.","WWK,CMD,C15"
+Claws of Valakut,,Igor Kieryluk,75,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+0 for each Mountain you control and has first strike.,"WWK,DDG"
+Comet Storm,,Jung Park,76,Instant,"Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.","pPRE,WWK,CMD,MM2,C15"
+Cosi's Ravager,,Zoltan Boros & Gabor Szikszai,77,Creature — Elemental,"Landfall — Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.","WWK,DDI"
+Crusher Zendikon,,Ryan Pancoast,78,Enchantment — Aura,"Enchant land\nEnchanted land is a 4/2 red Beast creature with trample. It's still a land.
+When enchanted land dies, return that card to its owner's hand.",WWK
+Cunning Sparkmage,,Wayne Reynolds,79,Creature — Human Shaman,Haste\n{T}: Cunning Sparkmage deals 1 damage to target creature or player.,WWK
+Deathforge Shaman,,Dave Kendall,80,Creature — Ogre Shaman,"Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)\nWhen Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.","WWK,CNS"
+Dragonmaster Outcast,,Raymond Swanland,81,Creature — Human Shaman,"At the beginning of your upkeep, if you control six or more lands, put a 5/5 red Dragon creature token with flying onto the battlefield.","WWK,BFZ"
+Goblin Roughrider,,Jesper Ejsing,82,Creature — Goblin Knight,,"WWK,M15"
+Grotag Thrasher,,Jesper Ejsing,83,Creature — Lizard,"Whenever Grotag Thrasher attacks, target creature can't block this turn.",WWK
+"Kazuul, Tyrant of the Cliffs",,Paul Bonner,84,Legendary Creature — Ogre Warrior,"Whenever a creature an opponent controls attacks, if you're the defending player, put a 3/3 red Ogre creature token onto the battlefield unless that creature's controller pays {3}.",WWK
+Mordant Dragon,,Scott Chou,85,Creature — Dragon,"Flying\n{1}{R}: Mordant Dragon gets +1/+0 until end of turn.
+Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.","WWK,DDG"
+Quest for the Goblin Lord,,Jesper Ejsing,86,Enchantment,"Whenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord.\nAs long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.",WWK
+Ricochet Trap,,Jaime Jones,87,Instant — Trap,"If an opponent cast a blue spell this turn, you may pay {R} rather than pay Ricochet Trap's mana cost.\nChange the target of target spell with a single target.",WWK
+Roiling Terrain,,Steve Prescott,88,Sorcery,"Destroy target land, then Roiling Terrain deals damage to that land's controller equal to the number of land cards in that player's graveyard.",WWK
+Rumbling Aftershocks,,Tomasz Jedruszek,89,Enchantment,"Whenever you cast a kicked spell, you may have Rumbling Aftershocks deal damage to target creature or player equal to the number of times that spell was kicked.",WWK
+Searing Blaze,,James Paick,90,Instant,"Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.\nLandfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.","pMPR,WWK,DDI"
+Skitter of Lizards,,Warren Mahy,91,Creature — Lizard,Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.)\nHaste
+Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Slavering Nulls,,Dave Kendall,92,Creature — Goblin Zombie,"Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.","WWK,DDH"
+Stone Idol Trap,,Jung Park,93,Instant — Trap,Stone Idol Trap costs {1} less to cast for each attacking creature.\nPut a 6/12 colorless Construct artifact creature token with trample onto the battlefield. Exile it at the beginning of your next end step.,WWK
+Tuktuk Scrapper,,Matt Cavotta,94,Creature — Goblin Artificer Ally,"Whenever Tuktuk Scrapper or another Ally enters the battlefield under your control, you may destroy target artifact. If that artifact is put into a graveyard this way, Tuktuk Scrapper deals damage to that artifact's controller equal to the number of Allies you control.",WWK
+Arbor Elf,,rk post,95,Creature — Elf Druid,{T}: Untap target Forest.,"WWK,M13"
+Avenger of Zendikar,,Zoltan Boros & Gabor Szikszai,96,Creature — Elemental,"When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.\nLandfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.","WWK,C13,DDP"
+Bestial Menace,,Andrew Robinson,97,Sorcery,"Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.","WWK,CMD,MM2"
+Canopy Cover,,Igor Kieryluk,98,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked except by creatures with flying or reach.
+Enchanted creature can't be the target of spells or abilities your opponents control.,WWK
+Explore,,John Avon,99,Sorcery,You may play an additional land this turn.\nDraw a card.,"WWK,DDO"
+Feral Contest,,Daarken,100,Sorcery,Put a +1/+1 counter on target creature you control. Another target creature blocks it this turn if able.,WWK
+Gnarlid Pack,,Johann Bodin,101,Creature — Beast,Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nGnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS,MM2"
+Grappler Spider,,Austin Hsu,102,Creature — Spider,Reach (This creature can block creatures with flying.),WWK
+Graypelt Hunter,,Svetlin Velinov,103,Creature — Human Warrior Ally,"Trample\nWhenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.","WWK,DDP"
+Groundswell,,Chris Rahn,104,Instant,"Target creature gets +2/+2 until end of turn.\nLandfall — If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.","WWK,DDP"
+Harabaz Druid,,Wayne Reynolds,105,Creature — Human Druid Ally,"{T}: Add X mana of any one color to your mana pool, where X is the number of Allies you control.",WWK
+Joraga Warcaller,,Steven Belledin,106,Creature — Elf Warrior,Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nJoraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.,"pLPA,WWK,C14"
+Leatherback Baloth,,Dave Kendall,107,Creature — Beast,,"pWPN,WWK"
+Nature's Claim,,Daarken,108,Instant,Destroy target artifact or enchantment. Its controller gains 4 life.,"WWK,CNS"
+"Omnath, Locus of Mana",,Mike Bierek,109,Legendary Creature — Elemental,"Green mana doesn't empty from your mana pool as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.","WWK,V11"
+Quest for Renewal,,Tomasz Jedruszek,110,Enchantment,"Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal.\nAs long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step.",WWK
+Slingbow Trap,,Daniel Ljunggren,111,Instant — Trap,"If a black creature with flying is attacking, you may pay {G} rather than pay Slingbow Trap's mana cost.\nDestroy target attacking creature with flying.",WWK
+Snapping Creeper,,Cyril Van Der Haegen,112,Creature — Plant,"Landfall — Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.",WWK
+Strength of the Tajuru,,Christopher Moeller,113,Instant,"Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.",WWK
+Summit Apes,,Véronique Meignaud,114,Creature — Ape,"As long as you control a Mountain, Summit Apes has menace. (It can't be blocked except by two or more creatures.)",WWK
+Terastodon,,Lars Grant-West,115,Creature — Elephant,"When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.","pMEI,WWK,PD3,CNS,C14,C15"
+Vastwood Animist,,Raymond Swanland,116,Creature — Elf Shaman Ally,"{T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.",WWK
+Vastwood Zendikon,,Rob Alexander,117,Enchantment — Aura,"Enchant land\nEnchanted land is a 6/4 green Elemental creature. It's still a land.
+When enchanted land dies, return that card to its owner's hand.",WWK
+Wolfbriar Elemental,,Chippy,118,Creature — Elemental,"Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.)\nWhen Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.","WWK,CNS,C14,MM2"
+Novablast Wurm,,Michael Komarck,119,Creature — Wurm,"Whenever Novablast Wurm attacks, destroy all other creatures.",WWK
+"Wrexial, the Risen Deep",,Eric Deschamps,120,Legendary Creature — Kraken,"Islandwalk, swampwalk (This creature can't be blocked as long as defending player controls an Island or a Swamp.)\nWhenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.","WWK,CMD"
+Amulet of Vigor,,Warren Mahy,121,Artifact,"Whenever a permanent enters the battlefield tapped and under your control, untap it.",WWK
+Basilisk Collar,,Howard Lyon,122,Artifact — Equipment,Equipped creature has deathtouch and lifelink.\nEquip {2},WWK
+Everflowing Chalice,,Steve Argyle,123,Artifact,Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)\nEverflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.,"pFNM,WWK,ARC,DDF,C14,MM2"
+Hammer of Ruin,,Vincent Proce,124,Artifact — Equipment,"Equipped creature gets +2/+0.\nWhenever equipped creature deals combat damage to a player, you may destroy target Equipment that player controls.
+Equip {2}",WWK
+Hedron Rover,,Jason Felix,125,Artifact Creature — Construct,"Landfall — Whenever a land enters the battlefield under your control, Hedron Rover gets +2/+2 until end of turn.",WWK
+Kitesail,,Cyril Van Der Haegen,126,Artifact — Equipment,Equipped creature gets +1/+0 and has flying.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),"WWK,M13,MM2"
+Lodestone Golem,,Chris Rahn,127,Artifact Creature — Golem,Nonartifact spells cost {1} more to cast.,"WWK,ARC,MM2"
+Pilgrim's Eye,,Dan Scott,128,Artifact Creature — Thopter,"Flying\nWhen Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.","WWK,DDI,C13,C14,BFZ"
+Razor Boomerang,,Franz Vohwinkel,129,Artifact — Equipment,"Equipped creature has "{T}, Unattach Razor Boomerang: Razor Boomerang deals 1 damage to target creature or player. Return Razor Boomerang to its owner's hand."\nEquip {2}",WWK
+Seer's Sundial,,Franz Vohwinkel,130,Artifact,"Landfall — Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.","WWK,C13,C14,DDP,C15"
+Walking Atlas,,Rob Alexander,131,Artifact Creature — Construct,{T}: You may put a land card from your hand onto the battlefield.,WWK
+Bojuka Bog,,Howard Lyon,132,Land,"Bojuka Bog enters the battlefield tapped.\nWhen Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+{T}: Add {B} to your mana pool.","WWK,CMD,C13,C14"
+Celestial Colonnade,,Eric Deschamps,133,Land,"Celestial Colonnade enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.
+{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.","pMEI,WWK"
+Creeping Tar Pit,,Jason Felix,134,Land,Creeping Tar Pit enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.
+{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can't be blocked this turn. It's still a land.,WWK
+Dread Statuary,,Jason A. Engle,135,Land,{T}: Add {1} to your mana pool.\n{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.,"WWK,DDM"
+Eye of Ugin,,James Paick,136,Legendary Land,"Colorless Eldrazi spells you cast cost {2} less to cast.\n{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.","WWK,MM2"
+Halimar Depths,,Volkan Baga,137,Land,"Halimar Depths enters the battlefield tapped.\nWhen Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order.
+{T}: Add {U} to your mana pool.","WWK,DDM"
+Khalni Garden,,Ryan Pancoast,138,Land,"Khalni Garden enters the battlefield tapped.\nWhen Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.
+{T}: Add {G} to your mana pool.","WWK,ARC,PC2,C13"
+Lavaclaw Reaches,,Véronique Meignaud,139,Land,"Lavaclaw Reaches enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.
+{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with "{X}: This creature gets +X/+0 until end of turn." It's still a land.",WWK
+Quicksand,,Matt Stewart,140,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.","VIS,9ED,10E,WWK,CNS"
+Raging Ravine,,Todd Lockwood,141,Land,"Raging Ravine enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.
+{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with "Whenever this creature attacks, put a +1/+1 counter on it." It's still a land.",WWK
+Sejiri Steppe,,Anthony Francisco,142,Land,"Sejiri Steppe enters the battlefield tapped.\nWhen Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
+{T}: Add {W} to your mana pool.","WWK,DDG"
+Smoldering Spires,,Rob Alexander,143,Land,"Smoldering Spires enters the battlefield tapped.\nWhen Smoldering Spires enters the battlefield, target creature can't block this turn.
+{T}: Add {R} to your mana pool.",WWK
+Stirring Wildwood,,Eric Deschamps,144,Land,"Stirring Wildwood enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.
+{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.","WWK,DDP"
+Tectonic Edge,,Vincent Proce,145,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.","pFNM,WWK,C14"

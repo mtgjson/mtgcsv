@@ -1,0 +1,240 @@
+name,cost,artist,number,type,text,printings
+Advantageous Proclamation,,Izzy,1,Conspiracy,(Start the game with this conspiracy face up in the command zone.)\nYour minimum deck size is reduced by five.,CNS
+Backup Plan,,David Palumbo,2,Conspiracy,"(Start the game with this conspiracy face up in the command zone.)\nDraw an additional hand of seven cards as the game begins. Before taking mulligans, shuffle all but one of your hands into your library.",CNS
+Brago's Favor,,Karla Ortiz,3,Conspiracy,Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nSpells with the chosen name you cast cost {1} less to cast.,CNS
+Double Stroke,,Christopher Moeller,4,Conspiracy,"Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nWhenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.",CNS
+Immediate Action,,Karl Kopinski,5,Conspiracy,Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nCreatures you control with the chosen name have haste.,CNS
+Iterative Analysis,,Winona Nelson,6,Conspiracy,"Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nWhenever you cast an instant or sorcery spell with the chosen name, you may draw a card.",CNS
+Muzzio's Preparations,,Karl Kopinski,7,Conspiracy,Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nEach creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.,CNS
+Power Play,,Matt Stewart,8,Conspiracy,"(Start the game with this conspiracy face up in the command zone.)\nYou are the starting player. If multiple players would be the starting player, one of those players is chosen at random.",CNS
+Secret Summoning,,Lucas Graciano,9,Conspiracy,"Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nWhenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library.",CNS
+Secrets of Paradise,,Tyler Jacobson,10,Conspiracy,Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nCreatures you control with the chosen name have "{T}: Add one mana of any color to your mana pool.",CNS
+Sentinel Dispatch,,Adam Paquette,11,Conspiracy,"(Start the game with this conspiracy face up in the command zone.)\nAt the beginning of the first upkeep, put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.",CNS
+Unexpected Potential,,Izzy,12,Conspiracy,Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nYou may spend mana as though it were mana of any color to cast spells with the chosen name.,CNS
+Worldknit,,Adam Paquette,13,Conspiracy,"(Start the game with this conspiracy face up in the command zone.)\nAs long as every card in your card pool started the game in your library or in the command zone, lands you control have "{T}: Add one mana of any color to your mana pool."",CNS
+Brago's Representative,,Anthony Palumbo,14,Creature — Human Advisor,"While voting, you get an additional vote. (The votes can be for different choices or for the same choice.)",CNS
+Council Guardian,,Volkan Baga,15,Creature — Giant Soldier,"Will of the council — When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes.",CNS
+Council's Judgment,,Kev Walker,16,Sorcery,"Will of the council — Starting with you, each player votes for a nonland permanent you don't control. Exile each permanent with the most votes or tied for most votes.","CNS,VMA"
+Custodi Soulbinders,,Karla Ortiz,17,Creature — Human Cleric,"Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.\n{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Put a 1/1 white Spirit creature token with flying onto the battlefield.",CNS
+Custodi Squire,,Alex Horley-Orlandelli,18,Creature — Spirit Cleric,"Flying\nWill of the council — When Custodi Squire enters the battlefield, starting with you, each player votes for an artifact, creature, or enchantment card in your graveyard. Return each card with the most votes or tied for most votes to your hand.",CNS
+Rousing of Souls,,Jeff Simpson,19,Sorcery,"Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto the battlefield. Then each player draws a card.",CNS
+Academy Elite,,Volkan Baga,20,Creature — Human Wizard,"Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.","CNS,VMA"
+Marchesa's Emissary,,Tyler Jacobson,21,Creature — Human Rogue,"Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)",CNS
+Marchesa's Infiltrator,,Lucas Graciano,22,Creature — Human Rogue,"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)\nWhenever Marchesa's Infiltrator deals combat damage to a player, draw a card.",CNS
+"Muzzio, Visionary Architect",,Volkan Baga,23,Legendary Creature — Human Artificer,"{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.","CNS,VMA"
+Plea for Power,,John Severin Brassell,24,Sorcery,"Will of the council — Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards.","CNS,VMA"
+Split Decision,,Robbie Trevino,25,Instant,"Will of the council — Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy.",CNS
+Bite of the Black Rose,,Franz Vohwinkel,26,Sorcery,"Will of the council — Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards.",CNS
+Drakestown Forgotten,,Steve Prescott,27,Creature — Zombie,"Drakestown Forgotten enters the battlefield with X +1/+1 counters on it, where X is the number of creature cards in all graveyards.\n{2}{B}, Remove a +1/+1 counter from Drakestown Forgotten: Target creature gets -1/-1 until end of turn.","CNS,VMA"
+Grudge Keeper,,Ryan Barger,28,Creature — Zombie Wizard,"Whenever players finish voting, each opponent who voted for a choice you didn't vote for loses 2 life.",CNS
+Reign of the Pit,,Evan Shipard,29,Sorcery,"Each player sacrifices a creature. Put an X/X black Demon creature token with flying onto the battlefield, where X is the total power of the creatures sacrificed this way.","CNS,VMA"
+Tyrant's Choice,,Daarken,30,Sorcery,"Will of the council — Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life.","CNS,VMA"
+Enraged Revolutionary,,Drew Baker,31,Creature — Human Warrior,"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)",CNS
+Grenzo's Cutthroat,,Svetlin Velinov,32,Creature — Goblin Rogue,"First strike\nDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)",CNS
+Grenzo's Rebuttal,,Dave Kendall,33,Sorcery,"Put a 4/4 red Ogre creature token onto the battlefield. Starting with you, each player chooses an artifact, a creature, and a land from among the permanents controlled by the player to his or her left. Destroy each permanent chosen this way.",CNS
+Ignition Team,,Karl Kopinski,34,Creature — Goblin Warrior,"Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield.\n{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It's still a land.",CNS
+Scourge of the Throne,,Michael Komarck,35,Creature — Dragon,"Flying\nDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)
+Whenever Scourge of the Throne attacks for the first time each turn, if it's attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase.","CNS,VMA"
+Treasonous Ogre,,Randy Gallegos,36,Creature — Ogre Shaman,"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)\nPay 3 life: Add {R} to your mana pool.",CNS
+Predator's Howl,,Ralph Horsley,37,Instant,Put a 2/2 green Wolf creature token onto the battlefield.\nMorbid — Put three 2/2 green Wolf creature tokens onto the battlefield instead if a creature died this turn.,CNS
+Realm Seekers,,Mike Sass,38,Creature — Elf Scout,"Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players' hands.\n{2}{G}, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.","CNS,VMA"
+Selvala's Charge,,Dan Scott,39,Sorcery,"Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 3/3 green Elephant creature token onto the battlefield. Then each player draws a card.",CNS
+Selvala's Enforcer,,Jesper Ejsing,40,Creature — Elf Warrior,"Parley — When Selvala's Enforcer enters the battlefield, each player reveals the top card of his or her library. For each nonland card revealed this way, put a +1/+1 counter on Selvala's Enforcer. Then each player draws a card.",CNS
+"Brago, King Eternal",,Karla Ortiz,41,Legendary Creature — Spirit,"Flying\nWhenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner's control.","CNS,VMA"
+Dack Fayden,,Eric Deschamps,42,Planeswalker — Dack,"+1: Target player draws two cards, then discards two cards.\n−2: Gain control of target artifact.
+−6: You get an emblem with "Whenever you cast a spell that targets one or more permanents, gain control of those permanents."","CNS,VMA"
+Dack's Duplicate,,Karl Kopinski,43,Creature — Shapeshifter,"You may have Dack's Duplicate enter the battlefield as a copy of any creature on the battlefield except it gains haste and dethrone. (Whenever it attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)","CNS,VMA"
+Deathreap Ritual,,Steve Argyle,44,Enchantment,"Morbid — At the beginning of each end step, if a creature died this turn, you may draw a card.","CNS,VMA"
+Extract from Darkness,,Dallas Williams,45,Sorcery,Each player puts the top two cards of his or her library into his or her graveyard. Then put a creature card from a graveyard onto the battlefield under your control.,CNS
+Flamewright,,Mathias Kollros,46,Creature — Human Artificer,"{1}, {T}: Put a 1/1 colorless Construct artifact creature token with defender onto the battlefield.\n{T}, Sacrifice a creature with defender: Flamewright deals 1 damage to target creature or player.",CNS
+"Grenzo, Dungeon Warden",,Lucas Graciano,47,Legendary Creature — Goblin Rogue,"Grenzo, Dungeon Warden enters the battlefield with X +1/+1 counters on it.\n{2}: Put the bottom card of your library into your graveyard. If it's a creature card with power less than or equal to Grenzo's power, put it onto the battlefield.","CNS,VMA"
+Magister of Worth,,John Stanko,48,Creature — Angel,"Flying\nWill of the council — When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from his or her graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.","pMEI,CNS,VMA"
+"Marchesa, the Black Rose",,Matt Stewart,49,Legendary Creature — Human Wizard,"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)\nOther creatures you control have dethrone.
+Whenever a creature you control with a +1/+1 counter on it dies, return that card to the battlefield under your control at the beginning of the next end step.","CNS,VMA"
+Marchesa's Smuggler,,Dan Scott,50,Creature — Human Rogue,"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)\n{1}{U}{R}: Target creature you control gains haste until end of turn and can't be blocked this turn.",CNS
+"Selvala, Explorer Returned",,Tyler Jacobson,51,Legendary Creature — Elf Scout,"Parley — {T}: Each player reveals the top card of his or her library. For each nonland card revealed this way, add {G} to your mana pool and you gain 1 life. Then each player draws a card.","CNS,VMA"
+Woodvine Elemental,,Mike Bierek,52,Creature — Elemental,"Trample\nParley — Whenever Woodvine Elemental attacks, each player reveals the top card of his or her library. For each nonland card revealed this way, attacking creatures you control get +1/+1 until end of turn. Then each player draws a card.",CNS
+Æther Searcher,,James Paick,53,Artifact Creature — Construct,"Reveal Æther Searcher as you draft it. Reveal the next card you draft and note its name. \nWhen Æther Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Æther Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.",CNS
+Agent of Acquisitions,,Eytan Zana,54,Artifact Creature — Construct,"Draft Agent of Acquisitions face up.\nInstead of drafting a card from a booster pack, you may draft each card in that booster pack, one at a time. If you do, turn Agent of Acquisitions face down and you can't draft cards for the rest of this draft round. (You may look at booster packs passed to you.)",CNS
+Canal Dredger,,John Avon,55,Artifact Creature — Construct,Draft Canal Dredger face up.\nEach player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.
+{T}: Put target card from your graveyard on the bottom of your library.,CNS
+Coercive Portal,,Yeong-Hao Han,56,Artifact,"Will of the council — At the beginning of your upkeep, starting with you, each player votes for carnage or homage. If carnage gets more votes, sacrifice Coercive Portal and destroy all nonland permanents. If homage gets more votes or the vote is tied, draw a card.","CNS,VMA"
+Cogwork Grinder,,Jasper Sandner,57,Artifact Creature — Construct,"Draft Cogwork Grinder face up.\nAs you draft a card, you may remove it from the draft face down. (Those cards aren't in your card pool.)
+Cogwork Grinder enters the battlefield with X +1/+1 counters on it, where X is the number of cards you removed from the draft with cards named Cogwork Grinder.",CNS
+Cogwork Librarian,,Dan Scott,58,Artifact Creature — Construct,"Draft Cogwork Librarian face up.\nAs you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.",CNS
+Cogwork Spy,,Tomasz Jedruszek,59,Artifact Creature — Bird Construct,Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.\nFlying,CNS
+Cogwork Tracker,,Alex Horley-Orlandelli,60,Artifact Creature — Hound Construct,Reveal Cogwork Tracker as you draft it and note the player who passed it to you.\nCogwork Tracker attacks each turn if able.
+Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker each turn if able.,CNS
+Deal Broker,,Cliff Childs,61,Artifact Creature — Construct,"Draft Deal Broker face up.\nImmediately after the draft, you may reveal a card in your card pool. Each other player may offer you one card in his or her card pool in exchange. You may accept any one offer.
+{T}: Draw a card, then discard a card.",CNS
+Lore Seeker,,Jason Felix,62,Artifact Creature — Construct,"Reveal Lore Seeker as you draft it. After you draft Lore Seeker, you may add a booster pack to the draft. (Your next pick is from that booster pack. Pass it to the next player and it's drafted this draft round.)",CNS
+Lurking Automaton,,Yeong-Hao Han,63,Artifact Creature — Construct,"Reveal Lurking Automaton as you draft it and note how many cards you've drafted this draft round, including Lurking Automaton.\nLurking Automaton enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Lurking Automaton.",CNS
+Whispergear Sneak,,Jesper Ejsing,64,Artifact Creature — Construct,"Draft Whispergear Sneak face up.\nDuring the draft, you may turn Whispergear Sneak face down. If you do, look at any unopened booster pack in the draft or any booster pack not being looked at by another player.",CNS
+"Paliano, the High City",,Adam Paquette,65,Legendary Land,"Reveal Paliano, the High City as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color.\n{T}: Add one mana to your mana pool of any color chosen as you drafted cards named Paliano, the High City.",CNS
+Ajani's Sunstriker,,Matt Stewart,66,Creature — Cat Cleric,Lifelink (Damage dealt by this creature also causes you to gain that much life.),"M13,CNS"
+Apex Hawks,,David Palumbo,67,Creature — Bird,Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)\nFlying
+Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Courier Hawk,,Mark Poole,68,Creature — Bird,"Flying, vigilance","RAV,CNS"
+Doomed Traveler,,Lars Grant-West,69,Creature — Human Soldier,"When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.","ISD,DDK,CNS"
+Glimmerpoint Stag,,Ryan Pancoast,70,Creature — Elk,"Vigilance\nWhen Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.","SOM,CNS"
+Guardian Zendikon,,John Avon,71,Enchantment — Aura,"Enchant land\nEnchanted land is a 2/6 white Wall creature with defender. It's still a land.
+When enchanted land dies, return that card to its owner's hand.","WWK,CNS"
+Intangible Virtue,,Clint Cearley,72,Enchantment,Creature tokens you control get +1/+1 and have vigilance.,"ISD,MD1,CNS"
+Kor Chant,,Yohann Schepacz,73,Instant,All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.,"EXO,CNS,TPR"
+Moment of Heroism,,Christopher Moeller,74,Instant,Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.),"ISD,DDL,CNS"
+Noble Templar,,Alex Horley-Orlandelli,75,Creature — Human Cleric Soldier,"Vigilance\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)","SCG,CNS,VMA,DDO"
+Pillarfield Ox,,Andrew Robinson,76,Creature — Ox,,"ZEN,M13,M14,CNS"
+Pride Guardian,,Chris Rahn,77,Creature — Cat Monk,"Defender\nWhenever Pride Guardian blocks, you gain 3 life.","M12,CNS"
+Pristine Angel,,Scott M. Fischer,78,Creature — Angel,"Flying\nAs long as Pristine Angel is untapped, it has protection from artifacts and from all colors.
+Whenever you cast a spell, you may untap Pristine Angel.","DST,CNS"
+Reya Dawnbringer,,Matthew D. Wilson,79,Legendary Creature — Angel,"Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.","INV,10E,pMGD,DDC,CNS,DD3_DVD"
+Rout,,Igor Kieryluk,80,Sorcery,You may cast Rout as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nDestroy all creatures. They can't be regenerated.,"INV,CNS"
+Silverchase Fox,,Howard Lyon,81,Creature — Fox,"{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.","ISD,CNS"
+Soulcatcher,,Julie Dillon,82,Creature — Bird Soldier,"Flying\nWhenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.","ODY,CNS"
+Stave Off,,Mark Zug,83,Instant,Target creature gains protection from the color of your choice until end of turn.,"M12,CNS,DDN"
+Swords to Plowshares,,Terese Nielsen,84,Instant,Exile target creature. Its controller gains life equal to its power.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,pJGP,ATH,BRB,pFNM,CST,ME2,DDF,ME4,V13,CNS,VMA"
+Unquestioned Authority,,Zoltan Boros,85,Enchantment — Aura,"Enchant creature\nWhen Unquestioned Authority enters the battlefield, draw a card.
+Enchanted creature has protection from creatures.","JUD,CNS"
+Valor Made Real,,Jeff Miracola,86,Instant,Target creature can block any number of creatures this turn.,"DIS,CNS"
+Vow of Duty,,Wayne Reynolds,87,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.","CMD,CNS,C15"
+Wakestone Gargoyle,,Jim Murray,88,Creature — Gargoyle,"Defender, flying\n{1}{W}: Creatures you control with defender can attack this turn as though they didn't have defender.","DIS,CNS"
+Æther Tradewinds,,Kieran Yanner,89,Instant,Return target permanent you control and target permanent you don't control to their owners' hands.,"WWK,CNS"
+Air Servant,,Lars Grant-West,90,Creature — Elemental,Flying\n{2}{U}: Tap target creature with flying.,"M11,M14,CNS,MM2"
+Brainstorm,,Willian Murai,91,Instant,"Draw three cards, then put two cards from your hand on top of your library in any order.","ICE,5ED,MMQ,pFNM,BTD,CST,ME2,CMD,DDJ,CNS,VMA,C15"
+Breakthrough,,Raymond Swanland,92,Sorcery,"Draw four cards, then choose X cards in your hand and discard the rest.","TOR,CNS"
+Compulsive Research,,Michael Sutfin,93,Sorcery,Target player draws three cards. Then that player discards two cards unless he or she discards a land card.,"RAV,CNS,C14"
+Crookclaw Transmuter,,Ron Spencer,94,Creature — Bird Wizard,"Flash (You may cast this spell any time you could cast an instant.)\nFlying
+When Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn.","TSP,CNS"
+Dream Fracture,,Howard Lyon,95,Instant,Counter target spell. Its controller draws a card.\nDraw a card.,"EVE,CNS"
+Enclave Elite,,Igor Kieryluk,96,Creature — Merfolk Soldier,Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)\nIslandwalk (This creature can't be blocked as long as defending player controls an Island.)
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Fact or Fiction,,Matt Cavotta,97,Instant,Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.,"pFNM,INV,DD2,CMD,V13,CNS,VMA,DD3_JVC,C15"
+Favorable Winds,,Winona Nelson,98,Enchantment,Creatures you control with flying get +1/+1.,"AVR,CNS"
+Grixis Illusionist,,Mark Tedin,99,Creature — Human Wizard,{T}: Target land you control becomes the basic land type of your choice until end of turn.,"CON,CNS"
+Jetting Glasskite,,Shishizaru,100,Creature — Spirit,"Flying\nWhenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.","BOK,CNS"
+Minamo Scrollkeeper,,Paolo Parente,101,Creature — Human Wizard,Defender\nYour maximum hand size is increased by one.,"SOK,CNS"
+Misdirection,,Mathias Kollros,102,Instant,You may exile a blue card from your hand rather than pay Misdirection's mana cost.\nChange the target of target spell with a single target.,"MMQ,CNS"
+Plated Seastrider,,Izzy,103,Creature — Beast,,"SOM,CNS"
+Reckless Scholar,,Steve Prescott,104,Creature — Human Wizard,"{T}: Target player draws a card, then discards a card.","ZEN,CNS"
+Screaming Seahawk,,Heather Hudson,105,Creature — Bird,"Flying\nWhen Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.","ONS,CNS"
+Shoreline Ranger,,Michael Sutfin,106,Creature — Bird Soldier,"Flying\nIslandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, and put it into your hand. Then shuffle your library.)","SCG,CNS"
+Stasis Cell,,Mark A. Nelson,107,Enchantment — Aura,Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+{3}{U}: Attach Stasis Cell to target creature.,"RAV,CNS"
+Stifle,,Eric Fortune,108,Instant,Counter target activated or triggered ability. (Mana abilities can't be targeted.),"pJGP,SCG,CNS"
+Traveler's Cloak,,Rebecca Guay,109,Enchantment — Aura,"Enchant creature\nAs Traveler's Cloak enters the battlefield, choose a land type.
+When Traveler's Cloak enters the battlefield, draw a card.
+Enchanted creature has landwalk of the chosen type. (It can't be blocked as long as defending player controls a land of that type.)","INV,CNS"
+Turn the Tide,,Jason Felix,110,Instant,Creatures your opponents control get -2/-0 until end of turn.,"MBS,CNS"
+Wind Dancer,,Cynthia Sheppard,111,Creature — Faerie,Flying\n{T}: Target creature gains flying until end of turn.,"TMP,7ED,CNS,TPR"
+Altar's Reap,,Donato Giancola,112,Instant,"As an additional cost to cast Altar's Reap, sacrifice a creature.\nDraw two cards.","ISD,M14,CNS,BFZ,C15"
+Assassinate,,Kev Walker,113,Sorcery,Destroy target tapped creature.,"TSP,10E,M10,M11,PC2,CNS"
+Ill-Gotten Gains,,Greg Staples,114,Sorcery,"Exile Ill-Gotten Gains. Each player discards his or her hand, then returns up to three cards from his or her graveyard to his or her hand.","USG,CNS"
+Infectious Horror,,Pete Venters,115,Creature — Zombie Horror,"Whenever Infectious Horror attacks, each opponent loses 2 life.","CON,ARC,CNS"
+Liliana's Specter,,Vance Kovacs,116,Creature — Specter,"Flying\nWhen Liliana's Specter enters the battlefield, each opponent discards a card.","pMGD,M11,PC2,CNS"
+Magus of the Mirror,,Christopher Moeller,117,Creature — Human Wizard,"{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.","TSP,CNS"
+Morkrut Banshee,,Svetlin Velinov,118,Creature — Spirit,"Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.","ISD,CNS,C14"
+Necromantic Thirst,,Brandon Kitkouski,119,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.","RAV,CNS"
+Phage the Untouchable,,Ron Spears,120,Legendary Creature — Avatar Minion,"When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.\nWhenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Whenever Phage deals combat damage to a player, that player loses the game.","LGN,10E,CNS"
+Plagued Rusalka,,Alex Horley-Orlandelli,121,Creature — Spirit,"{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.","GPT,DDJ,CNS,MM2"
+Quag Vampires,,Jason Felix,122,Creature — Vampire Rogue,Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)\nSwampwalk (This creature can't be blocked as long as defending player controls a Swamp.)
+Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Reckless Spite,,Karl Kopinski,123,Instant,Destroy two target nonblack creatures. You lose 5 life.,"TMP,INV,C13,CNS"
+Skeletal Scrying,,Bob Petillo,124,Instant,"As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.\nYou draw X cards and you lose X life.","ODY,CNS,C14"
+Smallpox,,Ryan Pancoast,125,Sorcery,"Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.","TSP,M12,CNS"
+Stronghold Discipline,,Daarken,126,Sorcery,Each player loses 1 life for each creature he or she controls.,"NMS,10E,CNS"
+Syphon Soul,,Ron Spears,127,Sorcery,Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.,"LEG,6ED,BRB,ONS,HOP,CNS"
+Tragic Slip,,Christopher Moeller,128,Instant,Target creature gets -1/-1 until end of turn.\nMorbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.,"DKA,DDM,CNS,C14"
+Twisted Abomination,,Daren Bader,129,Creature — Zombie Mutant,"{B}: Regenerate Twisted Abomination.\nSwampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)","SCG,TSB,DDD,ARC,PD3,CNS,DD3_GVL"
+Typhoid Rats,,Kev Walker,130,Creature — Rat,Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.),"ISD,CNS,M15,FRF"
+Unhallowed Pact,,Volkan Baga,131,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under your control.","AVR,CNS"
+Vampire Hexmage,,Eric Deschamps,132,Creature — Vampire Shaman,First strike\nSacrifice Vampire Hexmage: Remove all counters from target permanent.,"ZEN,CNS,C14"
+Victimize,,Craig J Spearing,133,Sorcery,"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.","USG,CNS,C14,C15"
+Wakedancer,,Austin Hsu,134,Creature — Human Shaman,"Morbid — When Wakedancer enters the battlefield, if a creature died this turn, put a 2/2 black Zombie creature token onto the battlefield.","DKA,CNS"
+Zombie Goliath,,E. M. Gist,135,Creature — Zombie Giant,,"M10,M12,M13,CNS"
+Barbed Shocker,,Tony Szczudlo,136,Creature — Insect,"Trample, haste\nWhenever Barbed Shocker deals damage to a player, that player discards all the cards in his or her hand, then draws that many cards.","TSP,CNS"
+Boldwyr Intimidator,,Esad Ribic,137,Creature — Giant Warrior,Cowards can't block Warriors.\n{R}: Target creature becomes a Coward until end of turn.
+{2}{R}: Target creature becomes a Warrior until end of turn.,"FUT,MOR,CNS"
+Brimstone Volley,,Eytan Zana,138,Instant,Brimstone Volley deals 3 damage to target creature or player.\nMorbid — Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.,"ISD,CNS"
+Chartooth Cougar,,Chase Stone,139,Creature — Cat Beast,"{R}: Chartooth Cougar gets +1/+0 until end of turn.\nMountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, and put it into your hand. Then shuffle your library.)","SCG,DD2,CMD,DDI,CNS,VMA,DD3_JVC"
+Cinder Wall,,Anthony S. Waters,140,Creature — Wall,"Defender\nWhen Cinder Wall blocks, destroy it at end of combat.","WTH,8ED,DDG,CNS"
+Deathforge Shaman,,Dave Kendall,141,Creature — Ogre Shaman,"Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)\nWhen Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.","WWK,CNS"
+Flaring Flame-Kin,,Brian Hagan,142,Creature — Elemental Warrior,"As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has "{R}: Flaring Flame-Kin gets +1/+0 until end of turn."","DIS,CNS"
+Flowstone Blade,,Allen Williams,143,Enchantment — Aura,Enchant creature\n{R}: Enchanted creature gets +1/-1 until end of turn.,"STH,CNS,TPR"
+Heartless Hidetsugu,,Carl Critchlow,144,Legendary Creature — Ogre Shaman,"{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.","BOK,CNS"
+Heckling Fiends,,Clint Cearley,145,Creature — Devil,{2}{R}: Target creature attacks this turn if able.,"DKA,CNS"
+Lizard Warrior,,Roger Raupp,146,Creature — Lizard Warrior,,"POR,CNS"
+Mana Geyser,,Martina Pilcerova,147,Sorcery,Add {R} to your mana pool for each tapped land your opponents control.,"5DN,CNS"
+Orcish Cannonade,,Pete Venters,148,Instant,Orcish Cannonade deals 2 damage to target creature or player and 3 damage to you.\nDraw a card.,"TSP,CNS,DDN"
+Pitchburn Devils,,Johann Bodin,149,Creature — Devil,"When Pitchburn Devils dies, it deals 3 damage to target creature or player.","ISD,M14,CNS"
+Power of Fire,,Trevor Hairsine,150,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target creature or player.","SHM,CNS"
+Skitter of Lizards,,Warren Mahy,151,Creature — Lizard,Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.)\nHaste
+Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS"
+Sulfuric Vortex,,Greg Staples,152,Enchantment,"At the beginning of each player's upkeep, Sulfuric Vortex deals 2 damage to that player.\nIf a player would gain life, that player gains no life instead.","SCG,DDK,CNS,VMA"
+Torch Fiend,,Winona Nelson,153,Creature — Devil,"{R}, Sacrifice Torch Fiend: Destroy target artifact.","DKA,M13,CNS,M15"
+Trumpet Blast,,Carl Critchlow,154,Instant,Attacking creatures get +2/+0 until end of turn.,"UDS,M10,M13,CNS,KTK"
+Uncontrollable Anger,,Kev Walker,155,Enchantment — Aura,Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature
+Enchanted creature gets +2/+2 and attacks each turn if able.,"CHK,10E,CNS"
+Vent Sentinel,,Chris Rahn,156,Creature — Elemental,"Defender\n{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.","ROE,CNS"
+Volcanic Fallout,,Zoltan Boros & Gabor Szikszai,157,Instant,Volcanic Fallout can't be countered.\nVolcanic Fallout deals 2 damage to each creature and each player.,"pMPR,CON,ARC,CNS"
+Wrap in Flames,,Véronique Meignaud,158,Sorcery,Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can't block this turn.,"ROE,CNS,MM2"
+Charging Rhino,,Daren Bader,159,Creature — Rhino,Charging Rhino can't be blocked by more than one creature.,"POR,TMP,CNS,M15"
+Copperhorn Scout,,Shelly Wan,160,Creature — Elf Scout,"Whenever Copperhorn Scout attacks, untap each other creature you control.","SOM,CNS"
+Echoing Courage,,Greg Staples,161,Instant,Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.,"DST,MMA,CNS"
+Elephant Guide,,Tomasz Jedruszek,162,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+When enchanted creature dies, put a 3/3 green Elephant creature token onto the battlefield.","JUD,DDD,CNS,VMA,DD3_GVL"
+Elvish Aberration,,Matt Cavotta,163,Creature — Elf Mutant,"{T}: Add {G}{G}{G} to your mana pool.\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)","pARL,SCG,CMD,CNS,VMA"
+Exploration,,Florian de Gesincourt,164,Enchantment,You may play an additional land on each of your turns.,"USG,CNS"
+Gamekeeper,,Scott Hampton,165,Creature — Elf,"When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.","UDS,CNS"
+Gnarlid Pack,,Johann Bodin,166,Creature — Beast,Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nGnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.,"WWK,CNS,MM2"
+Howling Wolf,,Nils Hamm,167,Creature — Wolf,"When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.","MMQ,CNS"
+Hunger of the Howlpack,,Nils Hamm,168,Instant,Put a +1/+1 counter on target creature.\nMorbid — Put three +1/+1 counters on that creature instead if a creature died this turn.,"DKA,CNS"
+Hydra Omnivore,,Svetlin Velinov,169,Creature — Hydra,"Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.","CMD,CNS"
+Lead the Stampede,,Efrem Palacios,170,Sorcery,Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.,"MBS,DDH,CNS"
+Nature's Claim,,Raoul Vitale,171,Instant,Destroy target artifact or enchantment. Its controller gains 4 life.,"WWK,CNS"
+Pelakka Wurm,,Daniel Ljunggren,172,Creature — Wurm,"Trample\nWhen Pelakka Wurm enters the battlefield, you gain 7 life.
+When Pelakka Wurm dies, draw a card.","ROE,CNS,MM2"
+Plummet,,Pete Venters,173,Instant,Destroy target creature with flying.,"ARC,M11,M12,M13,M14,CNS,M15,MM2,ORI,BFZ"
+Provoke,,Kev Walker,174,Instant,Untap target creature you don't control. That creature blocks this turn if able.\nDraw a card.,"STH,CNS,VMA,TPR"
+Relic Crush,,Steven Belledin,175,Instant,Destroy target artifact or enchantment and up to one other target artifact or enchantment.,"ZEN,CMD,CNS"
+Respite,,Rebecca Guay,176,Instant,Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.,"TMP,CNS"
+Sakura-Tribe Elder,,Carl Critchlow,177,Creature — Snake Shaman,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.","pSUS,pFNM,CHK,ARC,CMD,C13,CNS,C15"
+Scaled Wurm,,Wayne England,178,Creature — Wurm,,"ICE,5ED,6ED,BRB,BTD,9ED,CNS"
+Sporecap Spider,,Lars Grant-West,179,Creature — Spider,Reach (This creature can block creatures with flying.),"ROE,CNS"
+Squirrel Nest,,Daniel Ljunggren,180,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield.","ODY,CNS"
+Terastodon,,Lars Grant-West,181,Creature — Elephant,"When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.","pMEI,WWK,PD3,CNS,C14,C15"
+Wolfbriar Elemental,,Chippy,182,Creature — Elemental,"Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.)\nWhen Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.","WWK,CNS,C14,MM2"
+Wrap in Vigor,,John Donahue,183,Instant,Regenerate each creature you control.,"FUT,CNS"
+"Basandra, Battle Seraph",,Terese Nielsen,184,Legendary Creature — Angel,Flying\nPlayers can't cast spells during combat.
+{R}: Target creature attacks this turn if able.,"CMD,CNS,VMA"
+Decimate,,Zoltan Boros,185,Sorcery,"Destroy target artifact, target creature, target enchantment, and target land.","ODY,CNS"
+Dimir Doppelganger,,Jim Murray,186,Creature — Shapeshifter,{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.,"RAV,CNS"
+"Edric, Spymaster of Trest",,Volkan Baga,187,Legendary Creature — Elf Rogue,"Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.","CMD,CM1,CNS,VMA"
+Fires of Yavimaya,,Izzy,188,Enchantment,Creatures you control have haste.\nSacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.,"INV,HOP,ARC,PC2,DDL,C13,CNS,VMA"
+Mirari's Wake,,Volkan Baga,189,Enchantment,"Creatures you control get +1/+1.\nWhenever you tap a land for mana, add one mana to your mana pool of any type that land produced.","JUD,pPRO,CM1,CNS"
+Mortify,,Nils Hamm,190,Instant,Destroy target creature or enchantment.,"pMPR,GPT,CMD,DDK,CNS"
+Pernicious Deed,,Christopher Moeller,191,Enchantment,"{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.","pJGP,APC,CNS"
+Sky Spirit,,Rebecca Guay,192,Creature — Spirit,"Flying, first strike","TMP,DDI,CNS"
+Spiritmonger,,Kev Walker,193,Creature — Beast,"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.\n{B}: Regenerate Spiritmonger.
+{G}: Spiritmonger becomes the color of your choice until end of turn.","APC,pGPX,CNS,VMA"
+Spontaneous Combustion,,Jason Rainville,194,Instant,"As an additional cost to cast Spontaneous Combustion, sacrifice a creature.\nSpontaneous Combustion deals 3 damage to each creature.","TMP,CNS"
+Wood Sage,,Paolo Parente,195,Creature — Human Druid,{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.,"TMP,CNS,TPR"
+Altar of Dementia,,Brom,196,Artifact,Sacrifice a creature: Target player puts a number of cards equal to the sacrificed creature's power from the top of his or her library into his or her graveyard.,"TMP,CNS"
+Deathrender,,Martina Pilcerova,197,Artifact — Equipment,"Equipped creature gets +2/+2.\nWhenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.
+Equip {2}","LRW,CNS"
+Explorer's Scope,,Vincent Proce,198,Artifact — Equipment,"Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)","ZEN,CNS,DDP"
+Fireshrieker,,Christopher Moeller,199,Artifact — Equipment,Equipped creature has double strike. (It deals both first-strike and regular combat damage.)\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),"MRD,M14,CNS"
+Galvanic Juggernaut,,Lucas Graciano,200,Artifact Creature — Juggernaut,"Galvanic Juggernaut attacks each turn if able.\nGalvanic Juggernaut doesn't untap during your untap step.
+Whenever another creature dies, untap Galvanic Juggernaut.","ISD,CNS"
+Peace Strider,,Igor Kieryluk,201,Artifact Creature — Construct,"When Peace Strider enters the battlefield, you gain 3 life.","MBS,CNS"
+Reito Lantern,,Greg Hildebrandt,202,Artifact,{3}: Put target card from a graveyard on the bottom of its owner's library.,"CHK,CNS"
+Runed Servitor,,Mike Bierek,203,Artifact Creature — Construct,"When Runed Servitor dies, each player draws a card.","ROE,DDF,CNS,MM2,ORI,DDP"
+Silent Arbiter,,Mark Zug,204,Artifact Creature — Construct,No more than one creature can attack each combat.\nNo more than one creature can block each combat.,"5DN,CNS"
+Spectral Searchlight,,Martina Pilcerova,205,Artifact,{T}: Choose a player. That player adds one mana of any color he or she chooses to his or her mana pool.,"RAV,CNS"
+Vedalken Orrery,,John Avon,206,Artifact,You may cast nonland cards as though they had flash.,"5DN,CNS"
+Warmonger's Chariot,,Warren Mahy,207,Artifact — Equipment,"Equipped creature gets +2/+2.\nAs long as equipped creature has defender, it can attack as though it didn't have defender.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)","ROE,CNS"
+Mirrodin's Core,,Greg Staples,208,Land,"{T}: Add {1} to your mana pool.\n{T}: Put a charge counter on Mirrodin's Core.
+{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.","DST,CNS"
+Quicksand,,Matt Stewart,209,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.","VIS,9ED,10E,WWK,CNS"
+Reflecting Pool,,Fred Fields,210,Land,{T}: Add to your mana pool one mana of any type that a land you control could produce.,"TMP,SHM,CNS"

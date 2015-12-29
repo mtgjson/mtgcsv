@@ -1,0 +1,343 @@
+name,cost,artist,number,type,text,printings
+Abomination,,Mark Tedin,,Creature — Horror,"Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.","LEG,4ED"
+Acid Rain,,NéNé Thomas,,Sorcery,Destroy all Forests.,"LEG,ME4"
+Active Volcano,,Justin Hampton,,Instant,Choose one —\n• Destroy target blue permanent.
+• Return target Island to its owner's hand.,"LEG,CHR,ME3"
+Adun Oakenshield,,Jeff A. Menges,,Legendary Creature — Human Knight,"{B}{R}{G}, {T}: Return target creature card from your graveyard to your hand.","LEG,MED"
+Adventurers' Guildhouse,,Tom Wänerstrand,,Land,"Green legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",LEG
+Ærathi Berserker,,Melissa A. Benson,,Creature — Human Berserker,"Rampage 3 (Whenever this creature becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)",LEG
+Aisling Leprechaun,,Quinton Hoover,,Creature — Faerie,"Whenever Aisling Leprechaun blocks or becomes blocked by a creature, that creature becomes green. (This effect lasts indefinitely.)",LEG
+Akron Legionnaire,,Mark Poole,,Creature — Giant Soldier,"Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.","LEG,CHR,5ED,ME3"
+Al-abara's Carpet,,Kaja Foglio,,Artifact,"{5}, {T}: Prevent all damage that would be dealt to you this turn by attacking creatures without flying.","LEG,ME4"
+Alabaster Potion,,Harold McNeill,,Instant,Choose one —\n• Target player gains X life.
+• Prevent the next X damage that would be dealt to target creature or player this turn.,"LEG,4ED,RQS,ITP,5ED,ME3"
+Alchor's Tomb,,Jesper Myrfors,,Artifact,"{2}, {T}: Target permanent you control becomes the color of your choice. (This effect lasts indefinitely.)","LEG,ME4"
+All Hallow's Eve,,Christopher Rush,,Sorcery,"Exile All Hallow's Eve with two scream counters on it.\nAt the beginning of your upkeep, if All Hallow's Eve is exiled with a scream counter on it, remove a scream counter from it. If there are no more scream counters on it, put it into your graveyard and each player returns all creature cards from his or her graveyard to the battlefield.","LEG,ME3"
+Amrou Kithkin,,Quinton Hoover,,Creature — Kithkin,Amrou Kithkin can't be blocked by creatures with power 3 or greater.,"LEG,4ED,ME3"
+Angelic Voices,,Julie Baroh,,Enchantment,"Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.","LEG,CHR,ME4"
+Angus Mackenzie,,Bryon Wackwitz,,Legendary Creature — Human Cleric,"{G}{W}{U}, {T}: Prevent all combat damage that would be dealt this turn. Activate this ability only before the combat damage step.","LEG,ME3"
+Anti-Magic Aura,,Douglas Shuler,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be the target of spells and can't be enchanted by other Auras.,"LEG,5ED"
+Arboria,,Daniel Gelon,,World Enchantment,Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.,"LEG,ME3"
+Arcades Sabboth,,"Edward P. Beard, Jr.",,Legendary Creature — Elder Dragon,"Flying\nAt the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.
+Each untapped creature you control gets +0/+2 as long as it's not attacking.
+{W}: Arcades Sabboth gets +0/+1 until end of turn.","LEG,CHR,ME3"
+Arena of the Ancients,,Tom Wänerstrand,,Artifact,"Legendary creatures don't untap during their controllers' untap steps.\nWhen Arena of the Ancients enters the battlefield, tap all legendary creatures.","LEG,CHR,ME3"
+Avoid Fate,,Phil Foglio,,Instant,Counter target instant or Aura spell that targets a permanent you control.,"LEG,TSB"
+Axelrod Gunnarson,,Scott Kirschner,,Legendary Creature — Giant,"Trample\nWhenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.","LEG,CHR,ME3"
+Ayesha Tanaka,,Bryon Wackwitz,,Legendary Creature — Human Artificer,"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\n{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. (Mana abilities can't be targeted.)","LEG,CHR"
+Azure Drake,,Dan Frazier,,Creature — Drake,Flying,"LEG,CHR,5ED,BRB,9ED,M11"
+Backdraft,,Brian Snõddy,,Instant,"Choose a player who cast one or more sorcery spells this turn. Backdraft deals damage to that player equal to half the damage dealt by one of those sorcery spells this turn, rounded down.",LEG
+Backfire,,Brian Snõddy,,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to you, Backfire deals that much damage to that creature's controller.","LEG,4ED"
+Barbary Apes,,Bryon Wackwitz,,Creature — Ape,,LEG
+Barktooth Warbeard,,Andi Rusu,,Legendary Creature — Human Warrior,,"LEG,ME3"
+Bartel Runeaxe,,Andi Rusu,,Legendary Creature — Giant Warrior,Vigilance\nBartel Runeaxe can't be the target of Aura spells.,"LEG,ME3"
+Beasts of Bogardan,,Daniel Gelon,,Creature — Beast,Protection from red\nBeasts of Bogardan gets +1/+1 as long as an opponent controls a nontoken white permanent.,"LEG,CHR"
+Black Mana Battery,,Anson Maddocks,,Artifact,"{2}, {T}: Put a charge counter on Black Mana Battery.\n{T}, Remove any number of charge counters from Black Mana Battery: Add {B} to your mana pool, then add an additional {B} to your mana pool for each charge counter removed this way.","LEG,4ED"
+Blazing Effigy,,Susan Van Camp,,Creature — Elemental,"When Blazing Effigy dies, it deals X damage to target creature, where X is 3 plus the amount of damage dealt to Blazing Effigy this turn by other sources named Blazing Effigy.",LEG
+Blight,,Pete Venters,,Enchantment — Aura,"Enchant land\nWhen enchanted land becomes tapped, destroy it.","LEG,4ED,5ED,6ED,MED"
+Blood Lust,,Anson Maddocks,,Instant,"If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.","LEG,4ED,5ED,ME3"
+Blue Mana Battery,,Amy Weber,,Artifact,"{2}, {T}: Put a charge counter on Blue Mana Battery.\n{T}, Remove any number of charge counters from Blue Mana Battery: Add {U} to your mana pool, then add an additional {U} to your mana pool for each charge counter removed this way.","LEG,4ED"
+Boomerang,,Brian Snõddy,,Instant,Return target permanent to its owner's hand.,"LEG,CHR,MIR,5ED,6ED,7ED,8ED,9ED,pGTW,10E,ME3,DPA"
+Boris Devilboon,,Jesper Myrfors,,Legendary Creature — Zombie Wizard,"{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.","LEG,ME3"
+Brine Hag,,Quinton Hoover,,Creature — Hag,"When Brine Hag dies, change the base power and toughness of all creatures that dealt damage to it this turn to 0/2. (This effect lasts indefinitely.)",LEG
+Bronze Horse,,Mark Poole,,Artifact Creature — Horse,"Trample\nAs long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.","LEG,CHR,ME4"
+Carrion Ants,,Richard Thomas,,Creature — Insect,{1}: Carrion Ants gets +1/+1 until end of turn.,"LEG,4ED,5ED,ME3"
+Cat Warriors,,Melissa A. Benson,,Creature — Cat Warrior,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"LEG,CHR,5ED,6ED"
+Cathedral of Serra,,Mark Poole,,Land,"White legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",LEG
+Caverns of Despair,,Harold McNeill,,World Enchantment,No more than two creatures can attack each combat.\nNo more than two creatures can block each combat.,LEG
+Chain Lightning,,Sandra Everingham,,Sorcery,"Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay {R}{R}. If the player does, he or she may copy this spell and may choose a new target for that copy.","LEG,ME3,PD2,VMA"
+Chains of Mephistopheles,,Heather Hudson,,Enchantment,"If a player would draw a card except the first one he or she draws in his or her draw step each turn, that player discards a card instead. If the player discards a card this way, he or she draws a card. If the player doesn't discard a card this way, he or she puts the top card of his or her library into his or her graveyard.","LEG,MED"
+Chromium,,"Edward P. Beard, Jr.",,Legendary Creature — Elder Dragon,"Flying\nRampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.","LEG,CHR,ME3"
+Cleanse,,Phil Foglio,,Sorcery,Destroy all black creatures.,"LEG,ME3"
+Clergy of the Holy Nimbus,,Daniel Gelon,,Creature — Human Cleric,"If Clergy of the Holy Nimbus would be destroyed, regenerate it.\n{1}: Clergy of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.",LEG
+Cocoon,,Mark Tedin,,Enchantment — Aura,"Enchant creature you control\nEnchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it.
+When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon.
+At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it, put a +1/+1 counter on enchanted creature, and that creature gains flying. (This effect lasts indefinitely.)","LEG,CHR"
+Concordant Crossroads,,Amy Weber,,World Enchantment,All creatures have haste.,"LEG,CHR,ME3"
+Cosmic Horror,,Jesper Myrfors,,Creature — Horror,"First strike\nAt the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.","LEG,4ED,ME3"
+Craw Giant,,Christopher Rush,,Creature — Giant,"Trample\nRampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)","LEG,CHR,5ED,TSB"
+Crevasse,,Rob Alexander,,Enchantment,Creatures with mountainwalk can be blocked as though they didn't have mountainwalk.,LEG
+Crimson Kobolds,,Anson Maddocks,,Creature — Kobold,,"LEG,ME3"
+Crimson Manticore,,Daniel Gelon,,Creature — Manticore,"Flying\n{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.","LEG,4ED,5ED,ME3"
+Crookshank Kobolds,,Christopher Rush,,Creature — Kobold,,"LEG,MED"
+Cyclopean Mummy,,"Edward P. Beard, Jr.",,Creature — Zombie,"When Cyclopean Mummy dies, exile it.","LEG,4ED,ME4"
+D'Avenant Archer,,Douglas Shuler,,Creature — Human Soldier Archer,{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.,"LEG,CHR,5ED,6ED,ME3"
+Dakkon Blackblade,,Richard Kane Ferguson,,Legendary Creature — Human Warrior,Dakkon Blackblade's power and toughness are each equal to the number of lands you control.,"LEG,CHR,MED"
+Darkness,,Harold McNeill,,Instant,Prevent all combat damage that would be dealt this turn.,"LEG,TSB"
+Deadfall,,NéNé Thomas,,Enchantment,Creatures with forestwalk can be blocked as though they didn't have forestwalk.,LEG
+Demonic Torment,,Anson Maddocks,,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack.
+Prevent all combat damage that would be dealt by enchanted creature.,"LEG,ME3"
+Devouring Deep,,Liz Danforth,,Creature — Fish,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),LEG
+Disharmony,,Bryon Wackwitz,,Instant,Cast Disharmony only during combat before blockers are declared.\nUntap target attacking creature and remove it from combat. Gain control of that creature until end of turn.,"LEG,ME3"
+Divine Intervention,,Amy Weber,,Enchantment,"Divine Intervention enters the battlefield with two intervention counters on it.\nAt the beginning of your upkeep, remove an intervention counter from Divine Intervention.
+When you remove the last intervention counter from Divine Intervention, the game is a draw.","LEG,ME3"
+Divine Offering,,Jeff A. Menges,,Instant,Destroy target artifact. You gain life equal to its converted mana cost.,"LEG,CHR,MIR,5ED,ME4,MBS"
+Divine Transformation,,NéNé Thomas,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +3/+3.,"LEG,4ED,5ED,6ED,MED"
+Dream Coat,,Anthony Waters,,Enchantment — Aura,Enchant creature\n{0}: Enchanted creature becomes the color or colors of your choice. Activate this ability only once each turn.,LEG
+Durkwood Boars,,Mike Kimble,,Creature — Boar,,"LEG,4ED,RQS,ITP,5ED,S99,S00"
+Dwarven Song,,Dan Frazier,,Instant,Any number of target creatures become red until end of turn.,LEG
+Elder Land Wurm,,Quinton Hoover,,Creature — Dragon Wurm,"Defender, trample\nWhen Elder Land Wurm blocks, it loses defender.","LEG,4ED,MED"
+Elder Spawn,,Jesper Myrfors,,Creature — Spawn,"At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.\nElder Spawn can't be blocked by red creatures.",LEG
+Elven Riders,,Melissa A. Benson,,Creature — Elf,Elven Riders can't be blocked except by Walls and/or creatures with flying.,"LEG,4ED,RQS,ITP,5ED,6ED,ONS,10E,DPA"
+Emerald Dragonfly,,Quinton Hoover,,Creature — Insect,Flying\n{G}{G}: Emerald Dragonfly gains first strike until end of turn.,"LEG,CHR"
+Enchanted Being,,Douglas Shuler,,Creature — Human,Prevent all combat damage that would be dealt to Enchanted Being by enchanted creatures.,LEG
+Enchantment Alteration,,Brian Snõddy,,Instant,Attach target Aura attached to a creature or land to another permanent of that type.,"LEG,CHR,USG"
+Energy Tap,,Daniel Gelon,,Sorcery,"Tap target untapped creature you control. If you do, add {X} to your mana pool, where X is that creature's converted mana cost.","LEG,4ED"
+Equinox,,Susan Van Camp,,Enchantment — Aura,Enchant land\nEnchanted land has "{T}: Counter target spell if it would destroy a land you control.",LEG
+Eternal Warrior,,Anson Maddocks,,Enchantment — Aura,Enchant creature\nEnchanted creature has vigilance.,"LEG,4ED,5ED"
+Eureka,,Kaja Foglio,,Sorcery,"Starting with you, each player may put a permanent card from his or her hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.","LEG,MED,VMA"
+Evil Eye of Orms-by-Gore,,Jesper Myrfors,,Creature — Eye,Non-Eye creatures you control can't attack.\nEvil Eye of Orms-by-Gore can't be blocked except by Walls.,"LEG,5ED,6ED,TSB"
+Fallen Angel,,Anson Maddocks,,Creature — Angel,Flying\nSacrifice a creature: Fallen Angel gets +2/+1 until end of turn.,"LEG,CHR,5ED,6ED,BTD,7ED,8ED,DDC,CMD,DD3_DVD"
+Falling Star,,Douglas Shuler,,Sorcery,"Flip Falling Star onto the playing area from a height of at least one foot. Falling Star deals 3 damage to each creature it lands on. Tap all creatures dealt damage by Falling Star. If Falling Star doesn't turn completely over at least once during the flip, it has no effect.",LEG
+Feint,,Brian Snõddy,,Instant,Tap all creatures blocking target attacking creature. Prevent all combat damage that would be dealt this turn by that creature and each creature blocking it.,LEG
+Field of Dreams,,Kaja Foglio,,World Enchantment,Players play with the top card of their libraries revealed.,LEG
+Fire Sprites,,Julie Baroh,,Creature — Faerie,"Flying\n{G}, {T}: Add {R} to your mana pool.","LEG,ME3"
+Firestorm Phoenix,,Jeff A. Menges,,Creature — Phoenix,"Flying\nIf Firestorm Phoenix would die, return Firestorm Phoenix to its owner's hand instead. Until that player's next turn, that player plays with that card revealed in his or her hand and can't play it.","LEG,ME3"
+Flash Counter,,Harold McNeill,,Instant,Counter target instant spell.,"LEG,8ED"
+Flash Flood,,Tom Wänerstrand,,Instant,Choose one —\n• Destroy target red permanent.
+• Return target Mountain to its owner's hand.,"LEG,CHR,ME3"
+Floral Spuzzem,,Rob Alexander,,Creature — Elemental,"Whenever Floral Spuzzem attacks and isn't blocked, you may destroy target artifact defending player controls. If you do, Floral Spuzzem assigns no combat damage this turn.",LEG
+Force Spike,,Bryon Wackwitz,,Instant,Counter target spell unless its controller pays {1}.,"LEG,5ED,pFNM,7ED,ME3,DDJ"
+Forethought Amulet,,Melissa A. Benson,,Artifact,"At the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}.\nIf an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.",LEG
+Fortified Area,,Randy Asplund-Faith,,Enchantment,"Wall creatures you control get +1/+0 and have banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)","LEG,4ED"
+Frost Giant,,Daniel Gelon,,Creature — Giant,"Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)","LEG,ME3"
+Gabriel Angelfire,,Daniel Gelon,,Legendary Creature — Angel,"At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. (Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)","LEG,CHR,ME3"
+Gaseous Form,,Phil Foglio,,Enchantment — Aura,Enchant creature\nPrevent all combat damage that would be dealt to and dealt by enchanted creature.,"LEG,4ED,5ED,TMP,6ED,BTD,TPR"
+Gauntlets of Chaos,,Dan Frazier,,Artifact,"{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.","LEG,CHR,5ED,ME3"
+Ghosts of the Damned,,"Edward P. Beard, Jr.",,Creature — Spirit,{T}: Target creature gets -1/-0 until end of turn.,"LEG,ME3"
+Giant Slug,,Anson Maddocks,,Creature — Slug,"{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn. (It can't be blocked as long as defending player controls a land of that type.)","LEG,CHR"
+Giant Strength,,Justin Hampton,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2.,"LEG,4ED,5ED,TMP,6ED,VMA"
+Giant Turtle,,Jeff A. Menges,,Creature — Turtle,Giant Turtle can't attack if it attacked during your last turn.,LEG
+Glyph of Delusion,,Susan Van Camp,,Instant,"Put X glyph counters on target creature that target Wall blocked this turn, where X is the power of that blocked creature. The creature gains "This creature doesn't untap during your untap step if it has a glyph counter on it" and "At the beginning of your upkeep, remove a glyph counter from this creature."",LEG
+Glyph of Destruction,,Susan Van Camp,,Instant,Target blocking Wall you control gets +10/+0 until end of combat. Prevent all damage that would be dealt to it this turn. Destroy it at the beginning of the next end step.,LEG
+Glyph of Doom,,Susan Van Camp,,Instant,"Choose target Wall creature. At this turn's next end of combat, destroy all creatures that were blocked by that creature this turn.",LEG
+Glyph of Life,,Susan Van Camp,,Instant,"Choose target Wall creature. Whenever that creature is dealt damage by an attacking creature this turn, you gain that much life.",LEG
+Glyph of Reincarnation,,Susan Van Camp,,Instant,"Cast Glyph of Reincarnation only after combat.\nDestroy all creatures that were blocked by target Wall this turn. They can't be regenerated. For each creature that died this way, put a creature card from the graveyard of the player who controlled that creature the last time it became blocked by that Wall onto the battlefield under its owner's control.",LEG
+Gosta Dirk,,Richard Thomas,,Legendary Creature — Human Warrior,First strike\nCreatures with islandwalk can be blocked as though they didn't have islandwalk.,LEG
+Gravity Sphere,,Brian Snõddy,,World Enchantment,All creatures lose flying.,LEG
+Great Defender,,Mark Poole,,Instant,"Target creature gets +0/+X until end of turn, where X is its converted mana cost.",LEG
+Great Wall,,Sandra Everingham,,Enchantment,Creatures with plainswalk can be blocked as though they didn't have plainswalk.,LEG
+Greater Realm of Preservation,,NéNé Thomas,,Enchantment,"{1}{W}: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.","LEG,5ED,MED"
+Greed,,Phil Foglio,,Enchantment,"{B}, Pay 2 life: Draw a card.","LEG,4ED,6ED,7ED,C13"
+Green Mana Battery,,Christopher Rush,,Artifact,"{2}, {T}: Put a charge counter on Green Mana Battery.\n{T}, Remove any number of charge counters from Green Mana Battery: Add {G} to your mana pool, then add an additional {G} to your mana pool for each charge counter removed this way.","LEG,4ED"
+Gwendlyn Di Corci,,Julie Baroh,,Legendary Creature — Human Rogue,{T}: Target player discards a card at random. Activate this ability only during your turn.,"LEG,ME3"
+Halfdane,,Melissa A. Benson,,Legendary Creature — Shapeshifter,"At the beginning of your upkeep, change Halfdane's base power and toughness to the power and toughness of target creature other than Halfdane until the end of your next upkeep.","LEG,ME3"
+Hammerheim,,Bryon Wackwitz,,Legendary Land,{T}: Add {R} to your mana pool.\n{T}: Target creature loses all landwalk abilities until end of turn.,"LEG,ME3"
+Hazezon Tamar,,Richard Kane Ferguson,,Legendary Creature — Human Warrior,"When Hazezon Tamar enters the battlefield, put X 1/1 Sand Warrior creature tokens that are red, green, and white onto the battlefield at the beginning of your next upkeep, where X is the number of lands you control at that time.\nWhen Hazezon leaves the battlefield, exile all Sand Warriors.","LEG,ME3"
+Headless Horseman,,Quinton Hoover,,Creature — Zombie Knight,,LEG
+Heaven's Gate,,Douglas Shuler,,Instant,Any number of target creatures become white until end of turn.,LEG
+Hell Swarm,,Christopher Rush,,Instant,All creatures get -1/-0 until end of turn.,LEG
+Hell's Caretaker,,Sandra Everingham,,Creature — Horror,"{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.","LEG,CHR,9ED"
+Hellfire,,Pete Venters,,Sorcery,"Destroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures that died this way.","LEG,ME3"
+Holy Day,,Justin Hampton,,Instant,Prevent all combat damage that would be dealt this turn.,"LEG,INV,8ED,9ED,10E"
+Horn of Deafening,,Dan Frazier,,Artifact,"{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.","LEG,CHR,ME4"
+Hornet Cobra,,Sandra Everingham,,Creature — Snake,First strike,LEG
+Horror of Horrors,,Mark Tedin,,Enchantment,"Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)","LEG,9ED"
+Hunding Gjornersen,,Richard Thomas,,Legendary Creature — Human Warrior,"Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)","LEG,ME3"
+Hyperion Blacksmith,,Dan Frazier,,Creature — Human Artificer,{T}: You may tap or untap target artifact an opponent controls.,LEG
+Ichneumon Druid,,Melissa A. Benson,,Creature — Human Druid,"Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.",LEG
+Immolation,,Scott Kirschner,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/-2.,"LEG,4ED,ME3"
+Imprison,,Christopher Rush,,Enchantment — Aura,"Enchant creature\nWhenever a player activates an ability of enchanted creature with {T} in its activation cost that isn't a mana ability, you may pay {1}. If you do, counter that ability. If you don't, destroy Imprison.
+Whenever enchanted creature attacks or blocks, you may pay {1}. If you do, tap the creature, remove it from combat, and creatures it was blocking that had become blocked by only that creature this combat become unblocked. If you don't, destroy Imprison.",LEG
+In the Eye of Chaos,,Brian Snõddy,,World Enchantment,"Whenever a player casts an instant spell, counter it unless that player pays {X}, where X is its converted mana cost.","LEG,ME4"
+Indestructible Aura,,Mark Poole,,Instant,Prevent all damage that would be dealt to target creature this turn.,"LEG,CHR"
+Infernal Medusa,,Anson Maddocks,,Creature — Gorgon,"Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.\nWhenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.",LEG
+Infinite Authority,,Douglas Shuler,,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature was destroyed this way, put a +1/+1 counter on the first creature.",LEG
+Invoke Prejudice,,Harold McNeill,,Enchantment,"Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless that player pays {X}, where X is its converted mana cost.",LEG
+Ivory Guardians,,Melissa A. Benson,,Creature — Giant Cleric,Protection from red\nCreatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.,"LEG,CHR,5ED,ME3"
+Jacques le Vert,,Andi Rusu,,Legendary Creature — Human Warrior,Green creatures you control get +0/+2.,"LEG,MED"
+Jasmine Boreal,,Richard Kane Ferguson,,Legendary Creature — Human,,"LEG,TSB"
+Jedit Ojanen,,Mark Poole,,Legendary Creature — Cat Warrior,,"LEG,ME3"
+Jerrard of the Closed Fist,,Andi Rusu,,Legendary Creature — Human Knight,,"LEG,ME3"
+Johan,,Mark Tedin,,Legendary Creature — Human Wizard,"At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.","LEG,CHR"
+Jovial Evil,,Christopher Rush,,Sorcery,"Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.",LEG
+Juxtapose,,Justin Hampton,,Sorcery,"You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.","LEG,CHR,5ED,6ED,MED"
+Karakas,,Nicola Leonard,,Legendary Land,{T}: Add {W} to your mana pool.\n{T}: Return target legendary creature to its owner's hand.,"LEG,pJGP,ME3"
+Kasimir the Lone Wolf,,Richard Kane Ferguson,,Legendary Creature — Human Warrior,,LEG
+Keepers of the Faith,,Daniel Gelon,,Creature — Human Cleric,,"LEG,CHR"
+Kei Takahashi,,Scott Kirschner,,Legendary Creature — Human Cleric,{T}: Prevent the next 2 damage that would be dealt to target creature this turn.,"LEG,CHR,ME3"
+Killer Bees,,Phil Foglio,,Creature — Insect,Flying\n{G}: Killer Bees gets +1/+1 until end of turn.,"LEG,4ED,5ED,ME3"
+Kismet,,Kaja Foglio,,Enchantment,"Artifacts, creatures, and lands played by your opponents enter the battlefield tapped.","LEG,4ED,5ED,6ED,ME4"
+Knowledge Vault,,Amy Weber,,Artifact,"{2}, {T}: Exile the top card of your library face down.\n{0}: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand.
+When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.","LEG,ME3"
+Kobold Drill Sergeant,,Julie Baroh,,Creature — Kobold Soldier,Other Kobold creatures you control get +0/+1 and have trample.,"LEG,ME3"
+Kobold Overlord,,Julie Baroh,,Creature — Kobold,First strike\nOther Kobold creatures you control have first strike.,"LEG,ME3"
+Kobold Taskmaster,,Randy Asplund-Faith,,Creature — Kobold,Other Kobold creatures you control get +1/+0.,"LEG,TSB,ME3"
+Kobolds of Kher Keep,,Julie Baroh,,Creature — Kobold,,"LEG,ME3"
+Kry Shield,,Richard Thomas,,Artifact,"{2}, {T}: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost.",LEG
+Lady Caleria,,Bryon Wackwitz,,Legendary Creature — Human Archer,{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.,"LEG,ME3"
+Lady Evangela,,Mark Poole,,Legendary Creature — Human Cleric,"{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.","LEG,ME3"
+Lady Orca,,Sandra Everingham,,Legendary Creature — Demon,,"LEG,ATH,ME3"
+Land Equilibrium,,Jesper Myrfors,,Enchantment,"If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.","LEG,ME3"
+Land Tax,,Brian Snõddy,,Enchantment,"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.","LEG,4ED,pJGP,BRB,ME3"
+Land's Edge,,Brian Snõddy,,World Enchantment,"Discard a card: If the discarded card was a land card, Land's Edge deals 2 damage to target player. Any player may activate this ability.","LEG,CHR"
+Lesser Werewolf,,Quinton Hoover,,Creature — Werewolf,"{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.","LEG,ME3"
+Life Chisel,,Anthony Waters,,Artifact,Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep.,"LEG,ME3"
+Life Matrix,,Amy Weber,,Artifact,"{4}, {T}: Put a matrix counter on target creature and that creature gains "Remove a matrix counter from this creature: Regenerate this creature." Activate this ability only during your upkeep.",LEG
+Lifeblood,,Mark Tedin,,Enchantment,"Whenever a Mountain an opponent controls becomes tapped, you gain 1 life.",LEG
+Living Plane,,Bryon Wackwitz,,World Enchantment,All lands are 1/1 creatures that are still lands.,"LEG,ME3"
+Livonya Silone,,Richard Kane Ferguson,,Legendary Creature — Human Warrior,First strike; legendary landwalk (This creature can't be blocked as long as defending player controls a legendary land.),"LEG,ME3"
+Lord Magnus,,Mark Tedin,,Legendary Creature — Human Druid,First strike\nCreatures with plainswalk can be blocked as though they didn't have plainswalk.
+Creatures with forestwalk can be blocked as though they didn't have forestwalk.,LEG
+Lost Soul,,Randy Asplund-Faith,,Creature — Spirit Minion,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"LEG,4ED,RQS,ITP,5ED,6ED"
+Mana Drain,,Mark Tedin,,Instant,"Counter target spell. At the beginning of your next main phase, add {X} to your mana pool, where X is that spell's converted mana cost.","LEG,ME3,VMA"
+Mana Matrix,,Mark Tedin,,Artifact,Instant and enchantment spells you cast cost up to {2} less to cast.,"LEG,ME4"
+Marble Priest,,Melissa A. Benson,,Artifact Creature — Cleric,All Walls able to block Marble Priest do so.\nPrevent all combat damage that would be dealt to Marble Priest by Walls.,LEG
+Marhault Elsdragon,,Mark Poole,,Legendary Creature — Elf Warrior,"Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)","LEG,CHR,ME3"
+Master of the Hunt,,Jeff A. Menges,,Creature — Human,"{2}{G}{G}: Put a 1/1 green Wolf creature token named Wolves of the Hunt onto the battlefield. It has "bands with other creatures named Wolves of the Hunt." (Any creatures named Wolves of the Hunt can attack in a band as long as at least one has "bands with other creatures named Wolves of the Hunt." Bands are blocked as a group. If at least two creatures named Wolves of the Hunt you control, one of which has "bands with other creatures named Wolves of the Hunt," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",LEG
+Mirror Universe,,Phil Foglio,,Artifact,"{T}, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep.","LEG,MED"
+Moat,,Jeff A. Menges,,Enchantment,Creatures without flying can't attack.,"LEG,MED"
+Mold Demon,,Jesper Myrfors,,Creature — Fungus Demon,"When Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.",LEG
+Moss Monster,,Jesper Myrfors,,Creature — Elemental,,"LEG,8ED"
+Mountain Stronghold,,Tom Wänerstrand,,Land,"Red legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",LEG
+Mountain Yeti,,Dan Frazier,,Creature — Yeti,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nProtection from white,"LEG,CHR,MED"
+Nebuchadnezzar,,Richard Kane Ferguson,,Legendary Creature — Human Wizard,"{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.","LEG,CHR,ME3"
+Nether Void,,Harold McNeill,,World Enchantment,"Whenever a player casts a spell, counter it unless that player pays {3}.","LEG,ME3"
+Nicol Bolas,,"Edward P. Beard, Jr.",,Legendary Creature — Elder Dragon,"Flying\nAt the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.
+Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.","LEG,CHR,TSB,DRB,ME3"
+North Star,,Kaja Foglio,,Artifact,"{4}, {T}: For one spell this turn, you may spend mana as though it were mana of any color to pay that spell's mana cost. (Additional costs are still paid normally.)",LEG
+Nova Pentacle,,Richard Thomas,,Artifact,"{3}, {T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature of an opponent's choice instead.","LEG,ME3"
+Osai Vultures,,Dan Frazier,,Creature — Bird,"Flying\nAt the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures.
+Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.","LEG,4ED,ME4"
+Palladia-Mors,,"Edward P. Beard, Jr.",,Legendary Creature — Elder Dragon,"Flying, trample\nAt the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.","LEG,CHR,ME3"
+Part Water,,NéNé Thomas,,Sorcery,X target creatures gain islandwalk until end of turn. (They can't be blocked as long as defending player controls an Island.),LEG
+Pavel Maliki,,Andi Rusu,,Legendary Creature — Human,{B}{R}: Pavel Maliki gets +1/+0 until end of turn.,"LEG,ME3"
+Pendelhaven,,Bryon Wackwitz,,Legendary Land,{T}: Add {G} to your mana pool.\n{T}: Target 1/1 creature gets +1/+2 until end of turn.,"LEG,ATH,pFNM,TSB"
+Petra Sphinx,,Sandra Everingham,,Creature — Sphinx,"{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.","LEG,CHR,MED"
+Pit Scorpion,,Scott Kirschner,,Creature — Scorpion,"Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)","LEG,4ED,5ED"
+Pixie Queen,,Quinton Hoover,,Creature — Faerie,"Flying\n{G}{G}{G}, {T}: Target creature gains flying until end of turn.",LEG
+Planar Gate,,Melissa A. Benson,,Artifact,Creature spells you cast cost up to {2} less to cast.,"LEG,ME4"
+Pradesh Gypsies,,Quinton Hoover,,Creature — Human Nomad,"{1}{G}, {T}: Target creature gets -2/-0 until end of turn.","LEG,4ED,5ED,6ED"
+Presence of the Master,,Phil Foglio,,Enchantment,"Whenever a player casts an enchantment spell, counter it.","LEG,USG"
+Primordial Ooze,,Sandra Everingham,,Creature — Ooze,"Primordial Ooze attacks each turn if able.\nAt the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.","LEG,CHR,5ED"
+Princess Lucrezia,,"Edward P. Beard, Jr.",,Legendary Creature — Human Wizard,{T}: Add {U} to your mana pool.,"LEG,ME3"
+Psionic Entity,,Justin Hampton,,Creature — Illusion,{T}: Psionic Entity deals 2 damage to target creature or player and 3 damage to itself.,"LEG,4ED"
+Psychic Purge,,Susan Van Camp,,Sorcery,"Psychic Purge deals 1 damage to target creature or player.\nWhen a spell or ability an opponent controls causes you to discard Psychic Purge, that player loses 5 life.","LEG,MED"
+Puppet Master,,Sandra Everingham,,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master to its owner's hand.","LEG,CHR"
+Pyrotechnics,,Anson Maddocks,,Sorcery,Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.,"LEG,4ED,RQS,ITP,5ED,ATH,6ED,7ED,8ED,HOP,FRF"
+Quagmire,,Dan Frazier,,Enchantment,Creatures with swampwalk can be blocked as though they didn't have swampwalk.,LEG
+Quarum Trench Gnomes,,Dan Frazier,,Creature — Gnome,"{T}: If target Plains is tapped for mana, it produces colorless mana instead of white mana. (This effect lasts indefinitely.)",LEG
+Rabid Wombat,,Kaja Foglio,,Creature — Wombat,Vigilance\nRabid Wombat gets +2/+2 for each Aura attached to it.,"LEG,CHR,5ED,MED"
+Radjan Spirit,,Christopher Rush,,Creature — Spirit,{T}: Target creature loses flying until end of turn.,"LEG,4ED,5ED,6ED,ME4"
+Raging Bull,,Randy Asplund-Faith,,Creature — Ox,,LEG
+Ragnar,,Melissa A. Benson,,Legendary Creature — Human Cleric,"{G}{W}{U}, {T}: Regenerate target creature.","LEG,ME3"
+Ramirez DePietro,,Phil Foglio,,Legendary Creature — Human Pirate,First strike,"LEG,ME3"
+Ramses Overdark,,Richard Kane Ferguson,,Legendary Creature — Human Assassin,{T}: Destroy target enchanted creature.,"LEG,ME3"
+Rapid Fire,,Justin Hampton,,Instant,"Cast Rapid Fire only before blockers are declared.\nTarget creature gains first strike until end of turn. If it doesn't have rampage, that creature gains rampage 2 until end of turn. (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)",LEG
+Rasputin Dreamweaver,,Andi Rusu,,Legendary Creature — Human Wizard,"Rasputin Dreamweaver enters the battlefield with seven dream counters on it.\nRemove a dream counter from Rasputin: Add {1} to your mana pool.
+Remove a dream counter from Rasputin: Prevent the next 1 damage that would be dealt to Rasputin this turn.
+At the beginning of your upkeep, if Rasputin started the turn untapped, put a dream counter on it.
+Rasputin can't have more than seven dream counters on it.","LEG,ME3"
+Rebirth,,Mark Tedin,,Sorcery,"Remove Rebirth from your deck before playing if you're not playing for ante.\nEach player may ante the top card of his or her library. If a player does, his or her life total becomes 20.","LEG,4ED"
+Recall,,Brian Snõddy,,Sorcery,"Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.","LEG,CHR,5ED,6ED,ME3"
+Red Mana Battery,,Mark Tedin,,Artifact,"{2}, {T}: Put a charge counter on Red Mana Battery.\n{T}, Remove any number of charge counters from Red Mana Battery: Add {R} to your mana pool, then add an additional {R} to your mana pool for each charge counter removed this way.","LEG,4ED"
+Reincarnation,,"Edward P. Beard, Jr.",,Instant,"Choose target creature. When that creature dies this turn, return a creature card from its owner's graveyard to the battlefield under the control of that creature's owner.","LEG,ME3,C13"
+Relic Barrier,,Harold McNeill,,Artifact,{T}: Tap target artifact.,"LEG,5DN"
+Relic Bind,,Christopher Rush,,Enchantment — Aura,"Enchant artifact an opponent controls\nWhenever enchanted artifact becomes tapped, choose one —
+• Relic Bind deals 1 damage to target player.
+• Target player gains 1 life.","LEG,4ED"
+Remove Enchantments,,Brian Snõddy,,Instant,"Return to your hand all enchantments you both own and control, all Auras you own attached to permanents you control, and all Auras you own attached to attacking creatures your opponents control. Then destroy all other enchantments you control, all other Auras attached to permanents you control, and all other Auras attached to attacking creatures your opponents control.",LEG
+Remove Soul,,Brian Snõddy,,Instant,Counter target creature spell.,"LEG,CHR,5ED,6ED,S99,7ED,pMPR,8ED,9ED,10E,ME3"
+Reset,,Nicola Leonard,,Instant,Cast Reset only during an opponent's turn after his or her upkeep step.\nUntap all lands you control.,"LEG,ME3"
+Revelation,,Kaja Foglio,,World Enchantment,Players play with their hands revealed.,"LEG,CHR"
+Reverberation,,Justin Hampton,,Instant,All damage that would be dealt this turn by target sorcery spell is dealt to that spell's controller instead.,LEG
+Righteous Avengers,,Heather Hudson,,Creature — Human Soldier,Plainswalk (This creature can't be blocked as long as defending player controls a Plains.),"LEG,MED"
+Ring of Immortals,,Melissa A. Benson,,Artifact,"{3}, {T}: Counter target instant or Aura spell that targets a permanent you control.",LEG
+Riven Turnbull,,Richard Kane Ferguson,,Legendary Creature — Human Advisor,{T}: Add {B} to your mana pool.,"LEG,ME3"
+Rohgahh of Kher Keep,,"Edward P. Beard, Jr.",,Legendary Creature — Kobold,"At the beginning of your upkeep, you may pay {R}{R}{R}. If you don't, tap Rohgahh of Kher Keep and all creatures named Kobolds of Kher Keep, then an opponent gains control of them.\nCreatures you control named Kobolds of Kher Keep get +2/+2.","LEG,ME3"
+Rubinia Soulsinger,,Rob Alexander,,Legendary Creature — Faerie,You may choose not to untap Rubinia Soulsinger during your untap step.\n{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.,"LEG,CHR,ME3,C13"
+Rust,,Liz Danforth,,Instant,Counter target activated ability from an artifact source. (Mana abilities can't be targeted.),LEG
+Sea Kings' Blessing,,Randy Asplund-Faith,,Instant,Any number of target creatures become blue until end of turn.,LEG
+Seafarer's Quay,,Tom Wänerstrand,,Land,"Blue legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",LEG
+Seeker,,Mark Poole,,Enchantment — Aura,Enchant creature\nEnchanted creature can't be blocked except by artifact creatures and/or white creatures.,"LEG,4ED"
+Segovian Leviathan,,Melissa A. Benson,,Creature — Leviathan,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),"LEG,4ED,5ED,6ED"
+Sentinel,,Randy Asplund-Faith,,Artifact Creature — Shapeshifter,{0}: Change Sentinel's base toughness to 1 plus the power of target creature blocking or blocked by Sentinel. (This effect lasts indefinitely.),"LEG,CHR"
+Serpent Generator,,Mark Tedin,,Artifact,"{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. It has "Whenever this creature deals damage to a player, that player gets a poison counter." (A player with ten or more poison counters loses the game.)","LEG,CHR,5ED,MED"
+Shelkin Brownie,,Douglas Shuler,,Creature — Ouphe,{T}: Target creature loses all "bands with other" abilities until end of turn.,LEG
+Shield Wall,,Douglas Shuler,,Instant,Creatures you control get +0/+2 until end of turn.,"LEG,CHR,5ED,7ED"
+Shimian Night Stalker,,Jesper Myrfors,,Creature — Nightstalker,"{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.","LEG,CHR"
+Silhouette,,Kaja Foglio,,Instant,Prevent all damage that would be dealt to target creature this turn by spells or abilities that target it.,LEG
+Sir Shandlar of Eberyn,,Andi Rusu,,Legendary Creature — Human Knight,,"LEG,ME3"
+Sivitri Scarzam,,NéNé Thomas,,Legendary Creature — Human,,"LEG,CHR,ME3"
+Sol'kanar the Swamp King,,Richard Kane Ferguson,,Legendary Creature — Demon,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhenever a player casts a black spell, you gain 1 life.","LEG,CHR,TSB"
+Spectral Cloak,,Rob Alexander,,Enchantment — Aura,Enchant creature\nEnchanted creature has shroud as long as it's untapped. (It can't be the target of spells or abilities.),LEG
+Spinal Villain,,Anson Maddocks,,Creature — Beast,{T}: Destroy target blue creature.,"LEG,MED"
+Spirit Link,,Kaja Foglio,,Enchantment — Aura,"Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nWhenever enchanted creature deals damage, you gain that much life.","LEG,4ED,5ED,6ED,7ED,8ED,9ED,10E"
+Spirit Shackle,,"Edward P. Beard, Jr.",,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature becomes tapped, put a -0/-2 counter on it.","LEG,4ED,ME3"
+Spiritual Sanctuary,,Amy Weber,,Enchantment,"At the beginning of each player's upkeep, if that player controls a Plains, he or she gains 1 life.",LEG
+Stangg,,Mark Poole,,Legendary Creature — Human Warrior,"When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.","LEG,CHR,ME3"
+Storm Seeker,,Mark Poole,,Instant,Storm Seeker deals damage to target player equal to the number of cards in that player's hand.,"LEG,CHR,MED"
+Storm World,,Christopher Rush,,World Enchantment,"At the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.","LEG,ME3"
+Subdue,,Brian Snõddy,,Instant,"Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its converted mana cost.",LEG
+Sunastian Falconer,,Christopher Rush,,Legendary Creature — Human Shaman,{T}: Add {2} to your mana pool.,"LEG,ME3"
+Sword of the Ages,,Dan Frazier,,Artifact,"Sword of the Ages enters the battlefield tapped.\n{T}, Sacrifice Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures sacrificed this way, then exile Sword of the Ages and those creature cards.","LEG,ME3"
+Sylvan Library,,Harold McNeill,,Enchantment,"At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.","LEG,4ED,5ED,MED,CM1,VMA"
+Sylvan Paradise,,Randy Asplund-Faith,,Instant,Any number of target creatures become green until end of turn.,LEG
+Syphon Soul,,Melissa A. Benson,,Sorcery,Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.,"LEG,6ED,BRB,ONS,HOP,CNS"
+Takklemaggot,,Daniel Gelon,,Enchantment — Aura,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+When enchanted creature dies, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her."","LEG,CHR,ME3"
+Telekinesis,,Daniel Gelon,,Instant,Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.,"LEG,MED"
+Teleport,,Douglas Shuler,,Instant,Cast Teleport only during the declare attackers step.\nTarget creature can't be blocked this turn.,"LEG,CHR"
+Tempest Efreet,,NéNé Thomas,,Creature — Efreet,"Remove Tempest Efreet from your deck before playing if you're not playing for ante.\n{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, he or she reveals a card at random from his or her hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard. This change in ownership is permanent.","LEG,4ED"
+Tetsuo Umezawa,,Julie Baroh,,Legendary Creature — Human Archer,"Tetsuo Umezawa can't be the target of Aura spells.\n{U}{B}{B}{R}, {T}: Destroy target tapped or blocking creature.","LEG,ME3"
+The Abyss,,Pete Venters,,World Enchantment,"At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.","LEG,ME3"
+The Brute,,Mark Poole,,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+0.
+{R}{R}{R}: Regenerate enchanted creature.,"LEG,4ED,5ED"
+The Lady of the Mountain,,Richard Kane Ferguson,,Legendary Creature — Giant,,"LEG,ME3"
+The Tabernacle at Pendrell Vale,,Nicola Leonard,,Legendary Land,"All creatures have "At the beginning of your upkeep, destroy this creature unless you pay {1}."","LEG,ME3"
+The Wretched,,Christopher Rush,,Creature — Demon,"At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.","LEG,CHR,5ED,ME3"
+Thunder Spirit,,Randy Asplund-Faith,,Creature — Elemental Spirit,"Flying, first strike","LEG,MED"
+Time Elemental,,Amy Weber,,Creature — Elemental,"When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you.\n{2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.","LEG,4ED,5ED,MED"
+Tobias Andrion,,Andi Rusu,,Legendary Creature — Human Advisor,,"LEG,CHR,ME3"
+Tolaria,,Nicola Leonard,,Legendary Land,{T}: Add {U} to your mana pool.\n{T}: Target creature loses banding and all "bands with other" abilities until end of turn. Activate this ability only during any upkeep step.,LEG
+Tor Wauki,,Randy Asplund-Faith,,Legendary Creature — Human Archer,{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.,"LEG,CHR,ME3"
+Torsten Von Ursus,,Mark Poole,,Legendary Creature — Human Soldier,,"LEG,ME3"
+Touch of Darkness,,Pete Venters,,Instant,Any number of target creatures become black until end of turn.,LEG
+Transmutation,,Susan Van Camp,,Instant,Switch target creature's power and toughness until end of turn.,"LEG,CHR"
+Triassic Egg,,Dan Frazier,,Artifact,"{3}, {T}: Put a hatchling counter on Triassic Egg.\nSacrifice Triassic Egg: Choose one —
+• You may put a creature card from your hand onto the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.
+• Return target creature card from your graveyard to the battlefield. Activate this ability only if two or more hatchling counters are on Triassic Egg.","LEG,CHR,ME4"
+Tuknir Deathlock,,Liz Danforth,,Legendary Creature — Human Wizard,"Flying\n{R}{G}, {T}: Target creature gets +2/+2 until end of turn.","LEG,ME3"
+Tundra Wolves,,Quinton Hoover,,Creature — Wolf,First strike (This creature deals combat damage before creatures without first strike.),"LEG,4ED,5ED,6ED,8ED,10E"
+Typhoon,,Anson Maddocks,,Sorcery,Typhoon deals damage to each opponent equal to the number of Islands that player controls.,LEG
+Undertow,,Randy Asplund-Faith,,Enchantment,Creatures with islandwalk can be blocked as though they didn't have islandwalk.,LEG
+Underworld Dreams,,Julie Baroh,,Enchantment,"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.","LEG,8ED,9ED,p2HG,10E,M10,DPA"
+Unholy Citadel,,Mark Poole,,Land,"Black legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",LEG
+Untamed Wilds,,NéNé Thomas,,Sorcery,Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.,"LEG,4ED,RQS,ITP,5ED,POR,PO2,6ED,S99,7ED"
+Ur-Drago,,Christopher Rush,,Legendary Creature — Elemental,First strike\nCreatures with swampwalk can be blocked as though they didn't have swampwalk.,LEG
+Urborg,,Bryon Wackwitz,,Legendary Land,{T}: Add {B} to your mana pool.\n{T}: Target creature loses first strike or swampwalk until end of turn.,"LEG,ME3"
+Vaevictis Asmadi,,Andi Rusu,,Legendary Creature — Elder Dragon,"Flying\nAt the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.
+{B}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{R}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{G}: Vaevictis Asmadi gets +1/+0 until end of turn.","LEG,CHR,ME3"
+Vampire Bats,,Anson Maddocks,,Creature — Bat,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.,"LEG,4ED,RQS,ITP,5ED,10E,DDD,DD3_GVL"
+Venarian Gold,,Daniel Gelon,,Enchantment — Aura,"Enchant creature\nWhen Venarian Gold enters the battlefield, tap enchanted creature and put a number of sleep counters on it equal to the value of X as you cast Venarian Gold.
+Enchanted creature doesn't untap during its controller's untap step if it has a sleep counter on it.
+At the beginning of the upkeep of enchanted creature's controller, remove a sleep counter from that creature.",LEG
+Visions,,NéNé Thomas,,Sorcery,Look at the top five cards of target player's library. You may then have that player shuffle that library.,"LEG,4ED"
+Voodoo Doll,,Sandra Everingham,,Artifact,"At the beginning of your upkeep, put a pin counter on Voodoo Doll.\nAt the beginning of your end step, if Voodoo Doll is untapped, destroy Voodoo Doll and it deals damage to you equal to the number of pin counters on it.
+{X}{X}, {T}: Voodoo Doll deals damage equal to the number of pin counters on it to target creature or player. X is the number of pin counters on Voodoo Doll.","LEG,CHR,ME3"
+Walking Dead,,Dan Frazier,,Creature — Zombie,{B}: Regenerate Walking Dead.,LEG
+Wall of Caltrops,,Brian Snõddy,,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Wall of Caltrops blocks a creature, if at least one other Wall creature is blocking that creature and no non-Wall creatures are blocking that creature, Wall of Caltrops gains banding until end of turn. (If any creatures with banding you control are blocking a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by.)",LEG
+Wall of Dust,,Richard Thomas,,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.","LEG,4ED"
+Wall of Earth,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.),LEG
+Wall of Heat,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.),"LEG,CHR,BRB"
+Wall of Light,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.)\nProtection from black,"LEG,ME3"
+Wall of Opposition,,Harold McNeill,,Creature — Wall,Defender (This creature can't attack.)\n{1}: Wall of Opposition gets +1/+0 until end of turn.,"LEG,CHR"
+Wall of Putrid Flesh,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.)\nProtection from white
+Prevent all damage that would be dealt to Wall of Putrid Flesh by enchanted creatures.,LEG
+Wall of Shadows,,Pete Venters,,Creature — Wall,Defender (This creature can't attack.)\nPrevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.
+Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.,"LEG,CHR"
+Wall of Tombstones,,Dan Frazier,,Creature — Wall,"Defender (This creature can't attack.)\nAt the beginning of your upkeep, change Wall of Tombstones's base toughness to 1 plus the number of creature cards in your graveyard. (This effect lasts indefinitely.)",LEG
+Wall of Vapor,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.)\nPrevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.,"LEG,CHR"
+Wall of Wonder,,Richard Thomas,,Creature — Wall,Defender (This creature can't attack.)\n{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.,"LEG,CHR,7ED"
+Whirling Dervish,,Susan Van Camp,,Creature — Human Monk,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.","LEG,4ED,RQS,ITP,5ED,pSUS,TSB"
+White Mana Battery,,Anthony Waters,,Artifact,"{2}, {T}: Put a charge counter on White Mana Battery.\n{T}, Remove any number of charge counters from White Mana Battery: Add {W} to your mana pool, then add an additional {W} to your mana pool for each charge counter removed this way.","LEG,4ED"
+Willow Satyr,,Jeff A. Menges,,Creature — Satyr,You may choose not to untap Willow Satyr during your untap step.\n{T}: Gain control of target legendary creature for as long as you control Willow Satyr and Willow Satyr remains tapped.,"LEG,ME3"
+Winds of Change,,Justin Hampton,,Sorcery,"Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.","LEG,4ED,5ED,POR,MED"
+Winter Blast,,Kaja Foglio,,Sorcery,Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.,"LEG,4ED,RQS,ITP,5ED,MED"
+Wolverine Pack,,Jeff A. Menges,,Creature — Wolverine,"Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)","LEG,5ED"
+Wood Elemental,,Brian Snõddy,,Creature — Elemental,"As Wood Elemental enters the battlefield, sacrifice any number of untapped Forests.\nWood Elemental's power and toughness are each equal to the number of Forests sacrificed as it entered the battlefield.","LEG,ME4"
+Xira Arien,,Melissa A. Benson,,Legendary Creature — Insect Wizard,"Flying\n{B}{R}{G}, {T}: Target player draws a card.","LEG,CHR,ME3"
+Zephyr Falcon,,Heather Hudson,,Creature — Bird,"Flying, vigilance","LEG,4ED,RQS,ITP,5ED"

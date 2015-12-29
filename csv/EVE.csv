@@ -1,0 +1,217 @@
+name,cost,artist,number,type,text,printings
+Archon of Justice,,Jason Chan,1,Creature — Archon,"Flying\nWhen Archon of Justice dies, exile target permanent.","EVE,M12"
+Ballynock Trapper,,Randy Gallegos,2,Creature — Kithkin Soldier,"{T}: Tap target creature.\nWhenever you cast a white spell, you may untap Ballynock Trapper.",EVE
+Cenn's Enlistment,,Matt Cavotta,3,Sorcery,Put two 1/1 white Kithkin Soldier creature tokens onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),"EVE,MMA"
+Endless Horizons,,Joshua Hagler,4,Enchantment,"When Endless Horizons enters the battlefield, search your library for any number of Plains cards and exile them. Then shuffle your library.\nAt the beginning of your upkeep, you may put a card you own exiled with Endless Horizons into your hand.",EVE
+Endure,,Ralph Horsley,5,Instant,Prevent all damage that would be dealt to you and permanents you control this turn.,EVE
+Flickerwisp,,Jeremy Enecio,6,Creature — Elemental,"Flying\nWhen Flickerwisp enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.","EVE,MMA,C13,C14"
+Hallowed Burial,,Dave Kendall,7,Sorcery,Put all creatures on the bottom of their owners' libraries.,EVE
+Kithkin Spellduster,,Trevor Hairsine,8,Creature — Kithkin Wizard,"Flying\n{1}{W}, Sacrifice Kithkin Spellduster: Destroy target enchantment.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Kithkin Zealot,,Scott Altmann,9,Creature — Kithkin Cleric,"When Kithkin Zealot enters the battlefield, you gain 1 life for each black and/or red permanent target opponent controls.",EVE
+Light from Within,,Aleksi Briclot,10,Enchantment,Chroma — Each creature you control gets +1/+1 for each white mana symbol in its mana cost.,EVE
+Loyal Gyrfalcon,,Darrell Riche,11,Creature — Bird,"Defender, flying\nWhenever you cast a white spell, Loyal Gyrfalcon loses defender until end of turn.",EVE
+Patrol Signaler,,Steve Prescott,12,Creature — Kithkin Soldier,"{1}{W}, {Q}: Put a 1/1 white Kithkin Soldier creature token onto the battlefield. ({Q} is the untap symbol.)",EVE
+Recumbent Bliss,,Todd Lockwood,13,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block.
+At the beginning of your upkeep, you may gain 1 life.","EVE,DDH"
+Spirit of the Hearth,,Jason Chan,14,Creature — Cat Spirit,Flying\nYou have hexproof. (You can't be the target of spells or abilities your opponents control.),EVE
+Springjack Shepherd,,Thomas Denmark,15,Creature — Kithkin Wizard,"Chroma — When Springjack Shepherd enters the battlefield, put a 0/1 white Goat creature token onto the battlefield for each white mana symbol in the mana costs of permanents you control.",EVE
+Suture Spirit,,Larry MacDougall,16,Creature — Spirit,Flying\n{W/B}{W/B}{W/B}: Regenerate target creature.,EVE
+Banishing Knack,,Howard Lyon,17,Instant,"Until end of turn, target creature gains "{T}: Return target nonland permanent to its owner's hand."",EVE
+Cache Raiders,,Pete Venters,18,Creature — Merfolk Rogue,"At the beginning of your upkeep, return a permanent you control to its owner's hand.","EVE,DDI"
+Dream Fracture,,Howard Lyon,19,Instant,Counter target spell. Its controller draws a card.\nDraw a card.,"EVE,CNS"
+Dream Thief,,Howard Lyon,20,Creature — Faerie Rogue,"Flying\nWhen Dream Thief enters the battlefield, draw a card if you've cast another blue spell this turn.",EVE
+Glamerdye,,Ralph Horsley,21,Instant,Change the text of target spell or permanent by replacing all instances of one color word with another.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),EVE
+Glen Elendra Archmage,,Warren Mahy,22,Creature — Faerie Wizard,"Flying\n{U}, Sacrifice Glen Elendra Archmage: Counter target noncreature spell.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","EVE,MMA"
+Idle Thoughts,,Steven Belledin,23,Enchantment,{2}: Draw a card if you have no cards in hand.,EVE
+Indigo Faerie,,Steve Prescott,24,Creature — Faerie Wizard,Flying\n{U}: Target permanent becomes blue in addition to its other colors until end of turn.,EVE
+Inundate,,Mark Zug,25,Sorcery,Return all nonblue creatures to their owners' hands.,EVE
+Merrow Levitator,,Jim Pavelec,26,Creature — Merfolk Wizard,"{T}: Target creature gains flying until end of turn.\nWhenever you cast a blue spell, you may untap Merrow Levitator.",EVE
+Oona's Grace,,Rebecca Guay,27,Instant,Target player draws a card.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),EVE
+Razorfin Abolisher,,William O'Connor,28,Creature — Merfolk Wizard,"{1}{U}, {T}: Return target creature with a counter on it to its owner's hand.",EVE
+Sanity Grinding,,Lars Grant-West,29,Sorcery,"Chroma — Reveal the top ten cards of your library. For each blue mana symbol in the mana costs of the revealed cards, target opponent puts the top card of his or her library into his or her graveyard. Then put the cards you revealed this way on the bottom of your library in any order.",EVE
+Talonrend,,Nils Hamm,30,Creature — Elemental,Flying\n{U/R}: Talonrend gets +1/-1 until end of turn.,EVE
+Wake Thrasher,,Jesper Ejsing,31,Creature — Merfolk Soldier,"Whenever a permanent you control becomes untapped, Wake Thrasher gets +1/+1 until end of turn.",EVE
+Wilderness Hypnotist,,Rebecca Guay,32,Creature — Merfolk Wizard,{T}: Target red or green creature gets -2/-0 until end of turn.,EVE
+"Ashling, the Extinguisher",,Wayne Reynolds,33,Legendary Creature — Elemental Shaman,"Whenever Ashling, the Extinguisher deals combat damage to a player, choose target creature that player controls. He or she sacrifices that creature.",EVE
+Creakwood Ghoul,,Thomas M. Baxa,34,Creature — Plant Zombie,{B/G}{B/G}: Exile target card from a graveyard. You gain 1 life.,EVE
+Crumbling Ashes,,Chuck Lukacs,35,Enchantment,"At the beginning of your upkeep, destroy target creature with a -1/-1 counter on it.",EVE
+Lingering Tormentor,,Joshua Hagler,36,Creature — Spirit,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Merrow Bonegnawer,,Jim Nelson,37,Creature — Merfolk Rogue,"{T}: Target player exiles a card from his or her graveyard.\nWhenever you cast a black spell, you may untap Merrow Bonegnawer.",EVE
+Necroskitter,,Jaime Jones,38,Creature — Elemental,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhenever a creature an opponent controls with a -1/-1 counter on it dies, you may return that card to the battlefield under your control.","EVE,MM2"
+Needle Specter,,Christopher Moeller,39,Creature — Specter,"Flying\nWither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever Needle Specter deals combat damage to a player, that player discards that many cards.",EVE
+Nightmare Incursion,,Chuck Lukacs,40,Sorcery,"Search target player's library for up to X cards, where X is the number of Swamps you control, and exile them. Then that player shuffles his or her library.",EVE
+Raven's Crime,,Warren Mahy,41,Sorcery,Target player discards a card.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),"EVE,MMA"
+Smoldering Butcher,,Zoltan Boros & Gabor Szikszai,42,Creature — Elemental Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.),EVE
+Soot Imp,,Jesper Ejsing,43,Creature — Imp,"Flying\nWhenever a player casts a nonblack spell, that player loses 1 life.","EVE,DDC,DD3_DVD"
+Soul Reap,,Izzy,44,Sorcery,Destroy target nongreen creature. Its controller loses 3 life if you've cast another black spell this turn.,EVE
+Soul Snuffers,,Izzy,45,Creature — Elemental Shaman,"When Soul Snuffers enters the battlefield, put a -1/-1 counter on each creature.",EVE
+Syphon Life,,Dan Seagrave,46,Sorcery,Target player loses 2 life and you gain 2 life.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),"EVE,MMA"
+Talara's Bane,,Joshua Hagler,47,Sorcery,"Target opponent reveals his or her hand. You choose a green or white creature card from it. You gain life equal to that creature card's toughness, then that player discards that card.",EVE
+Umbra Stalker,,Daarken,48,Creature — Elemental,Chroma — Umbra Stalker's power and toughness are each equal to the number of black mana symbols in the mana costs of cards in your graveyard.,EVE
+Chaotic Backlash,,Carl Frank,49,Instant,Chaotic Backlash deals damage to target player equal to twice the number of white and/or blue permanents he or she controls.,EVE
+Cinder Pyromancer,,Greg Staples,50,Creature — Elemental Shaman,"{T}: Cinder Pyromancer deals 1 damage to target player.\nWhenever you cast a red spell, you may untap Cinder Pyromancer.","EVE,DPA,PD2"
+Duergar Cave-Guard,,Dave Allsop,51,Creature — Dwarf Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{R/W}: Duergar Cave-Guard gets +1/+0 until end of turn.,EVE
+Fiery Bombardment,,Nils Hamm,52,Enchantment,"Chroma — {2}, Sacrifice a creature: Fiery Bombardment deals damage to target creature or player equal to the number of red mana symbols in the sacrificed creature's mana cost.",EVE
+Flame Jab,,rk post,53,Sorcery,Flame Jab deals 1 damage to target creature or player.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),EVE
+Hatchet Bully,,Paul Bonner,54,Creature — Goblin Warrior,"{2}{R}, {T}, Put a -1/-1 counter on a creature you control: Hatchet Bully deals 2 damage to target creature or player.",EVE
+Hateflayer,,Thomas M. Baxa,55,Creature — Elemental,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{2}{R}, {Q}: Hateflayer deals damage equal to its power to target creature or player. ({Q} is the untap symbol.)",EVE
+Heartlash Cinder,,Steve Prescott,56,Creature — Elemental Warrior,"Haste\nChroma — When Heartlash Cinder enters the battlefield, it gets +X/+0 until end of turn, where X is the number of red mana symbols in the mana costs of permanents you control.",EVE
+Hotheaded Giant,,Fred Harper,57,Creature — Giant Warrior,Haste\nHotheaded Giant enters the battlefield with two -1/-1 counters on it unless you've cast another red spell this turn.,EVE
+Impelled Giant,,Mark Zug,58,Creature — Giant Warrior,"Trample\nTap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way.",EVE
+Outrage Shaman,,Cole Eastburn,59,Creature — Goblin Shaman,"Chroma — When Outrage Shaman enters the battlefield, it deals damage to target creature equal to the number of red mana symbols in the mana costs of permanents you control.",EVE
+Puncture Blast,,Carl Critchlow,60,Instant,Wither (This deals damage to creatures in the form of -1/-1 counters.)\nPuncture Blast deals 3 damage to target creature or player.,EVE
+Rekindled Flame,,Zoltan Boros & Gabor Szikszai,61,Sorcery,"Rekindled Flame deals 4 damage to target creature or player.\nAt the beginning of your upkeep, if an opponent has no cards in hand, you may return Rekindled Flame from your graveyard to your hand.",EVE
+Stigma Lasher,,Aleksi Briclot,62,Creature — Elemental Shaman,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhenever Stigma Lasher deals damage to a player, that player can't gain life for the rest of the game.",EVE
+Thunderblust,,Dan Scott,63,Creature — Elemental,"Haste\nThunderblust has trample as long as it has a -1/-1 counter on it.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","EVE,MM2"
+Unwilling Recruit,,Dave Allsop,64,Sorcery,Gain control of target creature until end of turn. Untap that creature. It gets +X/+0 and gains haste until end of turn.,EVE
+Aerie Ouphes,,Jesper Ejsing,65,Creature — Ouphe,"Sacrifice Aerie Ouphes: Aerie Ouphes deals damage equal to its power to target creature with flying.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Bloom Tender,,Chippy,66,Creature — Elf Druid,"{T}: For each color among permanents you control, add one mana of that color to your mana pool.",EVE
+Duskdale Wurm,,Dan Dos Santos,67,Creature — Wurm,"Trample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","EVE,DPA,M11,M13"
+Helix Pinnacle,,Dan Scott,68,Enchantment,"Shroud (This enchantment can't be the target of spells or abilities.)\n{X}: Put X tower counters on Helix Pinnacle.
+At the beginning of your upkeep, if there are 100 or more tower counters on Helix Pinnacle, you win the game.",EVE
+Marshdrinker Giant,,Daarken,69,Creature — Giant Warrior,"When Marshdrinker Giant enters the battlefield, destroy target Island or Swamp an opponent controls.",EVE
+Monstrify,,Lars Grant-West,70,Sorcery,Target creature gets +4/+4 until end of turn.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),EVE
+Nettle Sentinel,,Kev Walker,71,Creature — Elf Warrior,"Nettle Sentinel doesn't untap during your untap step.\nWhenever you cast a green spell, you may untap Nettle Sentinel.",EVE
+Phosphorescent Feast,,Ron Spencer,72,Sorcery,Chroma — Reveal any number of cards in your hand. You gain 2 life for each green mana symbol in those cards' mana costs.,"FUT,EVE"
+Primalcrux,,Wayne Reynolds,73,Creature — Elemental,Trample\nChroma — Primalcrux's power and toughness are each equal to the number of green mana symbols in the mana costs of permanents you control.,EVE
+Regal Force,,Brandon Kitkouski,74,Creature — Elemental,"When Regal Force enters the battlefield, draw a card for each green creature you control.",EVE
+Savage Conception,,William O'Connor,75,Sorcery,Put a 3/3 green Beast creature token onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),EVE
+Swirling Spriggan,,Thomas M. Baxa,76,Creature — Goblin Shaman,{G/U}{G/U}: Target creature you control becomes the color or colors of your choice until end of turn.,EVE
+Talara's Battalion,,Todd Lockwood,77,Creature — Elf Warrior,Trample\nCast Talara's Battalion only if you've cast another green spell this turn.,"EVE,DPA"
+Tilling Treefolk,,rk post,78,Creature — Treefolk Druid,"When Tilling Treefolk enters the battlefield, you may return up to two target land cards from your graveyard to your hand.",EVE
+Twinblade Slasher,,Trevor Hairsine,79,Creature — Elf Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{1}{G}: Twinblade Slasher gets +2/+2 until end of turn. Activate this ability only once each turn.,EVE
+Wickerbough Elder,,Jesper Ejsing,80,Creature — Treefolk Shaman,"Wickerbough Elder enters the battlefield with a -1/-1 counter on it.\n{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment.","EVE,ARC"
+Batwing Brume,,Richard Kane Ferguson,81,Instant,Prevent all combat damage that would be dealt this turn if {W} was spent to cast Batwing Brume. Each player loses 1 life for each attacking creature he or she controls if {B} was spent to cast Batwing Brume. (Do both if {W}{B} was spent.),"EVE,ARC"
+Beckon Apparition,,Larry MacDougall,82,Instant,Exile target card from a graveyard. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.,"EVE,GTC"
+Bloodied Ghost,,Mike Dringenberg,83,Creature — Spirit,Flying\nBloodied Ghost enters the battlefield with a -1/-1 counter on it.,EVE
+Cauldron Haze,,Brandon Kitkouski,84,Instant,"Choose any number of target creatures. Each of those creatures gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Deathbringer Liege,,Drew Tucker,85,Creature — Horror,"Other white creatures you control get +1/+1.\nOther black creatures you control get +1/+1.
+Whenever you cast a white spell, you may tap target creature.
+Whenever you cast a black spell, you may destroy target creature if it's tapped.",EVE
+Divinity of Pride,,Greg Staples,86,Creature — Spirit Avatar,"Flying, lifelink\nDivinity of Pride gets +4/+4 as long as you have 25 or more life.","EVE,MMA,C13"
+Edge of the Divinity,,Dan Scott,87,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is white, it gets +1/+2.
+As long as enchanted creature is black, it gets +2/+1.",EVE
+Evershrike,,Dan Dos Santos,88,Creature — Elemental Spirit,"Flying\nEvershrike gets +2/+2 for each Aura attached to it.
+{X}{W/B}{W/B}: Return Evershrike from your graveyard to the battlefield. You may put an Aura card with converted mana cost X or less from your hand onto the battlefield attached to it. If you don't, exile Evershrike.",EVE
+Gwyllion Hedge-Mage,,Todd Lockwood,89,Creature — Hag Wizard,"When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token onto the battlefield.\nWhen Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.","EVE,CMD"
+Harvest Gwyllion,,Nils Hamm,90,Creature — Hag,Wither (This deals damage to creatures in the form of -1/-1 counters.),EVE
+Nightsky Mimic,,Franz Vohwinkel,91,Creature — Shapeshifter,"Whenever you cast a spell that's both white and black, Nightsky Mimic has base power and toughness 4/4 until end of turn and gains flying until end of turn.",EVE
+Nip Gwyllion,,Alex Horley-Orlandelli,92,Creature — Hag,Lifelink (Damage dealt by this creature also causes you to gain that much life.),EVE
+Pyrrhic Revival,,Richard Kane Ferguson,93,Sorcery,Each player returns each creature card from his or her graveyard to the battlefield with an additional -1/-1 counter on it.,EVE
+Restless Apparition,,Jeff Easley,94,Creature — Spirit,"{W/B}{W/B}{W/B}: Restless Apparition gets +3/+3 until end of turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","EVE,MM2"
+Stillmoon Cavalier,,Christopher Moeller,95,Creature — Zombie Knight,Protection from white and from black\n{W/B}: Stillmoon Cavalier gains flying until end of turn.
+{W/B}: Stillmoon Cavalier gains first strike until end of turn.
+{W/B}{W/B}: Stillmoon Cavalier gets +1/+0 until end of turn.,EVE
+Unmake,,Steven Belledin,96,Instant,Exile target creature.,"pMPR,EVE,ARC,DDK"
+Voracious Hatchling,,Jeremy Enecio,97,Creature — Elemental,"Lifelink\nVoracious Hatchling enters the battlefield with four -1/-1 counters on it.
+Whenever you cast a white spell, remove a -1/-1 counter from Voracious Hatchling.
+Whenever you cast a black spell, remove a -1/-1 counter from Voracious Hatchling.",EVE
+Call the Skybreaker,,Randy Gallegos,98,Sorcery,Put a 5/5 blue and red Elemental creature token with flying onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),"EVE,CMD,C15"
+Clout of the Dominus,,Jaime Jones,99,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is blue, it gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)
+As long as enchanted creature is red, it gets +1/+1 and has haste.",EVE
+Crackleburr,,Mike Dringenberg,100,Creature — Elemental,"{U/R}{U/R}, {T}, Tap two untapped red creatures you control: Crackleburr deals 3 damage to target creature or player.\n{U/R}{U/R}, {Q}, Untap two tapped blue creatures you control: Return target creature to its owner's hand. ({Q} is the untap symbol.)",EVE
+Crag Puca,,John Howe,101,Creature — Shapeshifter,{U/R}: Switch Crag Puca's power and toughness until end of turn.,EVE
+Dominus of Fealty,,Kev Walker,102,Creature — Spirit Avatar,"Flying\nAt the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.","EVE,CMD"
+Inside Out,,Zoltan Boros & Gabor Szikszai,103,Instant,Switch target creature's power and toughness until end of turn.\nDraw a card.,EVE
+Mindwrack Liege,,Richard Whitters,104,Creature — Horror,Other blue creatures you control get +1/+1.\nOther red creatures you control get +1/+1.
+{U/R}{U/R}{U/R}{U/R}: You may put a blue or red creature card from your hand onto the battlefield.,EVE
+Mirror Sheen,,John Avon,105,Enchantment,{1}{U/R}{U/R}: Copy target instant or sorcery spell that targets you. You may choose new targets for the copy.,EVE
+Noggle Bandit,,Thomas Denmark,106,Creature — Noggle Rogue,Noggle Bandit can't be blocked except by creatures with defender.,EVE
+Noggle Bridgebreaker,,Thomas M. Baxa,107,Creature — Noggle Rogue,"When Noggle Bridgebreaker enters the battlefield, return a land you control to its owner's hand.",EVE
+Noggle Hedge-Mage,,Larry MacDougall,108,Creature — Noggle Wizard,"When Noggle Hedge-Mage enters the battlefield, if you control two or more Islands, you may tap two target permanents.\nWhen Noggle Hedge-Mage enters the battlefield, if you control two or more Mountains, you may have Noggle Hedge-Mage deal 2 damage to target player.",EVE
+Noggle Ransacker,,Alex Horley-Orlandelli,109,Creature — Noggle Rogue,"When Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.","EVE,PC2"
+Nucklavee,,Trevor Hairsine,110,Creature — Beast,"When Nucklavee enters the battlefield, you may return target red sorcery card from your graveyard to your hand.\nWhen Nucklavee enters the battlefield, you may return target blue instant card from your graveyard to your hand.","EVE,CMD"
+Riverfall Mimic,,Franz Vohwinkel,111,Creature — Shapeshifter,"Whenever you cast a spell that's both blue and red, Riverfall Mimic has base power and toughness 3/3 until end of turn and can't be blocked this turn.",EVE
+Shrewd Hatchling,,Carl Frank,112,Creature — Elemental,"Shrewd Hatchling enters the battlefield with four -1/-1 counters on it.\n{U/R}: Target creature can't block Shrewd Hatchling this turn.
+Whenever you cast a blue spell, remove a -1/-1 counter from Shrewd Hatchling.
+Whenever you cast a red spell, remove a -1/-1 counter from Shrewd Hatchling.","EVE,DDJ,MM2"
+Stream Hopper,,Dave Allsop,113,Creature — Goblin,{U/R}: Stream Hopper gains flying until end of turn.,EVE
+Unnerving Assault,,Ron Spencer,114,Instant,"Creatures your opponents control get -1/-0 until end of turn if {U} was spent to cast Unnerving Assault, and creatures you control get +1/+0 until end of turn if {R} was spent to cast it. (Do both if {U}{R} was spent.)",EVE
+Canker Abomination,,Brandon Kitkouski,115,Creature — Treefolk Horror,"As Canker Abomination enters the battlefield, choose an opponent. Canker Abomination enters the battlefield with a -1/-1 counter on it for each creature that player controls.",EVE
+Cankerous Thirst,,Carl Frank,116,Instant,"If {B} was spent to cast Cankerous Thirst, you may have target creature get -3/-3 until end of turn. If {G} was spent to cast Cankerous Thirst, you may have target creature get +3/+3 until end of turn. (Do both if {B}{G} was spent.)",EVE
+Creakwood Liege,,Cole Eastburn,117,Creature — Horror,"Other black creatures you control get +1/+1.\nOther green creatures you control get +1/+1.
+At the beginning of your upkeep, you may put a 1/1 black and green Worm creature token onto the battlefield.","EVE,MM2"
+Deity of Scars,,Steve Prescott,118,Creature — Spirit Avatar,"Trample\nDeity of Scars enters the battlefield with two -1/-1 counters on it.
+{B/G}, Remove a -1/-1 counter from Deity of Scars: Regenerate Deity of Scars.",EVE
+Desecrator Hag,,Fred Harper,119,Creature — Hag,"When Desecrator Hag enters the battlefield, return to your hand the creature card in your graveyard with the greatest power. If two or more cards are tied for greatest power, you choose one of them.","EVE,CMD"
+Doomgape,,Dave Allsop,120,Creature — Elemental,"Trample\nAt the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature's toughness.","EVE,DDJ"
+Drain the Well,,Warren Mahy,121,Sorcery,Destroy target land. You gain 2 life.,EVE
+Gift of the Deity,,Steve Prescott,122,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is black, it gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.)
+As long as enchanted creature is green, it gets +1/+1 and all creatures able to block it do so.",EVE
+Hag Hedge-Mage,,Scott Altmann,123,Creature — Hag Shaman,"When Hag Hedge-Mage enters the battlefield, if you control two or more Swamps, you may have target player discard a card.\nWhen Hag Hedge-Mage enters the battlefield, if you control two or more Forests, you may put target card from your graveyard on top of your library.",EVE
+Noxious Hatchling,,Nils Hamm,124,Creature — Elemental,"Noxious Hatchling enters the battlefield with four -1/-1 counters on it.\nWither (This deals damage to creatures in the form of -1/-1 counters.)
+Whenever you cast a black spell, remove a -1/-1 counter from Noxious Hatchling.
+Whenever you cast a green spell, remove a -1/-1 counter from Noxious Hatchling.",EVE
+Odious Trow,,Warren Mahy,125,Creature — Troll,{1}{B/G}: Regenerate Odious Trow.,EVE
+Quillspike,,Carl Critchlow,126,Creature — Beast,"{B/G}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.",EVE
+Rendclaw Trow,,Warren Mahy,127,Creature — Troll,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Sapling of Colfenor,,John Avon,128,Legendary Creature — Treefolk Shaman,"Indestructible\nWhenever Sapling of Colfenor attacks, reveal the top card of your library. If it's a creature card, you gain life equal to that card's toughness, lose life equal to its power, then put it into your hand.",EVE
+Stalker Hag,,Dave Kendall,129,Creature — Hag,"Swampwalk, forestwalk (This creature can't be blocked as long as defending player controls a Swamp or a Forest.)",EVE
+Woodlurker Mimic,,Franz Vohwinkel,130,Creature — Shapeshifter,"Whenever you cast a spell that's both black and green, Woodlurker Mimic has base power and toughness 4/5 until end of turn and gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)",EVE
+Worm Harvest,,Chuck Lukacs,131,Sorcery,Put a 1/1 black and green Worm creature token onto the battlefield for each land card in your graveyard.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),"EVE,MMA"
+Balefire Liege,,Ralph Horsley,132,Creature — Spirit Horror,"Other red creatures you control get +1/+1.\nOther white creatures you control get +1/+1.
+Whenever you cast a red spell, Balefire Liege deals 3 damage to target player.
+Whenever you cast a white spell, you gain 3 life.","EVE,HOP"
+Battlegate Mimic,,Franz Vohwinkel,133,Creature — Shapeshifter,"Whenever you cast a spell that's both red and white, Battlegate Mimic has base power and toughness 4/2 until end of turn and gains first strike until end of turn.","EVE,HOP"
+Belligerent Hatchling,,Steve Prescott,134,Creature — Elemental,"First strike\nBelligerent Hatchling enters the battlefield with four -1/-1 counters on it.
+Whenever you cast a red spell, remove a -1/-1 counter from Belligerent Hatchling.
+Whenever you cast a white spell, remove a -1/-1 counter from Belligerent Hatchling.",EVE
+Double Cleave,,rk post,135,Instant,Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.),"EVE,HOP"
+Duergar Assailant,,Paul Bonner,136,Creature — Dwarf Soldier,Sacrifice Duergar Assailant: Duergar Assailant deals 1 damage to target attacking or blocking creature.,EVE
+Duergar Hedge-Mage,,Dave Allsop,137,Creature — Dwarf Shaman,"When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.\nWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.","pGTW,EVE,HOP,CMD"
+Duergar Mine-Captain,,Matt Cavotta,138,Creature — Dwarf Soldier,"{1}{R/W}, {Q}: Attacking creatures get +1/+0 until end of turn. ({Q} is the untap symbol.)",EVE
+Figure of Destiny,,Scott M. Fischer,139,Creature — Kithkin,"{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.\n{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.
+{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.","pLPA,EVE,PD2,MMA,DDL"
+Fire at Will,,Pete Venters,140,Instant,"Fire at Will deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.",EVE
+Hearthfire Hobgoblin,,Steven Belledin,141,Creature — Goblin Soldier,Double strike,"EVE,HOP,MM2"
+Hobgoblin Dragoon,,Matt Cavotta,142,Creature — Goblin Knight,"Flying, first strike",EVE
+Moonhold,,Mike Dringenberg,143,Instant,Target player can't play land cards this turn if {R} was spent to cast Moonhold and can't play creature cards this turn if {W} was spent to cast it. (Do both if {R}{W} was spent.),EVE
+Nobilis of War,,Christopher Moeller,144,Creature — Spirit Avatar,Flying\nAttacking creatures you control get +2/+0.,"EVE,DDL,MM2"
+Rise of the Hobgoblins,,Jeff Miracola,145,Enchantment,"When Rise of the Hobgoblins enters the battlefield, you may pay {X}. If you do, put X 1/1 red and white Goblin Soldier creature tokens onto the battlefield.\n{R/W}: Red creatures and white creatures you control gain first strike until end of turn.",EVE
+Scourge of the Nobilis,,Dan Scott,146,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is red, it gets +1/+1 and has "{R/W}: This creature gets +1/+0 until end of turn."
+As long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)",EVE
+Spitemare,,Matt Cavotta,147,Creature — Elemental,"Whenever Spitemare is dealt damage, it deals that much damage to target creature or player.","EVE,DDH"
+Waves of Aggression,,Jim Pavelec,148,Sorcery,"Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",EVE
+Cold-Eyed Selkie,,Jaime Jones,149,Creature — Merfolk Rogue,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.) \nWhenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.","EVE,MMA,C15"
+Fable of Wolf and Owl,,Heather Hudson,150,Enchantment,"Whenever you cast a green spell, you may put a 2/2 green Wolf creature token onto the battlefield.\nWhenever you cast a blue spell, you may put a 1/1 blue Bird creature token with flying onto the battlefield.",EVE
+Favor of the Overbeing,,Chippy,151,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is green, it gets +1/+1 and has vigilance.
+As long as enchanted creature is blue, it gets +1/+1 and has flying.",EVE
+Gilder Bairn,,Nils Hamm,152,Creature — Ouphe,"{2}{G/U}, {Q}: For each counter on target permanent, put another of those counters on that permanent. ({Q} is the untap symbol.)",EVE
+Grazing Kelpie,,Drew Tucker,153,Creature — Beast,"{G/U}, Sacrifice Grazing Kelpie: Put target card from a graveyard on the bottom of its owner's library.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Groundling Pouncer,,Richard Whitters,154,Creature — Faerie,{G/U}: Groundling Pouncer gets +1/+3 and gains flying until end of turn. Activate this ability only once each turn and only if an opponent controls a creature with flying.,EVE
+Invert the Skies,,Randy Gallegos,155,Instant,"Creatures your opponents control lose flying until end of turn if {G} was spent to cast Invert the Skies, and creatures you control gain flying until end of turn if {U} was spent to cast it. (Do both if {G}{U} was spent.)",EVE
+Murkfiend Liege,,Carl Critchlow,156,Creature — Horror,Other green creatures you control get +1/+1.\nOther blue creatures you control get +1/+1.
+Untap all green and/or blue creatures you control during each other player's untap step.,"EVE,C13"
+Overbeing of Myth,,Chippy,157,Creature — Spirit Avatar,"Overbeing of Myth's power and toughness are each equal to the number of cards in your hand.\nAt the beginning of your draw step, draw an additional card.","pPRE,EVE"
+Selkie Hedge-Mage,,Larry MacDougall,158,Creature — Merfolk Wizard,"When Selkie Hedge-Mage enters the battlefield, if you control two or more Forests, you may gain 3 life.\nWhen Selkie Hedge-Mage enters the battlefield, if you control two or more Islands, you may return target tapped creature to its owner's hand.","pGTW,EVE"
+Shorecrasher Mimic,,Franz Vohwinkel,159,Creature — Shapeshifter,"Whenever you cast a spell that's both green and blue, Shorecrasher Mimic has base power and toughness 5/3 until end of turn and gains trample until end of turn.",EVE
+Slippery Bogle,,Dave Allsop,160,Creature — Beast,Hexproof (This creature can't be the target of spells or abilities your opponents control.),EVE
+Snakeform,,Jim Nelson,161,Instant,"Until end of turn, target creature loses all abilities and becomes a green Snake with base power and toughness 1/1.\nDraw a card.","EVE,C15"
+Spitting Image,,Jim Nelson,162,Sorcery,Put a token that's a copy of target creature onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.),EVE
+Sturdy Hatchling,,Darrell Riche,163,Creature — Elemental,"Sturdy Hatchling enters the battlefield with four -1/-1 counters on it.\n{G/U}: Sturdy Hatchling gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Whenever you cast a green spell, remove a -1/-1 counter from Sturdy Hatchling.
+Whenever you cast a blue spell, remove a -1/-1 counter from Sturdy Hatchling.",EVE
+Trapjaw Kelpie,,Lars Grant-West,164,Creature — Beast,"Flash\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Wistful Selkie,,Mark Tedin,165,Creature — Merfolk Wizard,"When Wistful Selkie enters the battlefield, draw a card.","EVE,C15"
+Altar Golem,,Rob Alexander,166,Artifact Creature — Golem,Trample\nAltar Golem's power and toughness are each equal to the number of creatures on the battlefield.
+Altar Golem doesn't untap during your untap step.
+Tap five untapped creatures you control: Untap Altar Golem.,EVE
+Antler Skulkin,,Dave Kendall,167,Artifact Creature — Scarecrow,"{2}: Target white creature gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",EVE
+Fang Skulkin,,Ron Brown,168,Artifact Creature — Scarecrow,{2}: Target black creature gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.),EVE
+Hoof Skulkin,,Joshua Hagler,169,Artifact Creature — Scarecrow,{3}: Target green creature gets +1/+1 until end of turn.,EVE
+Jawbone Skulkin,,Jeff Easley,170,Artifact Creature — Scarecrow,{2}: Target red creature gains haste until end of turn.,EVE
+Leering Emblem,,Ron Brown,171,Artifact — Equipment,"Whenever you cast a spell, equipped creature gets +2/+2 until end of turn.\nEquip {2}",EVE
+Scarecrone,,Jesper Ejsing,172,Artifact Creature — Scarecrow,"{1}, Sacrifice a Scarecrow: Draw a card.\n{4}, {T}: Return target artifact creature card from your graveyard to the battlefield.",EVE
+Shell Skulkin,,Cole Eastburn,173,Artifact Creature — Scarecrow,{3}: Target blue creature gains shroud until end of turn. (It can't be the target of spells or abilities.),EVE
+Ward of Bones,,David Martin,174,Artifact,"Each opponent who controls more creatures than you can't play creature cards. The same is true for artifacts, enchantments, and lands.",EVE
+Cascade Bluffs,,Brandon Kitkouski,175,Land,"{T}: Add {1} to your mana pool.\n{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R} to your mana pool.",EVE
+Fetid Heath,,Daarken,176,Land,"{T}: Add {1} to your mana pool.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B} to your mana pool.",EVE
+Flooded Grove,,Dave Kendall,177,Land,"{T}: Add {1} to your mana pool.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.",EVE
+Rugged Prairie,,Fred Fields,178,Land,"{T}: Add {1} to your mana pool.\n{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W} to your mana pool.",EVE
+Springjack Pasture,,Terese Nielsen,179,Land,"{T}: Add {1} to your mana pool.\n{4}, {T}: Put a 0/1 white Goat creature token onto the battlefield.
+{T}, Sacrifice X Goats: Add X mana of any one color to your mana pool. You gain X life.","EVE,C13"
+Twilight Mire,,Rob Alexander,180,Land,"{T}: Add {1} to your mana pool.\n{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.",EVE

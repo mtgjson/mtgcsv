@@ -1,0 +1,48 @@
+name,cost,artist,number,type,text,printings
+Earwig Squad,,Warren Mahy,1,Creature — Goblin Rogue,"Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)\nWhen Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.","MOR,pLPA,MMA"
+Vexing Shusher,,Cyril Van Der Haegen,2,Creature — Goblin Shaman,Vexing Shusher can't be countered.\n{R/G}: Target spell can't be countered by spells or abilities.,"pLPA,SHM"
+Figure of Destiny,,Scott M. Fischer,3,Creature — Kithkin,"{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.\n{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4.
+{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike.","pLPA,EVE,PD2,MMA,DDL"
+Ajani Vengeant,,Jason Chan,4,Planeswalker — Ajani,+1: Target permanent doesn't untap during its controller's next untap step.\n−2: Ajani Vengeant deals 3 damage to target creature or player and you gain 3 life.
+−7: Destroy all lands target player controls.,"pPRE,pLPA,ALA,DDH"
+Obelisk of Alara,,John Avon,5,Artifact,"{1}{W}, {T}: You gain 5 life.\n{1}{U}, {T}: Draw a card, then discard a card.
+{1}{B}, {T}: Target creature gets -2/-2 until end of turn.
+{1}{R}, {T}: Obelisk of Alara deals 3 damage to target player.
+{1}{G}, {T}: Target creature gets +4/+4 until end of turn.","pLPA,CON"
+Knight of New Alara,,David Palumbo,6,Creature — Human Knight,Each other multicolored creature you control gets +1/+1 for each of its colors.,"pLPA,ARB"
+Ant Queen,,Ron Spencer,7,Creature — Insect,{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.,"pLPA,M10,MM2"
+"Valakut, the Molten Pinnacle",,James Paick,8,Land,"Valakut, the Molten Pinnacle enters the battlefield tapped.\nWhenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.
+{T}: Add {R} to your mana pool.","pLPA,ZEN"
+Joraga Warcaller,,Kev Walker,9,Creature — Elf Warrior,Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)\nJoraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.,"pLPA,WWK,C14"
+Lord of Shatterskull Pass,,Igor Kieryluk,10,Creature — Minotaur Shaman,"Level up {1}{R} ({1}{R}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-5
+6/6
+LEVEL 6+
+6/6
+Whenever Lord of Shatterskull Pass attacks, it deals 6 damage to each creature defending player controls.","pLPA,ROE"
+Ancient Hellkite,,Wayne Reynolds,11,Creature — Dragon,Flying\n{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.,"pLPA,M11"
+Steel Hellkite,,Jaime Jones,12,Artifact Creature — Dragon,Flying\n{2}: Steel Hellkite gets +1/+0 until end of turn.
+{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.,"pLPA,SOM,C14"
+Thopter Assembly,,Volkan Baga,13,Artifact Creature — Thopter,"Flying\nAt the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner's hand and put five 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.","pLPA,MBS"
+Phyrexian Metamorph,,Jung Park,14,Artifact Creature — Shapeshifter,"({U/P} can be paid with either {U} or 2 life.)\nYou may have Phyrexian Metamorph enter the battlefield as a copy of any artifact or creature on the battlefield, except it's an artifact in addition to its other types.","pLPA,NPH"
+Garruk's Horde,,Kev Walker,15,Creature — Beast,Trample\nPlay with the top card of your library revealed.
+You may cast the top card of your library if it's a creature card. (Do this only any time you could cast that creature card. You still pay the spell's costs.),"pLPA,M12,M14"
+Ludevic's Test Subject,,Karl Kopinski,16a,Creature — Lizard,"Defender\n{1}{U}: Put a hatchling counter on Ludevic's Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.","pLPA,ISD"
+Ludevic's Abomination,,Karl Kopinski,16b,Creature — Lizard Horror,Trample,"pLPA,ISD"
+Mondronen Shaman,,Anthony Palumbo,17a,Creature — Human Werewolf Shaman,"At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.","pLPA,DKA"
+Tovolar's Magehunter,,Anthony Palumbo,17b,Creature — Werewolf,"Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.","pLPA,DKA"
+Restoration Angel,,Wesley Burt,18,Creature — Angel,"Flash\nFlying
+When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.","pLPA,AVR"
+Staff of Nin,,Brad Rigney,19,Artifact,"At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to target creature or player.","pLPA,M13,C15"
+Deadbridge Goliath,,Nils Hamm,20,Creature — Insect,"Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)","pLPA,RTR"
+Skarrg Goliath,,Karl Kopinski,21,Creature — Beast,"Trample\nBloodrush — {5}{G}{G}, Discard Skarrg Goliath: Target attacking creature gets +9/+9 and gains trample until end of turn.","pLPA,GTC"
+Breaking,,Igor Kieryluk,22a,Sorcery,Target player puts the top eight cards of his or her library into his or her graveyard.\nFuse (You may cast one or both halves of this card from your hand.),"pLPA,DGM"
+Entering,,Igor Kieryluk,22b,Sorcery,Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.\nFuse (You may cast one or both halves of this card from your hand.),"pLPA,DGM"
+Colossal Whale,,Erica Yang,23,Creature — Whale,"Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner's control.)","pLPA,M14"
+Bident of Thassa,,Ryan Yee,24,Legendary Enchantment Artifact,"Whenever a creature you control deals combat damage to a player, you may draw a card.\n{1}{U}, {T}: Creatures your opponents control attack this turn if able.","pLPA,THS,C15"
+Tromokratis,,Jaime Jones,25,Legendary Creature — Kraken,"Tromokratis has hexproof unless it's attacking or blocking.\nTromokratis can't be blocked unless all creatures defending player controls block it. (If any creature that player controls doesn't block this creature, it can't be blocked.)","pLPA,BNG"
+Dictate of the Twin Gods,,Chase Stone,26,Enchantment,"Flash\nIf a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.","pLPA,JOU"
+Dragon Throne of Tarkir,,Daarken,27,Legendary Artifact — Equipment,"Equipped creature has defender and "{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature's power."\nEquip {3}","pLPA,KTK"
+In Garruk's Wake,,Brad Rigney,28,Sorcery,Destroy all creatures you don't control and all planeswalkers you don't control.,"pLPA,M15"
+Sandsteppe Mastodon,,Kev Walker,29,Creature — Elephant,"Reach\nWhen Sandsteppe Mastodon enters the battlefield, bolster 5. (Choose a creature with the least toughness among creatures you control and put five +1/+1 counters on it.)","pLPA,FRF"
+Deathbringer Regent,,Chris Rallis,31,Creature — Dragon,"Flying\nWhen Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.","pLPA,DTK"

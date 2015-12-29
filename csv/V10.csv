@@ -1,0 +1,18 @@
+name,cost,artist,number,type,text,printings
+Æther Vial,,Karl Kopinski,1,Artifact,"At the beginning of your upkeep, you may put a charge counter on Æther Vial.\n{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.","DST,V10,MMA"
+Black Vise,,Dan Scott,2,Artifact,"As Black Vise enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, Black Vise deals X damage to that player, where X is the number of cards in his or her hand minus 4.","LEA,LEB,2ED,CED,CEI,3ED,4ED,ME3,V10"
+Isochron Scepter,,Chippy,3,Artifact,"Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.","pFNM,MRD,V10,DDJ"
+Ivory Tower,,Jason Chan,4,Artifact,"At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.","ATQ,3ED,4ED,MED,V10,VMA"
+Jester's Cap,,D. Alexander Gregory,5,Artifact,"{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.","ICE,5ED,9ED,V10"
+"Karn, Silver Golem",,Mark Zug,6,Legendary Artifact Creature — Golem,"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.","pARL,USG,V10,VMA"
+Masticore,,Steven Belledin,7,Artifact Creature — Masticore,"At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\n{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.","UDS,V10,VMA"
+Memory Jar,,Donato Giancola,8,Artifact,"{T}, Sacrifice Memory Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.","ULG,V10,VMA"
+Mirari,,Donato Giancola,9,Legendary Artifact,"Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.","ODY,TSB,V10,C13"
+Mox Diamond,,Volkan Baga,10,Artifact,"If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add one mana of any color to your mana pool.","STH,V10,TPR"
+Nevinyrral's Disk,,Steve Argyle,11,Artifact,"Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments.","LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,ATH,MED,V10,C13,VMA,C14"
+Sol Ring,,Mike Bierek,12,Artifact,{T}: Add {2} to your mana pool.,"LEA,LEB,2ED,CED,CEI,3ED,pJGP,V10,ME4,CMD,C13,VMA,C14,C15"
+Sundering Titan,,Jim Murray,13,Artifact Creature — Golem,"When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.","DST,ARC,V10"
+Sword of Body and Mind,,Chris Rahn,14,Artifact — Equipment,"Equipped creature gets +2/+2 and has protection from green and from blue.\nWhenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.
+Equip {2}","V10,SOM"
+Zuran Orb,,Ryan Pancoast,15,Artifact,Sacrifice a land: You gain 2 life.,"ICE,MED,V10"

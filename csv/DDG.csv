@@ -1,0 +1,105 @@
+name,cost,artist,number,type,text,printings
+Knight of the Reliquary,,Wayne Reynolds,1,Creature — Human Knight,"Knight of the Reliquary gets +1/+1 for each land card in your graveyard.\n{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.","CON,DDG,MMA"
+Caravan Escort,,Goran Josic,2,Creature — Human Knight,Level up {2} ({2}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4
+2/2
+LEVEL 5+
+5/5
+First strike,"ROE,DDG,DDP"
+Lionheart Maverick,,Hideaki Takamura,3,Creature — Human Knight,Vigilance\n{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.,"GPT,DDG"
+Knight of Cliffhaven,,Matt Cavotta,4,Creature — Kor Knight,"Level up {3} ({3}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3
+2/3
+Flying
+LEVEL 4+
+4/4
+Flying, vigilance","ROE,DDG,DDP"
+Knight of Meadowgrain,,Larry MacDougall,5,Creature — Kithkin Knight,First strike\nLifelink (Damage dealt by this creature also causes you to gain that much life.),"LRW,DDG"
+Knight of the White Orchid,,Mark Zug,6,Creature — Human Knight,"First strike\nWhen Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.","ALA,DDG,ORI"
+Leonin Skyhunter,,Kev Walker,7,Creature — Cat Knight,Flying,"MRD,9ED,MBS,DDG"
+Silver Knight,,Steve Prescott,8,Creature — Human Knight,"First strike, protection from red","pFNM,SCG,DDG"
+White Knight,,Christopher Moeller,9,Creature — Human Knight,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,ATH,pFNM,LGN,M10,M11,ME4,DDG"
+Knotvine Paladin,,Matt Stewart,10,Creature — Human Knight,"Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.","ARB,DDG"
+Steward of Valeron,,Greg Staples,11,Creature — Human Druid Knight,Vigilance\n{T}: Add {G} to your mana pool.,"pMEI,ALA,DDG"
+Benalish Lancer,,Paolo Parente,12,Creature — Human Knight,"Kicker {2}{W} (You may pay an additional {2}{W} as you cast this spell.)\nIf Benalish Lancer was kicked, it enters the battlefield with two +1/+1 counters on it and with first strike.","INV,DDG"
+Zhalfirin Commander,,Stuart Griffin,13,Creature — Human Knight,"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{W}{W}: Target Knight creature gets +1/+1 until end of turn.","MIR,TSB,DDG"
+Knight Exemplar,,Jason Chan,14,Creature — Human Knight,First strike (This creature deals combat damage before creatures without first strike.)\nOther Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say "destroy" don't destroy them.),"pMEI,M11,DDG"
+Wilt-Leaf Cavaliers,,Steve Prescott,15,Creature — Elf Knight,Vigilance,"pGTW,SHM,DDG"
+Kabira Vindicator,,Steven Belledin,16,Creature — Human Knight,Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-4
+3/6
+Other creatures you control get +1/+1.
+LEVEL 5+
+4/8
+Other creatures you control get +2/+2.,"ROE,DDG,DDP"
+Kinsbaile Cavalier,,Wayne Reynolds,17,Creature — Kithkin Knight,Knight creatures you control have double strike.,"MOR,DDG"
+Alaborn Cavalier,,Kev Walker,18,Creature — Human Knight,"Whenever Alaborn Cavalier attacks, you may tap target creature.","PO2,DDG"
+Skyhunter Patrol,,Matt Cavotta,19,Creature — Cat Knight,"Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)","MRD,10E,DDG"
+Plover Knights,,Quinton Hoover,20,Creature — Kithkin Knight,"Flying, first strike","LRW,DDG"
+Juniper Order Ranger,,Greg Hildebrandt,21,Creature — Human Knight,"Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.","CSP,DDG"
+Paladin of Prahv,,William Simpson,22,Creature — Human Knight,"Whenever Paladin of Prahv deals damage, you gain that much life.\nForecast — {1}{W}, Reveal Paladin of Prahv from your hand: Whenever target creature deals damage this turn, you gain that much life. (Activate this ability only during your upkeep and only once each turn.)","DIS,DDG"
+Harm's Way,,Dan Scott,23,Instant,The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.,"M10,DDG"
+Reciprocate,,Pat Lee,24,Instant,Exile target creature that dealt damage to you this turn.,"pMPR,CHK,DDG"
+Edge of Autumn,,Jean-Sébastien Rossbach,25,Sorcery,"If you control four or fewer lands, search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.\nCycling—Sacrifice a land. (Sacrifice a land, Discard this card: Draw a card.)","FUT,DDG"
+Mighty Leap,,rk post,26,Instant,Target creature gets +2/+2 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),"M11,DDF,DDG,M12,DDO,MM2,ORI"
+Reprisal,,Ciruelo,27,Instant,Destroy target creature with power 4 or greater. It can't be regenerated.,"ALL,6ED,7ED,ME2,DDG,JOU"
+Test of Faith,,Vance Kovacs,28,Instant,"Prevent the next 3 damage that would be dealt to target creature this turn. For each 1 damage prevented this way, put a +1/+1 counter on that creature.","DST,DDG,MMA"
+Heroes' Reunion,,Terese Nielsen,29,Instant,Target player gains 7 life.,"INV,ARC,DDG,RTR"
+Sigil Blessing,,Matt Stewart,30,Instant,"Until end of turn, target creature you control gets +3/+3 and other creatures you control get +1/+1.","ALA,DDG,MM2"
+Loxodon Warhammer,,Terese Nielsen,31,Artifact — Equipment,Equipped creature gets +3/+0 and has trample and lifelink.\nEquip {3},"MRD,9ED,10E,HOP,DPA,DDG,C14,C15"
+Spidersilk Armor,,Scott Hampton,32,Enchantment,Creatures you control get +0/+1 and have reach. (They can block creatures with flying.),"MMQ,DDG"
+Griffin Guide,,Jim Nelson,33,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2 and has flying.
+When enchanted creature dies, put a 2/2 white Griffin creature token with flying onto the battlefield.","TSP,DDG,DDH,DDL"
+Oblivion Ring,,Chuck Lukacs,34,Enchantment,"When Oblivion Ring enters the battlefield, exile another target nonland permanent.\nWhen Oblivion Ring leaves the battlefield, return the exiled card to the battlefield under its owner's control.","pFNM,LRW,ALA,HOP,ARC,DDG,CMD,M12,DDI,M13,MM2"
+Grasslands,,John Avon,35,Land,"Grasslands enters the battlefield tapped.\n{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.","MIR,DDG,VMA"
+Sejiri Steppe,,Anthony Francisco,36,Land,"Sejiri Steppe enters the battlefield tapped.\nWhen Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
+{T}: Add {W} to your mana pool.","WWK,DDG"
+Selesnya Sanctuary,,John Avon,37,Land,"Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{W} to your mana pool.","RAV,DDG,CMD,PC2,C13,MM2"
+Treetop Village,,Rob Alexander,38,Land,"Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","ULG,pFNM,10E,pSUM,DDD,DDG,DD3_GVL"
+Plains,,Scott Bailey,39,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Scott Bailey,40,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Michael Komarck,41,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Michael Komarck,42,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Scott Bailey,43,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Mike Ploog,44,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Larry Elmore,45,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Michael Komarck,46,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Bogardan Hellkite,,Wayne Reynolds,47,Creature — Dragon,"Flash\nFlying
+When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.","TSP,DRB,M10,DDG,C14"
+Cinder Wall,,Anthony S. Waters,48,Creature — Wall,"Defender\nWhen Cinder Wall blocks, destroy it at end of combat.","WTH,8ED,DDG,CNS"
+Skirk Prospector,,Doug Chaffee,49,Creature — Goblin,Sacrifice a Goblin: Add {R} to your mana pool.,"ONS,EVG,DDG,VMA,DD3_EVG"
+Bloodmark Mentor,,Dave Allsop,50,Creature — Goblin Warrior,Red creatures you control have first strike.,"SHM,DPA,DDG"
+Fire-Belly Changeling,,Randy Gallegos,51,Creature — Shapeshifter,Changeling (This card is every creature type.)\n{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.,"LRW,DDG"
+Mudbutton Torchrunner,,Steve Ellis,52,Creature — Goblin Warrior,"When Mudbutton Torchrunner dies, it deals 3 damage to target creature or player.","LRW,EVG,DDG,PC2,DD3_EVG"
+Dragonspeaker Shaman,,Kev Walker,53,Creature — Human Barbarian Shaman,Dragon spells you cast cost {2} less to cast.,"SCG,ARC,DDG"
+Dragon Whelp,,Steven Belledin,54,Creature — Dragon,"Flying\n{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.","LEA,LEB,2ED,CED,CEI,3ED,4ED,TSB,DRB,M10,ARC,DDG,CMD"
+Henge Guardian,,Chippy,55,Artifact Creature — Dragon Wurm,{2}: Henge Guardian gains trample until end of turn.,"MMQ,DDG"
+Voracious Dragon,,Dominick Domingo,56,Creature — Dragon,"Flying\nDevour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)
+When Voracious Dragon enters the battlefield, it deals damage to target creature or player equal to twice the number of Goblins it devoured.","CON,DDG"
+Bogardan Rager,,Clint Langley,57,Creature — Elemental,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn.","TSP,HOP,DDG"
+Mordant Dragon,,Scott Chou,58,Creature — Dragon,"Flying\n{1}{R}: Mordant Dragon gets +1/+0 until end of turn.
+Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.","WWK,DDG"
+Kilnmouth Dragon,,Carl Critchlow,59,Creature — Dragon,"Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)\nFlying
+{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.","LGN,ARC,DDG"
+Shivan Hellkite,,Kev Walker,60,Creature — Dragon,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.,"USG,10E,DDG"
+Thunder Dragon,,Chris Rahn,61,Creature — Dragon,"Flying\nWhen Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.","S99,DRB,ME4,DDG"
+Armillary Sphere,,Franz Vohwinkel,62,Artifact,"{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.","CON,DDG,CMD,DDI,PC2,C13"
+Dragon's Claw,,Alan Pollack,63,Artifact,"Whenever a player casts a red spell, you may gain 1 life.","DST,9ED,10E,M10,DPA,M11,DDG,M12"
+Breath of Darigaaz,,Greg & Tim Hildebrandt,64,Sorcery,"Kicker {2} (You may pay an additional {2} as you cast this spell.)\nBreath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.","INV,ARC,DDG,CMD,C15"
+Dragon Fodder,,Jaime Jones,65,Sorcery,Put two 1/1 red Goblin creature tokens onto the battlefield.,"pMEI,ALA,ARC,DDG,DTK,ORI"
+Punishing Fire,,Greg Staples,66,Instant,"Punishing Fire deals 2 damage to target creature or player.\nWhenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.","ZEN,DDG,CMD"
+Spitting Earth,,Michael Koelsch,67,Sorcery,Spitting Earth deals damage to target creature equal to the number of Mountains you control.,"MIR,POR,PO2,6ED,S99,7ED,10E,EVG,DDG,DD3_EVG"
+Captive Flame,,Keith Garletts,68,Enchantment,{R}: Target creature gets +1/+0 until end of turn.,"SOK,DDG"
+Ghostfire,,Cyril Van Der Haegen,69,Instant,Ghostfire is colorless.\nGhostfire deals 3 damage to target creature or player.,"FUT,DDG"
+Seething Song,,Jaime Jones,70,Instant,Add {R}{R}{R}{R}{R} to your mana pool.,"MRD,9ED,ARC,DDG"
+Seismic Strike,,Christopher Moeller,71,Instant,Seismic Strike deals damage to target creature equal to the number of Mountains you control.,"M10,DDG,DDI,M15"
+Claws of Valakut,,Igor Kieryluk,72,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+0 for each Mountain you control and has first strike.,"WWK,DDG"
+Temporary Insanity,,Mark Romanoski,73,Instant,Untap target creature with power less than the number of cards in your graveyard and gain control of it until end of turn. That creature gains haste until end of turn.,"TOR,DDG"
+Shiv's Embrace,,Dave Kendall,74,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 and has flying.
+{R}: Enchanted creature gets +1/+0 until end of turn.,"USG,M11,DDG,M14"
+Cone of Flame,,Chippy,75,Sorcery,"Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.","WTH,10E,DD2,HOP,DDG,M15,DD3_JVC"
+Fiery Fall,,Daarken,76,Instant,"Fiery Fall deals 5 damage to target creature.\nBasic landcycling {1}{R} ({1}{R}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)","CON,DDG,PC2,MMA,DDN,MM2"
+Jaws of Stone,,Zoltan Boros & Gabor Szikszai,77,Sorcery,"Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.","SHM,DDG,DDI"
+Mountain,,Aleksi Briclot,78,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Aleksi Briclot,79,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Glen Angus,80,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Matt Cavotta,81,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"

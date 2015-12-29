@@ -1,0 +1,38 @@
+name,cost,artist,number,type,text,printings
+Thran Quarry,,Michael Sutfin,1,Land,"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color to your mana pool.","USG,pSUS"
+Serra Avatar,,Dermot Power,2,Creature — Avatar,"Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.","pMEI,USG,pSUS,M13,C13,C14"
+Lord of Atlantis,,Melissa A. Benson,3,Creature — Merfolk,Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,6ED,pSUS,7ED,TSB"
+Crusade,,Mark Poole,4,Enchantment,White creatures get +1/+1.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,6ED,pSUS,MED,DDF"
+Elvish Lyrist,,Rebecca Guay,5,Creature — Elf,"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.","USG,BRB,pSUS,7ED,8ED"
+City of Brass,,Mark Tedin,6,Land,"Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color to your mana pool.","ARN,CHR,5ED,6ED,pSUS,7ED,8ED,ME4,MMA,MD1"
+Volcanic Hammer,,Christopher Rush,7,Sorcery,Volcanic Hammer deals 3 damage to target creature or player.,"POR,PO2,S99,pSUS,7ED,8ED,9ED"
+Giant Growth,,Terese Nielsen,8,Instant,Target creature gets +3/+3 until end of turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,ATH,6ED,BRB,pSUS,pFNM,S00,BTD,7ED,pMPR,DKM,8ED,9ED,10E,EVG,ME2,M10,ME3,DDD,DPA,M11,ME4,RTR,M14,DD3_EVG,DD3_GVL"
+Two-Headed Dragon,,Sam Wood,9,Creature — Dragon,Flying\nMenace (This creature can't be blocked except by two or more creatures.)
+Two-Headed Dragon can block an additional creature.
+{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.,"MMQ,pSUS,8ED,DRB,ARC"
+Slith Firewalker,,Justin Sweet,10,Creature — Slith,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.","pSUS,MRD,DD2,DD3_JVC"
+Royal Assassin,,Tom Wänerstrand,11,Creature — Human Assassin,{T}: Destroy target tapped creature.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,pSUS,8ED,9ED,10E,M10,M11,M12"
+Sakura-Tribe Elder,,Carl Critchlow,12,Creature — Snake Shaman,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.","pSUS,pFNM,CHK,ARC,CMD,C13,CNS,C15"
+Shard Phoenix,,Ron Spencer,13,Creature — Phoenix,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.,"STH,pSUS,9ED,TPR"
+Soltari Priest,,Dany Orizio,14,Creature — Soltari Cleric,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.),"TMP,pSUS,pFNM,TSB,TPR"
+Whirling Dervish,,Alex Horley-Orlandelli,15,Creature — Human Monk,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.","LEG,4ED,RQS,ITP,5ED,pSUS,TSB"
+Glorious Anthem,,Raymond Swanland,16,Enchantment,Creatures you control get +1/+1.,"USG,pSUS,7ED,8ED,9ED,10E"
+Elvish Champion,,Matt Cavotta,17,Creature — Elf,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.),"pSUS,INV,7ED,8ED,9ED,10E,DPA"
+Mad Auntie,,Wayne Reynolds,18,Creature — Goblin Shaman,Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.,"pSUS,LRW,MMA"
+Slith Firewalker,,Justin Sweet,19,Creature — Slith,"Haste\nWhenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.","pSUS,MRD,DD2,DD3_JVC"
+Royal Assassin,,Tom Wänerstrand,20,Creature — Human Assassin,{T}: Destroy target tapped creature.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,pSUS,8ED,9ED,10E,M10,M11,M12"
+Sakura-Tribe Elder,,Carl Critchlow,21,Creature — Snake Shaman,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.","pSUS,pFNM,CHK,ARC,CMD,C13,CNS,C15"
+Shard Phoenix,,Ron Spencer,22,Creature — Phoenix,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.,"STH,pSUS,9ED,TPR"
+Soltari Priest,,Dany Orizio,23,Creature — Soltari Cleric,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.),"TMP,pSUS,pFNM,TSB,TPR"
+Whirling Dervish,,Alex Horley-Orlandelli,24,Creature — Human Monk,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.","LEG,4ED,RQS,ITP,5ED,pSUS,TSB"
+Glorious Anthem,,Raymond Swanland,25,Enchantment,Creatures you control get +1/+1.,"USG,pSUS,7ED,8ED,9ED,10E"
+Elvish Champion,,Matt Cavotta,26,Creature — Elf,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.),"pSUS,INV,7ED,8ED,9ED,10E,DPA"
+Sakura-Tribe Elder,,Carl Critchlow,27,Creature — Snake Shaman,"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.","pSUS,pFNM,CHK,ARC,CMD,C13,CNS,C15"
+Shard Phoenix,,Ron Spencer,28,Creature — Phoenix,Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.,"STH,pSUS,9ED,TPR"
+Soltari Priest,,Dany Orizio,29,Creature — Soltari Cleric,Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.),"TMP,pSUS,pFNM,TSB,TPR"
+Whirling Dervish,,Alex Horley-Orlandelli,30,Creature — Human Monk,"Protection from black\nAt the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.","LEG,4ED,RQS,ITP,5ED,pSUS,TSB"
+Glorious Anthem,,Raymond Swanland,31,Enchantment,Creatures you control get +1/+1.,"USG,pSUS,7ED,8ED,9ED,10E"
+Elvish Champion,,Matt Cavotta,32,Creature — Elf,Other Elf creatures get +1/+1 and have forestwalk. (They can't be blocked as long as defending player controls a Forest.),"pSUS,INV,7ED,8ED,9ED,10E,DPA"

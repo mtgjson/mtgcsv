@@ -1,0 +1,197 @@
+name,cost,artist,number,type,text,printings
+Day of Destiny,,Daren Bader,1,Legendary Enchantment,Legendary creatures you control get +2/+2.,BOK
+Empty-Shrine Kannushi,,Ron Spears,2,Creature — Human Cleric,Empty-Shrine Kannushi has protection from the colors of permanents you control.,BOK
+Faithful Squire,,Mark Zug,3a,Creature — Human Soldier,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Faithful Squire.\nAt the beginning of the end step, if there are two or more ki counters on Faithful Squire, you may flip it.",BOK
+"Kaiso, Memory of Loyalty",,Mark Zug,3b,Legendary Creature — Spirit,"Flying\nRemove a ki counter from Kaiso, Memory of Loyalty: Prevent all damage that would be dealt to target creature this turn.",BOK
+Final Judgment,,Kev Walker,4,Sorcery,Exile all creatures.,BOK
+Genju of the Fields,,Greg Staples,5,Enchantment — Aura,"Enchant Plains\n{2}: Until end of turn, enchanted Plains becomes a 2/5 white Spirit creature with "Whenever this creature deals damage, its controller gains that much life." It's still a land.
+When enchanted Plains is put into a graveyard, you may return Genju of the Fields from your graveyard to your hand.",BOK
+Heart of Light,,Luca Zontini,6,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nPrevent all damage that would be dealt to and dealt by enchanted creature.,"BOK,10E"
+"Hokori, Dust Drinker",,Darrell Riche,7,Legendary Creature — Spirit,"Lands don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player untaps a land he or she controls.",BOK
+Hundred-Talon Strike,,Matt Cavotta,8,Instant — Arcane,"Target creature gets +1/+0 and gains first strike until end of turn.\nSplice onto Arcane—Tap an untapped white creature you control. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",BOK
+Indebted Samurai,,Carl Critchlow,9,Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever a Samurai you control dies, you may put a +1/+1 counter on Indebted Samurai.",BOK
+Kami of False Hope,,Daren Bader,10,Creature — Spirit,Sacrifice Kami of False Hope: Prevent all combat damage that would be dealt this turn.,BOK
+Kami of Tattered Shoji,,Shishizaru,11,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, Kami of Tattered Shoji gains flying until end of turn.",BOK
+Kami of the Honored Dead,,Mark Zug,12,Creature — Spirit,"Flying\nWhenever Kami of the Honored Dead is dealt damage, you gain that much life.
+Soulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",BOK
+"Kentaro, the Smiling Cat",,Donato Giancola,13,Legendary Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nYou may pay {X} rather than pay the mana cost for Samurai spells you cast, where X is that spell's converted mana cost.",BOK
+Kitsune Palliator,,Dave Dorman,14,Creature — Fox Cleric,{T}: Prevent the next 1 damage that would be dealt to each creature and each player this turn.,BOK
+Mending Hands,,Douglas Shuler,15,Instant,Prevent the next 4 damage that would be dealt to target creature or player this turn.,"BOK,9ED"
+Moonlit Strider,,John Avon,16,Creature — Spirit,"Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.\nSoulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)","BOK,MM2"
+"Opal-Eye, Konda's Yojimbo",,Greg Staples,17,Legendary Creature — Fox Samurai,"Defender (This creature can't attack.)\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{T}: The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead.
+{1}{W}: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.",BOK
+"Oyobi, Who Split the Heavens",,Christopher Moeller,18,Legendary Creature — Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, put a 3/3 white Spirit creature token with flying onto the battlefield.",BOK
+Patron of the Kitsune,,Ben Thompson,19,Legendary Creature — Spirit,"Fox offering (You may cast this card any time you could cast an instant by sacrificing a Fox and paying the difference in mana costs between this and the sacrificed Fox. Mana cost includes color.)\nWhenever a creature attacks, you may gain 1 life.",BOK
+Scour,,Ittoku,20,Instant,"Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Shining Shoal,,Ben Thompson,21,Instant — Arcane,You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost.\nThe next X damage that a source of your choice would deal to you and/or creatures you control this turn is dealt to target creature or player instead.,BOK
+Silverstorm Samurai,,Michael Sutfin,22,Creature — Fox Samurai,"Flash\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",BOK
+Split-Tail Miko,,Kev Walker,23,Creature — Fox Cleric,"{W}, {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.",BOK
+Takeno's Cavalry,,Darrell Riche,24,Creature — Human Samurai Archer,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{T}: Takeno's Cavalry deals 1 damage to target attacking or blocking Spirit.",BOK
+Tallowisp,,Ron Spears,25,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library.",BOK
+Terashi's Grasp,,Mark Tedin,26,Sorcery — Arcane,Destroy target artifact or enchantment. You gain life equal to its converted mana cost.,"BOK,MMA,MM2"
+Terashi's Verdict,,Ron Spears,27,Instant — Arcane,Destroy target attacking creature with power 3 or less.,BOK
+Ward of Piety,,Tim Hildebrandt,28,Enchantment — Aura,Enchant creature\n{1}{W}: The next 1 damage that would be dealt to enchanted creature this turn is dealt to target creature or player instead.,BOK
+Waxmane Baku,,Greg Hildebrandt,29,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.\n{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures.","BOK,MM2"
+"Yomiji, Who Bars the Way",,Hideaki Takamura,30,Legendary Creature — Spirit,"Whenever a legendary permanent other than Yomiji, Who Bars the Way is put into a graveyard from the battlefield, return that card to its owner's hand.",BOK
+Callow Jushi,,Tsutomu Kawade,31a,Creature — Human Wizard,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Callow Jushi.\nAt the beginning of the end step, if there are two or more ki counters on Callow Jushi, you may flip it.",BOK
+Jaraku the Interloper,,Tsutomu Kawade,31b,Legendary Creature — Spirit,Remove a ki counter from Jaraku the Interloper: Counter target spell unless its controller pays {2}.,BOK
+"Chisei, Heart of Oceans",,Matt Cavotta,32,Legendary Creature — Spirit,"Flying\nAt the beginning of your upkeep, sacrifice Chisei, Heart of Oceans unless you remove a counter from a permanent you control.",BOK
+Disrupting Shoal,,Scott M. Fischer,33,Instant — Arcane,You may exile a blue card with converted mana cost X from your hand rather than pay Disrupting Shoal's mana cost.\nCounter target spell if its converted mana cost is X.,BOK
+Floodbringer,,Ittoku,34,Creature — Moonfolk Wizard,"Flying\n{2}, Return a land you control to its owner's hand: Tap target land.",BOK
+Genju of the Falls,,Glen Angus,35,Enchantment — Aura,"Enchant Island\n{2}: Enchanted Island becomes a 3/2 blue Spirit creature with flying until end of turn. It's still a land.
+When enchanted Island is put into a graveyard, you may return Genju of the Falls from your graveyard to your hand.",BOK
+Heed the Mists,,Christopher Rush,36,Sorcery — Arcane,"Put the top card of your library into your graveyard, then draw cards equal to that card's converted mana cost.",BOK
+"Higure, the Still Wind",,Christopher Moeller,37,Legendary Creature — Human Ninja,"Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library.
+{2}: Target Ninja creature can't be blocked this turn.","BOK,PC2"
+Jetting Glasskite,,Shishizaru,38,Creature — Spirit,"Flying\nWhenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.","BOK,CNS"
+Kaijin of the Vanishing Touch,,Randy Gallegos,39,Creature — Spirit,"Defender (This creature can't attack.)\nWhenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",BOK
+"Kira, Great Glass-Spinner",,Kev Walker,40,Legendary Creature — Spirit,"Flying\nCreatures you control have "Whenever this creature becomes the target of a spell or ability for the first time in a turn, counter that spell or ability."","BOK,MMA"
+Minamo Sightbender,,Luca Zontini,41,Creature — Human Wizard,"{X}, {T}: Target creature with power X or less can't be blocked this turn.","BOK,DDI"
+Minamo's Meddling,,Alex Horley-Orlandelli,42,Instant,"Counter target spell. That spell's controller reveals his or her hand, then discards each card with the same name as a card spliced onto that spell.",BOK
+Mistblade Shinobi,,Kev Walker,43,Creature — Human Ninja,"Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.","BOK,PC2"
+Ninja of the Deep Hours,,Dan Scott,44,Creature — Human Ninja,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.","BOK,PC2,C15"
+Patron of the Moon,,Scott M. Fischer,45,Legendary Creature — Spirit,Moonfolk offering (You may cast this card any time you could cast an instant by sacrificing a Moonfolk and paying the difference in mana costs between this and the sacrificed Moonfolk. Mana cost includes color.)\nFlying
+{1}: Put up to two land cards from your hand onto the battlefield tapped.,BOK
+Phantom Wings,,Greg Staples,46,Enchantment — Aura,Enchant creature\nEnchanted creature has flying.
+Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.,"WTH,BOK"
+Quash,,Shishizaru,47,Instant,"Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Quillmane Baku,,David Martin,48,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.\n{1}, {T}, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand.",BOK
+Reduce to Dreams,,Daren Bader,49,Sorcery,Return all artifacts and enchantments to their owners' hands.,BOK
+Ribbons of the Reikai,,Martina Pilcerova,50,Sorcery — Arcane,Draw a card for each Spirit you control.,BOK
+Shimmering Glasskite,,John Avon,51,Creature — Spirit,"Flying\nWhenever Shimmering Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.",BOK
+Soratami Mindsweeper,,Alex Horley-Orlandelli,52,Creature — Moonfolk Wizard,"Flying\n{2}, Return a land you control to its owner's hand: Target player puts the top two cards of his or her library into his or her graveyard.",BOK
+Stream of Consciousness,,John Avon,53,Instant — Arcane,Target player shuffles up to four target cards from his or her graveyard into his or her library.,BOK
+Sway of the Stars,,Randy Gallegos,54,Sorcery,"Each player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.",BOK
+Teardrop Kami,,Michael Sutfin,55,Creature — Spirit,Sacrifice Teardrop Kami: You may tap or untap target creature.,BOK
+Threads of Disloyalty,,Anthony S. Waters,56,Enchantment — Aura,Enchant creature with converted mana cost 2 or less\nYou control enchanted creature.,BOK
+Toils of Night and Day,,Matt Cavotta,57,Instant — Arcane,"You may tap or untap target permanent, then you may tap or untap another target permanent.",BOK
+"Tomorrow, Azami's Familiar",,Christopher Rush,58,Legendary Creature — Spirit,"If you would draw a card, look at the top three cards of your library instead. Put one of those cards into your hand and the rest on the bottom of your library in any order.",BOK
+Veil of Secrecy,,Arnie Swekel,59,Instant — Arcane,"Target creature gains shroud until end of turn and can't be blocked this turn. (A creature with shroud can't be the target of spells or abilities.)\nSplice onto Arcane—Return a blue creature you control to its owner's hand. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",BOK
+Walker of Secret Ways,,Scott M. Fischer,60,Creature — Human Ninja,"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.
+{1}{U}: Return target Ninja you control to its owner's hand. Activate this ability only during your turn.","BOK,PC2"
+Bile Urchin,,Dany Orizio,61,Creature — Spirit,Sacrifice Bile Urchin: Target player loses 1 life.,BOK
+Blessing of Leeches,,Rebecca Guay,62,Enchantment — Aura,"Flash\nEnchant creature
+At the beginning of your upkeep, you lose 1 life.
+{0}: Regenerate enchanted creature.",BOK
+Call for Blood,,Carl Critchlow,63,Instant — Arcane,"As an additional cost to cast Call for Blood, sacrifice a creature.\nTarget creature gets -X/-X until end of turn, where X is the sacrificed creature's power.",BOK
+Crawling Filth,,Martina Pilcerova,64,Creature — Spirit,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nSoulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)",BOK
+Eradicate,,Glen Angus,65,Sorcery,"Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Genju of the Fens,,Tsutomu Kawade,66,Enchantment — Aura,"Enchant Swamp\n{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.
+When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.","BOK,DDD,DD3_GVL"
+Goryo's Vengeance,,Ittoku,67,Instant — Arcane,"Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.\nSplice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",BOK
+Hero's Demise,,Jim Nelson,68,Instant,Destroy target legendary creature.,BOK
+Hired Muscle,,Arnie Swekel,69a,Creature — Human Warrior,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Hired Muscle.\nAt the beginning of the end step, if there are two or more ki counters on Hired Muscle, you may flip it.",BOK
+Scarmaker,,Arnie Swekel,69b,Legendary Creature — Spirit,Remove a ki counter from Scarmaker: Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.),BOK
+Horobi's Whisper,,Aleksi Briclot,70,Instant — Arcane,"If you control a Swamp, destroy target nonblack creature.\nSplice onto Arcane—Exile four cards from your graveyard. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)","BOK,MMA"
+"Ink-Eyes, Servant of Oni",,Wayne Reynolds,71,Legendary Creature — Rat Ninja,"Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.
+{1}{B}: Regenerate Ink-Eyes.","pPRE,BOK,PC2,V13"
+"Kyoki, Sanity's Eclipse",,Paolo Parente,72,Legendary Creature — Demon Spirit,"Whenever you cast a Spirit or Arcane spell, target opponent exiles a card from his or her hand.",BOK
+Mark of the Oni,,Heather Hudson,73,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+At the beginning of the end step, if you control no Demons, sacrifice Mark of the Oni.",BOK
+Nezumi Shadow-Watcher,,Pete Venters,74,Creature — Rat Warrior,Sacrifice Nezumi Shadow-Watcher: Destroy target Ninja.,BOK
+Ogre Marauder,,Adam Rex,75,Creature — Ogre Warrior,"Whenever Ogre Marauder attacks, it gains "Ogre Marauder can't be blocked" until end of turn unless defending player sacrifices a creature.",BOK
+Okiba-Gang Shinobi,,Mark Zug,76,Creature — Rat Ninja,"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.","BOK,PC2"
+Patron of the Nezumi,,Kev Walker,77,Legendary Creature — Spirit,"Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)\nWhenever a permanent is put into an opponent's graveyard, that player loses 1 life.","BOK,CMD"
+Psychic Spear,,Ron Spears,78,Sorcery,Target player reveals his or her hand. You choose a Spirit or Arcane card from it. That player discards that card.,BOK
+Pus Kami,,Dave Allsop,79,Creature — Spirit,"{B}, Sacrifice Pus Kami: Destroy target nonblack creature.\nSoulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",BOK
+Scourge of Numai,,Arnie Swekel,80,Creature — Demon Spirit,"At the beginning of your upkeep, you lose 2 life if you don't control an Ogre.",BOK
+"Shirei, Shizo's Caretaker",,Wayne Reynolds,81,Legendary Creature — Spirit,"Whenever a creature with power 1 or less is put into your graveyard from the battlefield, you may return that card to the battlefield at the beginning of the next end step if Shirei, Shizo's Caretaker is still on the battlefield.",BOK
+Sickening Shoal,,Dan Scott,82,Instant — Arcane,You may exile a black card with converted mana cost X from your hand rather than pay Sickening Shoal's mana cost.\nTarget creature gets -X/-X until end of turn.,BOK
+Skullmane Baku,,Tim Hildebrandt,83,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Skullmane Baku.\n{1}, {T}, Remove X ki counters from Skullmane Baku: Target creature gets -X/-X until end of turn.",BOK
+Skullsnatcher,,Matt Cavotta,84,Creature — Rat Ninja,"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.","BOK,PC2"
+Stir the Grave,,Jim Nelson,85,Sorcery,Return target creature card with converted mana cost X or less from your graveyard to the battlefield.,BOK
+Takenuma Bleeder,,Kev Walker,86,Creature — Ogre Shaman,"Whenever Takenuma Bleeder attacks or blocks, you lose 1 life if you don't control a Demon.",BOK
+Three Tragedies,,Darrell Riche,87,Sorcery — Arcane,Target player discards three cards.,BOK
+Throat Slitter,,Paolo Parente,88,Creature — Rat Ninja,"Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls.","BOK,PC2"
+Toshiro Umezawa,,Christopher Moeller,89,Legendary Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever a creature an opponent controls dies, you may cast target instant card from your graveyard. If that card would be put into a graveyard this turn, exile it instead.",BOK
+"Yukora, the Prisoner",,Tony Szczudlo,90,Legendary Creature — Demon Spirit,"When Yukora, the Prisoner leaves the battlefield, sacrifice all non-Ogre creatures you control.",BOK
+Akki Blizzard-Herder,,Pete Venters,91,Creature — Goblin Shaman,"When Akki Blizzard-Herder dies, each player sacrifices a land.",BOK
+Akki Raider,,Martina Pilcerova,92,Creature — Goblin Warrior,"Whenever a land is put into a graveyard from the battlefield, Akki Raider gets +1/+0 until end of turn.",BOK
+Ashen Monstrosity,,Chris Appelhans,93,Creature — Spirit,Haste\nAshen Monstrosity attacks each turn if able.,BOK
+Aura Barbs,,Aleksi Briclot,94,Instant — Arcane,"Each enchantment deals 2 damage to its controller, then each Aura attached to a creature deals 2 damage to the creature it's attached to.",BOK
+Blademane Baku,,"Edward P. Beard, Jr.",95,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku.\n{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn.",BOK
+Blazing Shoal,,Glen Angus,96,Instant — Arcane,You may exile a red card with converted mana cost X from your hand rather than pay Blazing Shoal's mana cost.\nTarget creature gets +X/+0 until end of turn.,BOK
+Clash of Realities,,Jim Nelson,97,Enchantment,"All Spirits have "When this permanent enters the battlefield, you may have it deal 3 damage to target non-Spirit creature."\nNon-Spirit creatures have "When this creature enters the battlefield, you may have it deal 3 damage to target Spirit creature."",BOK
+Crack the Earth,,Wayne Reynolds,98,Sorcery — Arcane,Each player sacrifices a permanent.,BOK
+Cunning Bandit,,Paolo Parente,99a,Creature — Human Warrior,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Cunning Bandit.\nAt the beginning of the end step, if there are two or more ki counters on Cunning Bandit, you may flip it.",BOK
+"Azamuki, Treachery Incarnate",,Paolo Parente,99b,Legendary Creature — Spirit,"Remove a ki counter from Azamuki, Treachery Incarnate: Gain control of target creature until end of turn.",BOK
+First Volley,,Glen Angus,100,Instant — Arcane,First Volley deals 1 damage to target creature and 1 damage to that creature's controller.,BOK
+Flames of the Blood Hand,,Aleksi Briclot,101,Instant,"Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.","BOK,PD2"
+Frost Ogre,,Dan Scott,102,Creature — Ogre Warrior,,BOK
+Frostling,,Carl Critchlow,103,Creature — Spirit,Sacrifice Frostling: Frostling deals 1 damage to target creature.,BOK
+Fumiko the Lowblood,,Michael Sutfin,104,Legendary Creature — Human Samurai,"Fumiko the Lowblood has bushido X, where X is the number of attacking creatures. (Whenever this creature blocks or becomes blocked, it gets +X/+X until end of turn.)\nCreatures your opponents control attack each turn if able.","BOK,C15"
+Genju of the Spires,,Joel Thomas,105,Enchantment — Aura,"Enchant Mountain\n{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.
+When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.","pARL,BOK"
+Goblin Cohort,,Darrell Riche,106,Creature — Goblin Warrior,Goblin Cohort can't attack unless you've cast a creature spell this turn.,"BOK,EVG,DD3_EVG"
+Heartless Hidetsugu,,Carl Critchlow,107,Legendary Creature — Ogre Shaman,"{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.","BOK,CNS"
+In the Web of War,,Ron Spencer,108,Enchantment,"Whenever a creature enters the battlefield under your control, it gets +2/+0 and gains haste until end of turn.",BOK
+Ire of Kaminari,,Kev Walker,109,Instant — Arcane,Ire of Kaminari deals damage to target creature or player equal to the number of Arcane cards in your graveyard.,BOK
+"Ishi-Ishi, Akki Crackshot",,Christopher Rush,110,Legendary Creature — Goblin Warrior,"Whenever an opponent casts a Spirit or Arcane spell, Ishi-Ishi, Akki Crackshot deals 2 damage to that player.",BOK
+Kumano's Blessing,,Keith Garletts,111,Enchantment — Aura,"Flash\nEnchant creature
+If a creature dealt damage by enchanted creature this turn would die, exile it instead.",BOK
+"Mannichi, the Fevered Dream",,Martina Pilcerova,112,Legendary Creature — Spirit,{1}{R}: Switch each creature's power and toughness until end of turn.,BOK
+Ogre Recluse,,Jim Murray,113,Creature — Ogre Warrior,"Whenever a player casts a spell, tap Ogre Recluse.",BOK
+Overblaze,,Ron Spencer,114,Instant — Arcane,"Each time target permanent would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.\nSplice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",BOK
+Patron of the Akki,,Jim Nelson,115,Legendary Creature — Spirit,"Goblin offering (You may cast this card any time you could cast an instant by sacrificing a Goblin and paying the difference in mana costs between this and the sacrificed Goblin. Mana cost includes color.)\nWhenever Patron of the Akki attacks, creatures you control get +2/+0 until end of turn.",BOK
+Ronin Cliffrider,,Dan Scott,116,Creature — Human Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever Ronin Cliffrider attacks, you may have it deal 1 damage to each creature defending player controls.",BOK
+Shinka Gatekeeper,,Pete Venters,117,Creature — Ogre Warrior,"Whenever Shinka Gatekeeper is dealt damage, it deals that much damage to you.",BOK
+Sowing Salt,,Hideaki Takamura,118,Sorcery,"Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Torrent of Stone,,Greg Staples,119,Instant — Arcane,"Torrent of Stone deals 4 damage to target creature.\nSplice onto Arcane—Sacrifice two Mountains. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)","BOK,MMA"
+Twist Allegiance,,Wayne Reynolds,120,Sorcery,You and target opponent each gain control of all creatures the other controls until end of turn. Untap those creatures. Those creatures gain haste until end of turn.,BOK
+Body of Jukai,,Luca Zontini,121,Creature — Spirit,"Trample\nSoulshift 8 (When this creature dies, you may return target Spirit card with converted mana cost 8 or less from your graveyard to your hand.)",BOK
+Budoka Pupil,,Shishizaru,122a,Creature — Human Monk,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.\nAt the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.","pREL,BOK"
+"Ichiga, Who Topples Oaks",,Shishizaru,122b,Legendary Creature — Spirit,"Trample\nRemove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.","pREL,BOK"
+Child of Thorns,,Jeff Easley,123,Creature — Spirit,Sacrifice Child of Thorns: Target creature gets +1/+1 until end of turn.,BOK
+Enshrined Memories,,Jeff Easley,124,Sorcery,Reveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.,BOK
+Forked-Branch Garami,,Dany Orizio,125,Creature — Spirit,"Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)",BOK
+Genju of the Cedars,,Arnie Swekel,126,Enchantment — Aura,"Enchant Forest\n{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.
+When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.","BOK,DDD,DD3_GVL"
+Gnarled Mass,,Tony Szczudlo,127,Creature — Spirit,,BOK
+Harbinger of Spring,,Cara Mitten,128,Creature — Spirit,"Protection from non-Spirit creatures\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",BOK
+"Isao, Enlightened Bushi",,Christopher Moeller,129,Legendary Creature — Human Samurai,"Isao, Enlightened Bushi can't be countered.\nBushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)
+{2}: Regenerate target Samurai.",BOK
+Iwamori of the Open Fist,,Paolo Parente,130,Legendary Creature — Human Monk,"Trample\nWhen Iwamori of the Open Fist enters the battlefield, each opponent may put a legendary creature card from his or her hand onto the battlefield.",BOK
+Kodama of the Center Tree,,Jim Murray,131,Legendary Creature — Spirit,"Kodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.\nKodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)",BOK
+Lifegift,,John Matson,132,Enchantment,"Whenever a land enters the battlefield, you may gain 1 life.",BOK
+Lifespinner,,Cara Mitten,133,Creature — Spirit,"{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.",BOK
+Loam Dweller,,Paolo Parente,134,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may put a land card from your hand onto the battlefield tapped.",BOK
+Mark of Sakiko,,Alex Horley-Orlandelli,135,Enchantment — Aura,"Enchant creature\nEnchanted creature has "Whenever this creature deals combat damage to a player, add that much {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end."",BOK
+Matsu-Tribe Sniper,,Carl Critchlow,136,Creature — Snake Warrior Archer,"{T}: Matsu-Tribe Sniper deals 1 damage to target creature with flying.\nWhenever Matsu-Tribe Sniper deals damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",BOK
+Nourishing Shoal,,Greg Staples,137,Instant — Arcane,You may exile a green card with converted mana cost X from your hand rather than pay Nourishing Shoal's mana cost.\nYou gain X life.,BOK
+Patron of the Orochi,,Christopher Moeller,138,Legendary Creature — Spirit,Snake offering (You may cast this card any time you could cast an instant by sacrificing a Snake and paying the difference in mana costs between this and the sacrificed Snake. Mana cost includes color.)\n{T}: Untap all Forests and all green creatures. Activate this ability only once each turn.,BOK
+Petalmane Baku,,Rebecca Guay,139,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Petalmane Baku.\n{1}, Remove X ki counters from Petalmane Baku: Add X mana of any one color to your mana pool.",BOK
+Roar of Jukai,,Ron Spencer,140,Instant — Arcane,"If you control a Forest, each blocked creature gets +2/+2 until end of turn.\nSplice onto Arcane—An opponent gains 5 life. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",BOK
+"Sakiko, Mother of Summer",,Michael Sutfin,141,Legendary Creature — Snake Shaman,"Whenever a creature you control deals combat damage to a player, add that much {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.",BOK
+Sakura-Tribe Springcaller,,Pete Venters,142,Creature — Snake Shaman,"At the beginning of your upkeep, add {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.",BOK
+Scaled Hulk,,Arnie Swekel,143,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, Scaled Hulk gets +2/+2 until end of turn.",BOK
+"Shizuko, Caller of Autumn",,Michael Sutfin,144,Legendary Creature — Snake Shaman,"At the beginning of each player's upkeep, that player adds {G}{G}{G} to his or her mana pool. Until end of turn, this mana doesn't empty from that player's mana pool as steps and phases end.",BOK
+Sosuke's Summons,,Kev Walker,145,Sorcery,"Put two 1/1 green Snake creature tokens onto the battlefield.\nWhenever a nontoken Snake enters the battlefield under your control, you may return Sosuke's Summons from your graveyard to your hand.",BOK
+Splinter,,Tsutomu Kawade,146,Sorcery,"Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles his or her library.","UDS,BOK"
+Traproot Kami,,Carl Critchlow,147,Creature — Spirit,Defender; reach (This creature can block creatures with flying.)\nTraproot Kami's toughness is equal to the number of Forests on the battlefield.,BOK
+Unchecked Growth,,Tsutomu Kawade,148,Instant — Arcane,"Target creature gets +4/+4 until end of turn. If it's a Spirit, it gains trample until end of turn.",BOK
+Uproot,,Heather Hudson,149,Sorcery — Arcane,Put target land on top of its owner's library.,BOK
+Vital Surge,,Douglas Shuler,150,Instant — Arcane,"You gain 3 life.\nSplice onto Arcane {1}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",BOK
+Genju of the Realm,,Scott M. Fischer,151,Legendary Enchantment — Aura,"Enchant land\n{2}: Enchanted land becomes a legendary 8/12 Spirit creature with trample until end of turn. It's still a land.
+When enchanted land is put into a graveyard, you may return Genju of the Realm from your graveyard to your hand.",BOK
+Baku Altar,,"Edward P. Beard, Jr.",152,Artifact,"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Baku Altar.\n{2}, {T}, Remove a ki counter from Baku Altar: Put a 1/1 colorless Spirit creature token onto the battlefield.",BOK
+Blinding Powder,,Greg Hildebrandt,153,Artifact — Equipment,Equipped creature has "Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn."\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),BOK
+Mirror Gallery,,Scott M. Fischer,154,Artifact,The "legend rule" doesn't apply.,BOK
+Neko-Te,,Alex Horley-Orlandelli,155,Artifact — Equipment,"Whenever equipped creature deals damage to a creature, tap that creature. That creature doesn't untap during its controller's untap step for as long as Neko-Te remains on the battlefield.\nWhenever equipped creature deals damage to a player, that player loses 1 life.
+Equip {2}",BOK
+Orb of Dreams,,Dany Orizio,156,Artifact,Permanents enter the battlefield tapped.,BOK
+Ornate Kanzashi,,Heather Hudson,157,Artifact,"{2}, {T}: Target opponent exiles the top card of his or her library. You may play that card this turn.",BOK
+Ronin Warclub,,Pete Venters,158,Artifact — Equipment,"Equipped creature gets +2/+1.\nWhenever a creature enters the battlefield under your control, attach Ronin Warclub to that creature.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",BOK
+Shuko,,Tim Hildebrandt,159,Artifact — Equipment,Equipped creature gets +1/+0.\nEquip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.),BOK
+Shuriken,,Matt Cavotta,160,Artifact — Equipment,"Equipped creature has "{T}, Unattach Shuriken: Shuriken deals 2 damage to target creature. That creature's controller gains control of Shuriken unless it was unattached from a Ninja."\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",BOK
+Slumbering Tora,,Doug Chaffee,161,Artifact,"{2}, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's converted mana cost.",BOK
+That Which Was Taken,,Adam Rex,162,Legendary Artifact,"{4}, {T}: Put a divinity counter on target permanent other than That Which Was Taken.\nEach permanent with a divinity counter on it has indestructible.",BOK
+Umezawa's Jitte,,Christopher Moeller,163,Legendary Artifact — Equipment,"Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.\nRemove a charge counter from Umezawa's Jitte: Choose one —
+• Equipped creature gets +2/+2 until end of turn.
+• Target creature gets -1/-1 until end of turn.
+• You gain 2 life.
+Equip {2}","BOK,pGPX"
+"Gods' Eye, Gate to the Reikai",,John Avon,164,Legendary Land,"{T}: Add {1} to your mana pool.\nWhen Gods' Eye, Gate to the Reikai is put into a graveyard from the battlefield, put a 1/1 colorless Spirit creature token onto the battlefield.",BOK
+Tendo Ice Bridge,,Rob Alexander,165,Land,"Tendo Ice Bridge enters the battlefield with a charge counter on it.\n{T}: Add {1} to your mana pool.
+{T}, Remove a charge counter from Tendo Ice Bridge: Add one mana of any color to your mana pool.",BOK

@@ -1,0 +1,346 @@
+name,cost,artist,number,type,text,printings
+Auratouched Mage,,Jeff Miracola,1,Creature — Human Wizard,"When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library.","RAV,PC2"
+Bathe in Light,,Alex Horley-Orlandelli,2,Instant,Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn.,"RAV,CMD"
+Benevolent Ancestor,,Nick Percival,3,Creature — Spirit,Defender (This creature can't attack.)\n{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,RAV
+Blazing Archon,,Zoltan Boros & Gabor Szikszai,4,Creature — Archon,Flying\nCreatures can't attack you.,"RAV,PD3"
+Boros Fury-Shield,,Wayne England,5,Instant,"Prevent all combat damage that would be dealt by target attacking or blocking creature this turn. If {R} was spent to cast Boros Fury-Shield, it deals damage to that creature's controller equal to the creature's power.",RAV
+Caregiver,,William Simpson,6,Creature — Human Cleric,"{W}, Sacrifice a creature: Prevent the next 1 damage that would be dealt to target creature or player this turn.",RAV
+Chant of Vitu-Ghazi,,Stephen Tappin,7,Instant,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPrevent all damage that would be dealt by creatures this turn. You gain life equal to the damage prevented this way.,RAV
+Concerted Effort,,Michael Sutfin,8,Enchantment,"At the beginning of each upkeep, creatures you control gain flying until end of turn if a creature you control has flying. The same is true for fear, first strike, double strike, landwalk, protection, trample, and vigilance.",RAV
+Conclave Equenaut,,Terese Nielsen,9,Creature — Human Soldier,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nFlying,"RAV,DDF"
+Conclave Phalanx,,Wayne Reynolds,10,Creature — Human Soldier,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nWhen Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.","RAV,DDF,MM2"
+Conclave's Blessing,,Shishizaru,11,Enchantment — Aura,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nEnchant creature
+Enchanted creature gets +0/+2 for each other creature you control.,RAV
+Courier Hawk,,Mark Poole,12,Creature — Bird,"Flying, vigilance","RAV,CNS"
+Devouring Light,,Pete Venters,13,Instant,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nExile target attacking or blocking creature.,"RAV,M15"
+Divebomber Griffin,,Kev Walker,14,Creature — Griffin,"Flying\n{T}, Sacrifice Divebomber Griffin: Divebomber Griffin deals 3 damage to target attacking or blocking creature.",RAV
+Dromad Purebred,,Carl Critchlow,15,Creature — Camel Beast,"Whenever Dromad Purebred is dealt damage, you gain 1 life.",RAV
+Faith's Fetters,,Chippy,16,Enchantment — Aura,"Enchant permanent\nWhen Faith's Fetters enters the battlefield, you gain 4 life.
+Enchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.","RAV,DDC,DD3_DVD,C15"
+Festival of the Guildpact,,Alex Horley-Orlandelli,17,Instant,Prevent the next X damage that would be dealt to you this turn.\nDraw a card.,RAV
+Flickerform,,Ron Spears,18,Enchantment — Aura,"Enchant creature\n{2}{W}{W}: Exile enchanted creature and all Auras attached to it. At the beginning of the next end step, return that card to the battlefield under its owner's control. If you do, return the other cards exiled this way to the battlefield under their owners' control attached to that creature.","RAV,C13"
+Gate Hound,,Ralph Horsley,19,Creature — Hound,Creatures you control have vigilance as long as Gate Hound is enchanted.,RAV
+Ghosts of the Innocent,,Kev Walker,20,Creature — Spirit,"If a source would deal damage to a creature or player, it deals half that damage, rounded down, to that creature or player instead.",RAV
+Hour of Reckoning,,Randy Gallegos,21,Sorcery,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy all nontoken creatures.,"RAV,CMD"
+Hunted Lammasu,,Mark Zug,22,Creature — Lammasu,"Flying\nWhen Hunted Lammasu enters the battlefield, target opponent puts a 4/4 black Horror creature token onto the battlefield.",RAV
+Leave No Trace,,Pat Lee,23,Instant,Radiance — Destroy target enchantment and each other enchantment that shares a color with it.,RAV
+Light of Sanction,,Michael Phillippi,24,Enchantment,Prevent all damage that would be dealt to creatures you control by sources you control.,RAV
+Loxodon Gatekeeper,,Carl Critchlow,25,Creature — Elephant Soldier,"Artifacts, creatures, and lands your opponents control enter the battlefield tapped.",RAV
+Nightguard Patrol,,Dany Orizio,26,Creature — Human Soldier,"First strike, vigilance",RAV
+Oathsworn Giant,,Daren Bader,27,Creature — Giant Soldier,Vigilance\nOther creatures you control get +0/+2 and have vigilance.,RAV
+Sandsower,,Kev Walker,28,Creature — Spirit,Tap three untapped creatures you control: Tap target creature.,"RAV,MMA"
+Screeching Griffin,,Tim Hildebrandt,29,Creature — Griffin,Flying\n{R}: Target creature can't block Screeching Griffin this turn.,RAV
+Seed Spark,,Jeff Miracola,30,Instant,"Destroy target artifact or enchantment. If {G} was spent to cast Seed Spark, put two 1/1 green Saproling creature tokens onto the battlefield.",RAV
+Suppression Field,,John Avon,31,Enchantment,Activated abilities cost {2} more to activate unless they're mana abilities.,RAV
+Three Dreams,,Shishizaru,32,Sorcery,"Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library.","RAV,PC2"
+Twilight Drover,,Dave Allsop,33,Creature — Spirit,"Whenever a creature token leaves the battlefield, put a +1/+1 counter on Twilight Drover.\n{2}{W}, Remove a +1/+1 counter from Twilight Drover: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.","RAV,DDK"
+Veteran Armorer,,Ralph Horsley,34,Creature — Human Soldier,Other creatures you control get +0/+1.,"RAV,MMA"
+Votary of the Conclave,,Alan Pollack,35,Creature — Human Soldier,{2}{G}: Regenerate Votary of the Conclave.,RAV
+Wojek Apothecary,,Keith Garletts,36,Creature — Human Cleric,Radiance — {T}: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.,RAV
+Wojek Siren,,Zoltan Boros & Gabor Szikszai,37,Instant,Radiance — Target creature and each other creature that shares a color with it get +1/+1 until end of turn.,RAV
+Belltower Sphinx,,Jim Nelson,38,Creature — Sphinx,"Flying\nWhenever a source deals damage to Belltower Sphinx, that source's controller puts that many cards from the top of his or her library into his or her graveyard.","RAV,M12"
+Cerulean Sphinx,,Jim Murray,39,Creature — Sphinx,Flying\n{U}: Cerulean Sphinx's owner shuffles it into his or her library.,RAV
+Compulsive Research,,Michael Sutfin,40,Sorcery,Target player draws three cards. Then that player discards two cards unless he or she discards a land card.,"RAV,CNS,C14"
+Convolute,,Dany Orizio,41,Instant,Counter target spell unless its controller pays {4}.,RAV
+Copy Enchantment,,Joel Thomas,42,Enchantment,You may have Copy Enchantment enter the battlefield as a copy of any enchantment on the battlefield.,RAV
+Dizzy Spell,,Christopher Moeller,43,Instant,"Target creature gets -3/-0 until end of turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Drake Familiar,,Darrell Riche,44,Creature — Drake,"Flying\nWhen Drake Familiar enters the battlefield, sacrifice it unless you return an enchantment to its owner's hand.",RAV
+Dream Leash,,Alex Horley-Orlandelli,45,Enchantment — Aura,Enchant permanent\nYou can't choose an untapped permanent as Dream Leash's target as you cast Dream Leash.
+You control enchanted permanent.,RAV
+Drift of Phantasms,,Michael Phillippi,46,Creature — Spirit,"Defender (This creature can't attack.)\nFlying
+Transmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Ethereal Usher,,Mark A. Nelson,47,Creature — Spirit,"{U}, {T}: Target creature can't be blocked this turn.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Eye of the Storm,,Hideaki Takamura,48,Enchantment,"Whenever a player casts an instant or sorcery card, exile it. Then that player copies each instant or sorcery card exiled with Eye of the Storm. For each copy, the player may cast the copy without paying its mana cost.",RAV
+Flight of Fancy,,Glen Angus,49,Enchantment — Aura,"Enchant creature\nWhen Flight of Fancy enters the battlefield, draw two cards.
+Enchanted creature has flying.",RAV
+Flow of Ideas,,Dan Scott,50,Sorcery,Draw a card for each Island you control.,"RAV,SHM"
+Followed Footsteps,,Glen Angus,51,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, put a token that's a copy of enchanted creature onto the battlefield.",RAV
+Grayscaled Gharial,,Chris Dien,52,Creature — Crocodile,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),RAV
+Grozoth,,Cyril Van Der Haegen,53,Creature — Leviathan,"Defender (This creature can't attack.)\nWhen Grozoth enters the battlefield, you may search your library for any number of cards that have converted mana cost 9, reveal them, and put them into your hand. If you do, shuffle your library.
+{4}: Grozoth loses defender until end of turn.
+Transmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Halcyon Glaze,,John Avon,54,Enchantment,"Whenever you cast a creature spell, Halcyon Glaze becomes a 4/4 Illusion creature with flying in addition to its other types until end of turn.",RAV
+Hunted Phantasm,,Justin Sweet,55,Creature — Spirit,"Hunted Phantasm can't be blocked.\nWhen Hunted Phantasm enters the battlefield, target opponent puts five 1/1 red Goblin creature tokens onto the battlefield.",RAV
+Induce Paranoia,,Jim Murray,56,Instant,"Counter target spell. If {B} was spent to cast Induce Paranoia, that spell's controller puts the top X cards of his or her library into his or her graveyard, where X is the spell's converted mana cost.",RAV
+Lore Broker,,Alan Pollack,57,Creature — Human Rogue,"{T}: Each player draws a card, then discards a card.",RAV
+Mark of Eviction,,Tsutomu Kawade,58,Enchantment — Aura,"Enchant creature\nAt the beginning of your upkeep, return enchanted creature and all Auras attached to that creature to their owners' hands.",RAV
+Mnemonic Nexus,,Stephen Tappin,59,Instant,Each player shuffles his or her graveyard into his or her library.,RAV
+Muddle the Mixture,,Luca Zontini,60,Instant,"Counter target instant or sorcery spell.\nTransmute {1}{U}{U} ({1}{U}{U}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Peel from Reality,,Puddnhead,61,Instant,Return target creature you control and target creature you don't control to their owners' hands.,"RAV,AVR,M15,DDO"
+Quickchange,,Christopher Moeller,62,Instant,Target creature becomes the color or colors of your choice until end of turn.\nDraw a card.,RAV
+Remand,,Mark A. Nelson,63,Instant,"Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card.","pFNM,RAV,DDM,MM2"
+Snapping Drake,,Dave Dorman,64,Creature — Drake,Flying,"POR,pPOD,S99,BTD,RAV,10E,M10,DPA"
+Spawnbroker,,Wayne England,65,Creature — Human Wizard,"When Spawnbroker enters the battlefield, you may exchange control of target creature you control and target creature with power less than or equal to that creature's power an opponent controls.",RAV
+Stasis Cell,,Mark A. Nelson,66,Enchantment — Aura,Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+{3}{U}: Attach Stasis Cell to target creature.,"RAV,CNS"
+Surveilling Sprite,,Terese Nielsen,67,Creature — Faerie Rogue,"Flying\nWhen Surveilling Sprite dies, you may draw a card.","RAV,DDH"
+Tattered Drake,,Glenn Fabry,68,Creature — Zombie Drake,Flying\n{B}: Regenerate Tattered Drake.,RAV
+Telling Time,,Scott M. Fischer,69,Instant,"Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.","RAV,10E,MM2"
+Terraformer,,Luca Zontini,70,Creature — Human Wizard,{1}: Choose a basic land type. Each land you control becomes that type until end of turn.,RAV
+Tidewater Minion,,Tomas Giorello,71,Creature — Elemental Minion,Defender (This creature can't attack.)\n{4}: Tidewater Minion loses defender until end of turn.
+{T}: Untap target permanent.,RAV
+Tunnel Vision,,Dany Orizio,72,Sorcery,"Name a card. Target player reveals cards from the top of his or her library until the named card is revealed. If it is, that player puts the rest of the revealed cards into his or her graveyard and puts the named card on top of his or her library. Otherwise, the player shuffles his or her library.",RAV
+Vedalken Dismisser,,Dan Scott,73,Creature — Vedalken Wizard,"When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library.","RAV,MMA"
+Vedalken Entrancer,,Dan Scott,74,Creature — Vedalken Wizard,"{U}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.","RAV,M13"
+Wizened Snitches,,Greg Staples,75,Creature — Faerie Rogue,Flying\nPlayers play with the top card of their libraries revealed.,RAV
+Zephyr Spirit,,Tomas Giorello,76,Creature — Spirit,"When Zephyr Spirit blocks, return it to its owner's hand.",RAV
+Blood Funnel,,Thomas M. Baxa,77,Enchantment,"Noncreature spells you cast cost {2} less to cast.\nWhenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.",RAV
+Brainspoil,,Tomas Giorello,78,Sorcery,"Destroy target creature that isn't enchanted. It can't be regenerated.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Carrion Howler,,John Zeleznik,79,Creature — Zombie Wolf,Pay 1 life: Carrion Howler gets +2/-1 until end of turn.,RAV
+Clinging Darkness,,Glen Angus,80,Enchantment — Aura,Enchant creature\nEnchanted creature gets -4/-1.,RAV
+Dark Confidant,,Ron Spears,81,Creature — Human Wizard,"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.","pJGP,RAV,MMA,MM2"
+Darkblast,,Randy Gallegos,82,Instant,"Target creature gets -1/-1 until end of turn.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",RAV
+Dimir House Guard,,John Zeleznik,83,Creature — Skeleton,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nSacrifice a creature: Regenerate Dimir House Guard.
+Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Dimir Machinations,,Greg Staples,84,Sorcery,"Look at the top three cards of target player's library. Exile any number of those cards, then put the rest back in any order.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Disembowel,,Chengo McFlingers,85,Instant,Destroy target creature with converted mana cost X.,RAV
+Empty the Catacombs,,Mark A. Nelson,86,Sorcery,Each player returns all creature cards from his or her graveyard to his or her hand.,RAV
+Golgari Thug,,Kev Walker,87,Creature — Human Warrior,"When Golgari Thug dies, put target creature card from your graveyard on top of your library.\nDredge 4 (If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDJ"
+Helldozer,,Zoltan Boros & Gabor Szikszai,88,Creature — Zombie Giant,"{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer.","RAV,HOP"
+Hex,,Michael Sutfin,89,Sorcery,Destroy six target creatures.,"RAV,CMD"
+Hunted Horror,,Paolo Parente,90,Creature — Horror,"Trample\nWhen Hunted Horror enters the battlefield, target opponent puts two 3/3 green Centaur creature tokens with protection from black onto the battlefield.",RAV
+Infectious Host,,rk post,91,Creature — Zombie,"When Infectious Host dies, target player loses 2 life.",RAV
+Keening Banshee,,Robert Bliss,92,Creature — Spirit,"Flying\nWhen Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.","RAV,DDD,DD3_GVL"
+Last Gasp,,Thomas M. Baxa,93,Instant,Target creature gets -3/-3 until end of turn.,RAV
+Mausoleum Turnkey,,Darrell Riche,94,Creature — Ogre Rogue,"When Mausoleum Turnkey enters the battlefield, return target creature card of an opponent's choice from your graveyard to your hand.",RAV
+Moonlight Bargain,,Nick Percival,95,Instant,"Look at the top five cards of your library. For each card, put that card into your graveyard unless you pay 2 life. Then put the rest into your hand.",RAV
+Mortipede,,Dave Dorman,96,Creature — Insect,{2}{G}: All creatures able to block Mortipede this turn do so.,RAV
+Necromantic Thirst,,Brandon Kitkouski,97,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.","RAV,CNS"
+Necroplasm,,rk post,98,Creature — Ooze,"At the beginning of your upkeep, put a +1/+1 counter on Necroplasm.\nAt the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm.
+Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",RAV
+Netherborn Phalanx,,Christopher Rush,99,Creature — Horror,"When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature he or she controls.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Nightmare Void,,Chippy,100,Sorcery,"Target player reveals his or her hand. You choose a card from it. That player discards that card.\nDredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDJ"
+Ribbons of Night,,Ron Spears,101,Sorcery,"Ribbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast Ribbons of Night, draw a card.",RAV
+Roofstalker Wight,,Puddnhead,102,Creature — Zombie,{1}{U}: Roofstalker Wight gains flying until end of turn.,RAV
+Sadistic Augermage,,Nick Percival,103,Creature — Human Wizard,"When Sadistic Augermage dies, each player puts a card from his or her hand on top of his or her library.","RAV,DDM"
+Sewerdreg,,Joel Thomas,104,Creature — Spirit,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nSacrifice Sewerdreg: Exile target card from a graveyard.,RAV
+Shred Memory,,Hideaki Takamura,105,Instant,"Exile up to four target cards from a single graveyard.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Sins of the Past,,Jeremy Jarvis,106,Sorcery,"Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead. Exile Sins of the Past.",RAV
+Stinkweed Imp,,"Edward P. Beard, Jr.",107,Creature — Imp,"Flying\nWhenever Stinkweed Imp deals combat damage to a creature, destroy that creature.
+Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDC,DDJ,MMA,DD3_DVD"
+Strands of Undeath,,Dave Allsop,108,Enchantment — Aura,"Enchant creature\nWhen Strands of Undeath enters the battlefield, target player discards two cards.
+{B}: Regenerate enchanted creature.",RAV
+Thoughtpicker Witch,,Pete Venters,109,Creature — Human Wizard,"{1}, Sacrifice a creature: Look at the top two cards of target opponent's library, then exile one of them.",RAV
+Undercity Shade,,Dana Knutson,110,Creature — Shade,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{B}: Undercity Shade gets +1/+1 until end of turn.,RAV
+Vigor Mortis,,Dan Scott,111,Sorcery,"Return target creature card from your graveyard to the battlefield. If {G} was spent to cast Vigor Mortis, that creature enters the battlefield with an additional +1/+1 counter on it.","RAV,DDJ"
+Vindictive Mob,,Wayne Reynolds,112,Creature — Human Berserker,"When Vindictive Mob enters the battlefield, sacrifice a creature.\nVindictive Mob can't be blocked by Saprolings.",RAV
+Woebringer Demon,,Daren Bader,113,Creature — Demon,"Flying\nAt the beginning of each player's upkeep, that player sacrifices a creature. If the player can't, sacrifice Woebringer Demon.",RAV
+Barbarian Riftcutter,,Carl Critchlow,114,Creature — Human Barbarian,"{R}, Sacrifice Barbarian Riftcutter: Destroy target land.",RAV
+Blockbuster,,Dave Dorman,115,Enchantment,"{1}{R}, Sacrifice Blockbuster: Blockbuster deals 3 damage to each tapped creature and each player.",RAV
+Breath of Fury,,Kev Walker,116,Enchantment — Aura,"Enchant creature you control\nWhen enchanted creature deals combat damage to a player, sacrifice it and attach Breath of Fury to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase.",RAV
+Char,,Adam Rex,117,Instant,Char deals 4 damage to target creature or player and 2 damage to you.,"RAV,p15A,V13"
+Cleansing Beam,,Pat Lee,118,Instant,Radiance — Cleansing Beam deals 2 damage to target creature and each other creature that shares a color with it.,"RAV,CMD"
+Coalhauler Swine,,Daren Bader,119,Creature — Boar Beast,"Whenever Coalhauler Swine is dealt damage, it deals that much damage to each player.",RAV
+Dogpile,,Jeff Miracola,120,Instant,Dogpile deals damage to target creature or player equal to the number of attacking creatures you control.,RAV
+Excruciator,,Paolo Parente,121,Creature — Avatar,Damage that would be dealt by Excruciator can't be prevented.,RAV
+Fiery Conclusion,,Paolo Parente,122,Instant,"As an additional cost to cast Fiery Conclusion, sacrifice a creature.\nFiery Conclusion deals 5 damage to target creature.","RAV,PC2,ORI"
+Flame Fusillade,,Dany Orizio,123,Sorcery,"Until end of turn, permanents you control gain "{T}: This permanent deals 1 damage to target creature or player."",RAV
+Flash Conscription,,Stephen Tappin,124,Instant,"Untap target creature and gain control of it until end of turn.  That creature gains haste until end of turn. If {W} was spent to cast Flash Conscription, the creature gains "Whenever this creature deals combat damage, you gain that much life" until end of turn.",RAV
+Frenzied Goblin,,Carl Critchlow,125,Creature — Goblin Berserker,"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can't block this turn.","pFNM,RAV,M15,DDN"
+Galvanic Arc,,Michael Sutfin,126,Enchantment — Aura,"Enchant creature\nWhen Galvanic Arc enters the battlefield, it deals 3 damage to target creature or player.
+Enchanted creature has first strike.",RAV
+Goblin Fire Fiend,,Paolo Parente,127,Creature — Goblin Berserker,Haste\nGoblin Fire Fiend must be blocked if able.
+{R}: Goblin Fire Fiend gets +1/+0 until end of turn.,RAV
+Goblin Spelunkers,,Glenn Fabry,128,Creature — Goblin Warrior,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"USG,7ED,RAV"
+Greater Forgeling,,Marcelo Vignali,129,Creature — Elemental,{1}{R}: Greater Forgeling gets +3/-3 until end of turn.,RAV
+Hammerfist Giant,,Carl Critchlow,130,Creature — Giant Warrior,{T}: Hammerfist Giant deals 4 damage to each creature without flying and each player.,"RAV,C15"
+Hunted Dragon,,Mark Zug,131,Creature — Dragon,"Flying, haste\nWhen Hunted Dragon enters the battlefield, target opponent puts three 2/2 white Knight creature tokens with first strike onto the battlefield.","RAV,C15"
+Incite Hysteria,,Paolo Parente,132,Sorcery,"Radiance — Until end of turn, target creature and each other creature that shares a color with it gain "This creature can't block."",RAV
+Indentured Oaf,,Glenn Fabry,133,Creature — Ogre Warrior,Prevent all damage that Indentured Oaf would deal to red creatures.,RAV
+Instill Furor,,Jim Nelson,134,Enchantment — Aura,"Enchant creature\nEnchanted creature has "At the beginning of your end step, sacrifice this creature unless it attacked this turn."",RAV
+Mindmoil,,Alex Horley-Orlandelli,135,Enchantment,"Whenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards.",RAV
+Molten Sentry,,Kev Walker,136,Creature — Elemental,"As Molten Sentry enters the battlefield, flip a coin. If the coin comes up heads, Molten Sentry enters the battlefield as a 5/2 creature with haste. If it comes up tails, Molten Sentry enters the battlefield as a 2/5 creature with defender.",RAV
+Ordruun Commando,,Stephen Tappin,137,Creature — Minotaur Soldier,{W}: Prevent the next 1 damage that would be dealt to Ordruun Commando this turn.,RAV
+Rain of Embers,,Tsutomu Kawade,138,Sorcery,Rain of Embers deals 1 damage to each creature and each player.,RAV
+Reroute,,Christopher Rush,139,Instant,Change the target of target activated ability with a single target. (Mana abilities can't be targeted.)\nDraw a card.,RAV
+Sabertooth Alley Cat,,Carl Critchlow,140,Creature — Cat,Sabertooth Alley Cat attacks each turn if able.\n{1}{R}: Creatures without defender can't block Sabertooth Alley Cat this turn.,RAV
+Seismic Spike,,John Avon,141,Sorcery,Destroy target land. Add {R}{R} to your mana pool.,RAV
+Sell-Sword Brute,,Jeff Miracola,142,Creature — Human Mercenary,"When Sell-Sword Brute dies, it deals 2 damage to you.",RAV
+Smash,,Paolo Parente,143,Instant,Destroy target artifact.\nDraw a card.,"APC,RAV,10E"
+Sparkmage Apprentice,,Mark Poole,144,Creature — Human Wizard,"When Sparkmage Apprentice enters the battlefield, it deals 1 damage to target creature or player.","RAV,M10,DDN"
+Stoneshaker Shaman,,Jeff Miracola,145,Creature — Human Shaman,"At the beginning of each player's end step, that player sacrifices an untapped land.",RAV
+Surge of Zeal,,Justin Sweet,146,Instant,Radiance — Target creature and each other creature that shares a color with it gain haste until end of turn.,RAV
+Torpid Moloch,,Paolo Parente,147,Creature — Lizard,Defender (This creature can't attack.)\nSacrifice three lands: Torpid Moloch loses defender until end of turn.,RAV
+Viashino Fangtail,,Alex Horley-Orlandelli,148,Creature — Viashino Warrior,{T}: Viashino Fangtail deals 1 damage to target creature or player.,RAV
+Viashino Slasher,,Glenn Fabry,149,Creature — Viashino Warrior,{R}: Viashino Slasher gets +1/-1 until end of turn.,RAV
+Warp World,,Ron Spencer,150,Sorcery,"Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.","RAV,10E,M10"
+War-Torch Goblin,,Alex Horley-Orlandelli,151,Creature — Goblin Warrior,"{R}, Sacrifice War-Torch Goblin: War-Torch Goblin deals 2 damage to target blocking creature.",RAV
+Wojek Embermage,,Luca Zontini,152,Creature — Human Wizard,Radiance — {T}: Wojek Embermage deals 1 damage to target creature and each other creature that shares a color with it.,RAV
+Birds of Paradise,,Marcelo Vignali,153,Creature — Bird,Flying\n{T}: Add one mana of any color to your mana pool.,"LEA,LEB,2ED,CED,CEI,3ED,pMEI,4ED,5ED,6ED,7ED,8ED,RAV,10E,M10,M11,M12"
+Bramble Elemental,,Tomas Giorello,154,Creature — Elemental,"Whenever an Aura becomes attached to Bramble Elemental, put two 1/1 green Saproling creature tokens onto the battlefield.","RAV,PC2"
+Carven Caryatid,,Jim Nelson,155,Creature — Spirit,"Defender (This creature can't attack.)\nWhen Carven Caryatid enters the battlefield, draw a card.",RAV
+Chord of Calling,,Heather Hudson,156,Instant,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nSearch your library for a creature card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.,"RAV,M15"
+Civic Wayfinder,,Cyril Van Der Haegen,157,Creature — Elf Warrior Druid,"When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.","RAV,10E,DPA"
+Doubling Season,,Wayne Reynolds,158,Enchantment,"If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.\nIf an effect would place one or more counters on a permanent you control, it places twice that many of those counters on that permanent instead.","pJGP,RAV,MMA"
+Dowsing Shaman,,Wayne Reynolds,159,Creature — Centaur Shaman,"{2}{G}, {T}: Return target enchantment card from your graveyard to your hand.","RAV,PC2"
+Dryad's Caress,,Randy Gallegos,160,Instant,"You gain 1 life for each creature on the battlefield. If {W} was spent to cast Dryad's Caress, untap all creatures you control.",RAV
+Elves of Deep Shadow,,Justin Sweet,161,Creature — Elf Druid,{T}: Add {B} to your mana pool. Elves of Deep Shadow deals 1 damage to you.,"DRK,pFNM,RAV,ME3,DDJ"
+Elvish Skysweeper,,Mark Tedin,162,Creature — Elf Warrior,"{4}{G}, Sacrifice a creature: Destroy target creature with flying.","RAV,C13,C14"
+Farseek,,Martina Pilcerova,163,Sorcery,"Search your library for a Plains, Island, Swamp, or Mountain card and put it onto the battlefield tapped. Then shuffle your library.","pFNM,RAV,M13"
+Fists of Ironwood,,Glen Angus,164,Enchantment — Aura,"Enchant creature\nWhen Fists of Ironwood enters the battlefield, put two 1/1 green Saproling creature tokens onto the battlefield.
+Enchanted creature has trample.","RAV,CMD"
+Gather Courage,,Brian Despain,165,Instant,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn.,"RAV,M15"
+Golgari Brownscale,,Carl Critchlow,166,Creature — Lizard,"When Golgari Brownscale is put into your hand from your graveyard, you gain 2 life.\nDredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",RAV
+Golgari Grave-Troll,,Greg Hildebrandt,167,Creature — Skeleton Troll,"Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.\n{1}, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll.
+Dredge 6 (If you would draw a card, instead you may put exactly six cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDJ"
+Goliath Spider,,Alan Pollack,168,Creature — Spider,Reach (This creature can block creatures with flying.),RAV
+Greater Mossdog,,Chippy,169,Creature — Plant Hound,"Dredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDJ,MMA"
+Hunted Troll,,Greg Staples,170,Creature — Troll Warrior,"When Hunted Troll enters the battlefield, target opponent puts four 1/1 blue Faerie creature tokens with flying onto the battlefield.\n{G}: Regenerate Hunted Troll.","RAV,C13"
+Ivy Dancer,,Terese Nielsen,171,Creature — Dryad Shaman,{T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.),RAV
+Life from the Loam,,Terese Nielsen,172,Sorcery,"Return up to three target land cards from your graveyard to your hand.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDJ,MMA"
+Moldervine Cloak,,Wayne England,173,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +3/+3.
+Dredge 2 (If you would draw a card, instead you may put exactly two cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,MMA"
+Nullmage Shepherd,,Stephen Tappin,174,Creature — Elf Shaman,Tap four untapped creatures you control: Destroy target artifact or enchantment.,RAV
+Overwhelm,,Wayne Reynolds,175,Sorcery,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreatures you control get +3/+3 until end of turn.,"RAV,M15,MM2"
+Perilous Forays,,Chris Dien,176,Enchantment,"{1}, Sacrifice a creature: Search your library for a land card with a basic land type and put it onto the battlefield tapped. Then shuffle your library.",RAV
+Primordial Sage,,Justin Sweet,177,Creature — Spirit,"Whenever you cast a creature spell, you may draw a card.","RAV,C14"
+Recollect,,Pete Venters,178,Sorcery,Return target card from your graveyard to your hand.,"pMPR,RAV,10E"
+Rolling Spoil,,Ron Spencer,179,Sorcery,"Destroy target land. If {B} was spent to cast Rolling Spoil, all creatures get -1/-1 until end of turn.",RAV
+Root-Kin Ally,,Arnie Swekel,180,Creature — Elemental Warrior,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end of turn.,"RAV,MM2"
+Scatter the Seeds,,Rob Alexander,181,Instant,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPut three 1/1 green Saproling creature tokens onto the battlefield.,"RAV,MM2"
+Scion of the Wild,,Kev Walker,182,Creature — Avatar,Scion of the Wild's power and toughness are each equal to the number of creatures you control.,"RAV,10E,MM2"
+Siege Wurm,,Carl Critchlow,183,Creature — Wurm,"Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample (If this creature would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","RAV,M15"
+Stone-Seeder Hierophant,,William Simpson,184,Creature — Human Druid,"Whenever a land enters the battlefield under your control, untap Stone-Seeder Hierophant.\n{T}: Untap target land.",RAV
+Sundering Vitae,,Shishizaru,185,Instant,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target artifact or enchantment.,"RAV,MM2"
+Transluminant,,Greg Hildebrandt,186,Creature — Dryad Shaman,"{W}, Sacrifice Transluminant: Put a 1/1 white Spirit creature token with flying onto the battlefield at the beginning of the next end step.",RAV
+Trophy Hunter,,rk post,187,Creature — Human Archer,"{1}{G}: Trophy Hunter deals 1 damage to target creature with flying.\nWhenever a creature with flying dealt damage by Trophy Hunter this turn dies, put a +1/+1 counter on Trophy Hunter.",RAV
+Ursapine,,Jim Murray,188,Creature — Beast,{G}: Target creature gets +1/+1 until end of turn.,RAV
+Vinelasher Kudzu,,Mark Tedin,189,Creature — Plant,"Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.","RAV,DDM"
+"Agrus Kos, Wojek Veteran",,Donato Giancola,190,Legendary Creature — Human Soldier,"Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.",RAV
+Autochthon Wurm,,Michael Phillippi,191,Creature — Wurm,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample,RAV
+Bloodbond March,,Jim Nelson,192,Enchantment,"Whenever a player casts a creature spell, each player returns all cards with the same name as that spell from his or her graveyard to the battlefield.",RAV
+Boros Swiftblade,,Doug Chaffee,193,Creature — Human Soldier,Double strike,"RAV,HOP,MM2"
+Brightflame,,Dave Dorman,194,Sorcery,Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.,RAV
+Chorus of the Conclave,,Brian Despain,195,Legendary Creature — Dryad,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nAs an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters the battlefield with that many additional +1/+1 counters on it.","RAV,CMD"
+"Circu, Dimir Lobotomist",,Cyril Van Der Haegen,196,Legendary Creature — Human Wizard,"Whenever you cast a blue spell, exile the top card of target library.\nWhenever you cast a black spell, exile the top card of target library.
+Your opponents can't cast nonland cards with the same name as a card exiled with Circu, Dimir Lobotomist.",RAV
+Clutch of the Undercity,,Pete Venters,197,Instant,"Return target permanent to its owner's hand. Its controller loses 3 life.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Congregation at Dawn,,Randy Gallegos,198,Instant,"Search your library for up to three creature cards and reveal them. Shuffle your library, then put those cards on top of it in any order.",RAV
+Consult the Necrosages,,Paolo Parente,199,Sorcery,Choose one —\n• Target player draws two cards.
+• Target player discards two cards.,RAV
+Dark Heart of the Wood,,Mark Tedin,200,Enchantment,Sacrifice a Forest: You gain 3 life.,"DRK,RAV"
+Dimir Cutpurse,,Kev Walker,201,Creature — Spirit,"Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.","RAV,DDH"
+Dimir Doppelganger,,Jim Murray,202,Creature — Shapeshifter,{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card and gains this ability.,"RAV,CNS"
+Dimir Infiltrator,,Jim Nelson,203,Creature — Spirit,"Dimir Infiltrator can't be blocked.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)","RAV,PC2"
+Drooling Groodion,,Kev Walker,204,Creature — Beast,"{2}{B}{G}, Sacrifice a creature: Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.","RAV,DDM,MM2"
+Firemane Angel,,Matt Cavotta,205,Creature — Angel,"Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.
+{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.","RAV,DDH"
+Flame-Kin Zealot,,Arnie Swekel,206,Creature — Elemental Berserker,"When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn.","RAV,DDN"
+Glare of Subdual,,Zoltan Boros & Gabor Szikszai,207,Enchantment,Tap an untapped creature you control: Tap target artifact or creature.,RAV
+Glimpse the Unthinkable,,Brandon Kitkouski,208,Sorcery,Target player puts the top ten cards of his or her library into his or her graveyard.,RAV
+Golgari Germination,,Thomas M. Baxa,209,Enchantment,"Whenever a nontoken creature you control dies, put a 1/1 green Saproling creature token onto the battlefield.","RAV,DDJ"
+Golgari Rotwurm,,Wayne England,210,Creature — Zombie Wurm,"{B}, Sacrifice a creature: Target player loses 1 life.","RAV,DDJ"
+Grave-Shell Scarab,,Pete Venters,211,Creature — Insect,"{1}, Sacrifice Grave-Shell Scarab: Draw a card.\nDredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",RAV
+Guardian of Vitu-Ghazi,,Wayne Reynolds,212,Creature — Elemental,Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nVigilance,RAV
+Lightning Helix,,Kev Walker,213,Instant,Lightning Helix deals 3 damage to target creature or player and you gain 3 life.,"pMPR,RAV,HOP,DDH,MMA,DDN"
+Loxodon Hierarch,,Kev Walker,214,Creature — Elephant Cleric,"When Loxodon Hierarch enters the battlefield, you gain 4 life.\n{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control.","RAV,DDH"
+Mindleech Mass,,Kev Walker,215,Creature — Horror,"Trample\nWhenever Mindleech Mass deals combat damage to a player, you may look at that player's hand. If you do, you may cast a nonland card in it without paying that card's mana cost.",RAV
+Moroii,,Dan Scott,216,Creature — Vampire,"Flying\nAt the beginning of your upkeep, you lose 1 life.","RAV,DDH"
+Perplex,,Tsutomu Kawade,217,Instant,"Counter target spell unless its controller discards his or her hand.\nTransmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",RAV
+Phytohydra,,Jim Murray,218,Creature — Plant Hydra,"If damage would be dealt to Phytohydra, put that many +1/+1 counters on it instead.",RAV
+Pollenbright Wings,,Terese Nielsen,219,Enchantment — Aura,"Enchant creature\nEnchanted creature has flying.
+Whenever enchanted creature deals combat damage to a player, put that many 1/1 green Saproling creature tokens onto the battlefield.","RAV,PC2"
+Psychic Drain,,Nick Percival,220,Sorcery,Target player puts the top X cards of his or her library into his or her graveyard and you gain X life.,RAV
+Putrefy,,Jim Nelson,221,Instant,Destroy target artifact or creature. It can't be regenerated.,"pMPR,RAV,DDJ,DGM,C15"
+Rally the Righteous,,Dan Scott,222,Instant,Radiance — Untap target creature and each other creature that shares a color with it. Those creatures get +2/+0 until end of turn.,RAV
+"Razia, Boros Archangel",,Donato Giancola,223,Legendary Creature — Angel,"Flying, vigilance, haste\n{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.","RAV,HOP"
+Razia's Purification,,Shishizaru,224,Sorcery,"Each player chooses three permanents he or she controls, then sacrifices the rest.",RAV
+"Savra, Queen of the Golgari",,Scott M. Fischer,225,Legendary Creature — Elf Shaman,"Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature.\nWhenever you sacrifice a green creature, you may gain 2 life.",RAV
+Searing Meditation,,Dave Dorman,226,Enchantment,"Whenever you gain life, you may pay {2}. If you do, Searing Meditation deals 2 damage to target creature or player.","RAV,DDH"
+Seeds of Strength,,Ralph Horsley,227,Instant,Target creature gets +1/+1 until end of turn.\nTarget creature gets +1/+1 until end of turn.
+Target creature gets +1/+1 until end of turn.,RAV
+Selesnya Evangel,,Rob Alexander,228,Creature — Elf Shaman,"{1}, {T}, Tap an untapped creature you control: Put a 1/1 green Saproling creature token onto the battlefield.","RAV,CMD"
+Selesnya Sagittars,,"Edward P. Beard, Jr.",229,Creature — Elf Archer,Reach (This creature can block creatures with flying.)\nSelesnya Sagittars can block an additional creature.,RAV
+Shambling Shell,,Joel Thomas,230,Creature — Plant Zombie,"Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.\nDredge 3 (If you would draw a card, instead you may put exactly three cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)","RAV,DDJ"
+Sisters of Stone Death,,Donato Giancola,231,Legendary Creature — Gorgon,{G}: Target creature blocks Sisters of Stone Death this turn if able.\n{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.
+{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.,RAV
+Skyknight Legionnaire,,Jim Murray,232,Creature — Human Knight,"Flying, haste","pARL,RAV,GTC"
+Sunhome Enforcer,,Greg Staples,233,Creature — Giant Soldier,"Whenever Sunhome Enforcer deals combat damage, you gain that much life.\n{1}{R}: Sunhome Enforcer gets +1/+0 until end of turn.",RAV
+"Szadek, Lord of Secrets",,Donato Giancola,234,Legendary Creature — Vampire,"Flying\nIf Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player puts that many cards from the top of his or her library into his or her graveyard.","RAV,CMD"
+Thundersong Trumpeter,,Michael Sutfin,235,Creature — Human Soldier,{T}: Target creature can't attack or block this turn.,RAV
+Tolsimir Wolfblood,,Donato Giancola,236,Legendary Creature — Elf Warrior,Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.
+{T}: Put a legendary 2/2 green and white Wolf creature token named Voja onto the battlefield.,RAV
+Twisted Justice,,Ralph Horsley,237,Sorcery,Target player sacrifices a creature. You draw cards equal to that creature's power.,RAV
+Vulturous Zombie,,Greg Staples,238,Creature — Plant Zombie,"Flying\nWhenever a card is put into an opponent's graveyard from anywhere, put a +1/+1 counter on Vulturous Zombie.","RAV,CMD,C15"
+Watchwolf,,Kev Walker,239,Creature — Wolf,,"pFNM,RAV,ARC"
+Woodwraith Corrupter,,Greg Staples,240,Creature — Elemental Horror,"{1}{B}{G}, {T}: Target Forest becomes a 4/4 black and green Elemental Horror creature. It's still a land.",RAV
+Woodwraith Strangler,,Pat Lee,241,Creature — Plant Zombie,Exile a creature card from your graveyard: Regenerate Woodwraith Strangler.,RAV
+Boros Guildmage,,Paolo Parente,242,Creature — Human Wizard,{1}{R}: Target creature gains haste until end of turn.\n{1}{W}: Target creature gains first strike until end of turn.,"RAV,HOP,CMD"
+Boros Recruit,,Keith Garletts,243,Creature — Goblin Soldier,({R/W} can be paid with either {R} or {W}.)\nFirst strike,RAV
+Centaur Safeguard,,Glenn Fabry,244,Creature — Centaur Warrior,"({G/W} can be paid with either {G} or {W}.)\nWhen Centaur Safeguard dies, you may gain 3 life.",RAV
+Dimir Guildmage,,Adam Rex,245,Creature — Human Wizard,({U/B} can be paid with either {U} or {B}.)\n{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.,"pREL,RAV,MM2"
+Gaze of the Gorgon,,Stephen Tappin,246,Instant,"({B/G} can be paid with either {B} or {G}.)\nRegenerate target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.",RAV
+Gleancrawler,,Dave Allsop,247,Creature — Insect Horror,"({B/G} can be paid with either {B} or {G}.)\nTrample
+At the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.","pPRE,RAV,DDJ"
+Golgari Guildmage,,Zoltan Boros & Gabor Szikszai,248,Creature — Elf Shaman,"{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.\n{4}{G}: Put a +1/+1 counter on target creature.","RAV,CMD,C13"
+Lurking Informant,,Ron Spears,249,Creature — Human Rogue,"({U/B} can be paid with either {U} or {B}.)\n{2}, {T}: Look at the top card of target player's library. You may put that card into that player's graveyard.",RAV
+Master Warcraft,,Zoltan Boros & Gabor Szikszai,250,Instant,Cast Master Warcraft only before attackers are declared.\nYou choose which creatures attack this turn.
+You choose which creatures block this turn and how those creatures block.,"RAV,CMD"
+Privileged Position,,Wayne England,251,Enchantment,({G/W} can be paid with either {G} or {W}.)\nOther permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.),RAV
+Selesnya Guildmage,,Mark Zug,252,Creature — Elf Wizard,{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.\n{3}{W}: Creatures you control get +1/+1 until end of turn.,"RAV,ARC,CMD,C13,MM2"
+Shadow of Doubt,,Greg Staples,253,Instant,({U/B} can be paid with either {U} or {B}.)\nPlayers can't search libraries this turn.
+Draw a card.,RAV
+Bloodletter Quill,,Dan Scott,254,Artifact,"{2}, {T}, Put a blood counter on Bloodletter Quill: Draw a card, then you lose 1 life for each blood counter on Bloodletter Quill.\n{U}{B}: Remove a blood counter from Bloodletter Quill.",RAV
+Boros Signet,,Tim Hildebrandt,255,Artifact,"{1}, {T}: Add {R}{W} to your mana pool.","RAV,HOP,CMD,C15"
+Bottled Cloister,,Luca Zontini,256,Artifact,"At the beginning of each opponent's upkeep, exile all cards from your hand face down.\nAt the beginning of your upkeep, return all cards you own exiled with Bottled Cloister to your hand, then draw a card.",RAV
+Cloudstone Curio,,Heather Hudson,257,Artifact,"Whenever a nonartifact permanent enters the battlefield under your control, you may return another permanent you control that shares a permanent type with it to its owner's hand.",RAV
+Crown of Convergence,,Jen Page,258,Artifact,"Play with the top card of your library revealed.\nAs long as the top card of your library is a creature card, creatures you control that share a color with that card get +1/+1.
+{G}{W}: Put the top card of your library on the bottom of your library.",RAV
+Cyclopean Snare,,Keith Garletts,259,Artifact,"{3}, {T}: Tap target creature, then return Cyclopean Snare to its owner's hand.",RAV
+Dimir Signet,,Tim Hildebrandt,260,Artifact,"{1}, {T}: Add {U}{B} to your mana pool.","RAV,ARC,CMD"
+Glass Golem,,Glen Angus,261,Artifact Creature — Golem,,RAV
+Golgari Signet,,Greg Hildebrandt,262,Artifact,"{1}, {T}: Add {B}{G} to your mana pool.","RAV,CMD,DDJ,C15"
+Grifter's Blade,,Alan Pollack,263,Artifact — Equipment,"Flash\nAs Grifter's Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature.
+Equipped creature gets +1/+1.
+Equip {1}",RAV
+Junktroller,,Chippy,264,Artifact Creature — Golem,Defender (This creature can't attack.)\n{T}: Put target card from a graveyard on the bottom of its owner's library.,RAV
+Leashling,,Carl Critchlow,265,Artifact Creature — Hound,Put a card from your hand on top of your library: Return Leashling to its owner's hand.,RAV
+Nullstone Gargoyle,,Glenn Fabry,266,Artifact Creature — Gargoyle,"Flying\nWhenever the first noncreature spell of a turn is cast, counter that spell.",RAV
+Pariah's Shield,,Doug Chaffee,267,Artifact — Equipment,All damage that would be dealt to you is dealt to equipped creature instead.\nEquip {3},RAV
+Peregrine Mask,,"Edward P. Beard, Jr.",268,Artifact — Equipment,"Equipped creature has defender, flying, and first strike.\nEquip {2}",RAV
+Plague Boiler,,Mark Tedin,269,Artifact,"At the beginning of your upkeep, put a plague counter on Plague Boiler.\n{1}{B}{G}: Put a plague counter on Plague Boiler or remove a plague counter from it.
+When Plague Boiler has three or more plague counters on it, sacrifice it. If you do, destroy all nonland permanents.","RAV,C13"
+Selesnya Signet,,Greg Hildebrandt,270,Artifact,"{1}, {T}: Add {G}{W} to your mana pool.","RAV,CMD,C13"
+Spectral Searchlight,,Martina Pilcerova,271,Artifact,{T}: Choose a player. That player adds one mana of any color he or she chooses to his or her mana pool.,"RAV,CNS"
+Sunforger,,Darrell Riche,272,Artifact — Equipment,"Equipped creature gets +4/+0.\n{R}{W}, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.
+Equip {3}","RAV,MM2"
+Terrarion,,Luca Zontini,273,Artifact,"Terrarion enters the battlefield tapped.\n{2}, {T}, Sacrifice Terrarion: Add two mana in any combination of colors to your mana pool.
+When Terrarion is put into a graveyard from the battlefield, draw a card.",RAV
+Voyager Staff,,Tsutomu Kawade,274,Artifact,"{2}, Sacrifice Voyager Staff: Exile target creature. Return the exiled card to the battlefield under its owner's control at the beginning of the next end step.",RAV
+Boros Garrison,,John Avon,275,Land,"Boros Garrison enters the battlefield tapped.\nWhen Boros Garrison enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{W} to your mana pool.","RAV,HOP,CMD,C13,MM2,C15"
+Dimir Aqueduct,,John Avon,276,Land,"Dimir Aqueduct enters the battlefield tapped.\nWhen Dimir Aqueduct enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {U}{B} to your mana pool.","RAV,CMD,PC2,MM2"
+"Duskmantle, House of Shadow",,Martina Pilcerova,277,Land,"{T}: Add {1} to your mana pool.\n{U}{B}, {T}: Target player puts the top card of his or her library into his or her graveyard.",RAV
+Golgari Rot Farm,,John Avon,278,Land,"Golgari Rot Farm enters the battlefield tapped.\nWhen Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {B}{G} to your mana pool.","RAV,CMD,DDJ,C13,MM2,C15"
+Overgrown Tomb,,Rob Alexander,279,Land — Swamp Forest,"({T}: Add {B} or {G} to your mana pool.)\nAs Overgrown Tomb enters the battlefield, you may pay 2 life. If you don't, Overgrown Tomb enters the battlefield tapped.","RAV,RTR,EXP"
+Sacred Foundry,,Rob Alexander,280,Land — Mountain Plains,"({T}: Add {R} or {W} to your mana pool.)\nAs Sacred Foundry enters the battlefield, you may pay 2 life. If you don't, Sacred Foundry enters the battlefield tapped.","RAV,GTC,EXP"
+Selesnya Sanctuary,,John Avon,281,Land,"Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {G}{W} to your mana pool.","RAV,DDG,CMD,PC2,C13,MM2"
+"Sunhome, Fortress of the Legion",,Martina Pilcerova,282,Land,"{T}: Add {1} to your mana pool.\n{2}{R}{W}, {T}: Target creature gains double strike until end of turn.","RAV,HOP"
+"Svogthos, the Restless Tomb",,Martina Pilcerova,283,Land,"{T}: Add {1} to your mana pool.\n{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with "This creature's power and toughness are each equal to the number of creature cards in your graveyard." It's still a land.","RAV,CMD,DDJ"
+Temple Garden,,Rob Alexander,284,Land — Forest Plains,"({T}: Add {G} or {W} to your mana pool.)\nAs Temple Garden enters the battlefield, you may pay 2 life. If you don't, Temple Garden enters the battlefield tapped.","RAV,RTR,EXP"
+"Vitu-Ghazi, the City-Tree",,Martina Pilcerova,285,Land,"{T}: Add {1} to your mana pool.\n{2}{G}{W}, {T}: Put a 1/1 green Saproling creature token onto the battlefield.","RAV,ARC,DDH,PC2,C13"
+Watery Grave,,Rob Alexander,286,Land — Island Swamp,"({T}: Add {U} or {B} to your mana pool.)\nAs Watery Grave enters the battlefield, you may pay 2 life. If you don't, Watery Grave enters the battlefield tapped.","RAV,GTC,EXP"
+Plains,,Stephan Martiniere,287,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Christopher Moeller,288,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Anthony S. Waters,289,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Richard Wright,290,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Stephan Martiniere,291,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Christopher Moeller,292,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Anthony S. Waters,293,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Richard Wright,294,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Stephan Martiniere,295,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Christopher Moeller,296,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Anthony S. Waters,297,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Richard Wright,298,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Stephan Martiniere,299,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Christopher Moeller,300,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Anthony S. Waters,301,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Richard Wright,302,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Stephan Martiniere,303,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Christopher Moeller,304,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Anthony S. Waters,305,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Richard Wright,306,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

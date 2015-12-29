@@ -1,0 +1,159 @@
+name,cost,artist,number,type,text,printings
+"Akroma, Angel of Wrath",,Ron Spears,1,Legendary Creature — Angel,"Flying, first strike, vigilance, trample, haste, protection from black and from red","LGN,TSB,DDC,DD3_DVD,V15"
+Akroma's Devoted,,Dave Dorman,2,Creature — Human Cleric,Cleric creatures have vigilance.,LGN
+Aven Redeemer,,Tim Hildebrandt,3,Creature — Bird Cleric,Flying\n{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.,LGN
+Aven Warhawk,,Glen Angus,4,Creature — Bird Soldier,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Bird and/or Soldier card you reveal in your hand.)\nFlying",LGN
+Beacon of Destiny,,Tim Hildebrandt,5,Creature — Human Cleric,"{T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.",LGN
+Celestial Gatekeeper,,Christopher Moeller,6,Creature — Bird Cleric,"Flying\nWhen Celestial Gatekeeper dies, exile it, then return up to two target Bird and/or Cleric permanent cards from your graveyard to the battlefield.",LGN
+Cloudreach Cavalry,,Kev Walker,7,Creature — Human Soldier,"As long as you control a Bird, Cloudreach Cavalry gets +2/+2 and has flying.",LGN
+Daru Mender,,Ben Thompson,8,Creature — Human Cleric,"Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Daru Mender is turned face up, regenerate target creature.",LGN
+Daru Sanctifier,,Tony Szczudlo,9,Creature — Human Cleric,"Morph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Daru Sanctifier is turned face up, destroy target enchantment.",LGN
+Daru Stinger,,Greg Staples,10,Creature — Soldier,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each  Soldier card you reveal in your hand.)\n{T}: Daru Stinger deals damage equal to the number of +1/+1 counters on it to target attacking or blocking creature.",LGN
+Defender of the Order,,Darrell Riche,11,Creature — Human Cleric,"Morph {W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Defender of the Order is turned face up, creatures you control get +0/+2 until end of turn.",LGN
+Deftblade Elite,,Alan Pollack,12,Creature — Human Soldier,"Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)\n{1}{W}: Prevent all combat damage that would be dealt to and dealt by Deftblade Elite this turn.","LGN,VMA"
+Essence Sliver,,Glen Angus,13,Creature — Sliver,"Whenever a Sliver deals damage, its controller gains that much life.","LGN,TSB"
+Gempalm Avenger,,Tim Hildebrandt,14,Creature — Human Soldier,"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.","LGN,DDO"
+Glowrider,,Scott M. Fischer,15,Creature — Human Cleric,Noncreature spells cost {1} more to cast.,LGN
+Liege of the Axe,,Christopher Moeller,16,Creature — Human Soldier,"Vigilance\nMorph {1}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Liege of the Axe is turned face up, untap it.",LGN
+Lowland Tracker,,Brian Snõddy,17,Creature — Human Soldier,"First strike\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",LGN
+Planar Guide,,Eric Peterson,18,Creature — Human Cleric,"{3}{W}, Exile Planar Guide: Exile all creatures. At the beginning of the next end step, return those cards to the battlefield under their owners' control.",LGN
+Plated Sliver,,Greg Staples,19,Creature — Sliver,All Sliver creatures get +0/+1.,LGN
+Starlight Invoker,,Glen Angus,20,Creature — Human Cleric Mutant,{7}{W}: You gain 5 life.,"LGN,10E"
+Stoic Champion,,Greg Hildebrandt,21,Creature — Human Soldier,"Whenever a player cycles a card, Stoic Champion gets +2/+2 until end of turn.","LGN,VMA"
+Sunstrike Legionnaire,,Mark Zug,22,Creature — Human Soldier,"Sunstrike Legionnaire doesn't untap during your untap step.\nWhenever another creature enters the battlefield, untap Sunstrike Legionnaire.
+{T}: Tap target creature with converted mana cost 3 or less.",LGN
+Swooping Talon,,Mark Zug,23,Creature — Bird Soldier,"Flying\n{1}: Swooping Talon loses flying until end of turn.
+Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",LGN
+Wall of Hope,,David Martin,24,Creature — Wall,"Defender (This creature can't attack.)\nWhenever Wall of Hope is dealt damage, you gain that much life.",LGN
+Ward Sliver,,Pete Venters,25,Creature — Sliver,"As Ward Sliver enters the battlefield, choose a color.\nAll Slivers have protection from the chosen color.",LGN
+Whipgrass Entangler,,Ben Thompson,26,Creature — Human Cleric,"{1}{W}: Until end of turn, target creature gains "This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield."",LGN
+White Knight,,"Edward P. Beard, Jr.",27,Creature — Human Knight,"First strike (This creature deals combat damage before creatures without first strike.)\nProtection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)","LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,ATH,pFNM,LGN,M10,M11,ME4,DDG"
+Windborn Muse,,Adam Rex,28,Creature — Spirit,Flying\nCreatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.,"LGN,10E,CMD"
+Wingbeat Warrior,,Kev Walker,29,Creature — Bird Soldier Warrior,"Flying\nMorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.",LGN
+Aven Envoy,,Alex Horley-Orlandelli,30,Creature — Bird Soldier,Flying,LGN
+Cephalid Pathmage,,Alex Horley-Orlandelli,31,Creature — Cephalid Wizard,"Cephalid Pathmage can't be blocked.\n{T}, Sacrifice Cephalid Pathmage: Target creature can't be blocked this turn.",LGN
+Chromeshell Crab,,Ron Spencer,32,Creature — Crab Beast,"Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.","LGN,CMD"
+Covert Operative,,Kev Walker,33,Creature — Human Wizard,Covert Operative can't be blocked.,LGN
+Crookclaw Elder,,Ron Spencer,34,Creature — Bird Wizard,Flying\nTap two untapped Birds you control: Draw a card.
+Tap two untapped Wizards you control: Target creature gains flying until end of turn.,LGN
+Dermoplasm,,John Avon,35,Creature — Shapeshifter,"Flying\nMorph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Dermoplasm is turned face up, you may put a creature card with a morph ability from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand.",LGN
+Dreamborn Muse,,Kev Walker,36,Creature — Spirit,"At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.","LGN,10E,CMD"
+Echo Tracer,,Scott M. Fischer,37,Creature — Human Wizard,"Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Echo Tracer is turned face up, return target creature to its owner's hand.","LGN,DDN"
+Fugitive Wizard,,Jim Nelson,38,Creature — Human Wizard,,"LGN,8ED,9ED,10E,M15"
+Gempalm Sorcerer,,Greg Hildebrandt,39,Creature — Human Wizard,"Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Sorcerer, Wizard creatures gain flying until end of turn.",LGN
+Glintwing Invoker,,Jim Nelson,40,Creature — Human Wizard Mutant,{7}{U}: Glintwing Invoker gets +3/+3 and gains flying until end of turn.,LGN
+Keeneye Aven,,Greg Hildebrandt,41,Creature — Bird Soldier,"Flying\nCycling {2} ({2}, Discard this card: Draw a card.)","LGN,VMA"
+Keeper of the Nine Gales,,Jim Nelson,42,Creature — Bird Wizard,"Flying\n{T}, Tap two untapped Birds you control: Return target permanent to its owner's hand.",LGN
+Master of the Veil,,Ron Spears,43,Creature — Human Wizard,"Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Master of the Veil is turned face up, you may turn target creature with a morph ability face down.",LGN
+Merchant of Secrets,,Greg Hildebrandt,44,Creature — Human Wizard,"When Merchant of Secrets enters the battlefield, draw a card.","LGN,8ED"
+Mistform Seaswift,,Dany Orizio,45,Creature — Illusion,Flying\n{1}: Mistform Seaswift becomes the creature type of your choice until end of turn.
+Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),LGN
+Mistform Sliver,,Ben Thompson,46,Creature — Illusion Sliver,All Slivers have "{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn.",LGN
+Mistform Ultimus,,Anthony S. Waters,47,Legendary Creature — Illusion,Mistform Ultimus is every creature type (even if this card isn't on the battlefield).,"LGN,TSB"
+Mistform Wakecaster,,Glen Angus,48,Creature — Illusion,"Flying\n{1}: Mistform Wakecaster becomes the creature type of your choice until end of turn.
+{2}{U}{U}, {T}: Choose a creature type. Each creature you control becomes that type until end of turn.",LGN
+Primoc Escapee,,Tony Szczudlo,49,Creature — Bird Beast,"Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",LGN
+Riptide Director,,Scott M. Fischer,50,Creature — Human Wizard,"{2}{U}{U}, {T}: Draw a card for each Wizard you control.",LGN
+Riptide Mangler,,Arnie Swekel,51,Creature — Beast,{1}{U}: Change Riptide Mangler's base power to target creature's power. (This effect lasts indefinitely.),LGN
+Shifting Sliver,,Darrell Riche,52,Creature — Sliver,Slivers can't be blocked except by Slivers.,LGN
+Synapse Sliver,,Thomas M. Baxa,53,Creature — Sliver,"Whenever a Sliver deals combat damage to a player, its controller may draw a card.",LGN
+Voidmage Apprentice,,Jim Nelson,54,Creature — Human Wizard,"Morph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Voidmage Apprentice is turned face up, counter target spell.","LGN,DD2,DD3_JVC"
+Wall of Deceit,,John Avon,55,Creature — Wall,Defender (This creature can't attack.)\n{3}: Turn Wall of Deceit face down.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),"LGN,DD2,DD3_JVC"
+Warped Researcher,,rk post,56,Creature — Human Wizard Mutant,"Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. (It can't be the target of spells or abilities.)",LGN
+Weaver of Lies,,Luca Zontini,57,Creature — Beast,"Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Weaver of Lies is turned face up, turn any number of target creatures with morph abilities other than Weaver of Lies face down.",LGN
+Willbender,,Eric Peterson,58,Creature — Human Wizard,"Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Willbender is turned face up, change the target of target spell or ability with a single target.","pFNM,LGN,TSB,DD2,DDN,C14,DD3_JVC"
+Aphetto Exterminator,,Scott M. Fischer,59,Creature — Human Wizard,"Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.",LGN
+Bane of the Living,,Justin Sweet,60,Creature — Insect,"Morph {X}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Bane of the Living is turned face up, all creatures get -X/-X until end of turn.",LGN
+Blood Celebrant,,Ben Thompson,61,Creature — Human Cleric,"{B}, Pay 1 life: Add one mana of any color to your mana pool.",LGN
+Corpse Harvester,,Mark Tedin,62,Creature — Zombie Wizard,"{1}{B}, {T}, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, and put them into your hand. Then shuffle your library.","LGN,HOP"
+Crypt Sliver,,"Edward P. Beard, Jr.",63,Creature — Sliver,All Slivers have "{T}: Regenerate target Sliver.",LGN
+Dark Supplicant,,Mark Zug,64,Creature — Human Cleric,"{T}, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle it.",LGN
+Deathmark Prelate,,Tony Szczudlo,65,Creature — Human Cleric,"{2}{B}, {T}, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate this ability only any time you could cast a sorcery.",LGN
+Drinker of Sorrow,,Carl Critchlow,66,Creature — Horror,"Drinker of Sorrow can't block.\nWhenever Drinker of Sorrow deals combat damage, sacrifice a permanent.",LGN
+Dripping Dead,,Thomas M. Baxa,67,Creature — Zombie,"Dripping Dead can't block.\nWhenever Dripping Dead deals combat damage to a creature, destroy that creature. It can't be regenerated.",LGN
+Earthblighter,,Alex Horley-Orlandelli,68,Creature — Human Cleric,"{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.",LGN
+Embalmed Brawler,,Justin Sweet,69,Creature — Zombie,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)\nWhenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.",LGN
+Gempalm Polluter,,Dany Orizio,70,Creature — Zombie,"Cycling {B}{B} ({B}{B}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Polluter, you may have target player lose life equal to the number of Zombies on the battlefield.",LGN
+Ghastly Remains,,"Edward P. Beard, Jr.",71,Creature — Zombie,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)\nAt the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.",LGN
+Goblin Turncoat,,Jim Nelson,72,Creature — Goblin Mercenary,Sacrifice a Goblin: Regenerate Goblin Turncoat.,LGN
+Graveborn Muse,,Kev Walker,73,Creature — Zombie Spirit,"At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.","LGN,10E"
+Havoc Demon,,Thomas M. Baxa,74,Creature — Demon,"Flying\nWhen Havoc Demon dies, all creatures get -5/-5 until end of turn.",LGN
+Hollow Specter,,rk post,75,Creature — Specter,"Flying\nWhenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.",LGN
+Infernal Caretaker,,Christopher Moeller,76,Creature — Human Cleric,"Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.",LGN
+Noxious Ghoul,,Luca Zontini,77,Creature — Zombie,"Whenever Noxious Ghoul or another Zombie enters the battlefield, all non-Zombie creatures get -1/-1 until end of turn.","LGN,HOP"
+Phage the Untouchable,,Ron Spears,78,Legendary Creature — Avatar Minion,"When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.\nWhenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Whenever Phage deals combat damage to a player, that player loses the game.","LGN,10E,CNS"
+Scion of Darkness,,Mark Zug,79,Creature — Avatar,"Trample\nWhenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.
+Cycling {3} ({3}, Discard this card: Draw a card.)","LGN,ARC"
+Skinthinner,,Dany Orizio,80,Creature — Zombie,"Morph {3}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skinthinner is turned face up, destroy target nonblack creature. It can't be regenerated.",LGN
+Smokespew Invoker,,Thomas M. Baxa,81,Creature — Zombie Mutant,{7}{B}: Target creature gets -3/-3 until end of turn.,LGN
+Sootfeather Flock,,David Martin,82,Creature — Bird,Flying\nMorph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),LGN
+Spectral Sliver,,Pete Venters,83,Creature — Sliver Spirit,All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn.","LGN,H09"
+Toxin Sliver,,Lars Grant-West,84,Creature — Sliver,"Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.",LGN
+Vile Deacon,,Matthew D. Wilson,85,Creature — Human Cleric,"Whenever Vile Deacon attacks, it gets +X/+X until end of turn, where X is the number of Clerics on the battlefield.",LGN
+Withered Wretch,,Tim Hildebrandt,86,Creature — Zombie Cleric,{1}: Exile target card from a graveyard.,"pFNM,LGN,TSB,HOP"
+Zombie Brute,,Greg Hildebrandt,87,Creature — Zombie,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)\nTrample",LGN
+Blade Sliver,,David Martin,88,Creature — Sliver,All Sliver creatures get +1/+0.,LGN
+Bloodstoke Howler,,Christopher Moeller,89,Creature — Beast,"Morph {6}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Bloodstoke Howler is turned face up, Beast creatures you control get +3/+0 until end of turn.",LGN
+Clickslither,,Kev Walker,90,Creature — Insect,Haste\nSacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.,"LGN,EVG,VMA,DD3_EVG"
+Crested Craghorn,,Matt Cavotta,91,Creature — Goat Beast,"Haste\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",LGN
+Flamewave Invoker,,Dave Dorman,92,Creature — Goblin Mutant,{7}{R}: Flamewave Invoker deals 5 damage to target player.,"LGN,10E,EVG,DD2,DD3_EVG,DD3_JVC"
+Frenetic Raptor,,Daren Bader,93,Creature — Lizard Beast,Beasts can't block.,LGN
+Gempalm Incinerator,,Luca Zontini,94,Creature — Goblin,"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.","LGN,EVG,DD3_EVG"
+Goblin Assassin,,Dave Dorman,95,Creature — Goblin Assassin,"Whenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.",LGN
+Goblin Clearcutter,,Eric Peterson,96,Creature — Goblin,"{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.",LGN
+Goblin Dynamo,,Ron Spencer,97,Creature — Goblin Mutant,"{T}: Goblin Dynamo deals 1 damage to target creature or player.\n{X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.",LGN
+Goblin Firebug,,Christopher Moeller,98,Creature — Goblin,"When Goblin Firebug leaves the battlefield, sacrifice a land.",LGN
+Goblin Goon,,Greg Staples,99,Creature — Goblin Mutant,Goblin Goon can't attack unless you control more creatures than defending player.\nGoblin Goon can't block unless you control more creatures than attacking player.,"LGN,VMA"
+Goblin Grappler,,Christopher Moeller,100,Creature — Goblin,"Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",LGN
+Goblin Lookout,,Jim Nelson,101,Creature — Goblin,"{T}, Sacrifice a Goblin: Goblin creatures get +2/+0 until end of turn.",LGN
+Hunter Sliver,,Kev Walker,102,Creature — Sliver,"All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)",LGN
+Imperial Hellkite,,Matt Cavotta,103,Creature — Dragon,"Flying\nMorph {6}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.","LGN,ARC"
+Kilnmouth Dragon,,Carl Critchlow,104,Creature — Dragon,"Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)\nFlying
+{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.","LGN,ARC,DDG"
+Lavaborn Muse,,Brian Snõddy,105,Creature — Spirit,"At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.","LGN,10E,DDK"
+Macetail Hystrodon,,Daren Bader,106,Creature — Beast,"First strike, haste\nCycling {3} ({3}, Discard this card: Draw a card.)",LGN
+Magma Sliver,,Wayne England,107,Creature — Sliver,"All Slivers have "{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield."",LGN
+Ridgetop Raptor,,Daren Bader,108,Creature — Lizard Beast,Double strike (This creature deals both first-strike and regular combat damage.),LGN
+Rockshard Elemental,,Anthony S. Waters,109,Creature — Elemental,Double strike (This creature deals both first-strike and regular combat damage.)\nMorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),LGN
+Shaleskin Plower,,Daren Bader,110,Creature — Beast,"Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Shaleskin Plower is turned face up, destroy target land.",LGN
+Skirk Alarmist,,Justin Sweet,111,Creature — Human Wizard,"Haste\n{T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.",LGN
+Skirk Drill Sergeant,,Alex Horley-Orlandelli,112,Creature — Goblin,"Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.","LGN,EVG,VMA,DD3_EVG"
+Skirk Marauder,,Pete Venters,113,Creature — Goblin,"Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Skirk Marauder is turned face up, it deals 2 damage to target creature or player.","pARL,LGN,ARC"
+Skirk Outrider,,Greg Staples,114,Creature — Goblin,"As long as you control a Beast, Skirk Outrider gets +2/+2 and has trample.",LGN
+Unstable Hulk,,Ron Spencer,115,Creature — Goblin Mutant,"Morph {3}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Unstable Hulk is turned face up, it gets +6/+6 and gains trample until end of turn. You skip your next turn.",LGN
+Warbreak Trumpeter,,Dany Orizio,116,Creature — Goblin,"Morph {X}{X}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Warbreak Trumpeter is turned face up, put X 1/1 red Goblin creature tokens onto the battlefield.",LGN
+Berserk Murlodont,,Arnie Swekel,117,Creature — Beast,"Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",LGN
+Branchsnap Lorian,,Heather Hudson,118,Creature — Beast,Trample\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),LGN
+Brontotherium,,Carl Critchlow,119,Creature — Beast,"Trample\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",LGN
+Brood Sliver,,Ron Spears,120,Creature — Sliver,"Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.","LGN,H09"
+Caller of the Claw,,Matt Cavotta,121,Creature — Elf,"Flash\nWhen Caller of the Claw enters the battlefield, put a 2/2 green Bear creature token onto the battlefield for each nontoken creature put into your graveyard from the battlefield this turn.","LGN,C15"
+Canopy Crawler,,Anthony S. Waters,122,Creature — Beast,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)\n{T}: Target creature gets +1/+1 until end of turn for each +1/+1 counter on Canopy Crawler.",LGN
+Defiant Elf,,Pete Venters,123,Creature — Elf,Trample,LGN
+Elvish Soultiller,,Ron Spears,124,Creature — Elf Mutant,"When Elvish Soultiller dies, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.",LGN
+Enormous Baloth,,Mark Tedin,125,Creature — Beast,,"LGN,8ED,9ED,10E,M10"
+Feral Throwback,,Carl Critchlow,126,Creature — Beast,"Amplify 2 (As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)","pPRE,LGN"
+Gempalm Strider,,Tim Hildebrandt,127,Creature — Elf,"Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.","LGN,EVG,DD3_EVG"
+Glowering Rogon,,Kev Walker,128,Creature — Beast,"Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)",LGN
+Hundroog,,Wayne England,129,Creature — Beast,"Cycling {3} ({3}, Discard this card: Draw a card.)",LGN
+Krosan Cloudscraper,,Ron Spears,130,Creature — Beast Mutant,"At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}.\nMorph {7}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","LGN,TSB"
+Krosan Vorine,,Carl Critchlow,131,Creature — Cat Beast,"Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)\nKrosan Vorine can't be blocked by more than one creature.","LGN,VMA"
+Nantuko Vigilante,,Alex Horley-Orlandelli,132,Creature — Insect Druid Mutant,"Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Nantuko Vigilante is turned face up, destroy target artifact or enchantment.",LGN
+Needleshot Gourna,,"Edward P. Beard, Jr.",133,Creature — Beast,Reach (This creature can block creatures with flying.),LGN
+Patron of the Wild,,Dave Dorman,134,Creature — Elf,"Morph {2}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Patron of the Wild is turned face up, target creature gets +3/+3 until end of turn.",LGN
+Primal Whisperer,,Greg Staples,135,Creature — Elf Soldier,Primal Whisperer gets +2/+2 for each face-down creature on the battlefield.\nMorph {3}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.),LGN
+Quick Sliver,,John Avon,136,Creature — Sliver,Flash\nAny player may play Sliver cards as though they had flash.,"LGN,H09"
+Root Sliver,,Matt Thompson,137,Creature — Sliver,Root Sliver can't be countered.\nSliver spells can't be countered by spells or abilities.,LGN
+Seedborn Muse,,Adam Rex,138,Creature — Spirit,Untap all permanents you control during each other player's untap step.,"LGN,9ED,10E"
+Stonewood Invoker,,Eric Peterson,139,Creature — Elf Mutant,{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.,"LGN,EVG,DD3_EVG"
+Timberwatch Elf,,Dave Dorman,140,Creature — Elf,"{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.","LGN,EVG,C14,DD3_EVG"
+Totem Speaker,,Darrell Riche,141,Creature — Elf Druid,"Whenever a Beast enters the battlefield, you may gain 3 life.",LGN
+Tribal Forcemage,,Greg Staples,142,Creature — Elf Wizard,"Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Tribal Forcemage is turned face up, creatures of the creature type of your choice get +2/+2 and gain trample until end of turn.",LGN
+Vexing Beetle,,Matt Thompson,143,Creature — Insect,Vexing Beetle can't be countered.\nVexing Beetle gets +3/+3 as long as no opponent controls a creature.,LGN
+Wirewood Channeler,,Alan Pollack,144,Creature — Elf Druid,"{T}: Add X mana of any one color to your mana pool, where X is the number of Elves on the battlefield.",LGN
+Wirewood Hivemaster,,Darrell Riche,145,Creature — Elf,"Whenever another nontoken Elf enters the battlefield, you may put a 1/1 green Insect creature token onto the battlefield.",LGN

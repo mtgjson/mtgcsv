@@ -1,0 +1,331 @@
+name,cost,artist,number,type,text,printings
+Apothecary Initiate,,Kev Walker,1,Creature — Kithkin Cleric,"Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.",SHM
+Armored Ascension,,Matt Cavotta,2,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 for each Plains you control and has flying.,"SHM,M10,M11"
+Ballynock Cohort,,Jesper Ejsing,3,Creature — Kithkin Soldier,First strike\nBallynock Cohort gets +1/+1 as long as you control another white creature.,SHM
+Barrenton Medic,,Trevor Hairsine,4,Creature — Kithkin Cleric,{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\nPut a -1/-1 counter on Barrenton Medic: Untap Barrenton Medic.,SHM
+Boon Reflection,,Terese Nielsen & Ron Spencer,5,Enchantment,"If you would gain life, you gain twice that much life instead.",SHM
+Goldenglow Moth,,Howard Lyon,6,Creature — Insect,"Flying\nWhenever Goldenglow Moth blocks, you may gain 4 life.","SHM,M11"
+Greater Auramancy,,Chuck Lukacs,7,Enchantment,Other enchantments you control have shroud. (A permanent with shroud can't be the target of spells or abilities.)\nEnchanted creatures you control have shroud.,SHM
+Inquisitor's Snare,,Michael Sutfin,8,Instant,"Prevent all damage target attacking or blocking creature would deal this turn. If that creature is black or red, destroy it.",SHM
+Kithkin Rabble,,Omar Rayyan,9,Creature — Kithkin,Vigilance\nKithkin Rabble's power and toughness are each equal to the number of white permanents you control.,SHM
+Kithkin Shielddare,,Christopher Moeller,10,Creature — Kithkin Soldier,"{W}, {T}: Target blocking creature gets +2/+2 until end of turn.",SHM
+Last Breath,,Thomas Denmark,11,Instant,Exile target creature with power 2 or less. Its controller gains 4 life.,"MMQ,SHM,THS"
+Mass Calcify,,Brandon Kitkouski,12,Sorcery,Destroy all nonwhite creatures.,"SHM,M15"
+Mine Excavation,,Chippy,13,Sorcery,"Return target artifact or enchantment card from a graveyard to its owner's hand.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Mistmeadow Skulk,,Omar Rayyan,14,Creature — Kithkin Rogue,"Lifelink, protection from converted mana cost 3 or greater","FUT,SHM"
+Niveous Wisps,,Jim Nelson,15,Instant,Target creature becomes white until end of turn. Tap that creature.\nDraw a card.,SHM
+Order of Whiteclay,,Steven Belledin,16,Creature — Kithkin Cleric,"{1}{W}{W}, {Q}: Return target creature card with converted mana cost 3 or less from your graveyard to the battlefield. ({Q} is the untap symbol.)",SHM
+Pale Wayfarer,,Heather Hudson,17,Creature — Spirit Giant,"{2}{W}{W}, {Q}: Target creature gains protection from the color of its controller's choice until end of turn. ({Q} is the untap symbol.)",SHM
+Prison Term,,Zoltan Boros & Gabor Szikszai,18,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.
+Whenever a creature enters the battlefield under an opponent's control, you may attach Prison Term to that creature.","SHM,HOP,CMD"
+Resplendent Mentor,,Franz Vohwinkel,19,Creature — Kithkin Cleric,White creatures you control have "{T}: You gain 1 life.",SHM
+Rune-Cervin Rider,,Dan Scott,20,Creature — Elf Knight,Flying\n{G/W}{G/W}: Rune-Cervin Rider gets +1/+1 until end of turn.,SHM
+Runed Halo,,Steve Prescott,21,Enchantment,"As Runed Halo enters the battlefield, name a card.\nYou have protection from the chosen name. (You can't be targeted, dealt damage, or enchanted by anything with that name.)",SHM
+Safehold Sentry,,William O'Connor,22,Creature — Elf Warrior,"{2}{W}, {Q}: Safehold Sentry gets +0/+2 until end of turn. ({Q} is the untap symbol.)",SHM
+Spectral Procession,,Jeremy Enecio,23,Sorcery,Put three 1/1 white Spirit creature tokens with flying onto the battlefield.,"SHM,DDK,MD1,C14,MM2"
+Strip Bare,,Ralph Horsley,24,Instant,Destroy all Auras and Equipment attached to target creature.,SHM
+Twilight Shepherd,,Jason Chan,25,Creature — Angel,"Flying, vigilance\nWhen Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","SHM,DDC,C14,DD3_DVD"
+Windbrisk Raptor,,Omar Rayyan,26,Creature — Bird,Flying\nAttacking creatures you control have lifelink.,SHM
+Woeleecher,,Izzy,27,Creature — Elemental,"{W}, {T}: Remove a -1/-1 counter from target creature. If you do, you gain 2 life.",SHM
+Advice from the Fae,,Chippy,28,Sorcery,"({2/U} can be paid with any two mana or with {U}. This card's converted mana cost is 6.)\nLook at the top five cards of your library. If you control more creatures than each other player, put two of those cards into your hand. Otherwise, put one of them into your hand. Then put the rest on the bottom of your library in any order.",SHM
+Biting Tether,,Thomas Denmark,29,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+At the beginning of your upkeep, put a -1/-1 counter on enchanted creature.",SHM
+Briarberry Cohort,,Carl Critchlow,30,Creature — Faerie Soldier,Flying\nBriarberry Cohort gets +1/+1 as long as you control another blue creature.,SHM
+Cerulean Wisps,,Jim Nelson,31,Instant,Target creature becomes blue until end of turn. Untap that creature.\nDraw a card.,SHM
+Consign to Dream,,Richard Kane Ferguson,32,Instant,"Return target permanent to its owner's hand. If that permanent is red or green, put it on top of its owner's library instead.",SHM
+Counterbore,,Wayne England,33,Instant,"Counter target spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.","SHM,DPA"
+Cursecatcher,,Warren Mahy,34,Creature — Merfolk Wizard,Sacrifice Cursecatcher: Counter target instant or sorcery spell unless its controller pays {1}.,SHM
+Deepchannel Mentor,,Jesper Ejsing,35,Creature — Merfolk Rogue,Blue creatures you control can't be blocked.,SHM
+Drowner Initiate,,E. M. Gist,36,Creature — Merfolk Wizard,"Whenever a player casts a blue spell, you may pay {1}. If you do, target player puts the top two cards of his or her library into his or her graveyard.",SHM
+Faerie Swarm,,Zoltan Boros & Gabor Szikszai,37,Creature — Faerie,Flying\nFaerie Swarm's power and toughness are each equal to the number of blue permanents you control.,SHM
+Flow of Ideas,,Mike Dringenberg,38,Sorcery,Draw a card for each Island you control.,"RAV,SHM"
+Ghastly Discovery,,Howard Lyon,39,Sorcery,"Draw two cards, then discard a card.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)",SHM
+Isleback Spawn,,Mark Tedin,40,Creature — Kraken,Shroud (This creature can't be the target of spells or abilities.)\nIsleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.,SHM
+Kinscaer Harpoonist,,Thomas M. Baxa,41,Creature — Kithkin Soldier,"Flying\nWhenever Kinscaer Harpoonist attacks, you may have target creature lose flying until end of turn.",SHM
+Knacksaw Clique,,Steven Belledin,42,Creature — Faerie Rogue,"Flying\n{1}{U}, {Q}: Target opponent exiles the top card of his or her library. Until end of turn, you may play that card. ({Q} is the untap symbol.)",SHM
+Leech Bonder,,E. M. Gist,43,Creature — Merfolk Soldier,"Leech Bonder enters the battlefield with two -1/-1 counters on it.\n{U}, {Q}: Move a counter from target creature onto a second target creature. ({Q} is the untap symbol.)",SHM
+Merrow Wavebreakers,,Alex Horley-Orlandelli,44,Creature — Merfolk Soldier,"{1}{U}, {Q}: Merrow Wavebreakers gains flying until end of turn. ({Q} is the untap symbol.)",SHM
+Parapet Watchers,,Scott Altmann,45,Creature — Kithkin Soldier,{W/U}: Parapet Watchers gets +0/+1 until end of turn.,SHM
+Prismwake Merrow,,Wayne England,46,Creature — Merfolk Wizard,"Flash\nWhen Prismwake Merrow enters the battlefield, target permanent becomes the color or colors of your choice until end of turn.",SHM
+Puca's Mischief,,Scott Altmann,47,Enchantment,"At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser converted mana cost.",SHM
+Put Away,,Matt Cavotta,48,Instant,Counter target spell. You may shuffle up to one target card from your graveyard into your library.,SHM
+River Kelpie,,Jeff Easley,49,Creature — Beast,"Whenever River Kelpie or another permanent enters the battlefield from a graveyard, draw a card.\nWhenever a player casts a spell from a graveyard, draw a card.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Savor the Moment,,Warren Mahy,50,Sorcery,Take an extra turn after this one. Skip the untap step of that turn.,SHM
+Sinking Feeling,,Ron Brown,51,Enchantment — Aura,"Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Put a -1/-1 counter on this creature: Untap this creature."",SHM
+Spell Syphon,,John Avon,52,Instant,Counter target spell unless its controller pays {1} for each blue permanent you control.,SHM
+Thought Reflection,,Terese Nielsen & Ron Spencer,53,Enchantment,"If you would draw a card, draw two cards instead.","SHM,C15"
+Whimwader,,Jeff Easley,54,Creature — Elemental,Whimwader can't attack unless defending player controls a blue permanent.,SHM
+Aphotic Wisps,,Jim Nelson,55,Instant,Target creature becomes black and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)\nDraw a card.,SHM
+Ashenmoor Cohort,,Lucio Parrillo,56,Creature — Elemental Warrior,Ashenmoor Cohort gets +1/+1 as long as you control another black creature.,SHM
+Beseech the Queen,,Jason Chan,57,Sorcery,"({2/B} can be paid with any two mana or with {B}. This card's converted mana cost is 6.)\nSearch your library for a card with converted mana cost less than or equal to the number of lands you control, reveal it, and put it into your hand. Then shuffle your library.","SHM,HOP"
+Blowfly Infestation,,Drew Tucker,58,Enchantment,"Whenever a creature dies, if it had a -1/-1 counter on it, put a -1/-1 counter on target creature.",SHM
+Cinderbones,,Carl Critchlow,59,Creature — Elemental Skeleton,Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{1}{B}: Regenerate Cinderbones.,SHM
+Cinderhaze Wretch,,Steven Belledin,60,Creature — Elemental Shaman,{T}: Target player discards a card. Activate this ability only during your turn.\nPut a -1/-1 counter on Cinderhaze Wretch: Untap Cinderhaze Wretch.,SHM
+Corrosive Mentor,,Daarken,61,Creature — Elemental Rogue,Black creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.),SHM
+Corrupt,,Dave Allsop,62,Sorcery,Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.,"pMEI,USG,7ED,pMPR,SHM,DDC,DDD,M11,M14,DD3_DVD,DD3_GVL"
+Crowd of Cinders,,Carl Frank,63,Creature — Elemental,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nCrowd of Cinders's power and toughness are each equal to the number of black permanents you control.,"SHM,DPA"
+Disturbing Plot,,Larry MacDougall,64,Sorcery,"Return target creature card from a graveyard to its owner's hand.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Dusk Urchins,,Darrell Riche,65,Creature — Ouphe,"Whenever Dusk Urchins attacks or blocks, put a -1/-1 counter on it.\nWhen Dusk Urchins dies, draw a card for each -1/-1 counter on it.",SHM
+Faerie Macabre,,rk post,66,Creature — Faerie Rogue,Flying\nDiscard Faerie Macabre: Exile up to two target cards from graveyards.,"SHM,DDD,MMA,DD3_GVL"
+Gloomlance,,Zoltan Boros & Gabor Szikszai,67,Sorcery,"Destroy target creature. If that creature was green or white, its controller discards a card.",SHM
+Hollowborn Barghest,,Eric Fortune,68,Creature — Demon Hound,"At the beginning of your upkeep, if you have no cards in hand, each opponent loses 2 life.\nAt the beginning of each opponent's upkeep, if that player has no cards in hand, he or she loses 2 life.",SHM
+Hollowsage,,Lucio Parrillo,69,Creature — Merfolk Wizard,"Whenever Hollowsage becomes untapped, you may have target player discard a card.",SHM
+Incremental Blight,,Chuck Lukacs,70,Sorcery,"Put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature.","SHM,HOP,ARC"
+Loch Korrigan,,Daarken,71,Creature — Spirit,{U/B}: Loch Korrigan gets +1/+1 until end of turn.,SHM
+Midnight Banshee,,Daarken,72,Creature — Spirit,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nAt the beginning of your upkeep, put a -1/-1 counter on each nonblack creature.","SHM,MM2"
+Plague of Vermin,,Carl Critchlow,73,Sorcery,"Starting with you, each player may pay any amount of life. Repeat this process until no one pays life. Each player puts a 1/1 black Rat creature token onto the battlefield for each 1 life he or she paid this way.",SHM
+Polluted Bonds,,Michael Sutfin,74,Enchantment,"Whenever a land enters the battlefield under an opponent's control, that player loses 2 life and you gain 2 life.",SHM
+Puppeteer Clique,,Daren Bader,75,Creature — Faerie Wizard,"Flying\nWhen Puppeteer Clique enters the battlefield, put target creature card from an opponent's graveyard onto the battlefield under your control. It gains haste. At the beginning of your next end step, exile it.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","SHM,MM2"
+Rite of Consumption,,Ron Spencer,76,Sorcery,"As an additional cost to cast Rite of Consumption, sacrifice a creature.\nRite of Consumption deals damage equal to the sacrificed creature's power to target player. You gain life equal to the damage dealt this way.",SHM
+Sickle Ripper,,Dan Scott,77,Creature — Elemental Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.),"SHM,MM2"
+Smolder Initiate,,Chippy,78,Creature — Elemental Shaman,"Whenever a player casts a black spell, you may pay {1}. If you do, target player loses 1 life.",SHM
+Splitting Headache,,Thomas Denmark,79,Sorcery,"Choose one —\n• Target player discards two cards.
+• Target player reveals his or her hand, you choose a card from it, then that player discards that card.",SHM
+Torture,,E. M. Gist,80,Enchantment — Aura,Enchant creature\n{1}{B}: Put a -1/-1 counter on enchanted creature.,"HML,5ED,SHM"
+Wound Reflection,,Terese Nielsen & Ron Spencer,81,Enchantment,"At the beginning of each end step, each opponent loses life equal to the life he or she lost this turn. (Damage causes loss of life.)",SHM
+Blistering Dieflyn,,Scott Altmann,82,Creature — Imp,Flying\n{B/R}: Blistering Dieflyn gets +1/+0 until end of turn.,SHM
+Bloodmark Mentor,,Dave Allsop,83,Creature — Goblin Warrior,Red creatures you control have first strike.,"SHM,DPA,DDG"
+Bloodshed Fever,,Dan Scott,84,Enchantment — Aura,Enchant creature\nEnchanted creature attacks each turn if able.,SHM
+Boggart Arsonists,,Jesper Ejsing,85,Creature — Goblin Rogue,"Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)\n{2}{R}, Sacrifice Boggart Arsonists: Destroy target Scarecrow or Plains.",SHM
+Burn Trail,,Nils Hamm,86,Sorcery,"Burn Trail deals 3 damage to target creature or player.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Cragganwick Cremator,,Jeremy Enecio,87,Creature — Giant Shaman,"When Cragganwick Cremator enters the battlefield, discard a card at random. If you discard a creature card this way, Cragganwick Cremator deals damage equal to that card's power to target player.",SHM
+Crimson Wisps,,Jim Nelson,88,Instant,Target creature becomes red and gains haste until end of turn.\nDraw a card.,SHM
+Deep-Slumber Titan,,Steve Prescott,89,Creature — Giant Warrior,"Deep-Slumber Titan enters the battlefield tapped.\nDeep-Slumber Titan doesn't untap during your untap step.
+Whenever Deep-Slumber Titan is dealt damage, untap it.",SHM
+Elemental Mastery,,Cyril Van Der Haegen,90,Enchantment — Aura,"Enchant creature\nEnchanted creature has "{T}: Put X 1/1 red Elemental creature tokens with haste onto the battlefield, where X is this creature's power. Exile them at the beginning of the next end step."",SHM
+Ember Gale,,Steve Prescott,91,Sorcery,Creatures target player controls can't block this turn. Ember Gale deals 1 damage to each white and/or blue creature that player controls.,SHM
+Flame Javelin,,Trevor Hairsine,92,Instant,({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)\nFlame Javelin deals 4 damage to target creature or player.,"pMPR,SHM,DD2,DDK,DD3_JVC"
+Furystoke Giant,,Ralph Horsley,93,Creature — Giant Warrior,"When Furystoke Giant enters the battlefield, other creatures you control gain "{T}: This creature deals 2 damage to target creature or player" until end of turn.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Horde of Boggarts,,Steve Prescott,94,Creature — Goblin,Menace (This creature can't be blocked except by two or more creatures.)\nHorde of Boggarts's power and toughness are each equal to the number of red permanents you control.,SHM
+Inescapable Brute,,Nils Hamm,95,Creature — Giant Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.)\nInescapable Brute must be blocked if able.,SHM
+Intimidator Initiate,,Ralph Horsley,96,Creature — Goblin Shaman,"Whenever a player casts a red spell, you may pay {1}. If you do, target creature can't block this turn.",SHM
+Jaws of Stone,,Zoltan Boros & Gabor Szikszai,97,Sorcery,"Jaws of Stone deals X damage divided as you choose among any number of target creatures and/or players, where X is the number of Mountains you control as you cast Jaws of Stone.","SHM,DDG,DDI"
+Knollspine Dragon,,Steve Prescott,98,Creature — Dragon,"Flying\nWhen Knollspine Dragon enters the battlefield, you may discard your hand and draw cards equal to the damage dealt to target opponent this turn.",SHM
+Knollspine Invocation,,Dave Dorman,99,Enchantment,"{X}, Discard a card with converted mana cost X: Knollspine Invocation deals X damage to target creature or player.",SHM
+Mudbrawler Cohort,,Lucio Parrillo,100,Creature — Goblin Warrior,Haste\nMudbrawler Cohort gets +1/+1 as long as you control another red creature.,SHM
+Power of Fire,,Trevor Hairsine,101,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target creature or player.","SHM,CNS"
+Puncture Bolt,,Franz Vohwinkel,102,Instant,Puncture Bolt deals 1 damage to target creature. Put a -1/-1 counter on that creature.,SHM
+Pyre Charger,,Mark Zug,103,Creature — Elemental Warrior,Haste\n{R}: Pyre Charger gets +1/+0 until end of turn.,"SHM,DD2,DD3_JVC"
+Rage Reflection,,Terese Nielsen & Ron Spencer,104,Enchantment,Creatures you control have double strike.,"SHM,DPA"
+Rustrazor Butcher,,Ron Spencer,105,Creature — Goblin Warrior,First strike\nWither (This deals damage to creatures in the form of -1/-1 counters.),SHM
+Slinking Giant,,Dave Kendall,106,Creature — Giant Rogue,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhenever Slinking Giant blocks or becomes blocked, it gets -3/-0 until end of turn.",SHM
+Smash to Smithereens,,Pete Venters,107,Instant,Destroy target artifact. Smash to Smithereens deals 3 damage to that artifact's controller.,"SHM,MM2,ORI"
+Wild Swing,,Richard Kane Ferguson,108,Sorcery,Choose three target nonenchantment permanents. Destroy one of them at random.,SHM
+Crabapple Cohort,,Richard Whitters,109,Creature — Treefolk Warrior,Crabapple Cohort gets +1/+1 as long as you control another green creature.,SHM
+Devoted Druid,,Darrell Riche,110,Creature — Elf Druid,{T}: Add {G} to your mana pool.\nPut a -1/-1 counter on Devoted Druid: Untap Devoted Druid.,SHM
+Dramatic Entrance,,Mike Dringenberg,111,Instant,You may put a green creature card from your hand onto the battlefield.,SHM
+Drove of Elves,,Larry MacDougall,112,Creature — Elf,Hexproof\nDrove of Elves's power and toughness are each equal to the number of green permanents you control.,"SHM,DPA,C14"
+Farhaven Elf,,Brandon Kitkouski,113,Creature — Elf Druid,"When Farhaven Elf enters the battlefield, you may search your library for a basic land card and put it onto the battlefield tapped. If you do, shuffle your library.","SHM,C13,C14"
+Flourishing Defenses,,Dan Scott,114,Enchantment,"Whenever a -1/-1 counter is placed on a creature, you may put a 1/1 green Elf Warrior creature token onto the battlefield.",SHM
+Foxfire Oak,,Dave Kendall,115,Creature — Treefolk Shaman,{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.,SHM
+Gleeful Sabotage,,Todd Lockwood,116,Sorcery,"Destroy target artifact or enchantment.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)","SHM,ARC"
+Gloomwidow,,Mark Tedin,117,Creature — Spider,Reach\nGloomwidow can block only creatures with flying.,"SHM,AVR"
+Gloomwidow's Feast,,Thomas M. Baxa,118,Instant,"Destroy target creature with flying. If that creature was blue or black, put a 1/2 green Spider creature token with reach onto the battlefield. (It can block creatures with flying.)",SHM
+Howl of the Night Pack,,Lars Grant-West,119,Sorcery,Put a 2/2 green Wolf creature token onto the battlefield for each Forest you control.,"SHM,M10,DPA,M14"
+Hungry Spriggan,,Drew Tucker,120,Creature — Goblin Warrior,"Trample\nWhenever Hungry Spriggan attacks, it gets +3/+3 until end of turn.",SHM
+Juvenile Gloomwidow,,Thomas M. Baxa,121,Creature — Spider,Reach (This creature can block creatures with flying.)\nWither (This deals damage to creatures in the form of -1/-1 counters.),SHM
+Mana Reflection,,Terese Nielsen & Ron Spencer,122,Enchantment,"If you tap a permanent for mana, it produces twice as much of that mana instead.",SHM
+Mossbridge Troll,,Jeremy Jarvis,123,Creature — Troll,"If Mossbridge Troll would be destroyed, regenerate it.\nTap any number of untapped creatures you control other than Mossbridge Troll with total power 10 or greater: Mossbridge Troll gets +20/+20 until end of turn.",SHM
+Nurturer Initiate,,Jim Pavelec,124,Creature — Elf Shaman,"Whenever a player casts a green spell, you may pay {1}. If you do, target creature gets +1/+1 until end of turn.",SHM
+Presence of Gond,,Brandon Kitkouski,125,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.","SHM,C13"
+Prismatic Omen,,John Avon,126,Enchantment,Lands you control are every basic land type in addition to their other types.,SHM
+Raking Canopy,,Heather Hudson,127,Enchantment,"Whenever a creature with flying attacks you, Raking Canopy deals 4 damage to it.",SHM
+Roughshod Mentor,,Steven Belledin,128,Creature — Giant Warrior,Green creatures you control have trample.,"SHM,DPA"
+Spawnwrithe,,Daarken,129,Creature — Elemental,"Trample\nWhenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.","SHM,CMD,DDM"
+Toil to Renown,,Larry MacDougall,130,Sorcery,"You gain 1 life for each tapped artifact, creature, and land you control.",SHM
+Tower Above,,Thomas Denmark,131,Sorcery,"({2/G} can be paid with any two mana or with {G}. This card's converted mana cost is 6.)\nUntil end of turn, target creature gets +4/+4 and gains trample, wither, and "When this creature attacks, target creature blocks it this turn if able." (It deals damage to creatures in the form of -1/-1 counters.)",SHM
+Viridescent Wisps,,Jim Nelson,132,Instant,Target creature becomes green and gets +1/+0 until end of turn.\nDraw a card.,SHM
+Wildslayer Elves,,Dave Kendall,133,Creature — Elf Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.),SHM
+Witherscale Wurm,,Thomas M. Baxa,134,Creature — Wurm,"Whenever Witherscale Wurm blocks or becomes blocked by a creature, that creature gains wither until end of turn. (It deals damage to creatures in the form of -1/-1 counters.)\nWhenever Witherscale Wurm deals damage to an opponent, remove all -1/-1 counters from it.",SHM
+Woodfall Primus,,Adam Rex,135,Creature — Treefolk Shaman,"Trample\nWhen Woodfall Primus enters the battlefield, destroy target noncreature permanent.
+Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","SHM,MMA"
+Æthertow,,Warren Mahy,136,Instant,"Put target attacking or blocking creature on top of its owner's library.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Augury Adept,,Steve Prescott,137,Creature — Kithkin Wizard,"Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its converted mana cost.","SHM,C13"
+Barrenton Cragtreads,,Daren Bader,138,Creature — Kithkin Scout,Barrenton Cragtreads can't be blocked by red creatures.,SHM
+Curse of Chains,,Drew Tucker,139,Enchantment — Aura,"Enchant creature\nAt the beginning of each upkeep, tap enchanted creature.",SHM
+Enchanted Evening,,Rebecca Guay,140,Enchantment,All permanents are enchantments in addition to their other types.,SHM
+Glamer Spinners,,Jesper Ejsing,141,Creature — Faerie Wizard,"Flash\nFlying
+When Glamer Spinners enters the battlefield, attach all Auras enchanting target permanent to another permanent with the same controller.",SHM
+Godhead of Awe,,Mark Zug,142,Creature — Spirit Avatar,Flying\nOther creatures have base power and toughness 1/1.,SHM
+Mirrorweave,,Jim Pavelec,143,Instant,Each other creature becomes a copy of target nonlegendary creature until end of turn.,SHM
+Mistmeadow Witch,,Greg Staples,144,Creature — Kithkin Wizard,{2}{W}{U}: Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.,"SHM,DDI,C13"
+Plumeveil,,Nils Hamm,145,Creature — Elemental,"Flash\nDefender, flying","SHM,CMD,MMA"
+Puresight Merrow,,Carl Critchlow,146,Creature — Merfolk Wizard,"{W/U}, {Q}: Look at the top card of your library. You may exile that card. ({Q} is the untap symbol.)",SHM
+Repel Intruders,,Trevor Hairsine,147,Instant,Put two 1/1 white Kithkin Soldier creature tokens onto the battlefield if {W} was spent to cast Repel Intruders. Counter up to one target creature spell if {U} was spent to cast Repel Intruders. (Do both if {W}{U} was spent.),SHM
+Silkbind Faerie,,Matt Cavotta,148,Creature — Faerie Rogue,"Flying\n{1}{W/U}, {Q}: Tap target creature. ({Q} is the untap symbol.)",SHM
+Somnomancer,,Lars Grant-West,149,Creature — Kithkin Wizard,"When Somnomancer enters the battlefield, you may tap target creature.",SHM
+Steel of the Godhead,,Jason Chan,150,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)
+As long as enchanted creature is blue, it gets +1/+1 and can't be blocked.","SHM,DDI"
+Swans of Bryn Argoll,,Eric Fortune,151,Creature — Bird Spirit,"Flying\nIf a source would deal damage to Swans of Bryn Argoll, prevent that damage. The source's controller draws cards equal to the damage prevented this way.","SHM,MM2"
+Thistledown Duo,,Zoltan Boros & Gabor Szikszai,152,Creature — Kithkin Soldier Wizard,"Whenever you cast a white spell, Thistledown Duo gets +1/+1 until end of turn.\nWhenever you cast a blue spell, Thistledown Duo gains flying until end of turn.",SHM
+Thistledown Liege,,Adam Rex,153,Creature — Kithkin Knight,Flash\nOther white creatures you control get +1/+1.
+Other blue creatures you control get +1/+1.,SHM
+Thoughtweft Gambit,,Steve Prescott,154,Instant,Tap all creatures your opponents control and untap all creatures you control.,SHM
+Turn to Mist,,Greg Staples,155,Instant,Exile target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.,SHM
+Worldpurge,,Chippy,156,Sorcery,"Return all permanents to their owners' hands. Each player chooses up to seven cards in his or her hand, then shuffles the rest into his or her library. Empty all mana pools.",SHM
+Zealous Guardian,,Steven Belledin,157,Creature — Kithkin Soldier,Flash,SHM
+Cemetery Puca,,Omar Rayyan,158,Creature — Shapeshifter,"Whenever a creature dies, you may pay {1}. If you do, Cemetery Puca becomes a copy of that creature and gains this ability.",SHM
+Dire Undercurrents,,Franz Vohwinkel,159,Enchantment,"Whenever a blue creature enters the battlefield under your control, you may have target player draw a card.\nWhenever a black creature enters the battlefield under your control, you may have target player discard a card.",SHM
+Dream Salvage,,Howard Lyon,160,Instant,Draw cards equal to the number of cards target opponent discarded this turn.,SHM
+Fate Transfer,,Wayne England,161,Instant,Move all counters from target creature onto another target creature.,SHM
+Ghastlord of Fugue,,Mike Dringenberg,162,Creature — Spirit Avatar,"Ghastlord of Fugue can't be blocked.\nWhenever Ghastlord of Fugue deals combat damage to a player, that player reveals his or her hand. You choose a card from it. That player exiles that card.",SHM
+Glen Elendra Liege,,Kev Walker,163,Creature — Faerie Knight,Flying\nOther blue creatures you control get +1/+1.
+Other black creatures you control get +1/+1.,"SHM,PC2"
+Gravelgill Axeshark,,Dave Kendall,164,Creature — Merfolk Soldier,"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Gravelgill Duo,,Brandon Kitkouski,165,Creature — Merfolk Rogue Warrior,"Whenever you cast a blue spell, Gravelgill Duo gets +1/+1 until end of turn.\nWhenever you cast a black spell, Gravelgill Duo gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",SHM
+Helm of the Ghastlord,,Franz Vohwinkel,166,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is blue, it gets +1/+1 and has "Whenever this creature deals damage to an opponent, draw a card."
+As long as enchanted creature is black, it gets +1/+1 and has "Whenever this creature deals damage to an opponent, that player discards a card."",SHM
+Inkfathom Infiltrator,,Jesper Ejsing,167,Creature — Merfolk Rogue,Inkfathom Infiltrator can't block and can't be blocked.,SHM
+Inkfathom Witch,,Larry MacDougall,168,Creature — Merfolk Wizard,Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{2}{U}{B}: Each unblocked creature has base power and toughness 4/1 until end of turn.,"SHM,PC2"
+Memory Plunder,,Dan Scott,169,Instant,You may cast target instant or sorcery card from an opponent's graveyard without paying its mana cost.,SHM
+Memory Sluice,,Wayne England,170,Sorcery,"Target player puts the top four cards of his or her library into his or her graveyard.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Merrow Grimeblotter,,Cyril Van Der Haegen,171,Creature — Merfolk Wizard,"{1}{U/B}, {Q}: Target creature gets -2/-0 until end of turn. ({Q} is the untap symbol.)",SHM
+"Oona, Queen of the Fae",,Adam Rex,172,Legendary Creature — Faerie Wizard,"Flying\n{X}{U/B}: Choose a color. Target opponent exiles the top X cards of his or her library. For each card of the chosen color exiled this way, put a 1/1 blue and black Faerie Rogue creature token with flying onto the battlefield.","SHM,V11,MMA"
+Oona's Gatewarden,,Mike Dringenberg,173,Creature — Faerie Soldier,"Defender, flying\nWither (This deals damage to creatures in the form of -1/-1 counters.)",SHM
+River's Grasp,,Steven Belledin,174,Sorcery,"If {U} was spent to cast River's Grasp, return up to one target creature to its owner's hand. If {B} was spent to cast River's Grasp, target player reveals his or her hand, you choose a nonland card from it, then that player discards that card. (Do both if {U}{B} was spent.)",SHM
+Scarscale Ritual,,Richard Sardinha,175,Sorcery,"As an additional cost to cast Scarscale Ritual, put a -1/-1 counter on a creature you control.\nDraw two cards.",SHM
+"Sygg, River Cutthroat",,Jeremy Enecio,176,Legendary Creature — Merfolk Rogue,"At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)",SHM
+Torpor Dust,,Jesper Ejsing,177,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets -3/-0.,SHM
+Wanderbrine Rootcutters,,Chippy,178,Creature — Merfolk Rogue,Wanderbrine Rootcutters can't be blocked by green creatures.,SHM
+Wasp Lancer,,Warren Mahy,179,Creature — Faerie Soldier,Flying,SHM
+Ashenmoor Gouger,,Matt Cavotta,180,Creature — Elemental Warrior,Ashenmoor Gouger can't block.,"SHM,MM2"
+Ashenmoor Liege,,Mark Zug,181,Creature — Elemental Knight,"Other black creatures you control get +1/+1.\nOther red creatures you control get +1/+1.
+Whenever Ashenmoor Liege becomes the target of a spell or ability an opponent controls, that player loses 4 life.",SHM
+Cultbrand Cinder,,Christopher Moeller,182,Creature — Elemental Shaman,"When Cultbrand Cinder enters the battlefield, put a -1/-1 counter on target creature.",SHM
+Demigod of Revenge,,Jim Murray,183,Creature — Spirit Avatar,"Flying, haste\nWhen you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.","pPRE,SHM,MMA"
+Din of the Fireherd,,Dave Dorman,184,Sorcery,"Put a 5/5 black and red Elemental creature token onto the battlefield. Target opponent sacrifices a creature for each black creature you control, then sacrifices a land for each red creature you control.",SHM
+Emberstrike Duo,,Aleksi Briclot,185,Creature — Elemental Warrior Shaman,"Whenever you cast a black spell, Emberstrike Duo gets +1/+1 until end of turn.\nWhenever you cast a red spell, Emberstrike Duo gains first strike until end of turn.",SHM
+Everlasting Torment,,Richard Kane Ferguson,186,Enchantment,Players can't gain life.\nDamage can't be prevented.
+All damage is dealt as though its source had wither. (A source with wither deals damage to creatures in the form of -1/-1 counters.),SHM
+Fists of the Demigod,,Dan Scott,187,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is black, it gets +1/+1 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)
+As long as enchanted creature is red, it gets +1/+1 and has first strike.",SHM
+Fulminator Mage,,rk post,188,Creature — Elemental Shaman,Sacrifice Fulminator Mage: Destroy target nonbasic land.,"SHM,MM2"
+Grief Tyrant,,Izzy,189,Creature — Horror,"Grief Tyrant enters the battlefield with four -1/-1 counters on it.\nWhen Grief Tyrant dies, put a -1/-1 counter on target creature for each -1/-1 counter on Grief Tyrant.",SHM
+Kulrath Knight,,Daarken,190,Creature — Elemental Knight,Flying\nWither (This deals damage to creatures in the form of -1/-1 counters.)
+Creatures your opponents control with counters on them can't attack or block.,SHM
+Manaforge Cinder,,Izzy,191,Creature — Elemental Shaman,{1}: Add {B} or {R} to your mana pool. Activate this ability no more than three times each turn.,SHM
+Murderous Redcap,,Dave Allsop,192,Creature — Goblin Assassin,"When Murderous Redcap enters the battlefield, it deals damage equal to its power to target creature or player.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","pFNM,SHM,MMA"
+Poison the Well,,Zoltan Boros & Gabor Szikszai,193,Sorcery,Destroy target land. Poison the Well deals 2 damage to that land's controller.,SHM
+Scar,,Pete Venters,194,Instant,Put a -1/-1 counter on target creature.,SHM
+Sootstoke Kindler,,Mark Zug,195,Creature — Elemental Shaman,Haste\n{T}: Target black or red creature gains haste until end of turn.,SHM
+Sootwalkers,,Nils Hamm,196,Creature — Elemental Rogue,Sootwalkers can't be blocked by white creatures.,SHM
+Spiteflame Witch,,William O'Connor,197,Creature — Elemental Shaman,{B}{R}: Each player loses 1 life.,SHM
+Spiteful Visions,,Brandon Kitkouski,198,Enchantment,"At the beginning of each player's draw step, that player draws an additional card.\nWhenever a player draws a card, Spiteful Visions deals 1 damage to that player.","SHM,C13"
+Torrent of Souls,,Ian Edward Ameling,199,Sorcery,Return up to one target creature card from your graveyard to the battlefield if {B} was spent to cast Torrent of Souls. Creatures target player controls get +2/+0 and gain haste until end of turn if {R} was spent to cast Torrent of Souls. (Do both if {B}{R} was spent.),"SHM,ARC,DDK"
+Traitor's Roar,,Jim Pavelec,200,Sorcery,"Tap target untapped creature. It deals damage equal to its power to its controller.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Tyrannize,,Mark Tedin,201,Sorcery,Target player discards his or her hand unless he or she pays 7 life.,SHM
+Boartusk Liege,,Jesper Ejsing,202,Creature — Goblin Knight,Trample\nOther red creatures you control get +1/+1.
+Other green creatures you control get +1/+1.,SHM
+Boggart Ram-Gang,,Dave Allsop,203,Creature — Goblin Warrior,Haste\nWither (This deals damage to creatures in the form of -1/-1 counters.),"pGTW,SHM,PD2"
+Deus of Calamity,,Todd Lockwood,204,Creature — Spirit Avatar,"Trample\nWhenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.","SHM,DDL"
+Firespout,,Jeff Miracola,205,Sorcery,Firespout deals 3 damage to each creature without flying if {R} was spent to cast Firespout and 3 damage to each creature with flying if {G} was spent to cast it. (Do both if {R}{G} was spent.),"SHM,CMD,V14"
+Fossil Find,,Dave DeVries,206,Sorcery,"Return a card at random from your graveyard to your hand, then reorder your graveyard as you choose.",SHM
+Giantbaiting,,Trevor Hairsine,207,Sorcery,"Put a 4/4 red and green Giant Warrior creature token with haste onto the battlefield. Exile it at the beginning of the next end step.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it.)",SHM
+Guttural Response,,Matt Cavotta,208,Instant,Counter target blue instant spell.,SHM
+Impromptu Raid,,Randy Gallegos,209,Enchantment,"{2}{R/G}: Reveal the top card of your library. If it isn't a creature card, put it into your graveyard. Otherwise, put that card onto the battlefield. That creature gains haste. Sacrifice it at the beginning of the next end step.",SHM
+Loamdragger Giant,,Pete Venters,210,Creature — Giant Warrior,,SHM
+Manamorphose,,Jeff Miracola,211,Instant,Add two mana in any combination of colors to your mana pool.\nDraw a card.,"SHM,MMA"
+Morselhoarder,,Anthony S. Waters,212,Creature — Elemental,Morselhoarder enters the battlefield with two -1/-1 counters on it.\nRemove a -1/-1 counter from Morselhoarder: Add one mana of any color to your mana pool.,SHM
+Mudbrawler Raiders,,Ron Spencer,213,Creature — Goblin Warrior,Mudbrawler Raiders can't be blocked by blue creatures.,SHM
+Rosheen Meanderer,,Aleksi Briclot,214,Legendary Creature — Giant Shaman,{T}: Add {4} to your mana pool. Spend this mana only on costs that contain {X}.,SHM
+Runes of the Deus,,Warren Mahy,215,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is red, it gets +1/+1 and has double strike. (It deals both first-strike and regular combat damage.)
+As long as enchanted creature is green, it gets +1/+1 and has trample.",SHM
+Scuzzback Marauders,,Pete Venters,216,Creature — Goblin Warrior,"Trample\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Scuzzback Scrapper,,Scott Altmann,217,Creature — Goblin Warrior,Wither (This deals damage to creatures in the form of -1/-1 counters.),SHM
+Tattermunge Duo,,Jesper Ejsing,218,Creature — Goblin Warrior Shaman,"Whenever you cast a red spell, Tattermunge Duo gets +1/+1 until end of turn.\nWhenever you cast a green spell, Tattermunge Duo gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",SHM
+Tattermunge Maniac,,Matt Cavotta,219,Creature — Goblin Warrior,Tattermunge Maniac attacks each turn if able.,SHM
+Tattermunge Witch,,Warren Mahy,220,Creature — Goblin Shaman,{R}{G}: Each blocked creature gets +1/+0 and gains trample until end of turn.,SHM
+Valleymaker,,Randy Gallegos,221,Creature — Giant Shaman,"{T}, Sacrifice a Mountain: Valleymaker deals 3 damage to target creature.\n{T}, Sacrifice a Forest: Choose a player. That player adds {G}{G}{G} to his or her mana pool.",SHM
+Vexing Shusher,,Cyril Van Der Haegen,222,Creature — Goblin Shaman,Vexing Shusher can't be countered.\n{R/G}: Target spell can't be countered by spells or abilities.,"pLPA,SHM"
+"Wort, the Raidmother",,Dave Allsop,223,Legendary Creature — Goblin Shaman,"When Wort, the Raidmother enters the battlefield, put two 1/1 red and green Goblin Warrior creature tokens onto the battlefield.\nEach red or green instant or sorcery spell you cast has conspire. (As you cast the spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose new targets for the copy.)",SHM
+Barkshell Blessing,,Steven Belledin,224,Instant,"Target creature gets +2/+2 until end of turn.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",SHM
+Dawnglow Infusion,,Rebecca Guay,225,Sorcery,You gain X life if {G} was spent to cast Dawnglow Infusion and X life if {W} was spent to cast it. (Do both if {G}{W} was spent.),SHM
+Elvish Hexhunter,,Alex Horley-Orlandelli,226,Creature — Elf Shaman,"{G/W}, {T}, Sacrifice Elvish Hexhunter: Destroy target enchantment.",SHM
+Fracturing Gust,,Michael Sutfin,227,Instant,Destroy all artifacts and enchantments. You gain 2 life for each permanent destroyed this way.,"SHM,V14"
+Heartmender,,Rebecca Guay,228,Creature — Elemental,"At the beginning of your upkeep, remove a -1/-1 counter from each creature you control.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Kitchen Finks,,Kev Walker,229,Creature — Ouphe,"When Kitchen Finks enters the battlefield, you gain 2 life.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)","pFNM,SHM,MMA"
+Medicine Runner,,Chippy,230,Creature — Elf Cleric,"When Medicine Runner enters the battlefield, you may remove a counter from target permanent.",SHM
+Mercy Killing,,Dave Kendall,231,Instant,"Target creature's controller sacrifices it, then puts X 1/1 green and white Elf Warrior creature tokens onto the battlefield, where X is that creature's power.",SHM
+Old Ghastbark,,Thomas M. Baxa,232,Creature — Treefolk Warrior,,SHM
+Oracle of Nectars,,Brandon Kitkouski,233,Creature — Elf Cleric,"{X}, {T}: You gain X life.",SHM
+Oversoul of Dusk,,Scott M. Fischer,234,Creature — Spirit Avatar,"Protection from blue, from black, and from red",SHM
+Raven's Run Dragoon,,Daren Bader,235,Creature — Elf Knight,Raven's Run Dragoon can't be blocked by black creatures.,SHM
+Reknit,,Zoltan Boros & Gabor Szikszai,236,Instant,Regenerate target permanent.,SHM
+Rhys the Redeemed,,Steve Prescott,237,Legendary Creature — Elf Warrior,"{2}{G/W}, {T}: Put a 1/1 green and white Elf Warrior creature token onto the battlefield.\n{4}{G/W}{G/W}, {T}: For each creature token you control, put a token that's a copy of that creature onto the battlefield.",SHM
+Safehold Duo,,Izzy,238,Creature — Elf Warrior Shaman,"Whenever you cast a green spell, Safehold Duo gets +1/+1 until end of turn.\nWhenever you cast a white spell, Safehold Duo gains vigilance until end of turn.",SHM
+Safehold Elite,,Richard Whitters,239,Creature — Elf Scout,"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Safewright Quest,,Dan Scott,240,Sorcery,"Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.",SHM
+Seedcradle Witch,,Steven Belledin,241,Creature — Elf Shaman,{2}{G}{W}: Target creature gets +3/+3 until end of turn. Untap that creature.,SHM
+Shield of the Oversoul,,Steven Belledin,242,Enchantment — Aura,"Enchant creature\nAs long as enchanted creature is green, it gets +1/+1 and has indestructible. (Damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)
+As long as enchanted creature is white, it gets +1/+1 and has flying.",SHM
+Wheel of Sun and Moon,,Zoltan Boros & Gabor Szikszai,243,Enchantment — Aura,"Enchant player\nIf a card would be put into enchanted player's graveyard from anywhere, instead that card is revealed and put on the bottom of that player's library.",SHM
+Wilt-Leaf Cavaliers,,Steve Prescott,244,Creature — Elf Knight,Vigilance,"pGTW,SHM,DDG"
+Wilt-Leaf Liege,,Jason Chan,245,Creature — Elf Knight,"Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.
+If a spell or ability an opponent controls causes you to discard Wilt-Leaf Liege, put it onto the battlefield instead of putting it into your graveyard.","SHM,MM2"
+Blazethorn Scarecrow,,Dave Kendall,246,Artifact Creature — Scarecrow,Blazethorn Scarecrow has haste as long as you control a red creature.\nBlazethorn Scarecrow has wither as long as you control a green creature. (It deals damage to creatures in the form of -1/-1 counters.),SHM
+Blight Sickle,,John Avon,247,Artifact — Equipment,Equipped creature gets +1/+0 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)\nEquip {2},SHM
+Cauldron of Souls,,Ron Brown,248,Artifact,"{T}: Choose any number of target creatures. Each of those creatures gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Chainbreaker,,Jeff Miracola,249,Artifact Creature — Scarecrow,"Chainbreaker enters the battlefield with two -1/-1 counters on it.\n{3}, {T}: Remove a -1/-1 counter from target creature.",SHM
+Elsewhere Flask,,Carl Frank,250,Artifact,"When Elsewhere Flask enters the battlefield, draw a card.\nSacrifice Elsewhere Flask: Choose a basic land type. Each land you control becomes that type until end of turn.",SHM
+Gnarled Effigy,,Ron Brown,251,Artifact,"{4}, {T}: Put a -1/-1 counter on target creature.",SHM
+Grim Poppet,,Kev Walker,252,Artifact Creature — Scarecrow,Grim Poppet enters the battlefield with three -1/-1 counters on it.\nRemove a -1/-1 counter from Grim Poppet: Put a -1/-1 counter on another target creature.,SHM
+Heap Doll,,John Avon,253,Artifact Creature — Scarecrow,Sacrifice Heap Doll: Exile target card from a graveyard.,SHM
+Illuminated Folio,,Jim Pavelec,254,Artifact,"{1}, {T}, Reveal two cards from your hand that share a color: Draw a card.",SHM
+Lockjaw Snapper,,Daren Bader,255,Artifact Creature — Scarecrow,"Wither (This deals damage to creatures in the form of -1/-1 counters.)\nWhen Lockjaw Snapper dies, put a -1/-1 counter on each creature with a -1/-1 counter on it.",SHM
+Lurebound Scarecrow,,Nils Hamm,256,Artifact Creature — Scarecrow,"As Lurebound Scarecrow enters the battlefield, choose a color.\nWhen you control no permanents of the chosen color, sacrifice Lurebound Scarecrow.",SHM
+Painter's Servant,,Mike Dringenberg,257,Artifact Creature — Scarecrow,"As Painter's Servant enters the battlefield, choose a color.\nAll cards that aren't on the battlefield, spells, and permanents are the chosen color in addition to their other colors.",SHM
+Pili-Pala,,Ron Spencer,258,Artifact Creature — Scarecrow,"Flying\n{2}, {Q}: Add one mana of any color to your mana pool. ({Q} is the untap symbol.)",SHM
+Rattleblaze Scarecrow,,Trevor Hairsine,259,Artifact Creature — Scarecrow,"Rattleblaze Scarecrow has persist as long as you control a black creature. (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)\nRattleblaze Scarecrow has haste as long as you control a red creature.",SHM
+Reaper King,,Jim Murray,260,Legendary Artifact Creature — Scarecrow,"({2/W} can be paid with any two mana or with {W}. This card's converted mana cost is 10.)\nOther Scarecrow creatures you control get +1/+1.
+Whenever another Scarecrow enters the battlefield under your control, destroy target permanent.",SHM
+Revelsong Horn,,Franz Vohwinkel,261,Artifact,"{1}, {T}, Tap an untapped creature you control: Target creature gets +1/+1 until end of turn.",SHM
+Scrapbasket,,Heather Hudson,262,Artifact Creature — Scarecrow,{1}: Scrapbasket becomes all colors until end of turn.,SHM
+Scuttlemutt,,Jeremy Jarvis,263,Artifact Creature — Scarecrow,{T}: Add one mana of any color to your mana pool.\n{T}: Target creature becomes the color or colors of your choice until end of turn.,SHM
+Tatterkite,,Ron Brown,264,Artifact Creature — Scarecrow,Flying\nTatterkite can't have counters placed on it.,SHM
+Thornwatch Scarecrow,,Chuck Lukacs,265,Artifact Creature — Scarecrow,Thornwatch Scarecrow has wither as long as you control a green creature. (It deals damage to creatures in the form of -1/-1 counters.)\nThornwatch Scarecrow has vigilance as long as you control a white creature.,SHM
+Trip Noose,,Randy Gallegos,266,Artifact,"{2}, {T}: Tap target creature.","SHM,DDF"
+Umbral Mantle,,Richard Sardinha,267,Artifact — Equipment,"Equipped creature has "{3}, {Q}: This creature gets +2/+2 until end of turn." ({Q} is the untap symbol.)\nEquip {0}",SHM
+Watchwing Scarecrow,,Chuck Lukacs,268,Artifact Creature — Scarecrow,Watchwing Scarecrow has vigilance as long as you control a white creature.\nWatchwing Scarecrow has flying as long as you control a blue creature.,SHM
+Wicker Warcrawler,,Carl Critchlow,269,Artifact Creature — Scarecrow,"Whenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.",SHM
+Wingrattle Scarecrow,,Trevor Hairsine,270,Artifact Creature — Scarecrow,"Wingrattle Scarecrow has flying as long as you control a blue creature.\nWingrattle Scarecrow has persist as long as you control a black creature. (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",SHM
+Fire-Lit Thicket,,Ralph Horsley,271,Land,"{T}: Add {1} to your mana pool.\n{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G} to your mana pool.",SHM
+Graven Cairns,,Rob Alexander,272,Land,"{T}: Add {1} to your mana pool.\n{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R} to your mana pool.","FUT,SHM"
+Leechridden Swamp,,Lars Grant-West,273,Land — Swamp,"({T}: Add {B} to your mana pool.)\nLeechridden Swamp enters the battlefield tapped.
+{B}, {T}: Each opponent loses 1 life. Activate this ability only if you control two or more black permanents.","SHM,HOP"
+Madblind Mountain,,Fred Fields,274,Land — Mountain,"({T}: Add {R} to your mana pool.)\nMadblind Mountain enters the battlefield tapped.
+{R}, {T}: Shuffle your library. Activate this ability only if you control two or more red permanents.",SHM
+Mistveil Plains,,Rob Alexander,275,Land — Plains,"({T}: Add {W} to your mana pool.)\nMistveil Plains enters the battlefield tapped.
+{W}, {T}: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents.",SHM
+Moonring Island,,Brandon Kitkouski,276,Land — Island,"({T}: Add {U} to your mana pool.)\nMoonring Island enters the battlefield tapped.
+{U}, {T}: Look at the top card of target player's library. Activate this ability only if you control two or more blue permanents.",SHM
+Mystic Gate,,Fred Fields,277,Land,"{T}: Add {1} to your mana pool.\n{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U} to your mana pool.",SHM
+Reflecting Pool,,Fred Fields,278,Land,{T}: Add to your mana pool one mana of any type that a land you control could produce.,"TMP,SHM,CNS"
+Sapseep Forest,,Aleksi Briclot,279,Land — Forest,"({T}: Add {G} to your mana pool.)\nSapseep Forest enters the battlefield tapped.
+{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.","SHM,DDH"
+Sunken Ruins,,Warren Mahy,280,Land,"{T}: Add {1} to your mana pool.\n{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B} to your mana pool.",SHM
+Wooded Bastion,,Christopher Moeller,281,Land,"{T}: Add {1} to your mana pool.\n{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W} to your mana pool.",SHM
+Plains,,Omar Rayyan,282,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Lars Grant-West,283,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Dave Kendall,284,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Larry MacDougall,285,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Omar Rayyan,286,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Warren Mahy,287,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Brandon Kitkouski,288,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Rob Alexander,289,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Lars Grant-West,290,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Warren Mahy,291,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,rk post,292,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Chippy,293,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Dave Kendall,294,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Brandon Kitkouski,295,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,rk post,296,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Steve Prescott,297,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Larry MacDougall,298,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,299,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Chippy,300,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Steve Prescott,301,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

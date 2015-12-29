@@ -1,0 +1,180 @@
+name,cost,artist,number,type,text,printings
+Æther Shockwave,,Stephen Tappin,1,Instant,Choose one —\n• Tap all Spirits.
+• Tap all non-Spirit creatures.,SOK
+Araba Mothrider,,Anthony S. Waters,2,Creature — Human Samurai,"Flying\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",SOK
+Celestial Kirin,,Adam Rex,3,Legendary Creature — Kirin Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's converted mana cost.",SOK
+Charge Across the Araba,,Dany Orizio,4,Instant — Arcane,Sweep — Return any number of Plains you control to their owner's hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.,SOK
+Cowed by Wisdom,,Daren Bader,5,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack or block unless its controller pays {1} for each card in your hand.,SOK
+Curtain of Light,,Chippy,6,Instant,Cast Curtain of Light only during combat after blockers are declared.\nTarget unblocked attacking creature becomes blocked. (This spell works on creatures that can't be blocked.)
+Draw a card.,SOK
+Descendant of Kiyomaro,,Christopher Rush,7,Creature — Human Soldier,"As long as you have more cards in hand than each opponent, Descendant of Kiyomaro gets +1/+2 and has "Whenever this creature deals combat damage, you gain 3 life."",SOK
+Eiganjo Free-Riders,,Kev Walker,8,Creature — Human Soldier,"Flying\nAt the beginning of your upkeep, return a white creature you control to its owner's hand.",SOK
+Enduring Ideal,,Daren Bader,9,Sorcery,"Search your library for an enchantment card and put it onto the battlefield. Then shuffle your library.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)",SOK
+Ghost-Lit Redeemer,,Shishizaru,10,Creature — Spirit,"{W}, {T}: You gain 2 life.\nChannel — {1}{W}, Discard Ghost-Lit Redeemer: You gain 4 life.",SOK
+Hail of Arrows,,Anthony S. Waters,11,Instant,Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.,"SOK,10E"
+Hand of Honor,,Kev Walker,12,Creature — Human Samurai,"Protection from black\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",SOK
+Inner-Chamber Guard,,Brian Snõddy,13,Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",SOK
+"Kataki, War's Wage",,Matt Thompson,14,Legendary Creature — Spirit,"All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {1}."","SOK,MMA,MD1"
+Kitsune Bonesetter,,Heather Hudson,15,Creature — Fox Cleric,{T}: Prevent the next 3 damage that would be dealt to target creature this turn. Activate this ability only if you have more cards in hand than each opponent.,SOK
+Kitsune Dawnblade,,Carl Critchlow,16,Creature — Fox Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhen Kitsune Dawnblade enters the battlefield, you may tap target creature.",SOK
+Kitsune Loreweaver,,Eric Polak,17,Creature — Fox Cleric,"{1}{W}: Kitsune Loreweaver gets +0/+X until end of turn, where X is the number of cards in your hand.",SOK
+"Kiyomaro, First to Stand",,Kev Walker,18,Legendary Creature — Spirit,"Kiyomaro, First to Stand's power and toughness are each equal to the number of cards in your hand.\nAs long as you have four or more cards in hand, Kiyomaro has vigilance.
+Whenever Kiyomaro deals damage, if you have seven or more cards in hand, you gain 7 life.","pPRE,SOK"
+"Michiko Konda, Truth Seeker",,Christopher Moeller,19,Legendary Creature — Human Advisor,"Whenever a source an opponent controls deals damage to you, that player sacrifices a permanent.",SOK
+Moonwing Moth,,Franz Vohwinkel,20,Creature — Insect,Flying\n{W}: Moonwing Moth gets +0/+1 until end of turn.,SOK
+Nikko-Onna,,Shishizaru,21,Creature — Spirit,"When Nikko-Onna enters the battlefield, destroy target enchantment.\nWhenever you cast a Spirit or Arcane spell, you may return Nikko-Onna to its owner's hand.",SOK
+Plow Through Reito,,Ron Spencer,22,Instant — Arcane,Sweep — Return any number of Plains you control to their owner's hand. Target creature gets +1/+1 until end of turn for each Plains returned this way.,SOK
+Presence of the Wise,,Christopher Moeller,23,Sorcery,You gain 2 life for each card in your hand.,SOK
+Promise of Bunrei,,Stephen Tappin,24,Enchantment,"When a creature you control dies, sacrifice Promise of Bunrei. If you do, put four 1/1 colorless Spirit creature tokens onto the battlefield.",SOK
+Pure Intentions,,Randy Gallegos,25,Instant — Arcane,"Whenever a spell or ability an opponent controls causes you to discard cards this turn, return those cards from your graveyard to your hand.\nWhen a spell or ability an opponent controls causes you to discard Pure Intentions, return Pure Intentions from your graveyard to your hand at the beginning of the next end step.",SOK
+Reverence,,Ittoku,26,Enchantment,Creatures with power 2 or less can't attack you.,SOK
+"Rune-Tail, Kitsune Ascendant",,Randy Gallegos,27a,Legendary Creature — Fox Monk,"When you have 30 or more life, flip Rune-Tail, Kitsune Ascendant.",SOK
+Rune-Tail's Essence,,Randy Gallegos,27b,Legendary Enchantment,Prevent all damage that would be dealt to creatures you control.,SOK
+Shinen of Stars' Light,,Jeremy Jarvis,28,Creature — Spirit,"First strike\nChannel — {1}{W}, Discard Shinen of Stars' Light: Target creature gains first strike until end of turn.",SOK
+Spiritual Visit,,Pete Venters,29,Instant — Arcane,"Put a 1/1 colorless Spirit creature token onto the battlefield.\nSplice onto Arcane {W} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",SOK
+Torii Watchward,,Jeff Miracola,30,Creature — Spirit,"Vigilance (Attacking doesn't cause this creature to tap.)\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",SOK
+Cloudhoof Kirin,,Randy Gallegos,31,Legendary Creature — Kirin Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, you may have target player put the top X cards of his or her library into his or her graveyard, where X is that spell's converted mana cost.",SOK
+Cut the Earthly Bond,,Jeff Miracola,32,Instant — Arcane,Return target enchanted permanent to its owner's hand.,SOK
+Descendant of Soramaro,,Brian Despain,33,Creature — Human Wizard,"{1}{U}: Look at the top X cards of your library, where X is the number of cards in your hand, then put them back in any order.",SOK
+Dreamcatcher,,Mark Tedin,34,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, you may sacrifice Dreamcatcher. If you do, draw a card.",SOK
+"Erayo, Soratami Ascendant",,Matt Cavotta,35a,Legendary Creature — Moonfolk Monk,"Flying\nWhenever the fourth spell of a turn is cast, flip Erayo, Soratami Ascendant.",SOK
+Erayo's Essence,,Matt Cavotta,35b,Legendary Enchantment,"Whenever an opponent casts a spell for the first time in a turn, counter that spell.",SOK
+Eternal Dominion,,Shishizaru,36,Sorcery,"Search target opponent's library for an artifact, creature, enchantment, or land card. Put that card onto the battlefield under your control. Then that player shuffles his or her library.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",SOK
+Evermind,,Matt Thompson,37,Instant — Arcane,"(Nonexistent mana costs can't be paid.)\nDraw a card.
+Splice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",SOK
+Freed from the Real,,Scott M. Fischer,38,Enchantment — Aura,Enchant creature\n{U}: Tap enchanted creature.
+{U}: Untap enchanted creature.,SOK
+Ghost-Lit Warder,,Kensuke Okabayashi,39,Creature — Spirit,"{3}{U}, {T}: Counter target spell unless its controller pays {2}.\nChannel — {3}{U}, Discard Ghost-Lit Warder: Counter target spell unless its controller pays {4}.",SOK
+Ideas Unbound,,Mark Tedin,40,Sorcery — Arcane,Draw three cards. Discard three cards at the beginning of the next end step.,SOK
+"Kaho, Minamo Historian",,Greg Staples,41,Legendary Creature — Human Wizard,"When Kaho, Minamo Historian enters the battlefield, search your library for up to three instant cards and exile them. Then shuffle your library.\n{X}, {T}: You may cast a card with converted mana cost X exiled with Kaho without paying its mana cost.",SOK
+Kami of the Crescent Moon,,Darrell Riche,42,Legendary Creature — Spirit,"At the beginning of each player's draw step, that player draws an additional card.",SOK
+Kiri-Onna,,Kensuke Okabayashi,43,Creature — Spirit,"When Kiri-Onna enters the battlefield, return target creature to its owner's hand.\nWhenever you cast a Spirit or Arcane spell, you may return Kiri-Onna to its owner's hand.",SOK
+"Meishin, the Mind Cage",,Thomas Gianni,44,Legendary Enchantment,"All creatures get -X/-0, where X is the number of cards in your hand.",SOK
+Minamo Scrollkeeper,,Paolo Parente,45,Creature — Human Wizard,Defender\nYour maximum hand size is increased by one.,"SOK,CNS"
+Moonbow Illusionist,,Dan Frazier,46,Creature — Moonfolk Wizard,"Flying\n{2}, Return a land you control to its owner's hand: Target land becomes the basic land type of your choice until end of turn.",SOK
+Murmurs from Beyond,,Paolo Parente,47,Instant — Arcane,Reveal the top three cards of your library. An opponent chooses one of them. Put that card into your graveyard and the rest into your hand.,"SOK,CMD"
+Oboro Breezecaller,,Rebecca Guay,48,Creature — Moonfolk Wizard,"Flying\n{2}, Return a land you control to its owner's hand: Untap target land.",SOK
+Oboro Envoy,,Rob Alexander,49,Creature — Moonfolk Wizard,"Flying\n{2}, Return a land you control to its owner's hand: Target creature gets -X/-0 until end of turn, where X is the number of cards in your hand.",SOK
+Oppressive Will,,Pat Lee,50,Instant,Counter target spell unless its controller pays {1} for each card in your hand.,SOK
+Overwhelming Intellect,,Alex Horley-Orlandelli,51,Instant,Counter target creature spell. Draw cards equal to that spell's converted mana cost.,"SOK,DDJ"
+Rushing-Tide Zubera,,Mark Brill,52,Creature — Zubera Spirit,"When Rushing-Tide Zubera dies, if 4 or more damage was dealt to it this turn, draw three cards.",SOK
+Sakashima the Impostor,,rk post,53,Legendary Creature — Human Rogue,"You may have Sakashima the Impostor enter the battlefield as a copy of any creature on the battlefield, except its name is still Sakashima the Impostor, it's legendary in addition to its other types, and it gains "{2}{U}{U}: Return Sakashima the Impostor to its owner's hand at the beginning of the next end step."",SOK
+Secretkeeper,,Ron Spencer,54,Creature — Spirit,"As long as you have more cards in hand than each opponent, Secretkeeper gets +2/+2 and has flying.",SOK
+Shape Stealer,,Jim Nelson,55,Creature — Shapeshifter Spirit,"Whenever Shape Stealer blocks or becomes blocked by a creature, change Shape Stealer's base power and toughness to that creature's power and toughness until end of turn.",SOK
+Shifting Borders,,Alex Horley-Orlandelli,56,Instant — Arcane,"Exchange control of two target lands.\nSplice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",SOK
+Shinen of Flight's Wings,,Scott M. Fischer,57,Creature — Spirit,"Flying\nChannel — {U}, Discard Shinen of Flight's Wings: Target creature gains flying until end of turn.",SOK
+"Soramaro, First to Dream",,Brian Despain,58,Legendary Creature — Spirit,"Flying\nSoramaro, First to Dream's power and toughness are each equal to the number of cards in your hand.
+{4}, Return a land you control to its owner's hand: Draw a card.",SOK
+Trusted Advisor,,Jim Nelson,59,Creature — Human Advisor,"Your maximum hand size is increased by two.\nAt the beginning of your upkeep, return a blue creature you control to its owner's hand.",SOK
+Twincast,,Christopher Moeller,60,Instant,Copy target instant or sorcery spell. You may choose new targets for the copy.,"SOK,10E,M10"
+"Akuta, Born of Ash",,Ben Thompson,61,Legendary Creature — Spirit,"Haste\nAt the beginning of your upkeep, if you have more cards in hand than each opponent, you may sacrifice a Swamp. If you do, return Akuta, Born of Ash from your graveyard to the battlefield.",SOK
+Choice of Damnations,,Tim Hildebrandt,62,Sorcery — Arcane,"Target opponent chooses a number. You may have that player lose that much life. If you don't, that player sacrifices all but that many permanents.",SOK
+Death Denied,,Greg Hildebrandt,63,Instant — Arcane,Return X target creature cards from your graveyard to your hand.,"SOK,MMA,MM2"
+Death of a Thousand Stings,,Scott M. Fischer,64,Instant — Arcane,"Target player loses 1 life and you gain 1 life.\nAt the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Death of a Thousand Stings from your graveyard to your hand.",SOK
+Deathknell Kami,,Puddnhead,65,Creature — Spirit,"Flying\n{2}: Deathknell Kami gets +1/+1 until end of turn. Sacrifice it at the beginning of the next end step.
+Soulshift 1 (When this creature dies, you may return target Spirit card with converted mana cost 1 or less from your graveyard to your hand.)",SOK
+Deathmask Nezumi,,Daren Bader,66,Creature — Rat Shaman,"As long as you have seven or more cards in hand, Deathmask Nezumi gets +2/+1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)",SOK
+Exile into Darkness,,Pete Venters,67,Sorcery,"Target player sacrifices a creature with converted mana cost 3 or less.\nAt the beginning of your upkeep, if you have more cards in hand than each opponent, you may return Exile into Darkness from your graveyard to your hand.",SOK
+Footsteps of the Goryo,,Chippy,68,Sorcery — Arcane,Return target creature card from your graveyard to the battlefield. Sacrifice that creature at the beginning of the next end step.,SOK
+Ghost-Lit Stalker,,Hideaki Takamura,69,Creature — Spirit,"{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.\nChannel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.","SOK,DDD,DD3_GVL"
+Gnat Miser,,Thomas M. Baxa,70,Creature — Rat Shaman,Each opponent's maximum hand size is reduced by one.,SOK
+Hand of Cruelty,,Kev Walker,71,Creature — Human Samurai,"Protection from white\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",SOK
+Infernal Kirin,,Carl Critchlow,72,Legendary Creature — Kirin Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, target player reveals his or her hand and discards all cards with that spell's converted mana cost.",SOK
+"Kagemaro, First to Suffer",,Adam Rex,73,Legendary Creature — Demon Spirit,"Kagemaro, First to Suffer's power and toughness are each equal to the number of cards in your hand.\n{B}, Sacrifice Kagemaro: All creatures get -X/-X until end of turn, where X is the number of cards in your hand.",SOK
+Kagemaro's Clutch,,Pat Lee,74,Enchantment — Aura,"Enchant creature\nEnchanted creature gets -X/-X, where X is the number of cards in your hand.",SOK
+Kami of Empty Graves,,Greg Hildebrandt,75,Creature — Spirit,"Soulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)",SOK
+Kemuri-Onna,,Ittoku,76,Creature — Spirit,"When Kemuri-Onna enters the battlefield, target player discards a card.\nWhenever you cast a Spirit or Arcane spell, you may return Kemuri-Onna to its owner's hand.",SOK
+Kiku's Shadow,,Pete Venters,77,Sorcery,Target creature deals damage to itself equal to its power.,SOK
+"Kuon, Ogre Ascendant",,Hideaki Takamura,78a,Legendary Creature — Ogre Monk,"At the beginning of the end step, if three or more creatures died this turn, flip Kuon, Ogre Ascendant.",SOK
+Kuon's Essence,,Hideaki Takamura,78b,Legendary Enchantment,"At the beginning of each player's upkeep, that player sacrifices a creature.",SOK
+Kuro's Taken,,Puddnhead,79,Creature — Rat Samurai,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{1}{B}: Regenerate Kuro's Taken.",SOK
+Locust Miser,,Alan Pollack,80,Creature — Rat Shaman,Each opponent's maximum hand size is reduced by two.,SOK
+"Maga, Traitor to Mortals",,Jim Murray,81,Legendary Creature — Human Wizard,"Maga, Traitor to Mortals enters the battlefield with X +1/+1 counters on it.\nWhen Maga enters the battlefield, target player loses life equal to the number of +1/+1 counters on it.",SOK
+Measure of Wickedness,,Daren Bader,82,Enchantment,"At the beginning of your end step, sacrifice Measure of Wickedness and you lose 8 life.\nWhenever another card is put into your graveyard from anywhere, target opponent gains control of Measure of Wickedness.",SOK
+Neverending Torment,,Thomas Gianni,83,Sorcery,"Search target player's library for X cards, where X is the number of cards in your hand, and exile them. Then that player shuffles his or her library.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",SOK
+One with Nothing,,Jim Nelson,84,Instant,Discard your hand.,SOK
+Pain's Reward,,Matt Cavotta,85,Sorcery,"Each player may bid life. You start the bidding with a bid of any number. In turn order, each player may top the high bid. The bidding ends if the high bid stands. The high bidder loses life equal to the high bid and draws four cards.",SOK
+Raving Oni-Slave,,Eric Polak,86,Creature — Ogre Warrior,"When Raving Oni-Slave enters the battlefield or leaves the battlefield, you lose 3 life if you don't control a Demon.",SOK
+Razorjaw Oni,,Carl Critchlow,87,Creature — Demon Spirit,Black creatures can't block.,"SOK,CMD"
+Shinen of Fear's Chill,,Darrell Riche,88,Creature — Spirit,"Shinen of Fear's Chill can't block.\nChannel — {1}{B}, Discard Shinen of Fear's Chill: Target creature can't block this turn.",SOK
+Sink into Takenuma,,Pat Lee,89,Sorcery — Arcane,Sweep — Return any number of Swamps you control to their owner's hand. Target player discards a card for each Swamp returned this way.,SOK
+Skull Collector,,Thomas M. Baxa,90,Creature — Ogre Warrior,"At the beginning of your upkeep, return a black creature you control to its owner's hand.\n{1}{B}: Regenerate Skull Collector.",SOK
+"Adamaro, First to Desire",,Paolo Parente,91,Legendary Creature — Spirit,"Adamaro, First to Desire's power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.",SOK
+Akki Drillmaster,,Alan Pollack,92,Creature — Goblin Shaman,{T}: Target creature gains haste until end of turn.,SOK
+Akki Underling,,Franz Vohwinkel,93,Creature — Goblin Warrior,"As long as you have seven or more cards in hand, Akki Underling gets +2/+1 and has first strike.",SOK
+Barrel Down Sokenzan,,Greg Staples,94,Instant — Arcane,Sweep — Return any number of Mountains you control to their owner's hand. Barrel Down Sokenzan deals damage to target creature equal to twice the number of Mountains returned this way.,SOK
+Burning-Eye Zubera,,Anthony S. Waters,95,Creature — Zubera Spirit,"When Burning-Eye Zubera dies, if 4 or more damage was dealt to it this turn, Burning-Eye Zubera deals 3 damage to target creature or player.",SOK
+Captive Flame,,Keith Garletts,96,Enchantment,{R}: Target creature gets +1/+0 until end of turn.,"SOK,DDG"
+Feral Lightning,,Chippy,97,Sorcery,Put three 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.,SOK
+Gaze of Adamaro,,Paolo Parente,98,Instant — Arcane,Gaze of Adamaro deals damage to target player equal to the number of cards in that player's hand.,SOK
+Ghost-Lit Raider,,Ittoku,99,Creature — Spirit,"{2}{R}, {T}: Ghost-Lit Raider deals 2 damage to target creature.\nChannel — {3}{R}, Discard Ghost-Lit Raider: Ghost-Lit Raider deals 4 damage to target creature.","pREL,SOK"
+Glitterfang,,Ron Spencer,100,Creature — Spirit,"Haste\nAt the beginning of the end step, return Glitterfang to its owner's hand.",SOK
+Godo's Irregulars,,Tim Hildebrandt,101,Creature — Human Warrior,{R}: Godo's Irregulars deals 1 damage to target creature blocking it.,SOK
+Hidetsugu's Second Rite,,Jeff Miracola,102,Instant,"If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player.",SOK
+"Homura, Human Ascendant",,Kev Walker,103a,Legendary Creature — Human Monk,"Homura, Human Ascendant can't block.\nWhen Homura dies, return it to the battlefield flipped.",SOK
+Homura's Essence,,Kev Walker,103b,Legendary Enchantment,Creatures you control get +2/+2 and have flying and "{R}: This creature gets +1/+0 until end of turn.",SOK
+Iizuka the Ruthless,,Darrell Riche,104,Legendary Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)\n{2}{R}, Sacrifice a Samurai: Samurai creatures you control gain double strike until end of turn.",SOK
+Inner Fire,,Christopher Moeller,105,Sorcery,Add {R} to your mana pool for each card in your hand.,SOK
+Into the Fray,,Paolo Parente,106,Instant — Arcane,"Target creature attacks this turn if able.\nSplice onto Arcane {R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",SOK
+"Jiwari, the Earth Aflame",,Adam Rex,107,Legendary Creature — Spirit,"{X}{R}, {T}: Jiwari, the Earth Aflame deals X damage to target creature without flying.\nChannel — {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature without flying.",SOK
+Oni of Wild Places,,Mark Tedin,108,Creature — Demon Spirit,"Haste\nAt the beginning of your upkeep, return a red creature you control to its owner's hand.","SOK,CMD,DDN"
+Path of Anger's Flame,,Pat Lee,109,Instant — Arcane,Creatures you control get +2/+0 until end of turn.,SOK
+Rally the Horde,,Paolo Parente,110,Sorcery,"Exile the top card of your library. Exile the top card of your library. Exile the top card of your library. If the last card exiled isn't a land, repeat this process. Put a 1/1 red Warrior creature token onto the battlefield for each nonland card exiled this way.",SOK
+Ronin Cavekeeper,,Paolo Parente,111,Creature — Human Samurai,"Bushido 2 (Whenever this creature blocks or becomes blocked, it gets +2/+2 until end of turn.)",SOK
+Shinen of Fury's Fire,,Dan Frazier,112,Creature — Spirit,"Haste\nChannel — {R}, Discard Shinen of Fury's Fire: Target creature gains haste until end of turn.",SOK
+Skyfire Kirin,,Tsutomu Kawade,113,Legendary Creature — Kirin Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, you may gain control of target creature with that spell's converted mana cost until end of turn.",SOK
+Sokenzan Renegade,,Alan Pollack,114,Creature — Ogre Samurai Mercenary,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nAt the beginning of your upkeep, if a player has more cards in hand than each other player, the player who has the most cards in hand gains control of Sokenzan Renegade.",SOK
+Sokenzan Spellblade,,Carl Critchlow,115,Creature — Ogre Samurai Shaman,"Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{1}{R}: Sokenzan Spellblade gets +X/+0 until end of turn, where X is the number of cards in your hand.",SOK
+Spiraling Embers,,Chippy,116,Sorcery — Arcane,Spiraling Embers deals damage to target creature or player equal to the number of cards in your hand.,SOK
+Sunder from Within,,Jeff Miracola,117,Sorcery — Arcane,Destroy target artifact or land.,SOK
+Thoughts of Ruin,,John Avon,118,Sorcery,Each player sacrifices a land for each card in your hand.,SOK
+Undying Flames,,Tsutomu Kawade,119,Sorcery,"Exile cards from the top of your library until you exile a nonland card. Undying Flames deals damage to target creature or player equal to that card's converted mana cost.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability. You may choose a new target for the copy.)",SOK
+Yuki-Onna,,Hideaki Takamura,120,Creature — Spirit,"When Yuki-Onna enters the battlefield, destroy target artifact.\nWhenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner's hand.",SOK
+"Arashi, the Sky Asunder",,Kev Walker,121,Legendary Creature — Spirit,"{X}{G}, {T}: Arashi, the Sky Asunder deals X damage to target creature with flying.\nChannel — {X}{G}{G}, Discard Arashi: Arashi deals X damage to each creature with flying.",SOK
+"Ayumi, the Last Visitor",,rk post,122,Legendary Creature — Spirit,Legendary landwalk (This creature can't be blocked as long as defending player controls a legendary land.),SOK
+Bounteous Kirin,,Shishizaru,123,Legendary Creature — Kirin Spirit,"Flying\nWhenever you cast a Spirit or Arcane spell, you may gain life equal to that spell's converted mana cost.",SOK
+Briarknit Kami,,Brian Despain,124,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, put a +1/+1 counter on target creature.",SOK
+Dense Canopy,,Luca Zontini,125,Enchantment,Creatures with flying can block only creatures with flying.,SOK
+Descendant of Masumaro,,Rob Alexander,126,Creature — Human Monk,"At the beginning of your upkeep, put a +1/+1 counter on Descendant of Masumaro for each card in your hand, then remove a +1/+1 counter from Descendant of Masumaro for each card in target opponent's hand.",SOK
+Dosan's Oldest Chant,,Tim Hildebrandt,127,Sorcery,You gain 6 life.\nDraw a card.,SOK
+Elder Pine of Jukai,,Alan Pollack,128,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, reveal the top three cards of your library. Put all land cards revealed this way into your hand and the rest on the bottom of your library in any order.\nSoulshift 2 (When this creature dies, you may return target Spirit card with converted mana cost 2 or less from your graveyard to your hand.)",SOK
+Endless Swarm,,Jeremy Jarvis,129,Sorcery,"Put a 1/1 green Snake creature token onto the battlefield for each card in your hand.\nEpic (For the rest of the game, you can't cast spells. At the beginning of each of your upkeeps, copy this spell except for its epic ability.)",SOK
+Fiddlehead Kami,,Rebecca Guay,130,Creature — Spirit,"Whenever you cast a Spirit or Arcane spell, regenerate Fiddlehead Kami.",SOK
+Ghost-Lit Nourisher,,Tsutomu Kawade,131,Creature — Spirit,"{2}{G}, {T}: Target creature gets +2/+2 until end of turn.\nChannel — {3}{G}, Discard Ghost-Lit Nourisher: Target creature gets +4/+4 until end of turn.",SOK
+Haru-Onna,,Rebecca Guay,132,Creature — Spirit,"When Haru-Onna enters the battlefield, draw a card.\nWhenever you cast a Spirit or Arcane spell, you may return Haru-Onna to its owner's hand.",SOK
+"Inner Calm, Outer Strength",,Stephen Tappin,133,Instant — Arcane,"Target creature gets +X/+X until end of turn, where X is the number of cards in your hand.",SOK
+Kami of the Tended Garden,,Thomas M. Baxa,134,Creature — Spirit,"At the beginning of your upkeep, sacrifice Kami of the Tended Garden unless you pay {G}.\nSoulshift 3 (When this creature dies, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)",SOK
+Kashi-Tribe Elite,,Ben Thompson,135,Creature — Snake Warrior,"Legendary Snakes you control have shroud. (They can't be the targets of spells or abilities.)\nWhenever Kashi-Tribe Elite deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",SOK
+"Masumaro, First to Live",,Adam Rex,136,Legendary Creature — Spirit,"Masumaro, First to Live's power and toughness are each equal to twice the number of cards in your hand.",SOK
+Matsu-Tribe Birdstalker,,Heather Hudson,137,Creature — Snake Warrior Archer,"Whenever Matsu-Tribe Birdstalker deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.\n{G}: Matsu-Tribe Birdstalker gains reach until end of turn. (It can block creatures with flying.)",SOK
+Molting Skin,,Jeremy Jarvis,138,Enchantment,Return Molting Skin to its owner's hand: Regenerate target creature.,SOK
+Nightsoil Kami,,Jim Nelson,139,Creature — Spirit,"Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)",SOK
+Okina Nightwatch,,Heather Hudson,140,Creature — Human Monk,"As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.","pARL,SOK"
+Promised Kannushi,,Matt Thompson,141,Creature — Human Druid,"Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)",SOK
+"Reki, the History of Kamigawa",,"Edward P. Beard, Jr.",142,Legendary Creature — Human Shaman,"Whenever you cast a legendary spell, draw a card.",SOK
+Rending Vines,,Dan Frazier,143,Instant — Arcane,Destroy target artifact or enchantment if its converted mana cost is less than or equal to the number of cards in your hand.\nDraw a card.,SOK
+Sakura-Tribe Scout,,Darrell Riche,144,Creature — Snake Shaman Scout,{T}: You may put a land card from your hand onto the battlefield.,SOK
+"Sasaya, Orochi Ascendant",,Christopher Moeller,145a,Legendary Creature — Snake Monk,"Reveal your hand: If you have seven or more land cards in your hand, flip Sasaya, Orochi Ascendant.",SOK
+Sasaya's Essence,,Christopher Moeller,145b,Legendary Enchantment,"Whenever a land you control is tapped for mana, for each other land you control with the same name, add one mana to your mana pool of any type that land produced.",SOK
+Seed the Land,,Anthony S. Waters,146,Enchantment,"Whenever a land enters the battlefield, its controller puts a 1/1 green Snake creature token onto the battlefield.",SOK
+Seek the Horizon,,Eric Polak,147,Sorcery,"Search your library for up to three basic land cards, reveal them, and put them into your hand. Then shuffle your library.","SOK,RTR,KTK"
+"Sekki, Seasons' Guide",,Kev Walker,148,Legendary Creature — Spirit,"Sekki, Seasons' Guide enters the battlefield with eight +1/+1 counters on it.\nIf damage would be dealt to Sekki, prevent that damage, remove that many +1/+1 counters from Sekki, and put that many 1/1 colorless Spirit creature tokens onto the battlefield.
+Sacrifice eight Spirits: Return Sekki from your graveyard to the battlefield.",SOK
+Shinen of Life's Roar,,Matt Cavotta,149,Creature — Spirit,"All creatures able to block Shinen of Life's Roar do so.\nChannel — {2}{G}{G}, Discard Shinen of Life's Roar: All creatures able to block target creature this turn do so.","SOK,ARC"
+Stampeding Serow,,"Edward P. Beard, Jr.",150,Creature — Antelope Beast,"Trample\nAt the beginning of your upkeep, return a green creature you control to its owner's hand.",SOK
+Iname as One,,Stephen Tappin,151,Legendary Creature — Spirit,"When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle your library.\nWhen Iname as One dies, you may exile it. If you do, return target Spirit permanent card from your graveyard to the battlefield.",SOK
+Ashes of the Fallen,,Dan Frazier,152,Artifact,"As Ashes of the Fallen enters the battlefield, choose a creature type.\nEach creature card in your graveyard has the chosen creature type in addition to its other types.",SOK
+Blood Clock,,Keith Garletts,153,Artifact,"At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",SOK
+Ebony Owl Netsuke,,Tim Hildebrandt,154,Artifact,"At the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.",SOK
+Ivory Crane Netsuke,,Greg Hildebrandt,155,Artifact,"At the beginning of your upkeep, if you have seven or more cards in hand, you gain 4 life.",SOK
+Manriki-Gusari,,Thomas Gianni,156,Artifact — Equipment,Equipped creature gets +1/+2 and has "{T}: Destroy target Equipment."\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.),SOK
+O-Naginata,,Brian Snõddy,157,Artifact — Equipment,O-Naginata can be attached only to a creature with power 3 or greater.\nEquipped creature gets +3/+0 and has trample.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.),SOK
+Pithing Needle,,Pete Venters,158,Artifact,"As Pithing Needle enters the battlefield, name a card.\nActivated abilities of sources with the chosen name can't be activated unless they're mana abilities.","SOK,10E,M10,RTR"
+Scroll of Origins,,Dany Orizio,159,Artifact,"{2}, {T}: Draw a card if you have seven or more cards in hand.",SOK
+Soratami Cloud Chariot,,Franz Vohwinkel,160,Artifact,{2}: Target creature you control gains flying until end of turn.\n{2}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.,SOK
+Wine of Blood and Iron,,Luca Zontini,161,Artifact,"{4}: Target creature gets +X/+0 until end of turn, where X is its power. Sacrifice Wine of Blood and Iron at the beginning of the next end step.",SOK
+"Mikokoro, Center of the Sea",,John Avon,162,Legendary Land,"{T}: Add {1} to your mana pool.\n{2}, {T}: Each player draws a card.",SOK
+"Miren, the Moaning Well",,Rob Alexander,163,Legendary Land,"{T}: Add {1} to your mana pool.\n{3}, {T}, Sacrifice a creature: You gain life equal to the sacrificed creature's toughness.",SOK
+"Oboro, Palace in the Clouds",,Rob Alexander,164,Legendary Land,"{T}: Add {U} to your mana pool.\n{1}: Return Oboro, Palace in the Clouds to its owner's hand.",SOK
+Tomb of Urami,,Alex Horley-Orlandelli,165,Legendary Land,"{T}: Add {B} to your mana pool. Tomb of Urami deals 1 damage to you if you don't control an Ogre.\n{2}{B}{B}, {T}, Sacrifice all lands you control: Put a legendary 5/5 black Demon Spirit creature token with flying named Urami onto the battlefield.",SOK

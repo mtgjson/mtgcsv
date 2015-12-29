@@ -1,0 +1,370 @@
+name,cost,artist,number,type,text,printings
+Afterlife,,Brian Snõddy,1,Instant,Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.,"MIR,MMQ,CMD,VMA,C14"
+Alabaster Wall,,Randy Gallegos,2,Creature — Wall,Defender (This creature can't attack.)\n{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.,MMQ
+Armistice,,Dan Frazier,3,Enchantment,{3}{W}{W}: You draw a card and target opponent gains 3 life.,"MMQ,C14"
+Arrest,,Dan Frazier,4,Enchantment — Aura,"Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated.","pMEI,MMQ,MRD,SOM,RTR,MM2"
+Ballista Squad,,Matthew D. Wilson,5,Creature — Human Rebel,"{X}{W}, {T}: Ballista Squad deals X damage to target attacking or blocking creature.","MMQ,9ED,10E"
+Charm Peddler,,John Matson,6,Creature — Human Spellshaper,"{W}, {T}, Discard a card: The next time a source of your choice would deal damage to target creature this turn, prevent that damage.",MMQ
+Charmed Griffin,,Ray Lago,7,Creature — Griffin,"Flying\nWhen Charmed Griffin enters the battlefield, each other player may put an artifact or enchantment card onto the battlefield from his or her hand.",MMQ
+Cho-Arrim Alchemist,,Scott M. Fischer,8,Creature — Human Spellshaper,"{1}{W}{W}, {T}, Discard a card: The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.",MMQ
+Cho-Arrim Bruiser,,Paolo Parente,9,Creature — Ogre Rebel,"Whenever Cho-Arrim Bruiser attacks, you may tap up to two target creatures.",MMQ
+Cho-Arrim Legate,,rk post,10,Creature — Human Soldier,"Protection from black\nIf an opponent controls a Swamp and you control a Plains, you may cast Cho-Arrim Legate without paying its mana cost.",MMQ
+"Cho-Manno, Revolutionary",,Greg & Tim Hildebrandt,11,Legendary Creature — Human Rebel,"Prevent all damage that would be dealt to Cho-Manno, Revolutionary.","MMQ,10E"
+Cho-Manno's Blessing,,John Matson,12,Enchantment — Aura,"Flash\nEnchant creature
+As Cho-Manno's Blessing enters the battlefield, choose a color.
+Enchanted creature has protection from the chosen color. This effect doesn't remove Cho-Manno's Blessing.",MMQ
+Common Cause,,John Matson,13,Enchantment,Nonartifact creatures get +2/+2 as long as they all share a color.,MMQ
+Cornered Market,,"Edward P. Beard, Jr.",14,Enchantment,Players can't cast spells with the same name as a nontoken permanent.\nPlayers can't play nonbasic lands with the same name as a nontoken permanent.,MMQ
+Crackdown,,Rebecca Guay,15,Enchantment,Nonwhite creatures with power 3 or greater don't untap during their controllers' untap steps.,MMQ
+Crossbow Infantry,,Greg & Tim Hildebrandt,16,Creature — Human Soldier Archer,{T}: Crossbow Infantry deals 1 damage to target attacking or blocking creature.,"MMQ,7ED,8ED,9ED"
+Devout Witness,,Don Hazeltine,17,Creature — Human Spellshaper,"{1}{W}, {T}, Discard a card: Destroy target artifact or enchantment.","MMQ,VMA"
+Disenchant,,Adam Rex,18,Instant,Destroy target artifact or enchantment.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,pARL,MIR,5ED,TMP,USG,ATH,6ED,MMQ,BRB,pFNM,S00,7ED,pMPR,CST,TSB,ME2,ME3,TPR"
+Fountain Watch,,Jeff Miracola,19,Creature — Human Cleric,Artifacts and enchantments you control have shroud. (They can't be the targets of spells or abilities.),MMQ
+Fresh Volunteers,,Jeff Miracola,20,Creature — Human Rebel,,MMQ
+Honor the Fallen,,Terese Nielsen,21,Instant,Exile all creature cards from all graveyards. You gain 1 life for each card exiled this way.,MMQ
+Ignoble Soldier,,Mark Romanoski,22,Creature — Human Soldier,"Whenever Ignoble Soldier becomes blocked, prevent all combat damage that would be dealt by it this turn.",MMQ
+Inviolability,,DiTerlizzi,23,Enchantment — Aura,Enchant creature\nPrevent all damage that would be dealt to enchanted creature.,MMQ
+Ivory Mask,,Glen Angus,24,Enchantment,You have shroud. (You can't be the target of spells or abilities.),"MMQ,8ED,9ED"
+Jhovall Queen,,Michael Sutfin,25,Creature — Cat Rebel,Vigilance,MMQ
+Jhovall Rider,,Scott M. Fischer,26,Creature — Human Rebel,Trample,MMQ
+Last Breath,,DiTerlizzi,27,Instant,Exile target creature with power 2 or less. Its controller gains 4 life.,"MMQ,SHM,THS"
+Moment of Silence,,Christopher Moeller,28,Instant,Target player skips his or her next combat phase this turn.,MMQ
+Moonlit Wake,,Greg & Tim Hildebrandt,29,Enchantment,"Whenever a creature dies, you gain 1 life.",MMQ
+Muzzle,,Matt Cavotta,30,Enchantment — Aura,Enchant creature\nPrevent all damage that would be dealt by enchanted creature.,MMQ
+Nightwind Glider,,Randy Gallegos,31,Creature — Human Rebel,"Flying, protection from black",MMQ
+Noble Purpose,,Kev Walker,32,Enchantment,"Whenever a creature you control deals combat damage, you gain that much life.","MMQ,8ED"
+Orim's Cure,,Don Hazeltine,33,Instant,"If you control a Plains, you may tap an untapped creature you control rather than pay Orim's Cure's mana cost.\nPrevent the next 4 damage that would be dealt to target creature or player this turn.",MMQ
+Pious Warrior,,Jeff Miracola,34,Creature — Human Rebel Warrior,"Whenever Pious Warrior is dealt combat damage, you gain that much life.",MMQ
+Ramosian Captain,,Matthew D. Wilson,35,Creature — Human Rebel,"First strike\n{5}, {T}: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Ramosian Commander,,Scott Hampton,36,Creature — Human Rebel,"{6}, {T}: Search your library for a Rebel permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Ramosian Lieutenant,,Alan Pollack,37,Creature — Human Rebel,"{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Ramosian Rally,,Christopher Moeller,38,Instant,"If you control a Plains, you may tap an untapped creature you control rather than pay Ramosian Rally's mana cost.\nCreatures you control get +1/+1 until end of turn.",MMQ
+Ramosian Sergeant,,Don Hazeltine,39,Creature — Human Rebel,"{3}, {T}: Search your library for a Rebel permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Ramosian Sky Marshal,,Matt Cavotta,40,Creature — Human Rebel,"Flying\n{7}, {T}: Search your library for a Rebel permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Rappelling Scouts,,Nelson DeCastro,41,Creature — Human Rebel Scout,Flying\n{2}{W}: Rappelling Scouts gains protection from the color of your choice until end of turn.,MMQ
+Renounce,,Carl Critchlow,42,Instant,Sacrifice any number of permanents. You gain 2 life for each permanent sacrificed this way.,MMQ
+Revered Elder,,Donato Giancola,43,Creature — Human Cleric,{1}: Prevent the next 1 damage that would be dealt to Revered Elder this turn.,MMQ
+Reverent Mantra,,Rebecca Guay,44,Instant,You may exile a white card from your hand rather than pay Reverent Mantra's mana cost.\nChoose a color. All creatures gain protection from the chosen color until end of turn.,MMQ
+Righteous Aura,,Pete Venters,45,Enchantment,"{W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.","VIS,MMQ"
+Righteous Indignation,,Val Mayerik,46,Enchantment,"Whenever a creature blocks a black or red creature, the blocking creature gets +1/+1 until end of turn.",MMQ
+Security Detail,,Val Mayerik,47,Enchantment,{W}{W}: Put a 1/1 white Soldier creature token onto the battlefield. Activate this ability only if you control no creatures and only once each turn.,MMQ
+Soothing Balm,,Scott M. Fischer,48,Instant,Target player gains 5 life.,MMQ
+Spiritual Focus,,Andrew Goldhawk,49,Enchantment,"Whenever a spell or ability an opponent controls causes you to discard a card, you gain 2 life and you may draw a card.",MMQ
+Steadfast Guard,,Adam Rex,50,Creature — Human Rebel,Vigilance (Attacking doesn't cause this creature to tap.),"MMQ,10E"
+Story Circle,,Bradley Williams,51,Enchantment,"As Story Circle enters the battlefield, choose a color.\n{W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.","MMQ,8ED,9ED,10E"
+Task Force,,Gary Ruddell,52,Creature — Human Rebel,"Whenever Task Force becomes the target of a spell or ability, it gets +0/+3 until end of turn.",MMQ
+Thermal Glider,,Mark Zug,53,Creature — Human Rebel,"Flying, protection from red",MMQ
+Tonic Peddler,,Adam Rex,54,Creature — Human Spellshaper,"{W}, {T}, Discard a card: Target player gains 3 life.",MMQ
+Trap Runner,,Ron Spencer,55,Creature — Human Soldier,{T}: Target unblocked attacking creature becomes blocked. Activate this ability only during combat after blockers are declared. (This ability works on creatures that can't be blocked.),MMQ
+Wave of Reckoning,,Bradley Williams,56,Sorcery,Each creature deals damage to itself equal to its power.,MMQ
+Wishmonger,,Heather Hudson,57,Creature — Unicorn Monger,{2}: Target creature gains protection from the color of its controller's choice until end of turn. Any player may activate this ability.,MMQ
+Aerial Caravan,,DiTerlizzi,58,Creature — Human Soldier,"Flying\n{1}{U}{U}: Exile the top card of your library. Until end of turn, you may play that card. (Reveal the card as you exile it.)",MMQ
+Balloon Peddler,,Paolo Parente,59,Creature — Human Spellshaper,"{U}, {T}, Discard a card: Target creature gains flying until end of turn.",MMQ
+Blockade Runner,,Carl Critchlow,60,Creature — Merfolk,{U}: Blockade Runner can't be blocked this turn.,MMQ
+Brainstorm,,DiTerlizzi,61,Instant,"Draw three cards, then put two cards from your hand on top of your library in any order.","ICE,5ED,MMQ,pFNM,BTD,CST,ME2,CMD,DDJ,CNS,VMA,C15"
+Bribery,,Andrew Robinson,62,Sorcery,Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library.,"pJGP,MMQ,8ED"
+Buoyancy,,Jeff Miracola,63,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature has flying.,MMQ
+Chambered Nautilus,,John Matson,64,Creature — Nautilus Beast,"Whenever Chambered Nautilus becomes blocked, you may draw a card.",MMQ
+Chameleon Spirit,,Bradley Williams,65,Creature — Illusion Spirit,"As Chameleon Spirit enters the battlefield, choose a color.\nChameleon Spirit's power and toughness are each equal to the number of permanents of the chosen color your opponents control.",MMQ
+Charisma,,Terese Nielsen,66,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to a creature, gain control of the other creature for as long as Charisma remains on the battlefield.",MMQ
+Cloud Sprite,,Mark Zug,67,Creature — Faerie,Flying (This creature can't be blocked except by creatures with flying or reach.)\nCloud Sprite can block only creatures with flying.,"MMQ,10E,DPA"
+Coastal Piracy,,Matthew D. Wilson,68,Enchantment,"Whenever a creature you control deals combat damage to an opponent, you may draw a card.","MMQ,8ED"
+Counterspell,,Gao Yan,69,Instant,Counter target spell.,"LEA,LEB,2ED,CED,CEI,3ED,pLGM,4ED,ICE,5ED,TMP,pJGP,6ED,S99,MMQ,BRB,pFNM,S00,BTD,7ED,ME2,DD2,ME4,VMA,DD3_JVC,TPR"
+Cowardice,,Scott M. Fischer,70,Enchantment,"Whenever a creature becomes the target of a spell or ability, return that creature to its owner's hand. (It won't be affected by the spell or ability.)","MMQ,8ED,9ED"
+Customs Depot,,Scott M. Fischer,71,Enchantment,"Whenever you cast a creature spell, you may pay {1}. If you do, draw a card, then discard a card.",MMQ
+Darting Merfolk,,Sam Wood,72,Creature — Merfolk,{U}: Return Darting Merfolk to its owner's hand.,MMQ
+Dehydration,,Val Mayerik,73,Enchantment — Aura,Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature doesn't untap during its controller's untap step.,"MMQ,8ED,9ED,10E"
+Diplomatic Escort,,Rebecca Guay,74,Creature — Human Spellshaper,"{U}, {T}, Discard a card: Counter target spell or ability that targets a creature.",MMQ
+Diplomatic Immunity,,Terese Nielsen,75,Enchantment — Aura,Enchant creature\nShroud (A permanent with shroud can't be the target of spells or abilities.)
+Enchanted creature has shroud.,MMQ
+Drake Hatchling,,Bradley Williams,76,Creature — Drake,Flying\n{U}: Drake Hatchling gets +1/+0 until end of turn. Activate this ability only once each turn.,MMQ
+Embargo,,Nelson DeCastro,77,Enchantment,"Nonland permanents don't untap during their controllers' untap steps.\nAt the beginning of your upkeep, you lose 2 life.",MMQ
+Energy Flux,,Qiao Dafu,78,Enchantment,"All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."","ATQ,3ED,4ED,RQS,ITP,5ED,MMQ,ME4"
+Extravagant Spirit,,"Edward P. Beard, Jr.",79,Creature — Spirit,"Flying\nAt the beginning of your upkeep, sacrifice Extravagant Spirit unless you pay {1} for each card in your hand.",MMQ
+False Demise,,Pat Morrissey,80,Enchantment — Aura,"Enchant creature\nWhen enchanted creature dies, return that card to the battlefield under your control.","ALL,MMQ"
+Glowing Anemone,,Pete Venters,81,Creature — Jellyfish Beast,"When Glowing Anemone enters the battlefield, you may return target land to its owner's hand.",MMQ
+Gush,,Kev Walker,82,Instant,You may return two Islands you control to their owner's hand rather than pay Gush's mana cost.\nDraw two cards.,"MMQ,DD2,VMA,DD3_JVC"
+High Seas,,Massimilano Frezzato,83,Enchantment,Red creature spells and green creature spells cost {1} more to cast.,MMQ
+Hoodwink,,Arnie Swekel,84,Instant,"Return target artifact, enchantment, or land to its owner's hand.",MMQ
+Indentured Djinn,,Val Mayerik,85,Creature — Djinn,"Flying\nWhen Indentured Djinn enters the battlefield, each other player may draw up to three cards.",MMQ
+Karn's Touch,,Alan Pollack,86,Instant,Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn. (It retains its abilities.),MMQ
+Misdirection,,Paolo Parente,87,Instant,You may exile a blue card from your hand rather than pay Misdirection's mana cost.\nChange the target of target spell with a single target.,"MMQ,CNS"
+Misstep,,Kev Walker,88,Sorcery,Creatures target player controls don't untap during that player's next untap step.,MMQ
+Overtaker,,Clyde Caldwell,89,Creature — Merfolk Spellshaper,"{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.","pPRE,MMQ"
+Port Inspector,,Dan Frazier,90,Creature — Human,"Whenever Port Inspector becomes blocked, you may look at defending player's hand.",MMQ
+Rishadan Airship,,Kev Walker,91,Creature — Human Pirate,Flying\nRishadan Airship can block only creatures with flying.,MMQ
+Rishadan Brigand,,Scott Hampton,92,Creature — Human Pirate,"Flying\nWhen Rishadan Brigand enters the battlefield, each opponent sacrifices a permanent unless he or she pays {3}.
+Rishadan Brigand can block only creatures with flying.",MMQ
+Rishadan Cutpurse,,Christopher Moeller,93,Creature — Human Pirate,"When Rishadan Cutpurse enters the battlefield, each opponent sacrifices a permanent unless he or she pays {1}.",MMQ
+Rishadan Footpad,,Adam Rex,94,Creature — Human Pirate,"When Rishadan Footpad enters the battlefield, each opponent sacrifices a permanent unless he or she pays {2}.",MMQ
+Sailmonger,,Michael Sutfin,95,Creature — Human Monger,{2}: Target creature gains flying until end of turn. Any player may activate this ability.,MMQ
+Sand Squid,,Kev Walker,96,Creature — Squid Beast,Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nYou may choose not to untap Sand Squid during your untap step.
+{T}: Tap target creature. That creature doesn't untap during its controller's untap step for as long as Sand Squid remains tapped.,MMQ
+Saprazzan Bailiff,,Ron Spencer,97,Creature — Merfolk,"When Saprazzan Bailiff enters the battlefield, exile all artifact and enchantment cards from all graveyards.\nWhen Saprazzan Bailiff leaves the battlefield, return all artifact and enchantment cards from all graveyards to their owners' hands.",MMQ
+Saprazzan Breaker,,Pete Venters,98,Creature — Beast,"{U}: Put the top card of your library into your graveyard. If that card is a land card, Saprazzan Breaker can't be blocked this turn.",MMQ
+Saprazzan Heir,,Terese Nielsen,99,Creature — Merfolk,"Whenever Saprazzan Heir becomes blocked, you may draw three cards.",MMQ
+Saprazzan Legate,,Andrew Goldhawk,100,Creature — Merfolk Soldier,"Flying\nIf an opponent controls a Mountain and you control an Island, you may cast Saprazzan Legate without paying its mana cost.",MMQ
+Saprazzan Outrigger,,Doug Chaffee,101,Creature — Merfolk,"When Saprazzan Outrigger attacks or blocks, put it on top of its owner's library at end of combat.",MMQ
+Saprazzan Raider,,Jeff Miracola,102,Creature — Merfolk,"When Saprazzan Raider becomes blocked, return it to its owner's hand.",MMQ
+Shoving Match,,Dave Dorman,103,Instant,"Until end of turn, all creatures gain "{T}: Tap target creature."",MMQ
+Soothsaying,,Pat Morrissey,104,Enchantment,"{3}{U}{U}: Shuffle your library.\n{X}: Look at the top X cards of your library, then put them back in any order.",MMQ
+Squeeze,,DiTerlizzi,105,Enchantment,Sorcery spells cost {3} more to cast.,MMQ
+Statecraft,,Mike Ploog,106,Enchantment,Prevent all combat damage that would be dealt to and dealt by creatures you control.,MMQ
+Stinging Barrier,,Pat Morrissey,107,Creature — Wall,"Defender (This creature can't attack.)\n{U}, {T}: Stinging Barrier deals 1 damage to target creature or player.",MMQ
+Thwart,,Christopher Moeller,108,Instant,You may return three Islands you control to their owner's hand rather than pay Thwart's mana cost.\nCounter target spell.,MMQ
+Tidal Bore,,Frank Kelly Freas,109,Instant,You may return an Island you control to its owner's hand rather than pay Tidal Bore's mana cost.\nYou may tap or untap target creature.,MMQ
+Tidal Kraken,,Christopher Moeller,110,Creature — Kraken,Tidal Kraken can't be blocked.,"MMQ,8ED,9ED"
+Timid Drake,,"Edward P. Beard, Jr.",111,Creature — Drake,"Flying\nWhen another creature enters the battlefield, return Timid Drake to its owner's hand.","WTH,MMQ"
+Trade Routes,,Matt Cavotta,112,Enchantment,"{1}: Return target land you control to its owner's hand.\n{1}, Discard a land card: Draw a card.","MMQ,8ED,9ED"
+War Tax,,Greg & Tim Hildebrandt,113,Enchantment,"{X}{U}: This turn, creatures can't attack unless their controller pays {X} for each attacking creature he or she controls.",MMQ
+Waterfront Bouncer,,Paolo Parente,114,Creature — Merfolk Spellshaper,"{U}, {T}, Discard a card: Return target creature to its owner's hand.","MMQ,VMA"
+Alley Grifters,,Paolo Parente,115,Creature — Human Mercenary,"Whenever Alley Grifters becomes blocked, defending player discards a card.",MMQ
+Black Market,,Jeff Easley,116,Enchantment,"Whenever a creature dies, put a charge counter on Black Market.\nAt the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Black Market.","MMQ,C15"
+Bog Smugglers,,Mike Ploog,117,Creature — Human Mercenary,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),MMQ
+Bog Witch,,Gao Yan,118,Creature — Human Spellshaper,"{B}, {T}, Discard a card: Add {B}{B}{B} to your mana pool.","MMQ,ARC"
+Cackling Witch,,Brian Despain,119,Creature — Human Spellshaper,"{X}{B}, {T}, Discard a card: Target creature gets +X/+0 until end of turn.",MMQ
+Cateran Brute,,"Edward P. Beard, Jr.",120,Creature — Horror Mercenary,"{2}, {T}: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Cateran Enforcer,,Mike Ploog,121,Creature — Horror Mercenary,"Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{4}, {T}: Search your library for a Mercenary permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Cateran Kidnappers,,Carl Critchlow,122,Creature — Human Mercenary,"{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Cateran Overlord,,Michael Sutfin,123,Creature — Horror Mercenary,"Sacrifice a creature: Regenerate Cateran Overlord.\n{6}, {T}: Search your library for a Mercenary permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Cateran Persuader,,Carl Critchlow,124,Creature — Human Mercenary,"{1}, {T}: Search your library for a Mercenary permanent card with converted mana cost 1 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Cateran Slaver,,Carl Critchlow,125,Creature — Horror Mercenary,"Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{5}, {T}: Search your library for a Mercenary permanent card with converted mana cost 5 or less and put it onto the battlefield. Then shuffle your library.",MMQ
+Cateran Summons,,Alan Pollack,126,Sorcery,"Search your library for a Mercenary card, reveal that card, and put it into your hand. Then shuffle your library.",MMQ
+Conspiracy,,Jeff Easley,127,Enchantment,"As Conspiracy enters the battlefield, choose a creature type.\nCreature cards you own that aren't on the battlefield, creature spells you control, and creatures you control are the chosen type.","MMQ,TSB"
+Corrupt Official,,Greg & Tim Hildebrandt,128,Creature — Human Minion,"{2}{B}: Regenerate Corrupt Official.\nWhenever Corrupt Official becomes blocked, defending player discards a card at random.",MMQ
+Dark Ritual,,Rebecca Guay,129,Instant,Add {B}{B}{B} to your mana pool.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,MIR,ITP,5ED,TMP,pJGP,USG,MMQ,BRB,BTD,DKM,CST,DDC,HOP,DDE,ME4,V13,VMA,DD3_DVD,TPR"
+Deathgazer,,Donato Giancola,130,Creature — Lizard,"Whenever Deathgazer blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.","MMQ,8ED,9ED"
+Deepwood Ghoul,,Alan Pollack,131,Creature — Zombie,Pay 2 life: Regenerate Deepwood Ghoul.,"MMQ,8ED"
+Deepwood Legate,,Pete Venters,132,Creature — Shade,"If an opponent controls a Forest and you control a Swamp, you may cast Deepwood Legate without paying its mana cost.\n{B}: Deepwood Legate gets +1/+1 until end of turn.",MMQ
+Delraich,,Todd Lockwood,133,Creature — Horror,Trample\nYou may sacrifice three black creatures rather than pay Delraich's mana cost.,MMQ
+Enslaved Horror,,Mike Ploog,134,Creature — Horror,"When Enslaved Horror enters the battlefield, each other player may return a creature card from his or her graveyard to the battlefield.",MMQ
+Extortion,,Pete Venters,135,Sorcery,Look at target player's hand and choose up to two cards from it. That player discards those cards.,MMQ
+Forced March,,Greg & Tim Hildebrandt,136,Sorcery,Destroy all creatures with converted mana cost X or less.,MMQ
+Ghoul's Feast,,Alan Pollack,137,Instant,"Target creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.","MMQ,DDJ"
+Haunted Crossroads,,Carl Critchlow,138,Enchantment,{B}: Put target creature card from your graveyard on top of your library.,MMQ
+Highway Robber,,Kev Walker,139,Creature — Human Mercenary,"When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.","MMQ,9ED,10E,DDM"
+Instigator,,Fred Fields,140,Creature — Human Spellshaper,"{1}{B}{B}, {T}, Discard a card: Creatures target player controls attack this turn if able.",MMQ
+Insubordination,,Andrew Goldhawk,141,Enchantment — Aura,"Enchant creature\nAt the beginning of the end step of enchanted creature's controller, Insubordination deals 2 damage to that player unless that creature attacked this turn.",MMQ
+Intimidation,,Terese Nielsen,142,Enchantment,Creatures you control have fear. (They can't be blocked except by artifact creatures and/or black creatures.),MMQ
+Larceny,,Dave Dorman,143,Enchantment,"Whenever a creature you control deals combat damage to a player, that player discards a card.","MMQ,8ED"
+Liability,,Christopher Moeller,144,Enchantment,"Whenever a nontoken permanent is put into a player's graveyard from the battlefield, that player loses 1 life.",MMQ
+Maggot Therapy,,Jeff Easley,145,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets +2/-2.,MMQ
+Midnight Ritual,,Jeff Easley,146,Sorcery,"Exile X target creature cards from your graveyard. For each creature card exiled this way, put a 2/2 black Zombie creature token onto the battlefield.","MMQ,10E"
+Misshapen Fiend,,Adam Rex,147,Creature — Horror Mercenary,Flying,MMQ
+Molting Harpy,,Jeff Laubenstein,148,Creature — Harpy Mercenary,"Flying\nAt the beginning of your upkeep, sacrifice Molting Harpy unless you pay {2}.",MMQ
+Nether Spirit,,Alan Pollack,149,Creature — Spirit,"At the beginning of your upkeep, if Nether Spirit is the only creature card in your graveyard, you may return Nether Spirit to the battlefield.",MMQ
+Notorious Assassin,,Heather Hudson,150,Creature — Human Spellshaper Assassin,"{2}{B}, {T}, Discard a card: Destroy target nonblack creature. It can't be regenerated.",MMQ
+Pretender's Claim,,Greg & Tim Hildebrandt,151,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature becomes blocked, tap all lands defending player controls.",MMQ
+Primeval Shambler,,Chippy,152,Creature — Horror Mercenary,{B}: Primeval Shambler gets +1/+1 until end of turn.,"MMQ,8ED"
+Putrefaction,,DiTerlizzi,153,Enchantment,"Whenever a player casts a green or white spell, that player discards a card.",MMQ
+Quagmire Lamprey,,Glen Angus,154,Creature — Fish,"Whenever Quagmire Lamprey becomes blocked by a creature, put a -1/-1 counter on that creature.",MMQ
+Rain of Tears,,"Edward P. Beard, Jr.",155,Sorcery,Destroy target land.,"POR,TMP,MMQ,10E"
+Rampart Crawler,,Pete Venters,156,Creature — Lizard Mercenary,Rampart Crawler can't be blocked by Walls.,MMQ
+Rouse,,Dave Dorman,157,Instant,"If you control a Swamp, you may pay 2 life rather than pay Rouse's mana cost.\nTarget creature gets +2/+0 until end of turn.",MMQ
+Scandalmonger,,Matt Cavotta,158,Creature — Boar Monger,{2}: Target player discards a card. Any player may activate this ability but only any time he or she could cast a sorcery.,MMQ
+Sever Soul,,Jeff Easley,159,Sorcery,Destroy target nonblack creature. It can't be regenerated. You gain life equal to its toughness.,"MMQ,8ED"
+Silent Assassin,,rk post,160,Creature — Human Mercenary Assassin,{3}{B}: Destroy target blocking creature at end of combat.,MMQ
+Skulking Fugitive,,Scott M. Fischer,161,Creature — Horror Mercenary,"When Skulking Fugitive becomes the target of a spell or ability, sacrifice it.",MMQ
+Snuff Out,,Mike Ploog,162,Instant,"If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.\nDestroy target nonblack creature. It can't be regenerated.","MMQ,DDD,DD3_GVL"
+Soul Channeling,,DiTerlizzi,163,Enchantment — Aura,Enchant creature\nPay 2 life: Regenerate enchanted creature.,MMQ
+Specter's Wail,,Randy Gallegos,164,Sorcery,Target player discards a card at random.,MMQ
+Strongarm Thug,,Rebecca Guay,165,Creature — Human Mercenary,"When Strongarm Thug enters the battlefield, you may return target Mercenary card from your graveyard to your hand.",MMQ
+Thrashing Wumpus,,Jeff Miracola,166,Creature — Beast,{B}: Thrashing Wumpus deals 1 damage to each creature and each player.,MMQ
+Undertaker,,Jeff Easley,167,Creature — Human Spellshaper,"{B}, {T}, Discard a card: Return target creature card from your graveyard to your hand.","MMQ,TSB"
+Unmask,,rk post,168,Sorcery,You may exile a black card from your hand rather than pay Unmask's mana cost.\nTarget player reveals his or her hand. You choose a nonland card from it. That player discards that card.,MMQ
+Unnatural Hunger,,Jeff Miracola,169,Enchantment — Aura,"Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Unnatural Hunger deals damage to that player equal to that creature's power unless he or she sacrifices another creature.",MMQ
+Vendetta,,Dan Frazier,170,Instant,Destroy target nonblack creature. It can't be regenerated. You lose life equal to that creature's toughness.,"MMQ,ROE"
+Wall of Distortion,,Mark Tedin,171,Creature — Wall,"Defender (This creature can't attack.)\n{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.",MMQ
+Arms Dealer,,Luca Zontini,172,Creature — Goblin Rogue,"{1}{R}, Sacrifice a Goblin: Arms Dealer deals 4 damage to target creature.","MMQ,M13"
+Battle Rampart,,Ron Spencer,173,Creature — Wall,Defender\n{T}: Target creature gains haste until end of turn.,"MMQ,ROE"
+Battle Squadron,,Mark Tedin,174,Creature — Goblin,Flying\nBattle Squadron's power and toughness are each equal to the number of creatures you control.,MMQ
+Blaster Mage,,George Pratt,175,Creature — Human Spellshaper,"{R}, {T}, Discard a card: Destroy target Wall.",MMQ
+Blood Hound,,Bradley Williams,176,Creature — Hound,"Whenever you're dealt damage, you may put that many +1/+1 counters on Blood Hound.\nAt the beginning of your end step, remove all +1/+1 counters from Blood Hound.",MMQ
+Blood Oath,,Mike Ploog,177,Instant,"Choose a card type. Target opponent reveals his or her hand. Blood Oath deals 3 damage to that player for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",MMQ
+Brawl,,"Edward P. Beard, Jr.",178,Instant,"Until end of turn, all creatures gain "{T}: This creature deals damage equal to its power to target creature."",MMQ
+Cave Sense,,Mark Romanoski,179,Enchantment — Aura,Enchant creature\nEnchanted creature gets +1/+1 and has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.),MMQ
+Cave-In,,Mark Tedin,180,Sorcery,You may exile a red card from your hand rather than pay Cave-In's mana cost.\nCave-In deals 2 damage to each creature and each player.,MMQ
+Cavern Crawler,,Pete Venters,181,Creature — Insect,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\n{R}: Cavern Crawler gets +1/-1 until end of turn.,MMQ
+Ceremonial Guard,,Daren Bader,182,Creature — Human Soldier,"When Ceremonial Guard attacks or blocks, destroy it at end of combat.",MMQ
+Cinder Elemental,,Greg Staples,183,Creature — Elemental,"{X}{R}, {T}, Sacrifice Cinder Elemental: Cinder Elemental deals X damage to target creature or player.","MMQ,HOP,GTC"
+Close Quarters,,Ron Spencer,184,Enchantment,"Whenever a creature you control becomes blocked, Close Quarters deals 1 damage to target creature or player.",MMQ
+Crag Saurian,,Matthew D. Wilson,185,Creature — Lizard,"Whenever a source deals damage to Crag Saurian, that source's controller gains control of Crag Saurian.",MMQ
+Crash,,Doug Chaffee,186,Instant,You may sacrifice a Mountain rather than pay Crash's mana cost.\nDestroy target artifact.,MMQ
+Flailing Manticore,,Roger Raupp,187,Creature — Manticore,"Flying, first strike\n{1}: Flailing Manticore gets +1/+1 until end of turn. Any player may activate this ability.
+{1}: Flailing Manticore gets -1/-1 until end of turn. Any player may activate this ability.",MMQ
+Flailing Ogre,,Daniel R. Horne,188,Creature — Ogre,{1}: Flailing Ogre gets +1/+1 until end of turn. Any player may activate this ability.\n{1}: Flailing Ogre gets -1/-1 until end of turn. Any player may activate this ability.,MMQ
+Flailing Soldier,,Orizio Daniele,189,Creature — Human Soldier,{1}: Flailing Soldier gets +1/+1 until end of turn. Any player may activate this ability.\n{1}: Flailing Soldier gets -1/-1 until end of turn. Any player may activate this ability.,MMQ
+Flaming Sword,,Randy Gallegos,190,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets +1/+0 and has first strike.,MMQ
+Furious Assault,,Greg Staples,191,Enchantment,"Whenever you cast a creature spell, Furious Assault deals 1 damage to target player.",MMQ
+Gerrard's Irregulars,,Eric Peterson,192,Creature — Human Soldier,"Trample, haste",MMQ
+Hammer Mage,,Rebecca Guay,193,Creature — Human Spellshaper,"{X}{R}, {T}, Discard a card: Destroy all artifacts with converted mana cost X or less.",MMQ
+Hired Giant,,Ben Thompson,194,Creature — Giant,"When Hired Giant enters the battlefield, each other player may search his or her library for a land card and put that card onto the battlefield. Then each player who searched his or her library this way shuffles it.",MMQ
+Kris Mage,,Matthew D. Wilson,195,Creature — Human Spellshaper,"{R}, {T}, Discard a card: Kris Mage deals 1 damage to target creature or player.",MMQ
+Kyren Glider,,Daren Bader,196,Creature — Goblin,Flying\nKyren Glider can't block.,MMQ
+Kyren Legate,,Dave Dorman,197,Creature — Goblin,"Haste\nIf an opponent controls a Plains and you control a Mountain, you may cast Kyren Legate without paying its mana cost.",MMQ
+Kyren Negotiations,,Scott Hampton,198,Enchantment,Tap an untapped creature you control: Kyren Negotiations deals 1 damage to target player.,MMQ
+Kyren Sniper,,Carl Critchlow,199,Creature — Goblin,"At the beginning of your upkeep, you may have Kyren Sniper deal 1 damage to target player.",MMQ
+Lava Runner,,Donato Giancola,200,Creature — Lizard,"Haste\nWhenever Lava Runner becomes the target of a spell or ability, that spell or ability's controller sacrifices a land.",MMQ
+Lightning Hounds,,Andrew Robinson,201,Creature — Hound,First strike,"pMEI,MMQ"
+Lithophage,,Mike Ploog,202,Creature — Insect,"At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.","MMQ,DDI"
+Lunge,,Dan Frazier,203,Instant,Lunge deals 2 damage to target creature and 2 damage to target player.,MMQ
+Magistrate's Veto,,Brian Snõddy,204,Enchantment,White creatures and blue creatures can't block.,MMQ
+Mercadia's Downfall,,Pete Venters,205,Instant,Each attacking creature gets +1/+0 until end of turn for each nonbasic land defending player controls.,MMQ
+Ogre Taskmaster,,Orizio Daniele,206,Creature — Ogre,Ogre Taskmaster can't block.,"PO2,MMQ,7ED,8ED,9ED,ME4"
+Pulverize,,Scott M. Fischer,207,Sorcery,You may sacrifice two Mountains rather than pay Pulverize's mana cost.\nDestroy all artifacts.,MMQ
+Puppet's Verdict,,"Edward P. Beard, Jr.",208,Instant,"Flip a coin. If you win the flip, destroy all creatures with power 2 or less. If you lose the flip, destroy all creatures with power 3 or greater.",MMQ
+Robber Fly,,John Matson,209,Creature — Insect,"Flying\nWhenever Robber Fly becomes blocked, defending player discards all the cards in his or her hand, then draws that many cards.",MMQ
+Rock Badger,,Heather Hudson,210,Creature — Badger Beast,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"MMQ,10E"
+Seismic Mage,,Pete Venters,211,Creature — Human Spellshaper,"{2}{R}, {T}, Discard a card: Destroy target land.",MMQ
+Shock Troops,,Jeff Miracola,212,Creature — Human Soldier,Sacrifice Shock Troops: Shock Troops deals 2 damage to target creature or player.,"MMQ,8ED"
+Sizzle,,Brian Snõddy,213,Sorcery,Sizzle deals 3 damage to each opponent.,"MMQ,8ED"
+"Squee, Goblin Nabob",,David Monette,214,Legendary Creature — Goblin,"At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.","MMQ,10E,MMA"
+Stone Rain,,Ben Thompson,215,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED"
+Tectonic Break,,Rebecca Guay,216,Sorcery,Each player sacrifices X lands.,MMQ
+Territorial Dispute,,Mike Ploog,217,Enchantment,"At the beginning of your upkeep, sacrifice Territorial Dispute unless you sacrifice a land.\nPlayers can't play lands.",MMQ
+Thieves' Auction,,Kevin Murphy,218,Sorcery,"Exile all nontoken permanents. Starting with you, each player chooses one of the exiled cards and puts it onto the battlefield tapped under his or her control. Repeat this process until all cards exiled this way have been chosen.","MMQ,8ED"
+Thunderclap,,Tom Wänerstrand,219,Instant,You may sacrifice a Mountain rather than pay Thunderclap's mana cost.\nThunderclap deals 3 damage to target creature.,MMQ
+Tremor,,Mark Romanoski,220,Sorcery,Tremor deals 1 damage to each creature without flying.,"VIS,PO2,6ED,S99,MMQ,7ED,8ED"
+Two-Headed Dragon,,Sam Wood,221,Creature — Dragon,Flying\nMenace (This creature can't be blocked except by two or more creatures.)
+Two-Headed Dragon can block an additional creature.
+{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.,"MMQ,pSUS,8ED,DRB,ARC"
+Uphill Battle,,Pete Venters,222,Enchantment,Creatures played by your opponents enter the battlefield tapped.,MMQ
+Volcanic Wind,,Rebecca Guay,223,Sorcery,"Volcanic Wind deals X damage divided as you choose among any number of target creatures, where X is the number of creatures on the battlefield as you cast Volcanic Wind.",MMQ
+War Cadence,,John Matson,224,Enchantment,"{X}{R}: This turn, creatures can't block unless their controller pays {X} for each blocking creature he or she controls.","MMQ,C13"
+Warmonger,,Heather Hudson,225,Creature — Minotaur Monger,{2}: Warmonger deals 1 damage to each creature without flying and each player. Any player may activate this ability.,"pMEI,MMQ"
+Warpath,,Paolo Parente,226,Instant,Warpath deals 3 damage to each blocking creature and each blocked creature.,MMQ
+Wild Jhovall,,Daren Bader,227,Creature — Cat,,MMQ
+Word of Blasting,,Eric Peterson,228,Instant,Destroy target Wall. It can't be regenerated. Word of Blasting deals damage equal to that Wall's converted mana cost to the Wall's controller.,"ICE,5ED,MMQ"
+Ancestral Mask,,Massimilano Frezzato,229,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 for each other enchantment on the battlefield.,MMQ
+Bifurcate,,John Matson,230,Sorcery,Search your library for a permanent card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.,MMQ
+Boa Constrictor,,Carl Critchlow,231,Creature — Snake,{T}: Boa Constrictor gets +3/+3 until end of turn.,MMQ
+Briar Patch,,Rebecca Guay,232,Enchantment,"Whenever a creature attacks you, it gets -1/-0 until end of turn.",MMQ
+Caller of the Hunt,,Clyde Caldwell,233,Creature — Human,"As an additional cost to cast Caller of the Hunt, choose a creature type.\nCaller of the Hunt's power and toughness are each equal to the number of creatures of the chosen type on the battlefield.",MMQ
+Caustic Wasps,,Glen Angus,234,Creature — Insect,"Flying\nWhenever Caustic Wasps deals combat damage to a player, you may destroy target artifact that player controls.",MMQ
+Clear the Land,,Bradley Williams,235,Sorcery,"Each player reveals the top five cards of his or her library, puts all land cards revealed this way onto the battlefield tapped, and exiles the rest.",MMQ
+Collective Unconscious,,Andrew Goldhawk,236,Sorcery,Draw a card for each creature you control.,"MMQ,8ED,C14"
+Dawnstrider,,rk post,237,Creature — Dryad Spellshaper,"{G}, {T}, Discard a card: Prevent all combat damage that would be dealt this turn.",MMQ
+Deadly Insect,,Randy Gallegos,238,Creature — Insect,Shroud (This creature can't be the target of spells or abilities.),"ALL,MMQ,BTD,CST"
+Deepwood Drummer,,Ron Spears,239,Creature — Human Spellshaper,"{G}, {T}, Discard a card: Target creature gets +2/+2 until end of turn.",MMQ
+Deepwood Elder,,Greg & Tim Hildebrandt,240,Creature — Dryad Spellshaper,"{X}{G}{G}, {T}, Discard a card: X target lands become Forests until end of turn.",MMQ
+Deepwood Tantiv,,Joel Biske,241,Creature — Beast,"Whenever Deepwood Tantiv becomes blocked, you gain 2 life.",MMQ
+Deepwood Wolverine,,Ray Lago,242,Creature — Wolverine,"Whenever Deepwood Wolverine becomes blocked, it gets +2/+0 until end of turn.",MMQ
+Desert Twister,,Kevin Murphy,243,Sorcery,Destroy target permanent.,"ARN,3ED,4ED,5ED,MMQ,ME3,VMA,C14,C15"
+Erithizon,,Scott M. Fischer,244,Creature — Beast,"Whenever Erithizon attacks, put a +1/+1 counter on target creature of defending player's choice.",MMQ
+Ferocity,,Pete Venters,245,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature blocks or becomes blocked, you may put a +1/+1 counter on it.",MMQ
+Food Chain,,Val Mayerik,246,Enchantment,"Exile a creature you control: Add X mana of any one color to your mana pool, where X is the exiled creature's converted mana cost plus one. Spend this mana only to cast creature spells.",MMQ
+Foster,,Carl Critchlow,247,Enchantment,"Whenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.","MMQ,C13"
+Game Preserve,,Luca Zontini,248,Enchantment,"At the beginning of your upkeep, each player reveals the top card of his or her library. If all cards revealed this way are creature cards, put those cards onto the battlefield under their owners' control.",MMQ
+Giant Caterpillar,,Arnie Swekel,249,Creature — Insect,"{G}, Sacrifice Giant Caterpillar: Put a 1/1 green Insect creature token with flying named Butterfly onto the battlefield at the beginning of the next end step.","VIS,MMQ"
+Groundskeeper,,Alan Rabinowitz,250,Creature — Human Druid,{1}{G}: Return target basic land card from your graveyard to your hand.,"MMQ,9ED"
+Horned Troll,,Heather Hudson,251,Creature — Troll,{G}: Regenerate Horned Troll.,"MMQ,8ED"
+Howling Wolf,,Heather Hudson,252,Creature — Wolf,"When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.","MMQ,CNS"
+Hunted Wumpus,,Brian Snõddy,253,Creature — Beast,"When Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.","MMQ,8ED,9ED,10E"
+Invigorate,,Dan Frazier,254,Instant,"If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.\nTarget creature gets +4/+4 until end of turn.","MMQ,DDD,CMD,DD3_GVL"
+Land Grant,,D. Alexander Gregory,255,Sorcery,"If you have no land cards in hand, you may reveal your hand rather than pay Land Grant's mana cost.\nSearch your library for a Forest card, reveal that card, and put it into your hand. Then shuffle your library.",MMQ
+Ley Line,,Terese Nielsen,256,Enchantment,"At the beginning of each player's upkeep, that player may put a +1/+1 counter on target creature of his or her choice.",MMQ
+Lumbering Satyr,,Alan Pollack,257,Creature — Satyr Beast,All creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.),MMQ
+Lure,,DiTerlizzi,258,Enchantment — Aura,Enchant creature\nAll creatures able to block enchanted creature do so.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,6ED,MMQ,7ED,8ED,CHK,10E,M12"
+Megatherium,,Paolo Parente,259,Creature — Beast,"Trample\nWhen Megatherium enters the battlefield, sacrifice it unless you pay {1} for each card in your hand.",MMQ
+Natural Affinity,,Pete Venters,260,Instant,All lands become 2/2 creatures until end of turn. They're still lands.,"MMQ,8ED,9ED"
+Pangosaur,,Mark Tedin,261,Creature — Lizard,"Whenever a player plays a land, return Pangosaur to its owner's hand.",MMQ
+Revive,,Matthew D. Wilson,262,Sorcery,Return target green card from your graveyard to your hand.,"MMQ,8ED,M13"
+Rushwood Dryad,,Todd Lockwood,263,Creature — Dryad,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"MMQ,8ED,10E"
+Rushwood Elemental,,Hannibal King,264,Creature — Elemental,"Trample\nAt the beginning of your upkeep, you may put a +1/+1 counter on Rushwood Elemental.",MMQ
+Rushwood Herbalist,,Terese Nielsen,265,Creature — Human Spellshaper,"{G}, {T}, Discard a card: Regenerate target creature.",MMQ
+Rushwood Legate,,Mark Romanoski,266,Creature — Dryad,"If an opponent controls an Island and you control a Forest, you may cast Rushwood Legate without paying its mana cost.",MMQ
+Saber Ants,,Greg Staples,267,Creature — Insect,"Whenever Saber Ants is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield.",MMQ
+Sacred Prey,,Rebecca Guay,268,Creature — Horse,"Whenever Sacred Prey becomes blocked, you gain 1 life.",MMQ
+Silverglade Elemental,,Chippy,269,Creature — Elemental,"When Silverglade Elemental enters the battlefield, you may search your library for a Forest card and put that card onto the battlefield. If you do, shuffle your library.","MMQ,HOP"
+Silverglade Pathfinder,,rk post,270,Creature — Dryad Spellshaper,"{1}{G}, {T}, Discard a card: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",MMQ
+Snake Pit,,Carl Critchlow,271,Enchantment,"Whenever an opponent casts a blue or black spell, you may put a 1/1 green Snake creature token onto the battlefield.",MMQ
+Snorting Gahr,,Andrew Goldhawk,272,Creature — Rhino Beast,"Whenever Snorting Gahr becomes blocked, it gets +2/+2 until end of turn.",MMQ
+Spidersilk Armor,,Scott Hampton,273,Enchantment,Creatures you control get +0/+1 and have reach. (They can block creatures with flying.),"MMQ,DDG"
+Spontaneous Generation,,Alan Pollack,274,Sorcery,Put a 1/1 green Saproling creature token onto the battlefield for each card in your hand.,MMQ
+Squall,,Val Mayerik,275,Sorcery,Squall deals 2 damage to each creature with flying.,"S99,MMQ,7ED,ME4"
+Squallmonger,,Heather Hudson,276,Creature — Monger,{2}: Squallmonger deals 1 damage to each creature with flying and each player. Any player may activate this ability.,"MMQ,CMD"
+Stamina,,Paolo Parente,277,Enchantment — Aura,Enchant creature\nEnchanted creature has vigilance.
+Sacrifice Stamina: Regenerate enchanted creature.,MMQ
+Sustenance,,Qiao Dafu,278,Enchantment,"{1}, Sacrifice a land: Target creature gets +1/+1 until end of turn.",MMQ
+Tiger Claws,,Adam Rex,279,Enchantment — Aura,Flash\nEnchant creature
+Enchanted creature gets +1/+1 and has trample.,MMQ
+Tranquility,,Heather Hudson,280,Sorcery,Destroy all enchantments.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,TMP,6ED,MMQ,BRB,INV,7ED,TPR"
+Venomous Breath,,DiTerlizzi,281,Instant,"Choose target creature. At this turn's next end of combat, destroy all creatures that blocked or were blocked by it this turn.","ICE,MMQ"
+Venomous Dragonfly,,Tom Wänerstrand,282,Creature — Insect,"Flying\nWhenever Venomous Dragonfly blocks or becomes blocked by a creature, destroy that creature at end of combat.",MMQ
+Vernal Equinox,,Rebecca Guay,283,Enchantment,Any player may cast creature and enchantment cards as though they had flash.,MMQ
+Vine Dryad,,Jeff Laubenstein,284,Creature — Dryad,Flash\nForestwalk (This creature can't be blocked as long as defending player controls a Forest.)
+You may exile a green card from your hand rather than pay Vine Dryad's mana cost.,MMQ
+Vine Trellis,,DiTerlizzi,285,Creature — Plant Wall,Defender (This creature can't attack.)\n{T}: Add {G} to your mana pool.,"MMQ,8ED,DDD,DD3_GVL"
+Assembly Hall,,Val Mayerik,286,Artifact,"{4}, {T}: Reveal a creature card in your hand. Search your library for a card with the same name as that card, reveal it, and put it into your hand. Then shuffle your library.",MMQ
+Barbed Wire,,Ron Spencer,287,Artifact,"At the beginning of each player's upkeep, Barbed Wire deals 1 damage to that player.\n{2}: Prevent the next 1 damage that would be dealt by Barbed Wire this turn.",MMQ
+Bargaining Table,,Scott M. Fischer,288,Artifact,"{X}, {T}: Draw a card. X is the number of cards in an opponent's hand.",MMQ
+Credit Voucher,,D. Alexander Gregory,289,Artifact,"{2}, {T}, Sacrifice Credit Voucher: Shuffle any number of cards from your hand into your library, then draw that many cards.",MMQ
+Crenellated Wall,,Arnie Swekel,290,Artifact Creature — Wall,Defender (This creature can't attack.)\n{T}: Target creature gets +0/+4 until end of turn.,MMQ
+Crooked Scales,,Ron Spears,291,Artifact,"{4}, {T}: Flip a coin. If you win the flip, destroy target creature an opponent controls. If you lose the flip, destroy target creature you control unless you pay {3} and repeat this process.",MMQ
+Crumbling Sanctuary,,Randy Gallegos,292,Artifact,"If damage would be dealt to a player, that player exiles that many cards from the top of his or her library instead.",MMQ
+Distorting Lens,,Glen Angus,293,Artifact,{T}: Target permanent becomes the color of your choice until end of turn.,"MMQ,8ED"
+Eye of Ramos,,David Martin,294,Artifact,{T}: Add {U} to your mana pool.\nSacrifice Eye of Ramos: Add {U} to your mana pool.,MMQ
+General's Regalia,,David Monette,295,Artifact,"{3}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature you control instead.",MMQ
+Heart of Ramos,,David Martin,296,Artifact,{T}: Add {R} to your mana pool.\nSacrifice Heart of Ramos: Add {R} to your mana pool.,MMQ
+Henge Guardian,,Chippy,297,Artifact Creature — Dragon Wurm,{2}: Henge Guardian gains trample until end of turn.,"MMQ,DDG"
+Horn of Plenty,,Brian Despain,298,Artifact,"Whenever a player casts a spell, he or she may pay {1}. If that player does, he or she draws a card at the beginning of the next end step.",MMQ
+Horn of Ramos,,David Martin,299,Artifact,{T}: Add {G} to your mana pool.\nSacrifice Horn of Ramos: Add {G} to your mana pool.,MMQ
+Iron Lance,,Scott M. Fischer,300,Artifact,"{3}, {T}: Target creature gains first strike until end of turn.",MMQ
+Jeweled Torque,,Mark Zug,301,Artifact,"As Jeweled Torque enters the battlefield, choose a color.\nWhenever a player casts a spell of the chosen color, you may pay {2}. If you do, you gain 2 life.",MMQ
+Kyren Archive,,Roger Raupp,302,Artifact,"At the beginning of your upkeep, you may exile the top card of your library face down.\n{5}, Discard your hand, Sacrifice Kyren Archive: Put all cards exiled with Kyren Archive into their owner's hand.",MMQ
+Kyren Toy,,Arnie Swekel,303,Artifact,"{1}, {T}: Put a charge counter on Kyren Toy.\n{T}, Remove X charge counters from Kyren Toy: Add {X}{1} to your mana pool.",MMQ
+Magistrate's Scepter,,Adam Rex,304,Artifact,"{4}, {T}: Put a charge counter on Magistrate's Scepter.\n{T}, Remove three charge counters from Magistrate's Scepter: Take an extra turn after this one.",MMQ
+Mercadian Atlas,,Dan Frazier,305,Artifact,"At the beginning of your end step, if you didn't play a land this turn, you may draw a card.",MMQ
+Mercadian Lift,,Gary Ruddell,306,Artifact,"{1}, {T}: Put a winch counter on Mercadian Lift.\n{T}, Remove X winch counters from Mercadian Lift: You may put a creature card with converted mana cost X from your hand onto the battlefield.",MMQ
+Monkey Cage,,Carl Critchlow,307,Artifact,"When a creature enters the battlefield, sacrifice Monkey Cage and put X 2/2 green Ape creature tokens onto the battlefield, where X is that creature's converted mana cost.",MMQ
+Panacea,,Donato Giancola,308,Artifact,"{X}{X}, {T}: Prevent the next X damage that would be dealt to target creature or player this turn.",MMQ
+Power Matrix,,Alan Pollack,309,Artifact,"{T}: Target creature gets +1/+1 and gains flying, first strike, and trample until end of turn.",MMQ
+Puffer Extract,,Heather Hudson,310,Artifact,"{X}, {T}: Target creature you control gets +X/+X until end of turn. Destroy it at the beginning of the next end step.",MMQ
+Rishadan Pawnshop,,Joel Biske,311,Artifact,"{2}, {T}: Shuffle target nontoken permanent you control into its owner's library.",MMQ
+Skull of Ramos,,David Martin,312,Artifact,{T}: Add {B} to your mana pool.\nSacrifice Skull of Ramos: Add {B} to your mana pool.,MMQ
+Tooth of Ramos,,David Martin,313,Artifact,{T}: Add {W} to your mana pool.\nSacrifice Tooth of Ramos: Add {W} to your mana pool.,MMQ
+Toymaker,,Frank Kelly Freas,314,Artifact Creature — Spellshaper,"{1}, {T}, Discard a card: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn. (It retains its abilities.)",MMQ
+Worry Beads,,rk post,315,Artifact,"At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard.",MMQ
+Dust Bowl,,Ben Thompson,316,Land,"{T}: Add {1} to your mana pool.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land.",MMQ
+Fountain of Cho,,Scott Hampton,317,Land,"Fountain of Cho enters the battlefield tapped.\n{T}: Put a storage counter on Fountain of Cho.
+{T}, Remove any number of storage counters from Fountain of Cho: Add {W} to your mana pool for each storage counter removed this way.",MMQ
+Henge of Ramos,,"Edward P. Beard, Jr.",318,Land,"{T}: Add {1} to your mana pool.\n{2}, {T}: Add one mana of any color to your mana pool.",MMQ
+Hickory Woodlot,,Sean McConnell,319,Land,"Hickory Woodlot enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Hickory Woodlot: Add {G}{G} to your mana pool. If there are no depletion counters on Hickory Woodlot, sacrifice it.",MMQ
+High Market,,Carl Critchlow,320,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice a creature: You gain 1 life.","MMQ,V12,C15"
+Mercadian Bazaar,,Terese Nielsen,321,Land,"Mercadian Bazaar enters the battlefield tapped.\n{T}: Put a storage counter on Mercadian Bazaar.
+{T}, Remove any number of storage counters from Mercadian Bazaar: Add {R} to your mana pool for each storage counter removed this way.",MMQ
+Peat Bog,,Val Mayerik,322,Land,"Peat Bog enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Peat Bog: Add {B}{B} to your mana pool. If there are no depletion counters on Peat Bog, sacrifice it.",MMQ
+Remote Farm,,Rob Alexander,323,Land,"Remote Farm enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Remote Farm: Add {W}{W} to your mana pool. If there are no depletion counters on Remote Farm, sacrifice it.",MMQ
+Rishadan Port,,Jerry Tiritilli,324,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Tap target land.",MMQ
+Rushwood Grove,,George Pratt,325,Land,"Rushwood Grove enters the battlefield tapped.\n{T}: Put a storage counter on Rushwood Grove.
+{T}, Remove any number of storage counters from Rushwood Grove: Add {G} to your mana pool for each storage counter removed this way.",MMQ
+Sandstone Needle,,Alan Rabinowitz,326,Land,"Sandstone Needle enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Sandstone Needle: Add {R}{R} to your mana pool. If there are no depletion counters on Sandstone Needle, sacrifice it.",MMQ
+Saprazzan Cove,,Rebecca Guay,327,Land,"Saprazzan Cove enters the battlefield tapped.\n{T}: Put a storage counter on Saprazzan Cove.
+{T}, Remove any number of storage counters from Saprazzan Cove: Add {U} to your mana pool for each storage counter removed this way.",MMQ
+Saprazzan Skerry,,Pat Morrissey,328,Land,"Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U} to your mana pool. If there are no depletion counters on Saprazzan Skerry, sacrifice it.",MMQ
+Subterranean Hangar,,Matt Cavotta,329,Land,"Subterranean Hangar enters the battlefield tapped.\n{T}: Put a storage counter on Subterranean Hangar.
+{T}, Remove any number of storage counters from Subterranean Hangar: Add {B} to your mana pool for each storage counter removed this way.",MMQ
+Tower of the Magistrate,,Thomas Gianni,330,Land,"{T}: Add {1} to your mana pool.\n{1}, {T}: Target creature gains protection from artifacts until end of turn.",MMQ
+Plains,,Terry Springer,331,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Scott Bailey,332,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,Dana Knutson,333,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Plains,,"Edward P. Beard, Jr.",334,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Island,,Terry Springer,335,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Scott Bailey,336,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Scott Bailey,337,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Island,,Tony Szczudlo,338,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
+Swamp,,Jeff Easley,339,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Rob Alexander,340,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Rob Alexander,341,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Swamp,,Terry Springer,342,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Terry Springer,343,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Scott Bailey,344,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Dana Knutson,345,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Mountain,,Rob Alexander,346,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Donato Giancola,347,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,348,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Rob Alexander,349,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
+Forest,,Terry Springer,350,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"

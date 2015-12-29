@@ -1,0 +1,170 @@
+name,cost,artist,number,type,text,printings
+Angelfire Crusader,,"Edward P. Beard, Jr.",1,Creature — Human Soldier Knight,{R}: Angelfire Crusader gets +1/+0 until end of turn.,APC
+Coalition Flag,,Darrell Riche,2,Enchantment — Aura,"Enchant creature you control\nEnchanted creature is a Flagbearer.
+While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.",APC
+Coalition Honor Guard,,Eric Peterson,3,Creature — Human Flagbearer,"While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.",APC
+Dega Disciple,,Alan Pollack,4,Creature — Human Wizard,"{B}, {T}: Target creature gets -2/-0 until end of turn.\n{R}, {T}: Target creature gets +2/+0 until end of turn.",APC
+Dega Sanctuary,,Ben Thompson,5,Enchantment,"At the beginning of your upkeep, if you control a black or red permanent, you gain 2 life. If you control a black permanent and a red permanent, you gain 4 life instead.",APC
+Degavolver,,Ron Spencer,6,Creature — Volver,"Kicker {1}{B} and/or {R} (You may pay an additional {1}{B} and/or {R} as you cast this spell.)\nIf Degavolver was kicked with its {1}{B} kicker, it enters the battlefield with two +1/+1 counters on it and with "Pay 3 life: Regenerate Degavolver."
+If Degavolver was kicked with its {R} kicker, it enters the battlefield with a +1/+1 counter on it and with first strike.",APC
+Diversionary Tactics,,Jerry Tiritilli,7,Enchantment,Tap two untapped creatures you control: Tap target creature.,APC
+Divine Light,,Christopher Moeller,8,Sorcery,Prevent all damage that would be dealt this turn to creatures you control.,APC
+Enlistment Officer,,Wayne England,9,Creature — Human Soldier,"First strike\nWhen Enlistment Officer enters the battlefield, reveal the top four cards of your library. Put all Soldier cards revealed this way into your hand and the rest on the bottom of your library in any order.",APC
+False Dawn,,Dave Dorman,10,Sorcery,"Until end of turn, spells and abilities you control that would add colored mana to your mana pool add that much white mana instead. Until end of turn, you may spend white mana as though it were mana of any color.\nDraw a card.",APC
+Gerrard Capashen,,Brom,11,Legendary Creature — Human Soldier,"At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.\n{3}{W}: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.","APC,DDE"
+Haunted Angel,,Arnie Swekel,12,Creature — Angel,"Flying\nWhen Haunted Angel dies, exile Haunted Angel and each other player puts a 3/3 black Angel creature token with flying onto the battlefield.",APC
+Helionaut,,Franz Vohwinkel,13,Creature — Human Soldier,"Flying\n{1}, {T}: Add one mana of any color to your mana pool.",APC
+Manacles of Decay,,Gary Ruddell,14,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack.
+{B}: Enchanted creature gets -1/-1 until end of turn.
+{R}: Enchanted creature can't block this turn.,APC
+Orim's Thunder,,Carl Critchlow,15,Instant,"Kicker {R} (You may pay an additional {R} as you cast this spell.)\nDestroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.","APC,HOP,CMD,C15"
+Shield of Duty and Reason,,Anthony S. Waters,16,Enchantment — Aura,Enchant creature\nEnchanted creature has protection from green and from blue.,APC
+Spectral Lynx,,Heather Hudson,17,Creature — Cat Spirit,Protection from green\n{B}: Regenerate Spectral Lynx.,APC
+Standard Bearer,,Ron Spencer,18,Creature — Human Flagbearer,"While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.",APC
+Ceta Disciple,,Greg & Tim Hildebrandt,19,Creature — Merfolk Wizard,"{R}, {T}: Target creature gets +2/+0 until end of turn.\n{G}, {T}: Add one mana of any color to your mana pool.",APC
+Ceta Sanctuary,,Franz Vohwinkel,20,Enchantment,"At the beginning of your upkeep, if you control a red or green permanent, draw a card, then discard a card. If you control a red permanent and a green permanent, instead draw two cards, then discard a card.",APC
+Cetavolver,,Gary Ruddell,21,Creature — Volver,"Kicker {1}{R} and/or {G} (You may pay an additional {1}{R} and/or {G} as you cast this spell.)\nIf Cetavolver was kicked with its {1}{R} kicker, it enters the battlefield with two +1/+1 counters on it and with first strike.
+If Cetavolver was kicked with its {G} kicker, it enters the battlefield with a +1/+1 counter on it and with trample.",APC
+Coastal Drake,,John Gallagher,22,Creature — Drake,"Flying\n{1}{U}, {T}: Return target Kavu to its owner's hand.",APC
+Evasive Action,,Brian Snõddy,23,Instant,Domain — Counter target spell unless its controller pays {1} for each basic land type among lands you control.,"APC,DDE"
+Ice Cave,,Jerry Tiritilli,24,Enchantment,"Whenever a player casts a spell, any other player may pay that spell's mana cost. If a player does, counter the spell. (Mana cost includes color.)",APC
+Index,,Kev Walker,25,Sorcery,"Look at the top five cards of your library, then put them back in any order.","APC,8ED,9ED,M13"
+Jaded Response,,Matt Cavotta,26,Instant,Counter target spell if it shares a color with a creature you control.,APC
+Jilt,,Terese Nielsen,27,Instant,"Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)\nReturn target creature to its owner's hand. If Jilt was kicked, it deals 2 damage to another target creature.",APC
+Living Airship,,Mark Tedin,28,Creature — Metathran,Flying\n{2}{G}: Regenerate Living Airship.,APC
+Reef Shaman,,Scott M. Fischer,29,Creature — Merfolk Shaman,{T}: Target land becomes the basic land type of your choice until end of turn.,APC
+Shimmering Mirage,,Rebecca Guay,30,Instant,Target land becomes the basic land type of your choice until end of turn.\nDraw a card.,APC
+Tidal Courier,,Wayne England,31,Creature — Merfolk,"When Tidal Courier enters the battlefield, reveal the top four cards of your library. Put all Merfolk cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{3}{U}: Tidal Courier gains flying until end of turn.",APC
+Unnatural Selection,,Kev Walker,32,Enchantment,{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.,APC
+Vodalian Mystic,,Bob Petillo,33,Creature — Merfolk Wizard,{T}: Target instant or sorcery spell becomes the color of your choice.,APC
+Whirlpool Drake,,Alan Pollack,34,Creature — Drake,"Flying\nWhen Whirlpool Drake enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.
+When Whirlpool Drake dies, shuffle the cards from your hand into your library, then draw that many cards.",APC
+Whirlpool Rider,,Ray Lago,35,Creature — Merfolk,"When Whirlpool Rider enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.",APC
+Whirlpool Warrior,,Kev Walker,36,Creature — Merfolk Warrior,"When Whirlpool Warrior enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.\n{R}, Sacrifice Whirlpool Warrior: Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.","APC,PC2"
+Dead Ringers,,Greg Staples,37,Sorcery,Destroy two target nonblack creatures unless either one is a color the other isn't. They can't be regenerated.,APC
+Desolation Angel,,Brom,38,Creature — Angel,"Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)\nFlying
+When Desolation Angel enters the battlefield, destroy all lands you control. If it was kicked, destroy all lands instead.",APC
+Foul Presence,,Ray Lago,39,Enchantment — Aura,Enchant creature\nEnchanted creature gets -1/-1 and has "{T}: Target creature gets -1/-1 until end of turn.",APC
+Grave Defiler,,Tony Szczudlo,40,Creature — Zombie,"When Grave Defiler enters the battlefield, reveal the top four cards of your library. Put all Zombie cards revealed this way into your hand and the rest on the bottom of your library in any order.\n{1}{B}: Regenerate Grave Defiler.",APC
+Last Caress,,Eric Peterson,41,Sorcery,Target player loses 1 life and you gain 1 life.\nDraw a card.,APC
+Mind Extraction,,Adam Rex,42,Sorcery,"As an additional cost to cast Mind Extraction, sacrifice a creature.\nTarget player reveals his or her hand and discards all cards of each of the sacrificed creature's colors.",APC
+Mournful Zombie,,John Matson,43,Creature — Zombie,"{W}, {T}: Target player gains 1 life.",APC
+Necra Disciple,,Jeff Miracola,44,Creature — Human Wizard,"{G}, {T}: Add one mana of any color to your mana pool.\n{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.",APC
+Necra Sanctuary,,Eric Peterson,45,Enchantment,"At the beginning of your upkeep, if you control a green or white permanent, target player loses 1 life. If you control a green permanent and a white permanent, that player loses 3 life instead.",APC
+Necravolver,,Dave Dorman,46,Creature — Volver,"Kicker {1}{G} and/or {W} (You may pay an additional {1}{G} and/or {W} as you cast this spell.)\nIf Necravolver was kicked with its {1}{G} kicker, it enters the battlefield with two +1/+1 counters on it and with trample.
+If Necravolver was kicked with its {W} kicker, it enters the battlefield with a +1/+1 counter on it and with "Whenever Necravolver deals damage, you gain that much life."",APC
+Phyrexian Arena,,Pete Venters,47,Enchantment,"At the beginning of your upkeep, you draw a card and you lose 1 life.","APC,8ED,9ED,HOP,DDE,C15"
+Phyrexian Gargantua,,Carl Critchlow,48,Creature — Horror,"When Phyrexian Gargantua enters the battlefield, you draw two cards and you lose 2 life.","APC,9ED,DDE,C13,C14"
+Phyrexian Rager,,Mark Tedin,49,Creature — Horror,"When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.","pMEI,APC,10E,DDD,MBS,DD3_GVL,C15"
+Planar Despair,,Mike Sass,50,Sorcery,Domain — All creatures get -1/-1 until end of turn for each basic land type among lands you control.,APC
+Quagmire Druid,,Dana Knutson,51,Creature — Zombie Druid,"{G}, {T}, Sacrifice a creature: Destroy target enchantment.","APC,C13"
+Suppress,,Terese Nielsen & Thomas M. Baxa,52,Sorcery,"Target player exiles all cards from his or her hand face down. At the beginning of the end step of that player's next turn, that player returns those cards to his or her hand.",APC
+Urborg Uprising,,Adam Rex,53,Sorcery,Return up to two target creature cards from your graveyard to your hand.\nDraw a card.,"APC,VMA"
+Zombie Boa,,Greg Staples,54,Creature — Zombie Snake,"{1}{B}: Choose a color. Whenever Zombie Boa becomes blocked by a creature of that color this turn, destroy that creature. Activate this ability only any time you could cast a sorcery.",APC
+Bloodfire Colossus,,Greg Staples,55,Creature — Giant,"{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.","APC,9ED,10E,DDI"
+Bloodfire Dwarf,,Ron Spencer,56,Creature — Dwarf,"{R}, Sacrifice Bloodfire Dwarf: Bloodfire Dwarf deals 1 damage to each creature without flying.",APC
+Bloodfire Infusion,,Anthony S. Waters,57,Enchantment — Aura,"Enchant creature you control\n{R}, Sacrifice enchanted creature: Bloodfire Infusion deals damage equal to the sacrificed creature's power to each creature.",APC
+Bloodfire Kavu,,Greg Staples,58,Creature — Kavu,"{R}, Sacrifice Bloodfire Kavu: Bloodfire Kavu deals 2 damage to each creature.","APC,DDI"
+Desolation Giant,,Alan Pollack,59,Creature — Giant,"Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)\nWhen Desolation Giant enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead.","APC,TSB,C15"
+Dwarven Landslide,,Tony Szczudlo,60,Sorcery,"Kicker—{2}{R}, Sacrifice a land. (You may pay {2}{R} and sacrifice a land in addition to any other costs as you cast this spell.)\nDestroy target land. If Dwarven Landslide was kicked, destroy another target land.",APC
+Dwarven Patrol,,Greg & Tim Hildebrandt,61,Creature — Dwarf,"Dwarven Patrol doesn't untap during your untap step.\nWhenever you cast a nonred spell, untap Dwarven Patrol.",APC
+Goblin Ringleader,,Mark Romanoski,62,Creature — Goblin,"Haste\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.","pFNM,APC,EVG,VMA,DD3_EVG"
+Illuminate,,Christopher Moeller,63,Sorcery,"Kicker {2}{R} and/or {3}{U} (You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.)\nIlluminate deals X damage to target creature. If Illuminate was kicked with its {2}{R} kicker, it deals X damage to that creature's controller. If Illuminate was kicked with its {3}{U} kicker, you draw X cards.",APC
+Kavu Glider,,Heather Hudson,64,Creature — Kavu,{W}: Kavu Glider gets +0/+1 until end of turn.\n{U}: Kavu Glider gains flying until end of turn.,APC
+Minotaur Tactician,,Carl Critchlow,65,Creature — Minotaur,Haste\nMinotaur Tactician gets +1/+1 as long as you control a white creature.
+Minotaur Tactician gets +1/+1 as long as you control a blue creature.,APC
+Raka Disciple,,Arnie Swekel,66,Creature — Minotaur Wizard,"{W}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.\n{U}, {T}: Target creature gains flying until end of turn.",APC
+Raka Sanctuary,,David Martin,67,Enchantment,"At the beginning of your upkeep, if you control a white or blue permanent, Raka Sanctuary deals 1 damage to target creature. If you control a white permanent and a blue permanent, Raka Sanctuary deals 3 damage to that creature instead.",APC
+Rakavolver,,Scott M. Fischer,68,Creature — Volver,"Kicker {1}{W} and/or {U} (You may pay an additional {1}{W} and/or {U} as you cast this spell.)\nIf Rakavolver was kicked with its {1}{W} kicker, it enters the battlefield with two +1/+1 counters on it and with "Whenever Rakavolver deals damage, you gain that much life."
+If Rakavolver was kicked with its {U} kicker, it enters the battlefield with a +1/+1 counter on it and with flying.",APC
+Smash,,Pete Venters,69,Instant,Destroy target artifact.\nDraw a card.,"APC,RAV,10E"
+Tahngarth's Glare,,Pete Venters,70,Sorcery,"Look at the top three cards of target opponent's library, then put them back in any order. That player looks at the top three cards of your library, then puts them back in any order.",APC
+Tundra Kavu,,Matt Cavotta,71,Creature — Kavu,{T}: Target land becomes a Plains or an Island until end of turn.,APC
+Wild Research,,Gary Ruddell,72,Enchantment,"{1}{W}: Search your library for an enchantment card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.\n{1}{U}: Search your library for an instant card and reveal that card. Put it into your hand, then discard a card at random. Then shuffle your library.",APC
+Ana Disciple,,Darrell Riche,73,Creature — Human Wizard,"{U}, {T}: Target creature gains flying until end of turn.\n{B}, {T}: Target creature gets -2/-0 until end of turn.",APC
+Ana Sanctuary,,Rob Alexander,74,Enchantment,"At the beginning of your upkeep, if you control a blue or black permanent, target creature gets +1/+1 until end of turn. If you control a blue permanent and a black permanent, that creature gets +5/+5 until end of turn instead.",APC
+Anavolver,,Matt Cavotta,75,Creature — Volver,"Kicker {1}{U} and/or {B} (You may pay an additional {1}{U} and/or {B} as you cast this spell.)\nIf Anavolver was kicked with its {1}{U} kicker, it enters the battlefield with two +1/+1 counters on it and with flying.
+If Anavolver was kicked with its {B} kicker, it enters the battlefield with a +1/+1 counter on it and with "Pay 3 life: Regenerate Anavolver."",APC
+Bog Gnarr,,Daren Bader,76,Creature — Beast,"Whenever a player casts a black spell, Bog Gnarr gets +2/+2 until end of turn.",APC
+Gaea's Balance,,Rebecca Guay,77,Sorcery,"As an additional cost to cast Gaea's Balance, sacrifice five lands.\nSearch your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library.",APC
+Glade Gnarr,,Daren Bader,78,Creature — Beast,"Whenever a player casts a blue spell, Glade Gnarr gets +2/+2 until end of turn.",APC
+Kavu Howler,,Wayne England,79,Creature — Kavu,"When Kavu Howler enters the battlefield, reveal the top four cards of your library. Put all Kavu cards revealed this way into your hand and the rest on the bottom of your library in any order.",APC
+Kavu Mauler,,Daren Bader,80,Creature — Kavu,"Trample\nWhenever Kavu Mauler attacks, it gets +1/+1 until end of turn for each other attacking Kavu.",APC
+Lay of the Land,,Mark Zug,81,Sorcery,"Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.","APC,M14"
+Penumbra Bobcat,,Heather Hudson,82,Creature — Cat,"When Penumbra Bobcat dies, put a 2/1 black Cat creature token onto the battlefield.",APC
+Penumbra Kavu,,Tony Szczudlo,83,Creature — Kavu,"When Penumbra Kavu dies, put a 3/3 black Kavu creature token onto the battlefield.",APC
+Penumbra Wurm,,Jeff Easley,84,Creature — Wurm,"Trample\nWhen Penumbra Wurm dies, put a 6/6 black Wurm creature token with trample onto the battlefield.","APC,VMA"
+Savage Gorilla,,Dave Dorman,85,Creature — Ape,"{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.",APC
+Strength of Night,,John Avon,86,Instant,"Kicker {B} (You may pay an additional {B} as you cast this spell.)\nCreatures you control get +1/+1 until end of turn. If Strength of Night was kicked, Zombie creatures you control get an additional +2/+2 until end of turn.",APC
+Sylvan Messenger,,Heather Hudson,87,Creature — Elf,"Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nWhen Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.","APC,EVG,DD3_EVG,ORI"
+Symbiotic Deployment,,Kev Walker,88,Enchantment,"Skip your draw step.\n{1}, Tap two untapped creatures you control: Draw a card.",APC
+Tranquil Path,,John Avon,89,Sorcery,Destroy all enchantments.\nDraw a card.,APC
+Urborg Elf,,Bob Petillo,90,Creature — Elf Druid,"{T}: Add {G}, {U}, or {B} to your mana pool.",APC
+Æther Mutation,,Ron Spencer,91,Sorcery,"Return target creature to its owner's hand. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.","APC,VMA"
+Captain's Maneuver,,Ben Thompson,92,Instant,The next X damage that would be dealt to target creature or player this turn is dealt to another target creature or player instead.,"APC,HOP"
+Consume Strength,,Adam Rex,93,Instant,Target creature gets +2/+2 until end of turn. Another target creature gets -2/-2 until end of turn.,"APC,DDM"
+Cromat,,Donato Giancola,94,Legendary Creature — Illusion,{W}{B}: Destroy target creature blocking or blocked by Cromat.\n{U}{R}: Cromat gains flying until end of turn.
+{B}{G}: Regenerate Cromat.
+{R}{W}: Cromat gets +1/+1 until end of turn.
+{G}{U}: Put Cromat on top of its owner's library.,APC
+Death Grasp,,Eric Peterson,95,Sorcery,Death Grasp deals X damage to target creature or player. You gain X life.,"APC,DDK,C13,VMA,C15"
+Death Mutation,,Carl Critchlow,96,Sorcery,"Destroy target nonblack creature. It can't be regenerated. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.","APC,CMD"
+Ebony Treefolk,,Matt Cavotta,97,Creature — Treefolk,{B}{G}: Ebony Treefolk gets +1/+1 until end of turn.,APC
+Fervent Charge,,Mark Tedin,98,Enchantment,"Whenever a creature you control attacks, it gets +2/+2 until end of turn.",APC
+Flowstone Charger,,John Gallagher,99,Creature — Beast,"Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.",APC
+Fungal Shambler,,Jim Nelson,100,Creature — Fungus Beast,"Trample\nWhenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.","pPRE,APC"
+Gaea's Skyfolk,,Terese Nielsen,101,Creature — Elf Merfolk,Flying,APC
+Gerrard's Verdict,,Carl Critchlow,102,Sorcery,Target player discards two cards. You gain 3 life for each land card discarded this way.,"pFNM,APC"
+Goblin Legionnaire,,Mark Romanoski,103,Creature — Goblin Soldier,"{R}, Sacrifice Goblin Legionnaire: Goblin Legionnaire deals 2 damage to target creature or player.\n{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to target creature or player this turn.","pFNM,APC"
+Goblin Trenches,,Wayne England,104,Enchantment,"{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.","APC,VMA"
+Guided Passage,,Alex Horley-Orlandelli,105,Sorcery,"Reveal the cards in your library. An opponent chooses from among them a creature card, a land card, and a noncreature, nonland card. You put the chosen cards into your hand. Then shuffle your library.",APC
+Jungle Barrier,,"Edward P. Beard, Jr.",106,Creature — Plant Wall,"Defender (This creature can't attack.)\nWhen Jungle Barrier enters the battlefield, draw a card.",APC
+Last Stand,,Ron Spencer,107,Sorcery,"Target opponent loses 2 life for each Swamp you control. Last Stand deals damage equal to the number of Mountains you control to target creature. Put a 1/1 green Saproling creature token onto the battlefield for each Forest you control. You gain 2 life for each Plains you control. Draw a card for each Island you control, then discard that many cards.","APC,PC2"
+Lightning Angel,,rk post,108,Creature — Angel,"Flying, vigilance, haste","APC,TSB,DDN,V15"
+Llanowar Dead,,Ben Thompson,109,Creature — Zombie Elf,{T}: Add {B} to your mana pool.,APC
+Martyrs' Tomb,,Anthony S. Waters,110,Enchantment,Pay 2 life: Prevent the next 1 damage that would be dealt to target creature this turn.,APC
+Minotaur Illusionist,,Mark Zug,111,Creature — Minotaur Wizard,"{1}{U}: Minotaur Illusionist gains shroud until end of turn. (It can't be the target of spells or abilities.)\n{R}, Sacrifice Minotaur Illusionist: Minotaur Illusionist deals damage equal to its power to target creature.",APC
+Mystic Snake,,Daren Bader,112,Creature — Snake,"Flash\nWhen Mystic Snake enters the battlefield, counter target spell.","APC,TSB,MM2,C15"
+Overgrown Estate,,Brian Snõddy,113,Enchantment,Sacrifice a land: You gain 3 life.,APC
+Pernicious Deed,,Christopher Moeller,114,Enchantment,"{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.","pJGP,APC,CNS"
+Powerstone Minefield,,Greg & Tim Hildebrandt,115,Enchantment,"Whenever a creature attacks or blocks, Powerstone Minefield deals 2 damage to it.",APC
+Prophetic Bolt,,Dave Dorman,116,Instant,Prophetic Bolt deals 4 damage to target creature or player. Look at the top four cards of your library. Put one of those cards into your hand and the rest on the bottom of your library in any order.,"APC,CMD,DDJ,VMA,C15"
+Putrid Warrior,,Ray Lago,117,Creature — Zombie Soldier Warrior,"Whenever Putrid Warrior deals damage, choose one —\n• Each player loses 1 life.
+• Each player gains 1 life.",APC
+Quicksilver Dagger,,Alex Horley-Orlandelli,118,Enchantment — Aura,Enchant creature\nEnchanted creature has "{T}: This creature deals 1 damage to target player. You draw a card.","APC,DDJ"
+Razorfin Hunter,,Jeff Easley,119,Creature — Merfolk Goblin,{T}: Razorfin Hunter deals 1 damage to target creature or player.,APC
+Soul Link,,Jeff Easley,120,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage, you gain that much life.
+Whenever enchanted creature is dealt damage, you gain that much life.",APC
+Spiritmonger,,Glen Angus,121,Creature — Beast,"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.\n{B}: Regenerate Spiritmonger.
+{G}: Spiritmonger becomes the color of your choice until end of turn.","APC,pGPX,CNS,VMA"
+Squee's Embrace,,Rebecca Guay,122,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+2.
+When enchanted creature dies, return that card to its owner's hand.",APC
+Squee's Revenge,,Kev Walker,123,Sorcery,"Choose a number. Flip a coin that many times or until you lose a flip, whichever comes first. If you win all the flips, draw two cards for each flip.",APC
+Suffocating Blast,,Christopher Moeller,124,Instant,Counter target spell and Suffocating Blast deals 3 damage to target creature.,APC
+Temporal Spring,,John Matson,125,Sorcery,Put target permanent on top of its owner's library.,APC
+Vindicate,,Brian Snõddy,126,Sorcery,Destroy target permanent.,"pJGP,APC"
+Yavimaya's Embrace,,Eric Peterson,127,Enchantment — Aura,Enchant creature\nYou control enchanted creature.
+Enchanted creature gets +2/+2 and has trample.,APC
+Fire,,Franz Vohwinkel,128a,Instant,Fire deals 2 damage divided as you choose among one or two target creatures and/or players.,"pFNM,APC,CMD,DDJ"
+Ice,,Franz Vohwinkel,128b,Instant,Tap target permanent.\nDraw a card.,"pFNM,APC,CMD,DDJ"
+Illusion,,David Martin,129a,Instant,Target spell or permanent becomes the color of your choice until end of turn.,APC
+Reality,,David Martin,129b,Instant,Destroy target artifact.,APC
+Life,,"Edward P. Beard, Jr.",130a,Sorcery,All lands you control become 1/1 creatures until end of turn. They're still lands.,"pFNM,APC,DDJ"
+Death,,"Edward P. Beard, Jr.",130b,Sorcery,Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.,"pFNM,APC,DDJ"
+Night,,Christopher Moeller,131a,Instant,Target creature gets -1/-1 until end of turn.,APC
+Day,,Christopher Moeller,131b,Instant,Creatures target player controls get +1/+1 until end of turn.,APC
+Order,,Greg & Tim Hildebrandt,132a,Instant,Exile target attacking creature.,"APC,HOP"
+Chaos,,Greg & Tim Hildebrandt,132b,Instant,Creatures can't block this turn.,"APC,HOP"
+Brass Herald,,Daren Bader,133,Artifact Creature — Golem,"As Brass Herald enters the battlefield, choose a creature type.\nWhen Brass Herald enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
+Creatures of the chosen type get +1/+1.","APC,8ED"
+Dodecapod,,John Howe,134,Artifact Creature — Golem,"If a spell or ability an opponent controls causes you to discard Dodecapod, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.","APC,TSB"
+Dragon Arch,,Dana Knutson,135,Artifact,"{2}, {T}: You may put a multicolored creature card from your hand onto the battlefield.",APC
+Emblazoned Golem,,Greg Staples,136,Artifact Creature — Golem,"Kicker {X} (You may pay an additional {X} as you cast this spell.)\nSpend only colored mana on X. No more than one mana of each color may be spent this way.
+If Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.",APC
+Legacy Weapon,,John Avon,137,Legendary Artifact,"{W}{U}{B}{R}{G}: Exile target permanent.\nIf Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.","APC,10E"
+Mask of Intolerance,,Glen Angus,138,Artifact,"At the beginning of each player's upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.",APC
+Battlefield Forge,,Darrell Riche,139,Land,{T}: Add {1} to your mana pool.\n{T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.,"APC,9ED,10E,M15,ORI"
+Caves of Koilos,,Jim Nelson,140,Land,{T}: Add {1} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.,"APC,9ED,10E,MD1,M15,ORI"
+Llanowar Wastes,,Rob Alexander,141,Land,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.,"APC,9ED,10E,M15,ORI"
+Shivan Reef,,Rob Alexander,142,Land,{T}: Add {1} to your mana pool.\n{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.,"APC,9ED,10E,M15,ORI"
+Yavimaya Coast,,Anthony S. Waters,143,Land,{T}: Add {1} to your mana pool.\n{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.,"APC,9ED,10E,M15,ORI"

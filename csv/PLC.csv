@@ -1,0 +1,221 @@
+name,cost,artist,number,type,text,printings
+Aven Riftwatcher,,Don Hazeltine,1,Creature — Bird Rebel Soldier,"Flying\nVanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Aven Riftwatcher enters the battlefield or leaves the battlefield, you gain 2 life.",PLC
+Benalish Commander,,Paolo Parente,2,Creature — Human Soldier,"Benalish Commander's power and toughness are each equal to the number of Soldiers you control.\nSuspend X—{X}{W}{W}. X can't be 0. (Rather than cast this card from your hand, you may pay {X}{W}{W} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Benalish Commander while it's exiled, put a 1/1 white Soldier creature token onto the battlefield.",PLC
+"Crovax, Ascendant Hero",,Pete Venters,3,Legendary Creature — Human,"Other white creatures get +1/+1.\nNonwhite creatures get -1/-1.
+Pay 2 life: Return Crovax, Ascendant Hero to its owner's hand.",PLC
+Dawn Charm,,John Avon,4,Instant,Choose one —\n• Prevent all combat damage that would be dealt this turn.
+• Regenerate target creature.
+• Counter target spell that targets you.,PLC
+Dust Elemental,,rk post,5,Creature — Elemental,"Flash (You may cast this spell any time you could cast an instant.)\nFlying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+When Dust Elemental enters the battlefield, return three creatures you control to their owner's hand.",PLC
+Ghost Tactician,,Zoltan Boros & Gabor Szikszai,6,Creature — Spirit Spellshaper,"{W}, {T}, Discard a card: Creatures you control get +1/+0 until end of turn.",PLC
+Heroes Remembered,,Michael Phillippi,7,Sorcery,"You gain 20 life.\nSuspend 10—{W} (Rather than cast this card from your hand, you may pay {W} and exile it with ten time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",PLC
+Magus of the Tabernacle,,Randy Gallegos,8,Creature — Human Wizard,"All creatures have "At the beginning of your upkeep, sacrifice this creature unless you pay {1}."",PLC
+Mantle of Leadership,,Thomas M. Baxa,9,Enchantment — Aura,"Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature
+Whenever a creature enters the battlefield, enchanted creature gets +2/+2 until end of turn.",PLC
+Pallid Mycoderm,,Jim Nelson,10,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Pallid Mycoderm.\nRemove three spore counters from Pallid Mycoderm: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Each creature you control that's a Fungus or a Saproling gets +1/+1 until end of turn.","PLC,MMA"
+Poultice Sliver,,Randy Gallegos,11,Creature — Sliver,"All Slivers have "{2}, {T}: Regenerate target Sliver."",PLC
+Rebuff the Wicked,,Stephen Tappin,12,Instant,Counter target spell that targets a permanent you control.,PLC
+Retether,,Dan Scott,13,Sorcery,Return each Aura card from your graveyard to the battlefield. Only creatures can be enchanted this way. (Aura cards that can't enchant a creature on the battlefield remain in your graveyard.),PLC
+Riftmarked Knight,,William O'Connor,14,Creature — Human Rebel Knight,"Protection from black; flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nSuspend 3—{1}{W}{W} (Rather than cast this card from your hand, you may pay {1}{W}{W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+When the last time counter is removed from Riftmarked Knight while it's exiled, put a 2/2 black Knight creature token with flanking, protection from white, and haste onto the battlefield.",PLC
+Saltblast,,Paolo Parente,15,Sorcery,Destroy target nonwhite permanent.,"PLC,DDF"
+Saltfield Recluse,,Brian Despain,16,Creature — Human Rebel Cleric,{T}: Target creature gets -2/-0 until end of turn.,"PLC,MMA"
+Serra's Boon,,Steven Belledin,17,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.","PLC,DDC,DD3_DVD"
+Shade of Trokair,,William O'Connor,18,Creature — Shade,"{W}: Shade of Trokair gets +1/+1 until end of turn.\nSuspend 3—{W} (Rather than cast this card from your hand, you may pay {W} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",PLC
+Stonecloaker,,Tomas Giorello,19,Creature — Gargoyle,"Flash (You may cast this spell any time you could cast an instant.)\nFlying
+When Stonecloaker enters the battlefield, return a creature you control to its owner's hand.
+When Stonecloaker enters the battlefield, exile target card from a graveyard.","PLC,C13,DDN"
+Stormfront Riders,,Wayne Reynolds,20,Creature — Human Soldier,"Flying\nWhen Stormfront Riders enters the battlefield, return two creatures you control to their owner's hand.
+Whenever Stormfront Riders or another creature is returned to your hand from the battlefield, put a 1/1 white Soldier creature token onto the battlefield.","PLC,DDF"
+Voidstone Gargoyle,,Terese Nielsen,21,Creature — Gargoyle,"Flying\nAs Voidstone Gargoyle enters the battlefield, name a nonland card.
+The named card can't be cast.
+Activated abilities of sources with the chosen name can't be activated.",PLC
+Whitemane Lion,,Zoltan Boros & Gabor Szikszai,22,Creature — Cat,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.","PLC,DDI,C14"
+Calciderm,,Dave Kendall,23,Creature — Beast,"Shroud (This creature can't be the target of spells or abilities.)\nVanishing 4 (This permanent enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)","pGTW,PLC"
+Malach of the Dawn,,Steve Prescott,24,Creature — Angel,Flying\n{W}{W}{W}: Regenerate Malach of the Dawn.,PLC
+Mana Tithe,,Martina Pilcerova,25,Instant,Counter target spell unless its controller pays {1}.,"pMPR,PLC"
+Mesa Enchantress,,Randy Gallegos,26,Creature — Human Druid,"Whenever you cast an enchantment spell, you may draw a card.","PLC,M10,M12,C15"
+Mycologist,,Kev Walker,27,Creature — Human Druid,"At the beginning of your upkeep, put a spore counter on Mycologist.\nRemove three spore counters from Mycologist: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: You gain 2 life.",PLC
+Porphyry Nodes,,Alan Pollack,28,Enchantment,"At the beginning of your upkeep, destroy the creature with the least power. It can't be regenerated. If two or more creatures are tied for least power, you choose one of them.\nWhen there are no creatures on the battlefield, sacrifice Porphyry Nodes.",PLC
+Revered Dead,,Ron Spears,29,Creature — Spirit Soldier,{W}: Regenerate Revered Dead.,PLC
+Sinew Sliver,,Steven Belledin,30,Creature — Sliver,All Sliver creatures get +1/+1.,PLC
+Sunlance,,Volkan Baga,31,Sorcery,Sunlance deals 3 damage to target nonwhite creature.,"PLC,DDF,DDO,MM2"
+Aeon Chronicler,,Dan Dos Santos,32,Creature — Avatar,"Aeon Chronicler's power and toughness are each equal to the number of cards in your hand.\nSuspend X—{X}{3}{U}. X can't be 0.  (Rather than cast this card from your hand, you may pay {X}{3}{U} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Aeon Chronicler while it's exiled, draw a card.","PLC,DDM"
+Aquamorph Entity,,Brian Despain,33,Creature — Shapeshifter,"As Aquamorph Entity enters the battlefield or is turned face up, it becomes your choice of 5/1 or 1/5.\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","PLC,DDN"
+Auramancer's Guise,,Greg Staples,34,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+2 for each Aura attached to it and has vigilance.,PLC
+Body Double,,Steve Prescott,35,Creature — Shapeshifter,You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.,"PLC,DDM"
+"Braids, Conjurer Adept",,Zoltan Boros & Gabor Szikszai,36,Legendary Creature — Human Wizard,"At the beginning of each player's upkeep, that player may put an artifact, creature, or land card from his or her hand onto the battlefield.",PLC
+Chronozoa,,James Wong,37,Creature — Illusion,"Flying\nVanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Chronozoa dies, if it had no time counters on it, put two tokens that are copies of it onto the battlefield.",PLC
+Dichotomancy,,Steven Belledin,38,Sorcery,"For each tapped nonland permanent target opponent controls, search that player's library for a card with the same name as that permanent and put it onto the battlefield under your control. Then that player shuffles his or her library.\nSuspend 3—{1}{U}{U} (Rather than cast this card from your hand, you may pay {1}{U}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",PLC
+Dismal Failure,,Dan Scott,39,Instant,Counter target spell. Its controller discards a card.,PLC
+Dreamscape Artist,,Jim Murray,40,Creature — Human Spellshaper,"{2}{U}, {T}, Discard a card, Sacrifice a land: Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.",PLC
+Erratic Mutation,,Zoltan Boros & Gabor Szikszai,41,Instant,"Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.","PLC,MMA"
+Jodah's Avenger,,Pete Venters,42,Creature — Shapeshifter,"{0}: Until end of turn, Jodah's Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. (A creature with shadow can block or be blocked by only creatures with shadow.)",PLC
+Magus of the Bazaar,,Rob Alexander,43,Creature — Human Wizard,"{T}: Draw two cards, then discard three cards.",PLC
+Pongify,,Heather Hudson,44,Instant,Destroy target creature. It can't be regenerated. Its controller puts a 3/3 green Ape creature token onto the battlefield.,"PLC,C14"
+Reality Acid,,James Wong,45,Enchantment — Aura,"Enchant permanent\nVanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+When Reality Acid leaves the battlefield, enchanted permanent's controller sacrifices it.",PLC
+Shaper Parasite,,rk post,46,Creature — Illusion,"Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Shaper Parasite is turned face up, target creature gets +2/-2 or -2/+2 until end of turn.","PLC,C14"
+Spellshift,,Stephen Tappin,47,Instant,Counter target instant or sorcery spell. Its controller reveals cards from the top of his or her library until he or she reveals an instant or sorcery card. That player may cast that card without paying its mana cost. Then he or she shuffles his or her library.,PLC
+Synchronous Sliver,,E. M. Gist,48,Creature — Sliver,All Sliver creatures have vigilance.,PLC
+Tidewalker,,Dave Kendall,49,Creature — Elemental,"Tidewalker enters the battlefield with a time counter on it for each Island you control.\nVanishing (At the beginning of your upkeep, remove a time counter from this permanent. When the last is removed, sacrifice it.)
+Tidewalker's power and toughness are each equal to the number of time counters on it.",PLC
+Timebender,,Zoltan Boros & Gabor Szikszai,50,Creature — Human Wizard,"Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Timebender is turned face up, choose one —
+• Remove two time counters from target permanent or suspended card.
+• Put two time counters on target permanent with a time counter on it or suspended card.",PLC
+Veiling Oddity,,Dave DeVries,51,Creature — Illusion,"Suspend 4—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)\nWhen the last time counter is removed from Veiling Oddity while it's exiled, creatures can't be blocked this turn.",PLC
+Venarian Glimmer,,John Avon,52,Instant,Target player reveals his or her hand. You choose a nonland card with converted mana cost X or less from it. That player discards that card.,PLC
+Wistful Thinking,,Brian Despain,53,Sorcery,"Target player draws two cards, then discards four cards.",PLC
+Frozen Æther,,Dan Dos Santos,54,Enchantment,"Artifacts, creatures, and lands your opponents control enter the battlefield tapped.",PLC
+Gossamer Phantasm,,Jon Foster,55,Creature — Illusion,"Flying\nWhen Gossamer Phantasm becomes the target of a spell or ability, sacrifice it.",PLC
+Merfolk Thaumaturgist,,Steve Prescott,56,Creature — Merfolk Wizard,{T}: Switch target creature's power and toughness until end of turn.,PLC
+Ovinize,,Terese Nielsen,57,Instant,"Until end of turn, target creature loses all abilities and has base power and toughness 0/1.",PLC
+Piracy Charm,,John Avon,58,Instant,Choose one —\n• Target creature gains islandwalk until end of turn. (It can't be blocked as long as defending player controls an Island.)
+• Target creature gets +2/-1 until end of turn.
+• Target player discards a card.,PLC
+Primal Plasma,,Luca Zontini,59,Creature — Elemental Shapeshifter,"As Primal Plasma enters the battlefield, it becomes your choice of a 3/3 creature, a 2/2 creature with flying, or a 1/6 creature with defender.","PLC,DDI,PC2"
+Riptide Pilferer,,Steve Prescott,60,Creature — Merfolk Rogue,"Whenever Riptide Pilferer deals combat damage to a player, that player discards a card.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",PLC
+Serendib Sorcerer,,Dan Scott,61,Creature — Human Wizard,{T}: Target creature other than Serendib Sorcerer has base power and toughness 0/2 until end of turn.,PLC
+Serra Sphinx,,Daren Bader,62,Creature — Sphinx,"Flying, vigilance",PLC
+Big Game Hunter,,Carl Critchlow,63,Creature — Human Rebel Assassin,"When Big Game Hunter enters the battlefield, destroy target creature with power 4 or greater. It can't be regenerated.\nMadness {B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",PLC
+Blightspeaker,,Ron Spears,64,Creature — Human Rebel Cleric,"{T}: Target player loses 1 life.\n{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.","PLC,MMA"
+Brain Gorgers,,Kev Walker,65,Creature — Zombie,"When you cast Brain Gorgers, any player may sacrifice a creature. If a player does, counter Brain Gorgers.\nMadness {1}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",PLC
+Circle of Affliction,,Rob Alexander,66,Enchantment,"As Circle of Affliction enters the battlefield, choose a color.\nWhenever a source of the chosen color deals damage to you, you may pay {1}. If you do, target player loses 1 life and you gain 1 life.",PLC
+Cradle to Grave,,Dave Kendall,67,Instant,Destroy target nonblack creature that entered the battlefield this turn.,PLC
+Dash Hopes,,Zoltan Boros & Gabor Szikszai,68,Instant,"When you cast Dash Hopes, any player may pay 5 life. If a player does, counter Dash Hopes.\nCounter target spell.",PLC
+Deadly Grub,,E. M. Gist,69,Creature — Insect,"Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhen Deadly Grub dies, if it had no time counters on it, put a 6/1 green Insect creature token with shroud onto the battlefield. (It can't be the target of spells or abilities.)",PLC
+Enslave,,Zoltan Boros & Gabor Szikszai,70,Enchantment — Aura,"Enchant creature\nYou control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.","PLC,DDD,NPH,DD3_GVL"
+Extirpate,,Jon Foster,71,Instant,"Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nChoose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.","PLC,MMA"
+Imp's Mischief,,Thomas M. Baxa,72,Instant,Change the target of target spell with a single target. You lose life equal to that spell's converted mana cost.,PLC
+Magus of the Coffers,,Don Hazeltine,73,Creature — Human Wizard,"{2}, {T}: Add {B} to your mana pool for each Swamp you control.","PLC,C14"
+Midnight Charm,,John Avon,74,Instant,Choose one —\n• Midnight Charm deals 1 damage to target creature and you gain 1 life.
+• Target creature gains first strike until end of turn.
+• Tap target creature.,PLC
+Mirri the Cursed,,Kev Walker,75,Legendary Creature — Vampire Cat,"Flying, first strike, haste\nWhenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter on Mirri the Cursed.",PLC
+Muck Drubb,,Jim Nelson,76,Creature — Beast,"Flash (You may cast this spell any time you could cast an instant.)\nWhen Muck Drubb enters the battlefield, change the target of target spell that targets only a single creature to Muck Drubb.
+Madness {2}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)",PLC
+Phantasmagorian,,Steve Ellis,77,Creature — Horror,"When you cast Phantasmagorian, any player may discard three cards. If a player does, counter Phantasmagorian.\nDiscard three cards: Return Phantasmagorian from your graveyard to your hand.",PLC
+Ridged Kusite,,rk post,78,Creature — Horror Spellshaper,"{1}{B}, {T}, Discard a card: Target creature gets +1/+0 and gains first strike until end of turn.",PLC
+Roiling Horror,,John Avon,79,Creature — Horror,"Roiling Horror's power and toughness are each equal to your life total minus the life total of an opponent with the most life.\nSuspend X—{X}{B}{B}{B}. X can't be 0. (Rather than cast this card from your hand, you may pay {X}{B}{B}{B} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Roiling Horror while it's exiled, target player loses 1 life and you gain 1 life.",PLC
+Spitting Sliver,,Steve Ellis,80,Creature — Sliver,All Sliver creatures have first strike.,PLC
+Temporal Extortion,,Steven Belledin,81,Sorcery,"When you cast Temporal Extortion, any player may pay half his or her life, rounded up. If a player does, counter Temporal Extortion.\nTake an extra turn after this one.",PLC
+Treacherous Urge,,Steven Belledin,82,Instant,Target opponent reveals his or her hand. You may put a creature card from it onto the battlefield under your control. That creature gains haste. Sacrifice it at the beginning of the next end step.,PLC
+Waning Wurm,,Alan Pollack,83,Creature — Zombie Wurm,"Vanishing 2 (This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)",PLC
+Bog Serpent,,Thomas M. Baxa,84,Creature — Serpent,"Bog Serpent can't attack unless defending player controls a Swamp.\nWhen you control no Swamps, sacrifice Bog Serpent.",PLC
+Damnation,,Kev Walker,85,Sorcery,Destroy all creatures. They can't be regenerated.,"pMPR,PLC"
+Dunerider Outlaw,,Alan Pollack,86,Creature — Human Rebel Rogue,"Protection from green\nAt the beginning of each end step, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.",PLC
+Kor Dirge,,Alex Horley-Orlandelli,87,Instant,All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.,PLC
+Melancholy,,Lars Grant-West,88,Enchantment — Aura,"Enchant creature\nWhen Melancholy enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+At the beginning of your upkeep, sacrifice Melancholy unless you pay {B}.",PLC
+Null Profusion,,Kev Walker,89,Enchantment,"Skip your draw step.\nWhenever you play a card, draw a card.
+Your maximum hand size is two.",PLC
+Rathi Trapper,,Pete Venters,90,Creature — Human Rebel Rogue,"{B}, {T}: Tap target creature.","PLC,MMA"
+Shrouded Lore,,Kev Walker,91,Sorcery,"Target opponent chooses a card in your graveyard. You may pay {B}. If you do, repeat this process except that opponent can't choose a card already chosen for Shrouded Lore. Then put the last chosen card into your hand.",PLC
+Vampiric Link,,Kev Walker,92,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage, you gain that much life.",PLC
+Æther Membrane,,Zoltan Boros & Gabor Szikszai,93,Creature — Wall,"Defender; reach (This creature can block creatures with flying.)\nWhenever Æther Membrane blocks a creature, return that creature to its owner's hand at end of combat.","PLC,DDI"
+"Akroma, Angel of Fury",,Daren Bader,94,Legendary Creature — Angel,"Akroma, Angel of Fury can't be countered.\nFlying, trample, protection from white and from blue
+{R}: Akroma, Angel of Fury gets +1/+0 until end of turn.
+Morph {3}{R}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","PLC,CMD,V15"
+Battering Sliver,,Greg Staples,95,Creature — Sliver,All Sliver creatures have trample.,PLC
+Detritivore,,Paolo Parente,96,Creature — Lhurgoyf,"Detritivore's power and toughness are each equal to the number of nonbasic land cards in your opponents' graveyards.\nSuspend X—{X}{3}{R}. X can't be 0. (Rather than cast this card from your hand, you may pay {X}{3}{R} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Detritivore while it's exiled, destroy target nonbasic land.",PLC
+Dust Corona,,Luca Zontini,97,Enchantment — Aura,Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked by creatures with flying.,PLC
+Fatal Frenzy,,Steve Ellis,98,Instant,"Until end of turn, target creature you control gains trample and gets +X/+0, where X is its power. Sacrifice it at the beginning of the next end step.",PLC
+Firefright Mage,,Greg Staples,99,Creature — Goblin Spellshaper,"{1}{R}, {T}, Discard a card: Target creature can't be blocked this turn except by artifact creatures and/or red creatures.",PLC
+Fury Charm,,John Avon,100,Instant,Choose one —\n• Destroy target artifact.
+• Target creature gets +1/+1 and gains trample until end of turn.
+• Remove two time counters from target permanent or suspended card.,"PLC,MMA"
+Hammerheim Deadeye,,Carl Critchlow,101,Creature — Giant Warrior,"Echo {5}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Hammerheim Deadeye enters the battlefield, destroy target creature with flying.","PLC,MMA"
+Keldon Marauders,,Alex Horley-Orlandelli,102,Creature — Human Warrior,"Vanishing 2 (This permanent enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhen Keldon Marauders enters the battlefield or leaves the battlefield, it deals 1 damage to target player.","PLC,PD2"
+Lavacore Elemental,,E. M. Gist,103,Creature — Elemental,"Vanishing 1 (This permanent enters the battlefield with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever a creature you control deals combat damage to a player, put a time counter on Lavacore Elemental.",PLC
+Magus of the Arena,,Thomas M. Baxa,104,Creature — Human Wizard,"{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. (Each deals damage equal to its power to the other.)","PLC,C13"
+Needlepeak Spider,,Dany Orizio,105,Creature — Spider,Reach (This creature can block creatures with flying.),PLC
+Shivan Meteor,,Chippy,106,Sorcery,"Shivan Meteor deals 13 damage to target creature.\nSuspend 2—{1}{R}{R} (Rather than cast this card from your hand, you may pay {1}{R}{R} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",PLC
+Stingscourger,,Wayne Reynolds,107,Creature — Goblin Warrior,"Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Stingscourger enters the battlefield, return target creature an opponent controls to its owner's hand.","PLC,MMA"
+Sulfur Elemental,,Dave Kendall,108,Creature — Elemental,"Flash (You may cast this spell any time you could cast an instant.)\nSplit second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+White creatures get +1/-1.",PLC
+Timecrafting,,Volkan Baga,109,Instant,Choose one —\n• Remove X time counters from target permanent or suspended card.
+• Put X time counters on target permanent with a time counter on it or suspended card.,PLC
+Torchling,,rk post,110,Creature — Shapeshifter,{R}: Untap Torchling.\n{R}: Target creature blocks Torchling this turn if able.
+{R}: Change the target of target spell that targets only Torchling.
+{1}: Torchling gets +1/-1 until end of turn.
+{1}: Torchling gets -1/+1 until end of turn.,"PLC,DDI"
+Volcano Hellion,,Wayne Reynolds,111,Creature — Hellion,"Volcano Hellion has echo {X}, where X is your life total. (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Volcano Hellion enters the battlefield, it deals an amount of damage of your choice to you and target creature. The damage can't be prevented.",PLC
+Boom,,John Avon,112a,Sorcery,Destroy target land you control and target land you don't control.,PLC
+Bust,,John Avon,112b,Sorcery,Destroy all lands.,PLC
+Dead,,Tomas Giorello,113a,Instant,Dead deals 2 damage to target creature.,PLC
+Gone,,Tomas Giorello,113b,Instant,Return target creature you don't control to its owner's hand.,PLC
+Rough,,Luca Zontini,114a,Sorcery,Rough deals 2 damage to each creature without flying.,"PLC,C13"
+Tumble,,Luca Zontini,114b,Sorcery,Tumble deals 6 damage to each creature with flying.,"PLC,C13"
+Blood Knight,,Matt Cavotta,115,Creature — Human Knight,"First strike, protection from white","pCMP,PLC"
+Brute Force,,Wayne Reynolds,116,Instant,Target creature gets +3/+3 until end of turn.,"PLC,MMA,MM2"
+Molten Firebird,,Christopher Moeller,117,Creature — Phoenix,"Flying\nWhen Molten Firebird dies, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.
+{4}{R}: Exile Molten Firebird.",PLC
+Prodigal Pyromancer,,Jeremy Jarvis,118,Creature — Human Wizard,{T}: Prodigal Pyromancer deals 1 damage to target creature or player.,"PLC,10E,M10,DPA,M11"
+Pyrohemia,,Stephen Tappin,119,Enchantment,"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pyrohemia.\n{R}: Pyrohemia deals 1 damage to each creature and each player.","PLC,CMD"
+Reckless Wurm,,Greg Staples,120,Creature — Wurm,"Trample\nMadness {2}{R} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)","pGTW,PLC"
+Shivan Wumpus,,Ron Spears,121,Creature — Beast,"Trample\nWhen Shivan Wumpus enters the battlefield, any player may sacrifice a land. If a player does, put Shivan Wumpus on top of its owner's library.",PLC
+Simian Spirit Guide,,Dave DeVries,122,Creature — Ape Spirit,Exile Simian Spirit Guide from your hand: Add {R} to your mana pool.,PLC
+Skirk Shaman,,Chippy,123,Creature — Goblin Shaman,Skirk Shaman can't be blocked except by artifact creatures and/or red creatures.,"PLC,EVG,DD3_EVG"
+Ana Battlemage,,Jim Nelson,124,Creature — Human Wizard,"Kicker {2}{U} and/or {1}{B} (You may pay an additional {2}{U} and/or {1}{B} as you cast this spell.)\nWhen Ana Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, target player discards three cards.
+When Ana Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, tap target untapped creature and that creature deals damage equal to its power to its controller.",PLC
+Citanul Woodreaders,,Steven Belledin,125,Creature — Human Druid,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nWhen Citanul Woodreaders enters the battlefield, if it was kicked, draw two cards.","PLC,MMA"
+Deadwood Treefolk,,Don Hazeltine,126,Creature — Treefolk,"Vanishing 3 (This permanent enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhen Deadwood Treefolk enters the battlefield or leaves the battlefield, return another target creature card from your graveyard to your hand.","PLC,CMD,C13"
+Evolution Charm,,John Avon,127,Instant,"Choose one —\n• Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.
+• Return target creature card from your graveyard to your hand.
+• Target creature gains flying until end of turn.",PLC
+Fungal Behemoth,,Mark Tedin,128,Creature — Fungus,"Fungal Behemoth's power and toughness are each equal to the number of +1/+1 counters on creatures you control.\nSuspend X—{X}{G}{G}. X can't be 0. (Rather than cast this card from your hand, you may pay {X}{G}{G} and exile it with X time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)
+Whenever a time counter is removed from Fungal Behemoth while it's exiled, you may put a +1/+1 counter on target creature.",PLC
+Giant Dustwasp,,Greg Hildebrandt,129,Creature — Insect,"Flying\nSuspend 4—{1}{G} (Rather than cast this card from your hand, you may pay {1}{G} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)","PLC,MMA"
+Hunting Wilds,,Steve Ellis,130,Sorcery,"Kicker {3}{G} (You may pay an additional {3}{G} as you cast this spell.)\nSearch your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.
+If Hunting Wilds was kicked, untap all Forests put onto the battlefield this way. They become 3/3 green creatures with haste that are still lands.",PLC
+Jedit Ojanen of Efrava,,Carl Critchlow,131,Legendary Creature — Cat Warrior,"Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nWhenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk onto the battlefield.",PLC
+Kavu Predator,,Dan Scott,132,Creature — Kavu,"Trample\nWhenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.","PLC,DDL"
+Life and Limb,,Jim Nelson,133,Enchantment,All Forests and all Saprolings are 1/1 green Saproling creatures and Forest lands in addition to their other types.,PLC
+Magus of the Library,,Wayne Reynolds,134,Creature — Human Wizard,{T}: Add {1} to your mana pool.\n{T}: Draw a card. Activate this ability only if you have exactly seven cards in hand.,PLC
+Mire Boa,,Greg Hildebrandt,135,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{G}: Regenerate Mire Boa.,PLC
+Pouncing Wurm,,William O'Connor,136,Creature — Wurm,"Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nIf Pouncing Wurm was kicked, it enters the battlefield with three +1/+1 counters on it and with haste.",PLC
+Psychotrope Thallid,,Dave Kendall,137,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Psychotrope Thallid.\nRemove three spore counters from Psychotrope Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+{1}, Sacrifice a Saproling: Draw a card.",PLC
+Reflex Sliver,,Luca Zontini,138,Creature — Sliver,All Sliver creatures have haste.,PLC
+Sophic Centaur,,Dan Dos Santos,139,Creature — Centaur Spellshaper,"{2}{G}{G}, {T}, Discard a card: You gain 2 life for each card in your hand.",PLC
+Timbermare,,Dan Dos Santos,140,Creature — Elemental Horse,"Haste\nEcho {5}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+When Timbermare enters the battlefield, tap all other creatures.",PLC
+Uktabi Drake,,Matt Cavotta,141,Creature — Drake,"Flying, haste\nEcho {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",PLC
+Utopia Vow,,Heather Hudson,142,Enchantment — Aura,Enchant creature\nEnchanted creature can't attack or block.
+Enchanted creature has "{T}: Add one mana of any color to your mana pool.",PLC
+Vitaspore Thallid,,Christopher Moeller,143,Creature — Fungus,"At the beginning of your upkeep, put a spore counter on Vitaspore Thallid.\nRemove three spore counters from Vitaspore Thallid: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Target creature gains haste until end of turn.",PLC
+Wild Pair,,Mark Brill,144,Enchantment,"Whenever a creature enters the battlefield, if you cast it from your hand, you may search your library for a creature card with the same total power and toughness and put it onto the battlefield. If you do, shuffle your library.","PLC,H09"
+Essence Warden,,Terese Nielsen,145,Creature — Elf Shaman,"Whenever another creature enters the battlefield, you gain 1 life.","PLC,DDH,C14"
+Fa'adiyah Seer,,Heather Hudson,146,Creature — Human Shaman,"{T}: Draw a card and reveal it. If it isn't a land card, discard it.",PLC
+Gaea's Anthem,,Greg Staples,147,Enchantment,Creatures you control get +1/+1.,PLC
+Groundbreaker,,Matt Cavotta,148,Creature — Elemental,"Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker.","pCMP,PLC"
+Harmonize,,Rob Alexander,149,Sorcery,Draw three cards.,"pMPR,PLC,EVG,DDD,ARC,CMD,C13,DD3_EVG,DD3_GVL"
+Healing Leaves,,Michael Sutfin,150,Instant,Choose one —\n• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to target creature or player this turn.,PLC
+Hedge Troll,,Paolo Parente,151,Creature — Troll Cleric,Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.,"pREL,PLC"
+Keen Sense,,Jim Nelson,152,Enchantment — Aura,"Enchant creature\nWhenever enchanted creature deals damage to an opponent, you may draw a card.",PLC
+Seal of Primordium,,Christopher Moeller,153,Enchantment,Sacrifice Seal of Primordium: Destroy target artifact or enchantment.,PLC
+Cautery Sliver,,Dany Orizio,154,Creature — Sliver,"All Slivers have "{1}, Sacrifice this permanent: This permanent deals 1 damage to target creature or player."\nAll Slivers have "{1}, Sacrifice this permanent: Prevent the next 1 damage that would be dealt to target Sliver creature or player this turn."",PLC
+Darkheart Sliver,,rk post,155,Creature — Sliver,All Slivers have "Sacrifice this permanent: You gain 3 life.",PLC
+Dormant Sliver,,Lars Grant-West,156,Creature — Sliver,"All Sliver creatures have defender.\nAll Slivers have "When this permanent enters the battlefield, draw a card."",PLC
+Frenetic Sliver,,Luca Zontini,157,Creature — Sliver,"All Slivers have "{0}: If this permanent is on the battlefield, flip a coin. If you win the flip, exile this permanent and return it to the battlefield under its owner's control at the beginning of the next end step. If you lose the flip, sacrifice it."",PLC
+"Intet, the Dreamer",,Dan Scott,158,Legendary Creature — Dragon,"Flying\nWhenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.","PLC,CMD"
+Necrotic Sliver,,Dave Allsop,159,Creature — Sliver,"All Slivers have "{3}, Sacrifice this permanent: Destroy target permanent."","PLC,H09"
+"Numot, the Devastator",,Dan Dos Santos,160,Legendary Creature — Dragon,"Flying\nWhenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.","PLC,CMD"
+"Oros, the Avenger",,Daren Bader,161,Legendary Creature — Dragon,"Flying\nWhenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature.","pPRE,PLC,CMD"
+"Radha, Heir to Keld",,Jim Murray,162,Legendary Creature — Elf Warrior,"Whenever Radha, Heir to Keld attacks, you may add {R}{R} to your mana pool.\n{T}: Add {G} to your mana pool.",PLC
+"Teneb, the Harvester",,Zoltan Boros & Gabor Szikszai,163,Legendary Creature — Dragon,"Flying\nWhenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control.","PLC,CMD"
+"Vorosh, the Hunter",,Mark Zug,164,Legendary Creature — Dragon,"Flying\nWhenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh.","PLC,CMD"
+"Urborg, Tomb of Yawgmoth",,John Avon,165,Legendary Land,Each land is a Swamp in addition to its other land types.,"PLC,V12,M15"
