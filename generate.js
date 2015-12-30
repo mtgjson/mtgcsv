@@ -98,12 +98,22 @@ function readVersion(callback) {
 
 var csvFields = [
 	'name',
-	'cost',
+	'manaCost',
+	'cmc',
+	'colorIdentity',
 	'artist',
 	'number',
 	'type',
 	'text',
-	'printings'
+	'printings',
+	'flavor',
+	'layout',
+	'multiverseid',
+	'power',
+	'toughness',
+	'rarity',
+	'subtypes',
+	'types'
 ];
 
 function saveSet(setName, cards, callback) {
@@ -131,6 +141,14 @@ function saveSet(setName, cards, callback) {
 							curEntry = curEntry.join(',');
 						};
 
+						if ((typeof curEntry) === 'number') {
+							curEntry = '' + curEntry;
+						}
+
+						if ((typeof curEntry) !== 'string') {
+							console.log("Something is wrong!");
+							console.log(curEntry);
+						}
 						curEntry = curEntry.replace("\n", '\\n');
 
 						if (curEntry.indexOf(',') >= 0) {

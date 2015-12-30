@@ -1,5 +1,5 @@
-name,cost,artist,number,type,text,printings
-Faerie Conclave,,Stephan Martiniere,1,Land,Faerie Conclave enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
-{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.,"ULG,10E,pSUM,C13"
-Treetop Village,,Rob Alexander,2,Land,"Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
-{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","ULG,pFNM,10E,pSUM,DDD,DDG,DD3_GVL"
+name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
+Faerie Conclave,,,U,Stephan Martiniere,1,Land,Faerie Conclave enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
+{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land.,"ULG,10E,pSUM,C13",,normal,,,,Special,,Land
+Treetop Village,,,G,Rob Alexander,2,Land,"Treetop Village enters the battlefield tapped.\n{T}: Add {G} to your mana pool.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would assign enough damage to its blockers to destroy them, you may have it assign the rest of its damage to defending player or planeswalker.)","ULG,pFNM,10E,pSUM,DDD,DDG,DD3_GVL",,normal,,,,Special,,Land

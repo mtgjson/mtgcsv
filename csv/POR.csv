@@ -1,223 +1,227 @@
-name,cost,artist,number,type,text,printings
-Alabaster Dragon,,Ted Naifeh,,Creature — Dragon,"Flying\nWhen Alabaster Dragon dies, shuffle it into its owner's library.","POR,WTH"
-Alluring Scent,,Ted Naifeh,,Sorcery,All creatures able to block target creature this turn do so.,"POR,PO2,S99,ME4"
-Anaconda,,Andrew Robinson,,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,7ED,9ED"
-Anaconda,,Andrew Robinson,,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,7ED,9ED"
-Ancestral Memories,,Dan Frazier,,Sorcery,Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.,"MIR,POR,6ED,7ED"
-Angelic Blessing,,DiTerlizzi,,Sorcery,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),"POR,PO2,EXO,S99,S00,9ED,10E,TPR"
-Archangel,,Quinton Hoover,,Creature — Angel,"Flying, vigilance","VIS,POR,PO2,6ED,S99,AVR,C13"
-Ardent Militia,,Mike Raabe,,Creature — Human Soldier,Vigilance,"POR,WTH,6ED,S99,7ED,8ED"
-Armageddon,,John Avon,,Sorcery,Destroy all lands.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,PO2,pJGP,ATH,6ED,S99,MED,ME4,VMA,V14"
-Armored Pegasus,,Andrew Robinson,,Creature — Pegasus,Flying,"POR,pPOD,TMP,ATH,6ED,BRB,S00,TPR"
-Arrogant Vampire,,Zina Saunders,,Creature — Vampire,Flying,POR
-Assassin's Blade,,John Matson,,Instant,Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.\nDestroy target nonblack attacking creature.,POR
-Balance of Power,,Adam Rex,,Sorcery,"If target opponent has more cards in hand than you, draw cards equal to the difference.","POR,PTK,8ED"
-Baleful Stare,,John Coulthart,,Sorcery,Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.,"POR,7ED,9ED"
-Bee Sting,,Phil Foglio,,Sorcery,Bee Sting deals 2 damage to target creature or player.,"POR,PO2,ME4"
-Blaze,,Gerry Grace,,Sorcery,Blaze deals X damage to target creature or player.,"POR,PO2,6ED,PTK,7ED,8ED,9ED,10E,HOP,DPA"
-Blaze,,Gerry Grace,,Sorcery,Blaze deals X damage to target creature or player.,"POR,PO2,6ED,PTK,7ED,8ED,9ED,10E,HOP,DPA"
-Blessed Reversal,,Zina Saunders,,Instant,You gain 3 life for each creature attacking you.,"POR,ULG,7ED,8ED"
-Blinding Light,,John Coulthart,,Sorcery,Tap all nonwhite creatures.,"MIR,POR,S99,INV"
-Bog Imp,,Christopher Rush,,Creature — Imp,Flying (This creature can't be blocked except by creatures with flying or reach.),"DRK,4ED,RQS,ITP,5ED,POR,6ED,S99,S00,7ED,8ED,9ED"
-Bog Raiders,,Steve Luke,,Creature — Zombie,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,S99,M11"
-Bog Wraith,,Ted Naifeh,,Creature — Wraith,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,6ED,S99,7ED,8ED,9ED,10E,M10"
-Boiling Seas,,Tom Wänerstrand,,Sorcery,Destroy all Islands.,"POR,9ED"
-Border Guard,,Kev Walker,,Creature — Human Soldier,,"POR,S99"
-Breath of Life,,DiTerlizzi,,Sorcery,Return target creature card from your graveyard to the battlefield.,"POR,PO2,S99,S00,7ED,VMA"
-Bull Hippo,,Roger Raupp,,Creature — Hippo,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),"POR,pPOD,USG,S99,7ED"
-Burning Cloak,,Scott M. Fischer,,Sorcery,Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.,POR
-Capricious Sorcerer,,Zina Saunders,,Creature — Human Wizard,"{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.",POR
-Charging Bandits,,Dermot Power,,Creature — Human Rogue,"Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.",POR
-Charging Paladin,,Kev Walker,,Creature — Human Knight,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.","POR,EXO,S99,DDC,DD3_DVD,TPR"
-Charging Rhino,,Una Fricker,,Creature — Rhino,Charging Rhino can't be blocked by more than one creature.,"POR,TMP,CNS,M15"
-Cloak of Feathers,,Rebecca Guay,,Sorcery,Target creature gains flying until end of turn.\nDraw a card.,POR
-Cloud Dragon,,John Avon,,Creature — Illusion Dragon,Flying\nCloud Dragon can block only creatures with flying.,"POR,ME4"
-Cloud Pirates,,Phil Foglio,,Creature — Human Pirate,Flying\nCloud Pirates can block only creatures with flying.,"POR,pPOD"
-Cloud Spirit,,DiTerlizzi,,Creature — Spirit,Flying\nCloud Spirit can block only creatures with flying.,"POR,STH,ME4"
-Command of Unsummoning,,Phil Foglio,,Instant,Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step.\nReturn one or two target attacking creatures to their owner's hand.,POR
-Coral Eel,,Una Fricker,,Creature — Fish,,"POR,S99,8ED,9ED"
-Craven Giant,,Ron Spencer,,Creature — Giant,Craven Giant can't block.,"POR,STH,TPR"
-Craven Knight,,Charles Gillespie,,Creature — Human Knight,Craven Knight can't block.,POR
-Cruel Bargain,,Adrian Smith,,Sorcery,"Draw four cards. You lose half your life, rounded up.","POR,VMA"
-Cruel Fate,,Adrian Smith,,Sorcery,Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard and the rest on top of his or her library in any order.,POR
-Cruel Tutor,,Kev Walker,,Sorcery,"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",POR
-Deep Wood,,Paolo Parente,,Instant,Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.,"POR,PO2"
-Deep-Sea Serpent,,Scott M. Fischer,,Creature — Serpent,Deep-Sea Serpent can't attack unless defending player controls an Island.,POR
-Defiant Stand,,Hannibal King,,Instant,Cast Defiant Stand only during the declare attackers step and only if you've been attacked this step.\nTarget creature gets +1/+3 until end of turn. Untap that creature.,POR
-Déjà Vu,,Hannibal King,,Sorcery,Return target sorcery card from your graveyard to your hand.,"POR,PO2"
-Desert Drake,,Gerry Grace,,Creature — Drake,Flying,POR
-Devastation,,Steve Luke,,Sorcery,Destroy all creatures and lands.,"POR,S99,ME4"
-Devoted Hero,,DiTerlizzi,,Creature — Elf Soldier,,"POR,S99"
-Djinn of the Lamp,,DiTerlizzi,,Creature — Djinn,Flying,POR
-Dread Charge,,Ted Naifeh,,Sorcery,Black creatures you control can't be blocked this turn except by black creatures.,POR
-Dread Reaper,,Christopher Rush,,Creature — Horror,"Flying\nWhen Dread Reaper enters the battlefield, you lose 5 life.","POR,S99,ME4"
-Dry Spell,,Roger Raupp,,Sorcery,Dry Spell deals 1 damage to each creature and each player.,"HML,POR,6ED,ME2"
-Earthquake,,Adrian Smith,,Sorcery,Earthquake deals X damage to each creature without flying and each player.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,PO2,6ED,7ED,M10,CMD,C15"
-Ebon Dragon,,Donato Giancola,,Creature — Dragon,"Flying\nWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card.","POR,DRB,ME4"
-Elite Cat Warrior,,Eric Peterson,,Creature — Cat Warrior,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"POR,ME4"
-Elite Cat Warrior,,Eric Peterson,,Creature — Cat Warrior,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"POR,ME4"
-Elven Cache,,Rebecca Guay,,Sorcery,Return target card from your graveyard to your hand.,"VIS,POR,6ED"
-Elvish Ranger,,DiTerlizzi,,Creature — Elf,,"ALL,POR,ME2"
-Endless Cockroaches,,Ron Spencer,,Creature — Insect,"When Endless Cockroaches dies, return it to its owner's hand.","POR,C13"
-Exhaustion,,DiTerlizzi,,Sorcery,Creatures and lands target opponent controls don't untap during his or her next untap step.,"POR,PO2,USG,PTK,S99,9ED"
-False Peace,,Zina Saunders,,Sorcery,Target player skips all combat phases of his or her next turn.,"POR,S99"
-Feral Shadow,,Colin MacNeil,,Creature — Nightstalker,Flying,"MIR,POR,pPOD,6ED,S99,BTD"
-Final Strike,,John Coulthart,,Sorcery,"As an additional cost to cast Final Strike, sacrifice a creature.\nFinal Strike deals damage to target opponent equal to the sacrificed creature's power.",POR
-Fire Dragon,,William Simpson,,Creature — Dragon,"Flying\nWhen Fire Dragon enters the battlefield, it deals damage to target creature equal to the number of Mountains you control.","POR,ME2"
-Fire Imp,,DiTerlizzi,,Creature — Imp,"When Fire Imp enters the battlefield, it deals 2 damage to target creature.","POR,ME4"
-Fire Snake,,Steve Luke,,Creature — Snake,"When Fire Snake dies, destroy target land.",POR
-Fire Tempest,,Mike Dringenberg,,Sorcery,Fire Tempest deals 6 damage to each creature and each player.,"POR,S99,ME4"
-Flashfires,,Randy Gallegos,,Sorcery,Destroy all Plains.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,6ED,8ED,9ED"
-Fleet-Footed Monk,,D. Alexander Gregory,,Creature — Human Monk,Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.,POR
-Flux,,Ted Naifeh,,Sorcery,"Each player discards any number of cards, then draws that many cards.\nDraw a card.","POR,WTH"
-Foot Soldiers,,Kev Walker,,Creature — Human Soldier,,"POR,S99,9ED"
-Forest,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Forest,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Forest,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Forest,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Forked Lightning,,Ted Naifeh,,Sorcery,"Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.","POR,ME3"
-Fruition,,Steve Luke,,Sorcery,You gain 1 life for each Forest on the battlefield.,POR
-Giant Octopus,,John Matson,,Creature — Octopus,,"POR,S99,S00,7ED,8ED,9ED"
-Giant Spider,,Randy Gallegos,,Creature — Spider,Reach (This creature can block creatures with flying.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,ATH,6ED,7ED,8ED,9ED,10E,M10,DPA,M11,M12,M14"
-Gift of Estates,,Kaja Foglio,,Sorcery,"If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.","POR,9ED,C14"
-Goblin Bully,,Pete Venters,,Creature — Goblin,,"POR,ME4"
-Gorilla Warrior,,John Matson,,Creature — Ape Warrior,,"POR,USG,S99,BRB"
-Gravedigger,,Scott M. Fischer,,Creature — Zombie,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.","POR,TMP,6ED,S99,BTD,7ED,ODY,8ED,9ED,pGTW,10E,M10,HOP,M11,CMD,M12,M15,TPR"
-Grizzly Bears,,Zina Saunders,,Creature — Bear,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,6ED,S99,7ED,8ED,9ED,10E"
-Hand of Death,,John Coulthart,,Sorcery,Destroy target nonblack creature.,"POR,PO2,S99,S00"
-Hand of Death,,John Coulthart,,Sorcery,Destroy target nonblack creature.,"POR,PO2,S99,S00"
-Harsh Justice,,John Coulthart,,Instant,"Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.\nThis turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.","POR,ME4"
-Highland Giant,,Ron Spencer,,Creature — Giant,,POR
-Hill Giant,,Randy Gallegos,,Creature — Giant,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,7ED,8ED,9ED,10E,DPA"
-Horned Turtle,,Adrian Smith,,Creature — Turtle,,"POR,TMP,6ED,7ED,8ED,9ED,M10,TPR"
-Howling Fury,,Mike Dringenberg,,Sorcery,Target creature gets +4/+0 until end of turn.,"POR,S99"
-Hulking Cyclops,,Paolo Parente,,Creature — Cyclops,Hulking Cyclops can't block.,"VIS,POR,6ED,BTD,8ED"
-Hulking Goblin,,Pete Venters,,Creature — Goblin,Hulking Goblin can't block.,"POR,S99,VMA"
-Hurricane,,Andrew Robinson,,Sorcery,Hurricane deals X damage to each creature with flying and each player.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,POR,PO2,ATH,6ED,BRB,7ED,DKM,10E"
-Ingenious Thief,,Dan Frazier,,Creature — Human Rogue,"Flying\nWhen Ingenious Thief enters the battlefield, look at target player's hand.","POR,S99"
-Island,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
-Island,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
-Island,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
-Island,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15"
-Jungle Lion,,Janine Johnston,,Creature — Cat,Jungle Lion can't block.,"POR,ME3"
-Keen-Eyed Archers,,Alan Rabinowitz,,Creature — Elf Archer,Reach (This creature can block creatures with flying.),POR
-King's Assassin,,Zina Saunders,,Creature — Human Assassin,"{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.",POR
-Knight Errant,,Dan Frazier,,Creature — Human Knight,,"POR,S99,S00,7ED"
-Last Chance,,Hannibal King,,Sorcery,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.","POR,S99,ME4"
-Lava Axe,,Adrian Smith,,Sorcery,Lava Axe deals 5 damage to target player.,"POR,PO2,ULG,S99,S00,BTD,7ED,8ED,9ED,pGTW,10E,M10,M11,M12,M14,M15"
-Lava Flow,,Mike Dringenberg,,Sorcery,Destroy target creature or land.,"POR,ME4"
-Lizard Warrior,,Roger Raupp,,Creature — Lizard Warrior,,"POR,CNS"
-Man-o'-War,,Una Fricker,,Creature — Jellyfish,"When Man-o'-War enters the battlefield, return target creature to its owner's hand.","pARL,VIS,POR,S99,BRB,DD2,VMA,DD3_JVC,DDO"
-Mercenary Knight,,Adrian Smith,,Creature — Human Mercenary Knight,"When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.",POR
-Merfolk of the Pearl Trident,,DiTerlizzi,,Creature — Merfolk,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,6ED,S99,S00,7ED,M13"
-Mind Knives,,Rebecca Guay,,Sorcery,Target opponent discards a card at random.,POR
-Mind Rot,,Steve Luke,,Sorcery,Target player discards two cards.,"POR,PO2,S99,7ED,8ED,9ED,10E,M10,DPA,M11,M12,M13,RTR,M14,M15,DTK,ORI"
-Minotaur Warrior,,Scott M. Fischer,,Creature — Minotaur Warrior,,POR
-Mobilize,,Rebecca Guay,,Sorcery,Untap all creatures you control.,POR
-Monstrous Growth,,Dan Frazier,,Sorcery,Target creature gets +4/+4 until end of turn.,"POR,PO2,S99,S00,7ED,8ED"
-Monstrous Growth,,Dan Frazier,,Sorcery,Target creature gets +4/+4 until end of turn.,"POR,PO2,S99,S00,7ED,8ED"
-Moon Sprite,,Terese Nielsen,,Creature — Faerie,Flying,"POR,S99,S00"
-Mountain,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Mountain,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Mountain,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Mountain,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Mountain Goat,,Una Fricker,,Creature — Goat,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"ICE,5ED,POR,6ED"
-Muck Rats,,Colin MacNeil,,Creature — Rat,,"POR,PO2,S99"
-Mystic Denial,,Hannibal King,,Instant,Counter target creature or sorcery spell.,"POR,PO2,PTK"
-Natural Order,,Alan Rabinowitz,,Sorcery,"As an additional cost to cast Natural Order, sacrifice a green creature.\nSearch your library for a green creature card and put it onto the battlefield. Then shuffle your library.","VIS,POR,pJGP"
-Natural Spring,,Janine Johnston,,Sorcery,Target player gains 8 life.,"POR,TMP,PO2,S99,9ED,10E,DPA"
-Nature's Cloak,,Rebecca Guay,,Sorcery,Green creatures you control gain forestwalk until end of turn. (They can't be blocked as long as defending player controls a Forest.),"POR,S99"
-Nature's Lore,,Terese Nielsen,,Sorcery,Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.,"ICE,5ED,POR,PO2,S99,MED,DDD,VMA,DD3_GVL"
-Nature's Ruin,,Mike Dringenberg,,Sorcery,Destroy all green creatures.,"POR,VMA"
-Needle Storm,,Charles Gillespie,,Sorcery,Needle Storm deals 4 damage to each creature with flying.,"POR,TMP,9ED,TPR"
-Noxious Toad,,Adrian Smith,,Creature — Frog,"When Noxious Toad dies, each opponent discards a card.",POR
-Omen,,Eric Peterson,,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.",POR
-Owl Familiar,,Janine Johnston,,Creature — Bird,"Flying\nWhen Owl Familiar enters the battlefield, draw a card, then discard a card.","POR,S99,ME4,VMA"
-Panther Warriors,,Eric Peterson,,Creature — Cat Warrior,,"VIS,POR,6ED"
-Path of Peace,,Pete Venters,,Sorcery,Destroy target creature. Its owner gains 4 life.,"POR,PO2,USG,S99"
-Personal Tutor,,D. Alexander Gregory,,Sorcery,"Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.","POR,ME2"
-Phantom Warrior,,Dan Frazier,,Creature — Illusion Warrior,Phantom Warrior can't be blocked.,"POR,WTH,6ED,S99,7ED,8ED,9ED,10E,M10,DPA,M14"
-Pillaging Horde,,Kev Walker,,Creature — Human Barbarian,"When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.","POR,VMA"
-Plains,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Plains,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Plains,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Plains,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15"
-Plant Elemental,,Ted Naifeh,,Creature — Plant Elemental,"When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.",POR
-Primeval Force,,Randy Gallegos,,Creature — Elemental,"When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.","POR,8ED"
-Prosperity,,Phil Foglio,,Sorcery,Each player draws X cards.,"VIS,POR,6ED,C13"
-Pyroclasm,,John Matson,,Sorcery,Pyroclasm deals 2 damage to each creature.,"ICE,POR,7ED,pMPR,DKM,8ED,9ED,10E,M10,M11,DDK,DDL"
-Python,,Alan Rabinowitz,,Creature — Snake,,"VIS,POR,6ED,S00"
-Raging Cougar,,Terese Nielsen,,Creature — Cat,Haste,POR
-Raging Goblin,,Pete Venters,,Creature — Goblin Berserker,Haste (This creature can attack and {T} as soon as it comes under your control.),"POR,PO2,EXO,ATH,6ED,S99,BRB,BTD,7ED,8ED,9ED,10E,EVG,M10,DD3_EVG"
-Raging Goblin,,Pete Venters,,Creature — Goblin Berserker,Haste (This creature can attack and {T} as soon as it comes under your control.),"POR,PO2,EXO,ATH,6ED,S99,BRB,BTD,7ED,8ED,9ED,10E,EVG,M10,DD3_EVG"
-Raging Minotaur,,Scott M. Fischer,,Creature — Minotaur Berserker,Haste,"POR,ME3"
-Rain of Salt,,Charles Gillespie,,Sorcery,Destroy two target lands.,"POR,USG"
-Rain of Tears,,Eric Peterson,,Sorcery,Destroy target land.,"POR,TMP,MMQ,10E"
-Raise Dead,,Charles Gillespie,,Sorcery,Return target creature card from your graveyard to your hand.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,PO2,6ED,S99,7ED,8ED,9ED"
-Redwood Treefolk,,Steve Luke,,Creature — Treefolk,,"POR,WTH,6ED,7ED"
-Regal Unicorn,,Zina Saunders,,Creature — Unicorn,,"POR,6ED"
-Renewing Dawn,,John Avon,,Sorcery,You gain 2 life for each Mountain target opponent controls.,POR
-Rowan Treefolk,,Gerry Grace,,Creature — Treefolk,,POR
-Sacred Knight,,Donato Giancola,,Creature — Human Knight,Sacred Knight can't be blocked by black and/or red creatures.,POR
-Sacred Nectar,,Janine Johnston,,Sorcery,You gain 4 life.,"POR,S99,7ED,8ED,9ED"
-Scorching Spear,,Mike Raabe,,Sorcery,Scorching Spear deals 1 damage to target creature or player.,"POR,S99"
-Scorching Winds,,D. Alexander Gregory,,Instant,Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step.\nScorching Winds deals 1 damage to each attacking creature.,POR
-Seasoned Marshal,,Zina Saunders,,Creature — Human Soldier,"Whenever Seasoned Marshal attacks, you may tap target creature.","POR,USG,BRB,7ED,8ED,9ED,DDF"
-Serpent Assassin,,Roger Raupp,,Creature — Snake Assassin,"When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.",POR
-Serpent Warrior,,Roger Raupp,,Creature — Snake Warrior,"When Serpent Warrior enters the battlefield, you lose 3 life.","POR,STH,S99,7ED,8ED,9ED,TPR"
-Skeletal Crocodile,,Mike Dringenberg,,Creature — Crocodile Skeleton,,POR
-Skeletal Snake,,John Matson,,Creature — Snake Skeleton,,POR
-Snapping Drake,,Christopher Rush,,Creature — Drake,Flying,"POR,pPOD,S99,BTD,RAV,10E,M10,DPA"
-Sorcerous Sight,,Kaja Foglio,,Sorcery,Look at target opponent's hand.\nDraw a card.,POR
-Soul Shred,,Alan Rabinowitz,,Sorcery,Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.,"POR,ME4"
-Spined Wurm,,Colin MacNeil,,Creature — Wurm,,"pMEI,POR,STH,S00,7ED,8ED,9ED,10E,DPA,M11,TPR"
-Spiritual Guardian,,Terese Nielsen,,Creature — Spirit,"When Spiritual Guardian enters the battlefield, you gain 4 life.",POR
-Spitting Earth,,Hannibal King,,Sorcery,Spitting Earth deals damage to target creature equal to the number of Mountains you control.,"MIR,POR,PO2,6ED,S99,7ED,10E,EVG,DDG,DD3_EVG"
-Spotted Griffin,,William Simpson,,Creature — Griffin,Flying,"POR,ME4"
-Stalking Tiger,,Colin MacNeil,,Creature — Cat,Stalking Tiger can't be blocked by more than one creature.,"MIR,POR,6ED,PTK,10E"
-Starlight,,John Avon,,Sorcery,You gain 3 life for each black creature target opponent controls.,"POR,7ED"
-Starlit Angel,,Rebecca Guay,,Creature — Angel,Flying,POR
-Steadfastness,,Kev Walker,,Sorcery,Creatures you control get +0/+3 until end of turn.,"POR,S99"
-Stern Marshal,,D. Alexander Gregory,,Creature — Human Soldier,"{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.",POR
-Stone Rain,,John Matson,,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED"
-Storm Crow,,Una Fricker,,Creature — Bird,Flying (This creature can't be blocked except by creatures with flying or reach.),"ALL,POR,pPOD,6ED,S99,7ED,8ED,9ED"
-Summer Bloom,,Kaja Foglio,,Sorcery,You may play up to three additional lands this turn.,"VIS,POR,6ED,S99,9ED"
-Swamp,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Swamp,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Swamp,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Swamp,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15"
-Sylvan Tutor,,Kaja Foglio,,Sorcery,"Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.","POR,ME4"
-Symbol of Unsummoning,,Adam Rex,,Sorcery,Return target creature to its owner's hand.\nDraw a card.,"POR,ME4"
-Taunt,,Phil Foglio,,Sorcery,"During target player's next turn, creatures that player controls attack you if able.",POR
-Temporary Truce,,Mike Raabe,,Sorcery,"Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.",POR
-Theft of Dreams,,Adam Rex,,Sorcery,Draw a card for each tapped creature target opponent controls.,"POR,PO2,EXO,ME4"
-Thing from the Deep,,Paolo Parente,,Creature — Leviathan,"Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.","POR,ME4"
-Thundering Wurm,,Paolo Parente,,Creature — Wurm,"When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.",POR
-Thundermare,,Bob Eggleton,,Creature — Elemental Horse,"Haste (This creature can attack the turn it comes under your control.)\nWhen Thundermare enters the battlefield, tap all other creatures.","POR,WTH,9ED"
-Tidal Surge,,Douglas Shuler,,Sorcery,Tap up to three target creatures without flying.,"POR,STH,PO2,6ED"
-Time Ebb,,Alan Rabinowitz,,Sorcery,Put target creature on top of its owner's library.,"POR,TMP,PO2,S99,S00,9ED,M14,TPR"
-Touch of Brilliance,,John Coulthart,,Sorcery,Draw two cards.,"POR,PO2,S99"
-Treetop Defense,,Zina Saunders,,Instant,Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.\nCreatures you control gain reach until end of turn. (They can block creatures with flying.),POR
-Undying Beast,,Steve Luke,,Creature — Beast,"When Undying Beast dies, put it on top of its owner's library.",POR
-Untamed Wilds,,Romas Kukalis,,Sorcery,Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.,"LEG,4ED,RQS,ITP,5ED,POR,PO2,6ED,S99,7ED"
-Valorous Charge,,Douglas Shuler,,Sorcery,White creatures get +2/+0 until end of turn.,POR
-Vampiric Feast,,D. Alexander Gregory,,Sorcery,Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.,POR
-Vampiric Touch,,Zina Saunders,,Sorcery,Vampiric Touch deals 2 damage to target opponent and you gain 2 life.,POR
-Venerable Monk,,D. Alexander Gregory,,Creature — Human Monk Cleric,"When Venerable Monk enters the battlefield, you gain 2 life.","POR,STH,6ED,S99,S00,7ED,8ED,9ED,10E,DDC,DD3_DVD"
-Vengeance,,Andrew Robinson,,Sorcery,Destroy target tapped creature.,"POR,PO2,PTK,S99,7ED,8ED,9ED"
-Virtue's Ruin,,Mike Dringenberg,,Sorcery,Destroy all white creatures.,"POR,V14"
-Volcanic Dragon,,Tom Wänerstrand,,Creature — Dragon,Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.),"MIR,POR,ATH,6ED,S99,M12"
-Volcanic Hammer,,Christopher Rush,,Sorcery,Volcanic Hammer deals 3 damage to target creature or player.,"POR,PO2,S99,pSUS,7ED,8ED,9ED"
-Wall of Granite,,Kev Walker,,Creature — Wall,Defender (This creature can't attack.),POR
-Wall of Swords,,Douglas Shuler,,Creature — Wall,Defender (This creature can't attack.)\nFlying,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,6ED,7ED,8ED,10E,M14"
-Warrior's Charge,,Ted Naifeh,,Sorcery,Creatures you control get +1/+1 until end of turn.,POR
-Warrior's Charge,,Ted Naifeh,,Sorcery,Creatures you control get +1/+1 until end of turn.,POR
-Whiptail Wurm,,Una Fricker,,Creature — Wurm,,"POR,S99,ME4"
-Wicked Pact,,Adam Rex,,Sorcery,Destroy two target nonblack creatures. You lose 5 life.,"POR,S99,ME4"
-Willow Dryad,,D. Alexander Gregory,,Creature — Dryad,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),POR
-Wind Drake,,Zina Saunders,,Creature — Drake,Flying,"POR,TMP,6ED,S99,BRB,S00,7ED,8ED,9ED,M10,M13,DGM,TPR"
-Winds of Change,,Adam Rex,,Sorcery,"Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.","LEG,4ED,5ED,POR,MED"
-Winter's Grasp,,Paolo Parente,,Sorcery,Destroy target land.,"POR,TMP"
-Withering Gaze,,Scott M. Fischer,,Sorcery,Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.,"POR,9ED"
-Wood Elves,,Rebecca Guay,,Creature — Elf Scout,"When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.","POR,EXO,S99,7ED,8ED,9ED,pGTW,EVG,C14,DD3_EVG,C15"
-Wrath of God,,Mike Raabe,,Sorcery,Destroy all creatures. They can't be regenerated.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,6ED,BRB,7ED,pMPR,8ED,9ED,10E,C13,V14"
+name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
+Alabaster Dragon,{4}{W}{W},6,W,Ted Naifeh,,Creature — Dragon,"Flying\nWhen Alabaster Dragon dies, shuffle it into its owner's library.","POR,WTH",,normal,4369,4,4,Rare,Dragon,Creature
+Alluring Scent,{1}{G}{G},3,G,Ted Naifeh,,Sorcery,All creatures able to block target creature this turn do so.,"POR,PO2,S99,ME4",Doom rarely smells this sweet.,normal,4286,,,Rare,,Sorcery
+Anaconda,{3}{G},4,G,Andrew Robinson,,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,7ED,9ED","Something soft bumped against the rowboat, then was gone.",normal,4288,3,3,Uncommon,Snake,Creature
+Anaconda,{3}{G},4,G,Andrew Robinson,,Creature — Snake,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,7ED,9ED",,normal,4287,3,3,Uncommon,Snake,Creature
+Ancestral Memories,{2}{U}{U}{U},5,U,Dan Frazier,,Sorcery,Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.,"MIR,POR,6ED,7ED",,normal,4247,,,Rare,,Sorcery
+Angelic Blessing,{2}{W},3,W,DiTerlizzi,,Sorcery,Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.),"POR,PO2,EXO,S99,S00,9ED,10E,TPR",A peasant can do more by faith than a king by proclamation.,normal,4370,,,Common,,Sorcery
+Archangel,{5}{W}{W},7,W,Quinton Hoover,,Creature — Angel,"Flying, vigilance","VIS,POR,PO2,6ED,S99,AVR,C13",,normal,4371,5,5,Rare,Angel,Creature
+Ardent Militia,{4}{W},5,W,Mike Raabe,,Creature — Human Soldier,Vigilance,"POR,WTH,6ED,S99,7ED,8ED","Some fight for honor and some for gold, but the militia fights for hearth and home.",normal,4372,2,5,Uncommon,"Human,Soldier",Creature
+Armageddon,{3}{W},4,W,John Avon,,Sorcery,Destroy all lands.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,PO2,pJGP,ATH,6ED,S99,MED,ME4,VMA,V14",""‘O miserable of happy! Is this the end\nOf this new glorious world . . . ?'"
+—John Milton, Paradise Lost",normal,4373,,,Rare,,Sorcery
+Armored Pegasus,{1}{W},2,W,Andrew Robinson,,Creature — Pegasus,Flying,"POR,pPOD,TMP,ATH,6ED,BRB,S00,TPR","Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",normal,4374,1,2,Common,Pegasus,Creature
+Arrogant Vampire,{3}{B}{B},5,B,Zina Saunders,,Creature — Vampire,Flying,POR,Charm and grace may hide a foul heart.,normal,4207,4,3,Uncommon,Vampire,Creature
+Assassin's Blade,{1}{B},2,B,John Matson,,Instant,Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.\nDestroy target nonblack attacking creature.,POR,,normal,4208,,,Uncommon,,Instant
+Balance of Power,{3}{U}{U},5,U,Adam Rex,,Sorcery,"If target opponent has more cards in hand than you, draw cards equal to the difference.","POR,PTK,8ED",,normal,4248,,,Rare,,Sorcery
+Baleful Stare,{2}{U},3,U,John Coulthart,,Sorcery,Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.,"POR,7ED,9ED",,normal,4249,,,Uncommon,,Sorcery
+Bee Sting,{3}{G},4,G,Phil Foglio,,Sorcery,Bee Sting deals 2 damage to target creature or player.,"POR,PO2,ME4",There are few things as motivating as a swarm of bees.,normal,4289,,,Uncommon,,Sorcery
+Blaze,{X}{R},1,R,Gerry Grace,,Sorcery,Blaze deals X damage to target creature or player.,"POR,PO2,6ED,PTK,7ED,8ED,9ED,10E,HOP,DPA",,normal,4329,,,Uncommon,,Sorcery
+Blaze,{X}{R},1,R,Gerry Grace,,Sorcery,Blaze deals X damage to target creature or player.,"POR,PO2,6ED,PTK,7ED,8ED,9ED,10E,HOP,DPA",Fire never dies alone.,normal,4328,,,Uncommon,,Sorcery
+Blessed Reversal,{1}{W},2,W,Zina Saunders,,Instant,You gain 3 life for each creature attacking you.,"POR,ULG,7ED,8ED",,normal,4375,,,Rare,,Instant
+Blinding Light,{2}{W},3,W,John Coulthart,,Sorcery,Tap all nonwhite creatures.,"MIR,POR,S99,INV",Let the unjust avert their faces and contemplate their peril.,normal,4376,,,Rare,,Sorcery
+Bog Imp,{1}{B},2,B,Christopher Rush,,Creature — Imp,Flying (This creature can't be blocked except by creatures with flying or reach.),"DRK,4ED,RQS,ITP,5ED,POR,6ED,S99,S00,7ED,8ED,9ED",Don't be fooled by their looks. Think of them as little knives with wings.,normal,4209,1,1,Common,Imp,Creature
+Bog Raiders,{2}{B},3,B,Steve Luke,,Creature — Zombie,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"POR,USG,S99,M11",Those who live amid decay must expect scavengers.,normal,4210,2,2,Common,Zombie,Creature
+Bog Wraith,{3}{B},4,B,Ted Naifeh,,Creature — Wraith,Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,6ED,S99,7ED,8ED,9ED,10E,M10","It moved through the troops leaving no footprints, save on their souls.",normal,4211,3,3,Uncommon,Wraith,Creature
+Boiling Seas,{3}{R},4,R,Tom Wänerstrand,,Sorcery,Destroy all Islands.,"POR,9ED","What burns the land, boils the seas.",normal,4330,,,Uncommon,,Sorcery
+Border Guard,{2}{W},3,W,Kev Walker,,Creature — Human Soldier,,"POR,S99",""Join the army, see foreign countries!" they'd said.",normal,4377,1,4,Common,"Human,Soldier",Creature
+Breath of Life,{3}{W},4,W,DiTerlizzi,,Sorcery,Return target creature card from your graveyard to the battlefield.,"POR,PO2,S99,S00,7ED,VMA",,normal,4378,,,Common,,Sorcery
+Bull Hippo,{3}{G},4,G,Roger Raupp,,Creature — Hippo,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),"POR,pPOD,USG,S99,7ED","Stay alert: his lumbering may shake the ground itself, but in water, he glides.",normal,4290,3,3,Uncommon,Hippo,Creature
+Burning Cloak,{R},1,R,Scott M. Fischer,,Sorcery,Target creature gets +2/+0 until end of turn. Burning Cloak deals 2 damage to that creature.,POR,,normal,4331,,,Common,,Sorcery
+Capricious Sorcerer,{2}{U},3,U,Zina Saunders,,Creature — Human Wizard,"{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.",POR,,normal,4250,1,1,Rare,"Human,Wizard",Creature
+Charging Bandits,{4}{B},5,B,Dermot Power,,Creature — Human Rogue,"Whenever Charging Bandits attacks, it gets +2/+0 until end of turn.",POR,The fear in their victims' eyes is their most cherished reward.,normal,4212,3,3,Uncommon,"Human,Rogue",Creature
+Charging Paladin,{2}{W},3,W,Kev Walker,,Creature — Human Knight,"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.","POR,EXO,S99,DDC,DD3_DVD,TPR","A true warrior's thoughts are of victory, not death.",normal,4379,2,2,Uncommon,"Human,Knight",Creature
+Charging Rhino,{3}{G}{G},5,G,Una Fricker,,Creature — Rhino,Charging Rhino can't be blocked by more than one creature.,"POR,TMP,CNS,M15","A rhino rarely uses its horn to announce its charge, only to end it.",normal,4291,4,4,Rare,Rhino,Creature
+Cloak of Feathers,{U},1,U,Rebecca Guay,,Sorcery,Target creature gains flying until end of turn.\nDraw a card.,POR,"A thousand feathers from a thousand birds, sewn with magic and song.",normal,4251,,,Common,,Sorcery
+Cloud Dragon,{5}{U},6,U,John Avon,,Creature — Illusion Dragon,Flying\nCloud Dragon can block only creatures with flying.,"POR,ME4",,normal,4252,5,4,Rare,"Illusion,Dragon",Creature
+Cloud Pirates,{U},1,U,Phil Foglio,,Creature — Human Pirate,Flying\nCloud Pirates can block only creatures with flying.,"POR,pPOD",,normal,4253,1,1,Common,"Human,Pirate",Creature
+Cloud Spirit,{2}{U},3,U,DiTerlizzi,,Creature — Spirit,Flying\nCloud Spirit can block only creatures with flying.,"POR,STH,ME4",,normal,4254,3,1,Uncommon,Spirit,Creature
+Command of Unsummoning,{2}{U},3,U,Phil Foglio,,Instant,Cast Command of Unsummoning only during the declare attackers step and only if you've been attacked this step.\nReturn one or two target attacking creatures to their owner's hand.,POR,,normal,4255,,,Uncommon,,Instant
+Coral Eel,{1}{U},2,U,Una Fricker,,Creature — Fish,,"POR,S99,8ED,9ED","Some fishers like to eat eels, and some eels like to eat fishers.",normal,4256,2,1,Common,Fish,Creature
+Craven Giant,{2}{R},3,R,Ron Spencer,,Creature — Giant,Craven Giant can't block.,"POR,STH,TPR","The best armor is to keep out of range."\n—Italian proverb,normal,4332,4,1,Common,Giant,Creature
+Craven Knight,{1}{B},2,B,Charles Gillespie,,Creature — Human Knight,Craven Knight can't block.,POR,"I say victory is better than honor.",normal,4213,2,2,Common,"Human,Knight",Creature
+Cruel Bargain,{B}{B}{B},3,B,Adrian Smith,,Sorcery,"Draw four cards. You lose half your life, rounded up.","POR,VMA",,normal,4214,,,Rare,,Sorcery
+Cruel Fate,{4}{U},5,U,Adrian Smith,,Sorcery,Look at the top five cards of target opponent's library. Put one of those cards into that player's graveyard and the rest on top of his or her library in any order.,POR,,normal,4257,,,Rare,,Sorcery
+Cruel Tutor,{2}{B},3,B,Kev Walker,,Sorcery,"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",POR,"The more you pay for the lesson, the better you'll remember it.",normal,4215,,,Rare,,Sorcery
+Deep Wood,{1}{G},2,G,Paolo Parente,,Instant,Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.,"POR,PO2",,normal,4292,,,Uncommon,,Instant
+Deep-Sea Serpent,{4}{U}{U},6,U,Scott M. Fischer,,Creature — Serpent,Deep-Sea Serpent can't attack unless defending player controls an Island.,POR,Sailors fear the deep-sea serpent; others thank the gods it has no legs.,normal,4258,5,5,Uncommon,Serpent,Creature
+Defiant Stand,{1}{W},2,W,Hannibal King,,Instant,Cast Defiant Stand only during the declare attackers step and only if you've been attacked this step.\nTarget creature gets +1/+3 until end of turn. Untap that creature.,POR,,normal,4380,,,Uncommon,,Instant
+Déjà Vu,{2}{U},3,U,Hannibal King,,Sorcery,Return target sorcery card from your graveyard to your hand.,"POR,PO2",The past is a mirror of the future.,normal,4259,,,Common,,Sorcery
+Desert Drake,{3}{R},4,R,Gerry Grace,,Creature — Drake,Flying,POR,Never doubt a dragon just because of its size.,normal,4333,2,2,Uncommon,Drake,Creature
+Devastation,{5}{R}{R},7,R,Steve Luke,,Sorcery,Destroy all creatures and lands.,"POR,S99,ME4",There is much talk about the art of creation. What about the art of destruction?,normal,4334,,,Rare,,Sorcery
+Devoted Hero,{W},1,W,DiTerlizzi,,Creature — Elf Soldier,,"POR,S99",The heart's courage is the soul's guardian.,normal,4381,1,2,Common,"Elf,Soldier",Creature
+Djinn of the Lamp,{5}{U}{U},7,U,DiTerlizzi,,Creature — Djinn,Flying,POR,"Once they learn the trick of carrying their own lamps, they never touch the ground again.",normal,4260,5,6,Rare,Djinn,Creature
+Dread Charge,{3}{B},4,B,Ted Naifeh,,Sorcery,Black creatures you control can't be blocked this turn except by black creatures.,POR,""As equal were their souls, so equal was their fate." —John Dryden, "Ode to Mrs. Anne Killigrew"",normal,4216,,,Rare,,Sorcery
+Dread Reaper,{3}{B}{B}{B},6,B,Christopher Rush,,Creature — Horror,"Flying\nWhen Dread Reaper enters the battlefield, you lose 5 life.","POR,S99,ME4",,normal,4217,6,5,Rare,Horror,Creature
+Dry Spell,{1}{B},2,B,Roger Raupp,,Sorcery,Dry Spell deals 1 damage to each creature and each player.,"HML,POR,6ED,ME2","A fist of dust to line your throat, a bowl of sand to fill your belly.",normal,4218,,,Uncommon,,Sorcery
+Earthquake,{X}{R},1,R,Adrian Smith,,Sorcery,Earthquake deals X damage to each creature without flying and each player.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,PO2,6ED,7ED,M10,CMD,C15",,normal,4335,,,Rare,,Sorcery
+Ebon Dragon,{5}{B}{B},7,B,Donato Giancola,,Creature — Dragon,"Flying\nWhen Ebon Dragon enters the battlefield, you may have target opponent discard a card.","POR,DRB,ME4",,normal,4219,5,4,Rare,Dragon,Creature
+Elite Cat Warrior,{2}{G},3,G,Eric Peterson,,Creature — Cat Warrior,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"POR,ME4","Hear that? No? That's a cat warrior.",normal,4294,2,3,Common,"Cat,Warrior",Creature
+Elite Cat Warrior,{2}{G},3,G,Eric Peterson,,Creature — Cat Warrior,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"POR,ME4",,normal,4293,2,3,Common,"Cat,Warrior",Creature
+Elven Cache,{2}{G}{G},4,G,Rebecca Guay,,Sorcery,Return target card from your graveyard to your hand.,"VIS,POR,6ED","Elves know where to harvest the best of the forest, for they planted it themselves.",normal,4295,,,Common,,Sorcery
+Elvish Ranger,{2}{G},3,G,DiTerlizzi,,Creature — Elf,,"ALL,POR,ME2",It's up to you if you enter their woods—and up to them if you leave.,normal,4296,4,1,Common,Elf,Creature
+Endless Cockroaches,{1}{B}{B},3,B,Ron Spencer,,Creature — Insect,"When Endless Cockroaches dies, return it to its owner's hand.","POR,C13",,normal,4220,1,1,Rare,Insect,Creature
+Exhaustion,{2}{U},3,U,DiTerlizzi,,Sorcery,Creatures and lands target opponent controls don't untap during his or her next untap step.,"POR,PO2,USG,PTK,S99,9ED",,normal,4261,,,Rare,,Sorcery
+False Peace,{W},1,W,Zina Saunders,,Sorcery,Target player skips all combat phases of his or her next turn.,"POR,S99",Mutual consent is not required for war.,normal,4382,,,Common,,Sorcery
+Feral Shadow,{2}{B},3,B,Colin MacNeil,,Creature — Nightstalker,Flying,"MIR,POR,pPOD,6ED,S99,BTD",Not all shadows are cast by light—some are cast by darkness.,normal,4221,2,1,Common,Nightstalker,Creature
+Final Strike,{2}{B}{B},4,B,John Coulthart,,Sorcery,"As an additional cost to cast Final Strike, sacrifice a creature.\nFinal Strike deals damage to target opponent equal to the sacrificed creature's power.",POR,,normal,4222,,,Rare,,Sorcery
+Fire Dragon,{6}{R}{R}{R},9,R,William Simpson,,Creature — Dragon,"Flying\nWhen Fire Dragon enters the battlefield, it deals damage to target creature equal to the number of Mountains you control.","POR,ME2",,normal,4336,6,6,Rare,Dragon,Creature
+Fire Imp,{2}{R},3,R,DiTerlizzi,,Creature — Imp,"When Fire Imp enters the battlefield, it deals 2 damage to target creature.","POR,ME4",,normal,4337,2,1,Uncommon,Imp,Creature
+Fire Snake,{4}{R},5,R,Steve Luke,,Creature — Snake,"When Fire Snake dies, destroy target land.",POR,The snake's final thrashings only spread the fire within it.,normal,4338,3,1,Common,Snake,Creature
+Fire Tempest,{5}{R}{R},7,R,Mike Dringenberg,,Sorcery,Fire Tempest deals 6 damage to each creature and each player.,"POR,S99,ME4",,normal,4339,,,Rare,,Sorcery
+Flashfires,{3}{R},4,R,Randy Gallegos,,Sorcery,Destroy all Plains.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,6ED,8ED,9ED",Dry grass is tinder before the spark.,normal,4340,,,Uncommon,,Sorcery
+Fleet-Footed Monk,{1}{W},2,W,D. Alexander Gregory,,Creature — Human Monk,Fleet-Footed Monk can't be blocked by creatures with power 2 or greater.,POR,"Hesitation is for the faithless. My belief lends me speed.",normal,4383,1,1,Common,"Human,Monk",Creature
+Flux,{2}{U},3,U,Ted Naifeh,,Sorcery,"Each player discards any number of cards, then draws that many cards.\nDraw a card.","POR,WTH",,normal,4262,,,Uncommon,,Sorcery
+Foot Soldiers,{3}{W},4,W,Kev Walker,,Creature — Human Soldier,,"POR,S99,9ED",Infantry deployment is the art of putting your troops in the wrong place at the right time.,normal,4384,2,4,Common,"Human,Soldier",Creature
+Forest,,,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4413,,,Basic Land,Forest,Land
+Forest,,,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4414,,,Basic Land,Forest,Land
+Forest,,,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4415,,,Basic Land,Forest,Land
+Forest,,,,John Avon,,Basic Land — Forest,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,AVR,PC2,M13,DDJ,RTR,M14,DDL,THS,C13,DDM,M15,KTK,C14,DD3_EVG,DD3_GVL,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4416,,,Basic Land,Forest,Land
+Forked Lightning,{3}{R},4,R,Ted Naifeh,,Sorcery,"Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.","POR,ME3",,normal,4341,,,Rare,,Sorcery
+Fruition,{G},1,G,Steve Luke,,Sorcery,You gain 1 life for each Forest on the battlefield.,POR,Come to these woods and suffer no pain; you've burdens to lose and new life to gain.,normal,4297,,,Common,,Sorcery
+Giant Octopus,{3}{U},4,U,John Matson,,Creature — Octopus,,"POR,S99,S00,7ED,8ED,9ED","At the sight of the thing the calamari vendor's eyes went wide, but from fear or avarice none could tell.",normal,4263,3,3,Common,Octopus,Creature
+Giant Spider,{3}{G},4,G,Randy Gallegos,,Creature — Spider,Reach (This creature can block creatures with flying.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,ATH,6ED,7ED,8ED,9ED,10E,M10,DPA,M11,M12,M14","It's not far into the trap, as the crow flies.",normal,4298,2,4,Common,Spider,Creature
+Gift of Estates,{1}{W},2,W,Kaja Foglio,,Sorcery,"If an opponent controls more lands than you, search your library for up to three Plains cards, reveal them, and put them into your hand. Then shuffle your library.","POR,9ED,C14",,normal,4385,,,Rare,,Sorcery
+Goblin Bully,{1}{R},2,R,Pete Venters,,Creature — Goblin,,"POR,ME4",It's easy to stand head and shoulders over those with no backbone.,normal,4342,2,1,Common,Goblin,Creature
+Gorilla Warrior,{2}{G},3,G,John Matson,,Creature — Ape Warrior,,"POR,USG,S99,BRB",They were formidable even before they learned the use of weapons.,normal,4299,3,2,Common,"Ape,Warrior",Creature
+Gravedigger,{3}{B},4,B,Scott M. Fischer,,Creature — Zombie,"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.","POR,TMP,6ED,S99,BTD,7ED,ODY,8ED,9ED,pGTW,10E,M10,HOP,M11,CMD,M12,M15,TPR",,normal,4223,2,2,Uncommon,Zombie,Creature
+Grizzly Bears,{1}{G},2,G,Zina Saunders,,Creature — Bear,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,6ED,S99,7ED,8ED,9ED,10E",Don't worry about provoking grizzly bears; they come that way.,normal,4300,2,2,Common,Bear,Creature
+Hand of Death,{2}{B},3,B,John Coulthart,,Sorcery,Destroy target nonblack creature.,"POR,PO2,S99,S00",Death claims all but the darkest souls.,normal,4224,,,Common,,Sorcery
+Hand of Death,{2}{B},3,B,John Coulthart,,Sorcery,Destroy target nonblack creature.,"POR,PO2,S99,S00",Death claims all but the darkest souls.,normal,4225,,,Common,,Sorcery
+Harsh Justice,{2}{W},3,W,John Coulthart,,Instant,"Cast Harsh Justice only during the declare attackers step and only if you've been attacked this step.\nThis turn, whenever an attacking creature deals combat damage to you, it deals that much damage to its controller.","POR,ME4",,normal,4386,,,Rare,,Instant
+Highland Giant,{2}{R}{R},4,R,Ron Spencer,,Creature — Giant,,POR,"Though slow-witted and slow-moving, they are quick to anger.",normal,4343,3,4,Common,Giant,Creature
+Hill Giant,{3}{R},4,R,Randy Gallegos,,Creature — Giant,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,7ED,8ED,9ED,10E,DPA","Hill giants are mostly just big. Of course, that does count for a lot!",normal,4344,3,3,Common,Giant,Creature
+Horned Turtle,{2}{U},3,U,Adrian Smith,,Creature — Turtle,,"POR,TMP,6ED,7ED,8ED,9ED,M10,TPR","Its spear has no shaft, its shield no handle.",normal,4264,1,4,Common,Turtle,Creature
+Howling Fury,{2}{B},3,B,Mike Dringenberg,,Sorcery,Target creature gets +4/+0 until end of turn.,"POR,S99","I howl my soul to the moon, and the moon howls with me.",normal,4226,,,Common,,Sorcery
+Hulking Cyclops,{3}{R}{R},5,R,Paolo Parente,,Creature — Cyclops,Hulking Cyclops can't block.,"VIS,POR,6ED,BTD,8ED","Anyone can get around a cyclops, but few can stand in its way.",normal,4345,5,5,Uncommon,Cyclops,Creature
+Hulking Goblin,{1}{R},2,R,Pete Venters,,Creature — Goblin,Hulking Goblin can't block.,"POR,S99,VMA","The bigger they are, the harder they avoid work.",normal,4346,2,2,Common,Goblin,Creature
+Hurricane,{X}{G},1,G,Andrew Robinson,,Sorcery,Hurricane deals X damage to each creature with flying and each player.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,5ED,POR,PO2,ATH,6ED,BRB,7ED,DKM,10E",,normal,4301,,,Rare,,Sorcery
+Ingenious Thief,{1}{U},2,U,Dan Frazier,,Creature — Human Rogue,"Flying\nWhen Ingenious Thief enters the battlefield, look at target player's hand.","POR,S99",,normal,4265,1,1,Uncommon,"Human,Rogue",Creature
+Island,,,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15",,normal,4424,,,Basic Land,Island,Land
+Island,,,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15",,normal,4421,,,Basic Land,Island,Land
+Island,,,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15",,normal,4422,,,Basic Land,Island,Land
+Island,,,,Eric Peterson,,Basic Land — Island,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,DDF,SOM,MBS,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,M14,THS,C13,DDM,M15,DDN,KTK,C14,DD3_JVC,FRF,DDO,DTK,TPR,ORI,BFZ,C15",,normal,4423,,,Basic Land,Island,Land
+Jungle Lion,{G},1,G,Janine Johnston,,Creature — Cat,Jungle Lion can't block.,"POR,ME3",The lion's only loyalty is to its hunger.,normal,4302,2,1,Common,Cat,Creature
+Keen-Eyed Archers,{2}{W},3,W,Alan Rabinowitz,,Creature — Elf Archer,Reach (This creature can block creatures with flying.),POR,""If it has wings, shoot it. If it doesn't, shoot it anyway."",normal,4387,2,2,Common,"Elf,Archer",Creature
+King's Assassin,{1}{B}{B},3,B,Zina Saunders,,Creature — Human Assassin,"{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.",POR,Fear is as effective a weapon as the blade.,normal,4227,1,1,Rare,"Human,Assassin",Creature
+Knight Errant,{1}{W},2,W,Dan Frazier,,Creature — Human Knight,,"POR,S99,S00,7ED","". . . Before honor is humility."\n—The Bible, Proverbs 15:33",normal,4388,2,2,Common,"Human,Knight",Creature
+Last Chance,{R}{R},2,R,Hannibal King,,Sorcery,"Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.","POR,S99,ME4",,normal,4347,,,Rare,,Sorcery
+Lava Axe,{4}{R},5,R,Adrian Smith,,Sorcery,Lava Axe deals 5 damage to target player.,"POR,PO2,ULG,S99,S00,BTD,7ED,8ED,9ED,pGTW,10E,M10,M11,M12,M14,M15","Swing your axe as a broom, to sweep away the foe.",normal,4348,,,Common,,Sorcery
+Lava Flow,{3}{R}{R},5,R,Mike Dringenberg,,Sorcery,Destroy target creature or land.,"POR,ME4",People ran as never before at the thought of being buried and cremated at the same time.,normal,4349,,,Uncommon,,Sorcery
+Lizard Warrior,{3}{R},4,R,Roger Raupp,,Creature — Lizard Warrior,,"POR,CNS",Don't let its appearance frighten you. Let its claws and teeth do that.,normal,4350,4,2,Common,"Lizard,Warrior",Creature
+Man-o'-War,{2}{U},3,U,Una Fricker,,Creature — Jellyfish,"When Man-o'-War enters the battlefield, return target creature to its owner's hand.","pARL,VIS,POR,S99,BRB,DD2,VMA,DD3_JVC,DDO",,normal,4266,2,2,Uncommon,Jellyfish,Creature
+Mercenary Knight,{2}{B},3,B,Adrian Smith,,Creature — Human Mercenary Knight,"When Mercenary Knight enters the battlefield, sacrifice it unless you discard a creature card.",POR,,normal,4228,4,4,Rare,"Human,Mercenary,Knight",Creature
+Merfolk of the Pearl Trident,{U},1,U,DiTerlizzi,,Creature — Merfolk,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,6ED,S99,S00,7ED,M13","Are merfolk humans with fins, or are humans merfolk with feet?",normal,4267,1,1,Common,Merfolk,Creature
+Mind Knives,{1}{B},2,B,Rebecca Guay,,Sorcery,Target opponent discards a card at random.,POR,"To dodge the unerring knife, one must be free of thought.",normal,4229,,,Common,,Sorcery
+Mind Rot,{2}{B},3,B,Steve Luke,,Sorcery,Target player discards two cards.,"POR,PO2,S99,7ED,8ED,9ED,10E,M10,DPA,M11,M12,M13,RTR,M14,M15,DTK,ORI",,normal,4230,,,Common,,Sorcery
+Minotaur Warrior,{2}{R},3,R,Scott M. Fischer,,Creature — Minotaur Warrior,,POR,"The herd's patience, the stampede's fury.",normal,4351,2,3,Common,"Minotaur,Warrior",Creature
+Mobilize,{G},1,G,Rebecca Guay,,Sorcery,Untap all creatures you control.,POR,A rested mind is the sharpest weapon.,normal,4303,,,Common,,Sorcery
+Monstrous Growth,{1}{G},2,G,Dan Frazier,,Sorcery,Target creature gets +4/+4 until end of turn.,"POR,PO2,S99,S00,7ED,8ED",,normal,4304,,,Common,,Sorcery
+Monstrous Growth,{1}{G},2,G,Dan Frazier,,Sorcery,Target creature gets +4/+4 until end of turn.,"POR,PO2,S99,S00,7ED,8ED",Some cats are born fighters; others need a little persuading.,normal,4305,,,Common,,Sorcery
+Moon Sprite,{1}{G},2,G,Terese Nielsen,,Creature — Faerie,Flying,"POR,S99,S00",""I am that merry wanderer of the night."\n—William Shakespeare,
+A Midsummer Night's Dream",normal,4306,1,1,Uncommon,Faerie,Creature
+Mountain,,,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4419,,,Basic Land,Mountain,Land
+Mountain,,,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4417,,,Basic Land,Mountain,Land
+Mountain,,,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4418,,,Basic Land,Mountain,Land
+Mountain,,,,Brian Durfee,,Basic Land — Mountain,,"LEA,LEB,2ED,ARN,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,EVG,SHM,ALA,DD2,M10,HOP,ME3,ZEN,H09,DDE,ROE,DPA,ARC,M11,SOM,PD2,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,DDJ,RTR,DDK,M14,DDL,THS,C13,M15,DDN,KTK,C14,DD3_EVG,DD3_JVC,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4420,,,Basic Land,Mountain,Land
+Mountain Goat,{R},1,R,Una Fricker,,Creature — Goat,Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.),"ICE,5ED,POR,6ED",Only the heroic and the mad follow mountain goat trails.,normal,4352,1,1,Uncommon,Goat,Creature
+Muck Rats,{B},1,B,Colin MacNeil,,Creature — Rat,,"POR,PO2,S99",The difference between a nuisance and a threat is often merely a matter of numbers.,normal,4231,1,1,Common,Rat,Creature
+Mystic Denial,{1}{U}{U},3,U,Hannibal King,,Instant,Counter target creature or sorcery spell.,"POR,PO2,PTK",,normal,4268,,,Uncommon,,Instant
+Natural Order,{2}{G}{G},4,G,Alan Rabinowitz,,Sorcery,"As an additional cost to cast Natural Order, sacrifice a green creature.\nSearch your library for a green creature card and put it onto the battlefield. Then shuffle your library.","VIS,POR,pJGP",,normal,4307,,,Rare,,Sorcery
+Natural Spring,{3}{G}{G},5,G,Janine Johnston,,Sorcery,Target player gains 8 life.,"POR,TMP,PO2,S99,9ED,10E,DPA","Though many have come to this place to wash their wounds, the water has never turned red.",normal,4308,,,Uncommon,,Sorcery
+Nature's Cloak,{2}{G},3,G,Rebecca Guay,,Sorcery,Green creatures you control gain forestwalk until end of turn. (They can't be blocked as long as defending player controls a Forest.),"POR,S99",,normal,4309,,,Rare,,Sorcery
+Nature's Lore,{1}{G},2,G,Terese Nielsen,,Sorcery,Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.,"ICE,5ED,POR,PO2,S99,MED,DDD,VMA,DD3_GVL","Nature's secrets can be read on every tree, every branch, every leaf.",normal,4310,,,Common,,Sorcery
+Nature's Ruin,{2}{B},3,B,Mike Dringenberg,,Sorcery,Destroy all green creatures.,"POR,VMA",One chill blast—the exhalation of the grave.,normal,4232,,,Uncommon,,Sorcery
+Needle Storm,{2}{G},3,G,Charles Gillespie,,Sorcery,Needle Storm deals 4 damage to each creature with flying.,"POR,TMP,9ED,TPR",,normal,4311,,,Uncommon,,Sorcery
+Noxious Toad,{2}{B},3,B,Adrian Smith,,Creature — Frog,"When Noxious Toad dies, each opponent discards a card.",POR,,normal,4233,1,1,Uncommon,Frog,Creature
+Omen,{1}{U},2,U,Eric Peterson,,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.",POR,,normal,4269,,,Common,,Sorcery
+Owl Familiar,{1}{U},2,U,Janine Johnston,,Creature — Bird,"Flying\nWhen Owl Familiar enters the battlefield, draw a card, then discard a card.","POR,S99,ME4,VMA",,normal,4270,1,1,Common,Bird,Creature
+Panther Warriors,{4}{G},5,G,Eric Peterson,,Creature — Cat Warrior,,"VIS,POR,6ED",The dogs of war are nothing compared to the cats.,normal,9845,6,3,Common,"Cat,Warrior",Creature
+Path of Peace,{3}{W},4,W,Pete Venters,,Sorcery,Destroy target creature. Its owner gains 4 life.,"POR,PO2,USG,S99",The soldier reaped the profits of peace.,normal,4389,,,Common,,Sorcery
+Personal Tutor,{U},1,U,D. Alexander Gregory,,Sorcery,"Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.","POR,ME2",,normal,4271,,,Uncommon,,Sorcery
+Phantom Warrior,{1}{U}{U},3,U,Dan Frazier,,Creature — Illusion Warrior,Phantom Warrior can't be blocked.,"POR,WTH,6ED,S99,7ED,8ED,9ED,10E,M10,DPA,M14",The phantom warrior comes from nowhere and returns there just as quickly.,normal,4272,2,2,Rare,"Illusion,Warrior",Creature
+Pillaging Horde,{2}{R}{R},4,R,Kev Walker,,Creature — Human Barbarian,"When Pillaging Horde enters the battlefield, sacrifice it unless you discard a card at random.","POR,VMA",,normal,4353,5,5,Rare,"Human,Barbarian",Creature
+Plains,,,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4426,,,Basic Land,Plains,Land
+Plains,,,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4425,,,Basic Land,Plains,Land
+Plains,,,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4428,,,Basic Land,Plains,Land
+Plains,,,,Douglas Shuler,,Basic Land — Plains,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,pPRE,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,INV,7ED,ODY,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,H09,DDE,ROE,ARC,M11,DDF,SOM,MBS,DDG,NPH,CMD,M12,DDH,ISD,DDI,AVR,PC2,M13,RTR,DDK,M14,DDL,THS,C13,MD1,M15,DDN,KTK,C14,DD3_DVD,FRF,DDO,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4427,,,Basic Land,Plains,Land
+Plant Elemental,{1}{G},2,G,Ted Naifeh,,Creature — Plant Elemental,"When Plant Elemental enters the battlefield, sacrifice it unless you sacrifice a Forest.",POR,,normal,4313,3,4,Uncommon,"Plant,Elemental",Creature
+Primeval Force,{2}{G}{G}{G},5,G,Randy Gallegos,,Creature — Elemental,"When Primeval Force enters the battlefield, sacrifice it unless you sacrifice three Forests.","POR,8ED",,normal,4314,8,8,Rare,Elemental,Creature
+Prosperity,{X}{U},1,U,Phil Foglio,,Sorcery,Each player draws X cards.,"VIS,POR,6ED,C13","Life can never be too good.",normal,4273,,,Rare,,Sorcery
+Pyroclasm,{1}{R},2,R,John Matson,,Sorcery,Pyroclasm deals 2 damage to each creature.,"ICE,POR,7ED,pMPR,DKM,8ED,9ED,10E,M10,M11,DDK,DDL",Chaos does not choose its enemies.,normal,4354,,,Rare,,Sorcery
+Python,{1}{B}{B},3,B,Alan Rabinowitz,,Creature — Snake,,"VIS,POR,6ED,S00",What could it have swallowed to grow so large?,normal,4234,3,2,Common,Snake,Creature
+Raging Cougar,{2}{R},3,R,Terese Nielsen,,Creature — Cat,Haste,POR,Mountaineers quickly learn to travel with their spears always pointed up.,normal,4355,2,2,Common,Cat,Creature
+Raging Goblin,{R},1,R,Pete Venters,,Creature — Goblin Berserker,Haste (This creature can attack and {T} as soon as it comes under your control.),"POR,PO2,EXO,ATH,6ED,S99,BRB,BTD,7ED,8ED,9ED,10E,EVG,M10,DD3_EVG",,normal,4356,1,1,Common,"Goblin,Berserker",Creature
+Raging Goblin,{R},1,R,Pete Venters,,Creature — Goblin Berserker,Haste (This creature can attack and {T} as soon as it comes under your control.),"POR,PO2,EXO,ATH,6ED,S99,BRB,BTD,7ED,8ED,9ED,10E,EVG,M10,DD3_EVG",Charging alone takes uncommon daring or uncommon stupidity. Or both.,normal,4357,1,1,Common,"Goblin,Berserker",Creature
+Raging Minotaur,{2}{R}{R},4,R,Scott M. Fischer,,Creature — Minotaur Berserker,Haste,"POR,ME3",The only thing worse than a minotaur with an axe is an angry minotaur with an axe.,normal,4358,3,3,Common,"Minotaur,Berserker",Creature
+Rain of Salt,{4}{R}{R},6,R,Charles Gillespie,,Sorcery,Destroy two target lands.,"POR,USG","It pelts the land with its fury,\nspoiling what was once sweet.",normal,4359,,,Uncommon,,Sorcery
+Rain of Tears,{1}{B}{B},3,B,Eric Peterson,,Sorcery,Destroy target land.,"POR,TMP,MMQ,10E","When emotions rain down, what rivers will be born?",normal,4235,,,Uncommon,,Sorcery
+Raise Dead,{B},1,B,Charles Gillespie,,Sorcery,Return target creature card from your graveyard to your hand.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,RQS,ITP,5ED,POR,PO2,6ED,S99,7ED,8ED,9ED",The earth cannot hold that which magic commands.,normal,4236,,,Common,,Sorcery
+Redwood Treefolk,{4}{G},5,G,Steve Luke,,Creature — Treefolk,,"POR,WTH,6ED,7ED","The soldiers chopped and chopped, and still the great tree stood, frowning down at them.",normal,4315,3,6,Common,Treefolk,Creature
+Regal Unicorn,{2}{W},3,W,Zina Saunders,,Creature — Unicorn,,"POR,6ED",Unicorns don't care if you believe in them any more than you care if they believe in you.,normal,4390,2,3,Common,Unicorn,Creature
+Renewing Dawn,{1}{W},2,W,John Avon,,Sorcery,You gain 2 life for each Mountain target opponent controls.,POR,"Dawn brings a new day, and a new day brings hope.",normal,4391,,,Uncommon,,Sorcery
+Rowan Treefolk,{3}{G},4,G,Gerry Grace,,Creature — Treefolk,,POR,One of the forest's best protectors is the forest itself.,normal,4316,3,4,Common,Treefolk,Creature
+Sacred Knight,{3}{W},4,W,Donato Giancola,,Creature — Human Knight,Sacred Knight can't be blocked by black and/or red creatures.,POR,""No flame, no horror can sway me from my cause."",normal,4392,3,2,Common,"Human,Knight",Creature
+Sacred Nectar,{1}{W},2,W,Janine Johnston,,Sorcery,You gain 4 life.,"POR,S99,7ED,8ED,9ED",""For he on honey-dew hath fed,\nAnd drunk the milk of Paradise."
+—Samuel Taylor Coleridge, "Kubla Khan"",normal,4393,,,Common,,Sorcery
+Scorching Spear,{R},1,R,Mike Raabe,,Sorcery,Scorching Spear deals 1 damage to target creature or player.,"POR,S99","Lift your spear as you might lift your glass, and toast your enemy.",normal,4360,,,Common,,Sorcery
+Scorching Winds,{R},1,R,D. Alexander Gregory,,Instant,Cast Scorching Winds only during the declare attackers step and only if you've been attacked this step.\nScorching Winds deals 1 damage to each attacking creature.,POR,,normal,4361,,,Uncommon,,Instant
+Seasoned Marshal,{2}{W}{W},4,W,Zina Saunders,,Creature — Human Soldier,"Whenever Seasoned Marshal attacks, you may tap target creature.","POR,USG,BRB,7ED,8ED,9ED,DDF",,normal,4394,2,2,Uncommon,"Human,Soldier",Creature
+Serpent Assassin,{3}{B}{B},5,B,Roger Raupp,,Creature — Snake Assassin,"When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.",POR,,normal,4237,2,2,Rare,"Snake,Assassin",Creature
+Serpent Warrior,{2}{B},3,B,Roger Raupp,,Creature — Snake Warrior,"When Serpent Warrior enters the battlefield, you lose 3 life.","POR,STH,S99,7ED,8ED,9ED,TPR",,normal,4238,3,3,Common,"Snake,Warrior",Creature
+Skeletal Crocodile,{3}{B},4,B,Mike Dringenberg,,Creature — Crocodile Skeleton,,POR,"The less flesh there is, the more teeth there seem to be.",normal,4239,5,1,Common,"Crocodile,Skeleton",Creature
+Skeletal Snake,{1}{B},2,B,John Matson,,Creature — Snake Skeleton,,POR,They watched as the snake shed layer after layer until only cold bone remained.,normal,4240,2,1,Common,"Snake,Skeleton",Creature
+Snapping Drake,{3}{U},4,U,Christopher Rush,,Creature — Drake,Flying,"POR,pPOD,S99,BTD,RAV,10E,M10,DPA",Drakes claim to be dragons—until the dragons show up.,normal,4274,3,2,Common,Drake,Creature
+Sorcerous Sight,{U},1,U,Kaja Foglio,,Sorcery,Look at target opponent's hand.\nDraw a card.,POR,Do not react; anticipate.,normal,4275,,,Common,,Sorcery
+Soul Shred,{3}{B}{B},5,B,Alan Rabinowitz,,Sorcery,Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.,"POR,ME4",It would be a shame to let life slip away to nothing.,normal,4241,,,Common,,Sorcery
+Spined Wurm,{4}{G},5,G,Colin MacNeil,,Creature — Wurm,,"pMEI,POR,STH,S00,7ED,8ED,9ED,10E,DPA,M11,TPR",It has more teeth than fit in its mouth.,normal,4317,5,4,Common,Wurm,Creature
+Spiritual Guardian,{3}{W}{W},5,W,Terese Nielsen,,Creature — Spirit,"When Spiritual Guardian enters the battlefield, you gain 4 life.",POR,Hope is born within.,normal,4395,3,4,Rare,Spirit,Creature
+Spitting Earth,{1}{R},2,R,Hannibal King,,Sorcery,Spitting Earth deals damage to target creature equal to the number of Mountains you control.,"MIR,POR,PO2,6ED,S99,7ED,10E,EVG,DDG,DD3_EVG",,normal,4362,,,Common,,Sorcery
+Spotted Griffin,{3}{W},4,W,William Simpson,,Creature — Griffin,Flying,"POR,ME4","When the cat flies and the bird stalks, guard your horses carefully.",normal,4396,2,3,Common,Griffin,Creature
+Stalking Tiger,{3}{G},4,G,Colin MacNeil,,Creature — Cat,Stalking Tiger can't be blocked by more than one creature.,"MIR,POR,6ED,PTK,10E",No one is happy when they notice a tiger.,normal,4318,3,3,Common,Cat,Creature
+Starlight,{1}{W},2,W,John Avon,,Sorcery,You gain 3 life for each black creature target opponent controls.,"POR,7ED",Stars are like coins dropped into the night: their light buys safe passage.,normal,4397,,,Uncommon,,Sorcery
+Starlit Angel,{3}{W}{W},5,W,Rebecca Guay,,Creature — Angel,Flying,POR,"To soar as high as hope, to dive as swift as justice.",normal,4398,3,4,Uncommon,Angel,Creature
+Steadfastness,{1}{W},2,W,Kev Walker,,Sorcery,Creatures you control get +0/+3 until end of turn.,"POR,S99",Brute force wins the battles. Conviction wins the wars.,normal,4399,,,Common,,Sorcery
+Stern Marshal,{2}{W},3,W,D. Alexander Gregory,,Creature — Human Soldier,"{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.",POR,,normal,4400,2,2,Rare,"Human,Soldier",Creature
+Stone Rain,{2}{R},3,R,John Matson,,Sorcery,Destroy target land.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,MIR,5ED,POR,TMP,PO2,6ED,PTK,S99,MMQ,pFNM,S00,7ED,8ED,CHK,9ED",I cast a thousand tiny suns—\nBeware my many dawns.,normal,4363,,,Common,,Sorcery
+Storm Crow,{1}{U},2,U,Una Fricker,,Creature — Bird,Flying (This creature can't be blocked except by creatures with flying or reach.),"ALL,POR,pPOD,6ED,S99,7ED,8ED,9ED","Storm crow descending, winter unending.  Storm crow departing, summer is starting.",normal,4276,1,2,Common,Bird,Creature
+Summer Bloom,{1}{G},2,G,Kaja Foglio,,Sorcery,You may play up to three additional lands this turn.,"VIS,POR,6ED,S99,9ED",Summer sends its kiss with warmth and blooming life.,normal,4319,,,Rare,,Sorcery
+Swamp,,,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4410,,,Basic Land,Swamp,Land
+Swamp,,,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4409,,,Basic Land,Swamp,Land
+Swamp,,,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4412,,,Basic Land,Swamp,Land
+Swamp,,,,Romas Kukalis,,Basic Land — Swamp,,"LEA,LEB,2ED,CED,CEI,3ED,4ED,ICE,RQS,pARL,MIR,ITP,5ED,POR,TMP,pJGP,PO2,UGL,pALP,USG,ATH,6ED,PTK,S99,pGRU,MMQ,BRB,pELP,S00,BTD,INV,7ED,ODY,DKM,ONS,8ED,MRD,CHK,UNH,9ED,RAV,CST,TSP,10E,MED,LRW,SHM,ALA,DDC,M10,HOP,ME3,ZEN,DDD,H09,DDE,ROE,DPA,ARC,M11,SOM,MBS,NPH,CMD,M12,DDH,ISD,PD3,AVR,PC2,M13,DDJ,RTR,DDK,M14,THS,C13,DDM,MD1,M15,DDN,KTK,C14,DD3_DVD,DD3_GVL,FRF,DTK,TPR,ORI,DDP,BFZ,C15",,normal,4411,,,Basic Land,Swamp,Land
+Sylvan Tutor,{G},1,G,Kaja Foglio,,Sorcery,"Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.","POR,ME4",,normal,4320,,,Rare,,Sorcery
+Symbol of Unsummoning,{2}{U},3,U,Adam Rex,,Sorcery,Return target creature to its owner's hand.\nDraw a card.,"POR,ME4","". . . inviting the soul to wander for a spell in abysses of solitude . . . ."\n—Kate Chopin, The Awakening",normal,4277,,,Common,,Sorcery
+Taunt,{U},1,U,Phil Foglio,,Sorcery,"During target player's next turn, creatures that player controls attack you if able.",POR,,normal,4278,,,Rare,,Sorcery
+Temporary Truce,{1}{W},2,W,Mike Raabe,,Sorcery,"Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.",POR,,normal,4401,,,Rare,,Sorcery
+Theft of Dreams,{2}{U},3,U,Adam Rex,,Sorcery,Draw a card for each tapped creature target opponent controls.,"POR,PO2,EXO,ME4","Energy is never lost, only transformed.",normal,4279,,,Uncommon,,Sorcery
+Thing from the Deep,{6}{U}{U}{U},9,U,Paolo Parente,,Creature — Leviathan,"Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.","POR,ME4",Seafarers fear sailing off the world's edge not so much as down its gullet.,normal,4280,9,9,Rare,Leviathan,Creature
+Thundering Wurm,{2}{G},3,G,Paolo Parente,,Creature — Wurm,"When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.",POR,,normal,4321,4,4,Rare,Wurm,Creature
+Thundermare,{5}{R},6,R,Bob Eggleton,,Creature — Elemental Horse,"Haste (This creature can attack the turn it comes under your control.)\nWhen Thundermare enters the battlefield, tap all other creatures.","POR,WTH,9ED",,normal,4364,5,5,Rare,"Elemental,Horse",Creature
+Tidal Surge,{1}{U},2,U,Douglas Shuler,,Sorcery,Tap up to three target creatures without flying.,"POR,STH,PO2,6ED",""'Twas  when the seas were roaring\nWith hollow blasts of wind . . . ."
+—John Gay, "The What D'Ye Call It"",normal,4281,,,Common,,Sorcery
+Time Ebb,{2}{U},3,U,Alan Rabinowitz,,Sorcery,Put target creature on top of its owner's library.,"POR,TMP,PO2,S99,S00,9ED,M14,TPR","Like the tide, time both ebbs and flows.",normal,4282,,,Common,,Sorcery
+Touch of Brilliance,{3}{U},4,U,John Coulthart,,Sorcery,Draw two cards.,"POR,PO2,S99",Acting on one good idea is better than hoarding all the world's knowledge.,normal,4283,,,Common,,Sorcery
+Treetop Defense,{1}{G},2,G,Zina Saunders,,Instant,Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.\nCreatures you control gain reach until end of turn. (They can block creatures with flying.),POR,,normal,4322,,,Rare,,Instant
+Undying Beast,{3}{B},4,B,Steve Luke,,Creature — Beast,"When Undying Beast dies, put it on top of its owner's library.",POR,,normal,4242,3,2,Common,Beast,Creature
+Untamed Wilds,{2}{G},3,G,Romas Kukalis,,Sorcery,Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.,"LEG,4ED,RQS,ITP,5ED,POR,PO2,6ED,S99,7ED",,normal,4323,,,Uncommon,,Sorcery
+Valorous Charge,{1}{W}{W},3,W,Douglas Shuler,,Sorcery,White creatures get +2/+0 until end of turn.,POR,Stand in the way of truth at your peril.,normal,4402,,,Uncommon,,Sorcery
+Vampiric Feast,{5}{B}{B},7,B,D. Alexander Gregory,,Sorcery,Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.,POR,It's not always gold the thief is after.,normal,4243,,,Uncommon,,Sorcery
+Vampiric Touch,{2}{B},3,B,Zina Saunders,,Sorcery,Vampiric Touch deals 2 damage to target opponent and you gain 2 life.,POR,"A touch, not comforting, but of death.",normal,4244,,,Common,,Sorcery
+Venerable Monk,{2}{W},3,W,D. Alexander Gregory,,Creature — Human Monk Cleric,"When Venerable Monk enters the battlefield, you gain 2 life.","POR,STH,6ED,S99,S00,7ED,8ED,9ED,10E,DDC,DD3_DVD",His presence brings not only a strong arm but also renewed hope.,normal,4403,2,2,Uncommon,"Human,Monk,Cleric",Creature
+Vengeance,{3}{W},4,W,Andrew Robinson,,Sorcery,Destroy target tapped creature.,"POR,PO2,PTK,S99,7ED,8ED,9ED","Bitter as wormwood, sweet as mulled wine.",normal,4404,,,Uncommon,,Sorcery
+Virtue's Ruin,{2}{B},3,B,Mike Dringenberg,,Sorcery,Destroy all white creatures.,"POR,V14","All must fall, and those who stand highest fall hardest.",normal,4245,,,Uncommon,,Sorcery
+Volcanic Dragon,{4}{R}{R},6,R,Tom Wänerstrand,,Creature — Dragon,Flying\nHaste (This creature can attack and {T} as soon as it comes under your control.),"MIR,POR,ATH,6ED,S99,M12",,normal,4365,4,4,Rare,Dragon,Creature
+Volcanic Hammer,{1}{R},2,R,Christopher Rush,,Sorcery,Volcanic Hammer deals 3 damage to target creature or player.,"POR,PO2,S99,pSUS,7ED,8ED,9ED","Cast the weight as though it were a die, to see a rival's fate.",normal,4366,,,Common,,Sorcery
+Wall of Granite,{2}{R},3,R,Kev Walker,,Creature — Wall,Defender (This creature can't attack.),POR,The wisest man builds his house behind the rock.,normal,4367,0,7,Uncommon,Wall,Creature
+Wall of Swords,{3}{W},4,W,Douglas Shuler,,Creature — Wall,Defender (This creature can't attack.)\nFlying,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,6ED,7ED,8ED,10E,M14","Sharper than wind, lighter than air.",normal,4405,3,5,Uncommon,Wall,Creature
+Warrior's Charge,{2}{W},3,W,Ted Naifeh,,Sorcery,Creatures you control get +1/+1 until end of turn.,POR,"It is not the absence of fear that makes a warrior, but its domination.",normal,4407,,,Common,,Sorcery
+Warrior's Charge,{2}{W},3,W,Ted Naifeh,,Sorcery,Creatures you control get +1/+1 until end of turn.,POR,,normal,4406,,,Common,,Sorcery
+Whiptail Wurm,{6}{G},7,G,Una Fricker,,Creature — Wurm,,"POR,S99,ME4",It's hard to say for certain which end is more dangerous.,normal,4324,8,5,Uncommon,Wurm,Creature
+Wicked Pact,{1}{B}{B},3,B,Adam Rex,,Sorcery,Destroy two target nonblack creatures. You lose 5 life.,"POR,S99,ME4",,normal,4246,,,Rare,,Sorcery
+Willow Dryad,{G},1,G,D. Alexander Gregory,,Creature — Dryad,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),POR,Some think that dryads are the dreams of trees.,normal,4325,1,1,Common,Dryad,Creature
+Wind Drake,{2}{U},3,U,Zina Saunders,,Creature — Drake,Flying,"POR,TMP,6ED,S99,BRB,S00,7ED,8ED,9ED,M10,M13,DGM,TPR",""No bird soars too high, if he soars with his own wings." —William Blake, The Marriage of Heaven and Hell",normal,4284,2,2,Common,Drake,Creature
+Winds of Change,{R},1,R,Adam Rex,,Sorcery,"Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.","LEG,4ED,5ED,POR,MED",,normal,4368,,,Rare,,Sorcery
+Winter's Grasp,{1}{G}{G},3,G,Paolo Parente,,Sorcery,Destroy target land.,"POR,TMP","Winter settles on the land, and the land prays it will wake.",normal,4326,,,Uncommon,,Sorcery
+Withering Gaze,{2}{U},3,U,Scott M. Fischer,,Sorcery,Target opponent reveals his or her hand. You draw a card for each Forest and green card in it.,"POR,9ED",,normal,4285,,,Uncommon,,Sorcery
+Wood Elves,{2}{G},3,G,Rebecca Guay,,Creature — Elf Scout,"When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.","POR,EXO,S99,7ED,8ED,9ED,pGTW,EVG,C14,DD3_EVG,C15",,normal,4327,1,1,Rare,"Elf,Scout",Creature
+Wrath of God,{2}{W}{W},4,W,Mike Raabe,,Sorcery,Destroy all creatures. They can't be regenerated.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,POR,6ED,BRB,7ED,pMPR,8ED,9ED,10E,C13,V14",""As flies to wanton boys, are we to the gods. They kill us for their sport."\n—William Shakespeare, King Lear",normal,4408,,,Rare,,Sorcery

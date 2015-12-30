@@ -1,2 +1,2 @@
-name,cost,artist,number,type,text,printings
-Serra Angel,,Douglas Shuler,1,Creature — Angel,Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,ATH,pWOS,7ED,8ED,9ED,10E,DDC,M10,M11,ME4,CMD,M12,M13,M14,M15,DD3_DVD,ORI,V15"
+name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
+Serra Angel,{3}{W}{W},5,W,Douglas Shuler,1,Creature — Angel,Flying (This creature can't be blocked except by creatures with flying or reach.)\nVigilance (Attacking doesn't cause this creature to tap.),"LEA,LEB,2ED,CED,CEI,3ED,4ED,ATH,pWOS,7ED,8ED,9ED,10E,DDC,M10,M11,ME4,CMD,M12,M13,M14,M15,DD3_DVD,ORI,V15","Born with wings of light and a sword of faith, this heavenly incarnation embodies both fury and purity.",normal,,4,4,Special,Angel,Creature

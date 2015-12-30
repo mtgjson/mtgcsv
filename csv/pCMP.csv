@@ -1,16 +1,16 @@
-name,cost,artist,number,type,text,printings
-Electrolyze,,Zoltan Boros & Gabor Szikszai,1,Instant,Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.\nDraw a card.,"pMEI,GPT,pCMP,CMD,MMA,MM2"
-"Niv-Mizzet, the Firemind",,Todd Lockwood,2,Legendary Creature — Dragon Wizard,"Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.
-{T}: Draw a card.","GPT,pCMP,DRB,DDJ,MM2"
-Rakdos Guildmage,,Jeremy Jarvis,3,Creature — Zombie Shaman,"({B/R} can be paid with either {B} or {R}.)\n{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.
-{3}{R}: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.","pCMP,DIS,ARC"
-Voidslime,,Jim Murray,4,Instant,"Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)","pCMP,DIS"
-Urza's Factory,,Mark Tedin,5,Land — Urza’s,"{T}: Add {1} to your mana pool.\n{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.","pCMP,TSP,C13"
-Serra Avenger,,Scott M. Fischer,6,Creature — Angel,"You can't cast Serra Avenger during your first, second, or third turns of the game.\nFlying
-Vigilance (Attacking doesn't cause this creature to tap.)","pCMP,TSP,M13"
-Blood Knight,,Matt Cavotta,7,Creature — Human Knight,"First strike, protection from white","pCMP,PLC"
-Groundbreaker,,Matt Cavotta,8,Creature — Elemental,"Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker.","pCMP,PLC"
-Imperious Perfect,,Scott M. Fischer,9,Creature — Elf Warrior,"Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.","pCMP,LRW,EVG,DPA,C14,DD3_EVG"
-"Doran, the Siege Tower",,Mark Zug,10,Legendary Creature — Treefolk Shaman,Each creature assigns combat damage equal to its toughness rather than its power.,"pCMP,LRW,V11"
-Bramblewood Paragon,,Jim Murray,11,Creature — Elf Warrior,Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.,"pCMP,MOR"
-Mutavault,,Fred Fields,12,Land,{T}: Add {1} to your mana pool.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.,"pCMP,MOR,M14"
+name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
+Electrolyze,{1}{U}{R},3,"U,R",Zoltan Boros & Gabor Szikszai,1,Instant,Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.\nDraw a card.,"pMEI,GPT,pCMP,CMD,MMA,MM2",,normal,,,,Special,,Instant
+"Niv-Mizzet, the Firemind",{2}{U}{U}{R}{R},6,"U,R",Todd Lockwood,2,Legendary Creature — Dragon Wizard,"Flying\nWhenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.
+{T}: Draw a card.","GPT,pCMP,DRB,DDJ,MM2",,normal,,4,4,Special,"Dragon,Wizard",Creature
+Rakdos Guildmage,{B/R}{B/R},2,"B,R",Jeremy Jarvis,3,Creature — Zombie Shaman,"({B/R} can be paid with either {B} or {R}.)\n{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.
+{3}{R}: Put a 2/1 red Goblin creature token with haste onto the battlefield. Exile it at the beginning of the next end step.","pCMP,DIS,ARC",,normal,,2,2,Special,"Zombie,Shaman",Creature
+Voidslime,{G}{U}{U},3,"U,G",Jim Murray,4,Instant,"Counter target spell, activated ability, or triggered ability. (Mana abilities can't be targeted.)","pCMP,DIS",,normal,,,,Special,,Instant
+Urza's Factory,,,,Mark Tedin,5,Land — Urza’s,"{T}: Add {1} to your mana pool.\n{7}, {T}: Put a 2/2 colorless Assembly-Worker artifact creature token onto the battlefield.","pCMP,TSP,C13",,normal,,,,Special,Urza’s,Land
+Serra Avenger,{W}{W},2,W,Scott M. Fischer,6,Creature — Angel,"You can't cast Serra Avenger during your first, second, or third turns of the game.\nFlying
+Vigilance (Attacking doesn't cause this creature to tap.)","pCMP,TSP,M13",,normal,,3,3,Special,Angel,Creature
+Blood Knight,{R}{R},2,R,Matt Cavotta,7,Creature — Human Knight,"First strike, protection from white","pCMP,PLC",,normal,,2,2,Special,"Human,Knight",Creature
+Groundbreaker,{G}{G}{G},3,G,Matt Cavotta,8,Creature — Elemental,"Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker.","pCMP,PLC",,normal,,6,1,Special,Elemental,Creature
+Imperious Perfect,{2}{G},3,G,Scott M. Fischer,9,Creature — Elf Warrior,"Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.","pCMP,LRW,EVG,DPA,C14,DD3_EVG",,normal,,2,2,Special,"Elf,Warrior",Creature
+"Doran, the Siege Tower",{B}{G}{W},3,"W,B,G",Mark Zug,10,Legendary Creature — Treefolk Shaman,Each creature assigns combat damage equal to its toughness rather than its power.,"pCMP,LRW,V11",,normal,,0,5,Special,"Treefolk,Shaman",Creature
+Bramblewood Paragon,{1}{G},2,G,Jim Murray,11,Creature — Elf Warrior,Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.\nEach creature you control with a +1/+1 counter on it has trample.,"pCMP,MOR",,normal,,2,2,Special,"Elf,Warrior",Creature
+Mutavault,,,,Fred Fields,12,Land,{T}: Add {1} to your mana pool.\n{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.,"pCMP,MOR,M14",,normal,,,,Special,,Land
