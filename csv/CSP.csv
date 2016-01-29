@@ -133,7 +133,7 @@ When Arctic Nishoba dies, you gain 2 life for each age counter on it.",CSP,,norm
 Aurochs Herd,{5}{G},6,G,Darrell Riche,103,Creature — Aurochs,"Trample\nWhen Aurochs Herd enters the battlefield, you may search your library for an Aurochs card, reveal it, and put it into your hand. If you do, shuffle your library.
 Whenever Aurochs Herd attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",CSP,,normal,121260,4,4,Common,Aurochs,Creature
 Boreal Centaur,{1}{G},2,G,Marcelo Vignali,104,Snow Creature — Centaur Warrior,{S}: Boreal Centaur gets +1/+1 until end of turn. Activate this ability only once each turn. ({S} can be paid with one mana from a snow permanent.),CSP,"Those who used reindeer as beasts of burden knew to avoid the centaurs, who raged at the enslavement of their spirit-kin.",normal,121200,2,2,Common,"Centaur,Warrior",Creature
-Boreal Druid,{G},1,G,Dan Dos Santos,105,Snow Creature — Elf Druid,{T}: Add {1} to your mana pool.,CSP,"Some creatures are bound to the cold by Rimewind magic. Others seek it out, adapted by two thousand years of the Ice. The Boreal, where Heidar's frigid sway is strongest, is home to both.",normal,121193,1,1,Common,"Elf,Druid",Creature
+Boreal Druid,{G},1,G,Dan Dos Santos,105,Snow Creature — Elf Druid,{T}: Add {C} to your mana pool.,CSP,"Some creatures are bound to the cold by Rimewind magic. Others seek it out, adapted by two thousand years of the Ice. The Boreal, where Heidar's frigid sway is strongest, is home to both.",normal,121193,1,1,Common,"Elf,Druid",Creature
 Brooding Saurian,{2}{G}{G},4,G,rk post,106,Creature — Lizard,"At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.","CSP,C13",""I have been trapped in the lizard's lair for days. It seems to regard me as its child and will not let me leave."\n—Aevar Borg, northern guide, journal entry",normal,122055,4,4,Rare,Lizard,Creature
 Bull Aurochs,{1}{G},2,G,Kev Walker,107,Creature — Aurochs,"Trample\nWhenever Bull Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",CSP,The aurochs herd is content to graze—until the bull provides the dissenting urge to charge.,normal,121152,2,1,Common,Aurochs,Creature
 Freyalise's Radiance,{1}{G},2,G,Thomas M. Baxa,108,Enchantment,"Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nSnow permanents don't untap during their controllers' untap steps.",CSP,,normal,122059,,,Uncommon,,Enchantment
@@ -192,13 +192,13 @@ Eternal cold breaks down their will."
 Highland Weald,,,"R,G",John Avon,147,Snow Land,Highland Weald enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.,CSP,""Our noble land, enslaved by Rime,\nIs it our fate to freeze through time?
 If this be true, oh wicked crime."
 —The Dynasty of Winter Kings",normal,121259,,,Uncommon,,Land
-Mouth of Ronom,,,,Daren Bader,148,Snow Land,"{T}: Add {1} to your mana pool.\n{4}{S}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. ({S} can be paid with one mana from a snow permanent.)",CSP,,normal,121234,,,Uncommon,,Land
-Scrying Sheets,,,,Thomas M. Baxa,149,Snow Land,"{T}: Add {1} to your mana pool.\n{1}{S}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. ({S} can be paid with one mana from a snow permanent.)",CSP,,normal,121204,,,Rare,,Land
+Mouth of Ronom,,,,Daren Bader,148,Snow Land,"{T}: Add {C} to your mana pool.\n{4}{S}, {T}, Sacrifice Mouth of Ronom: Mouth of Ronom deals 4 damage to target creature. ({S} can be paid with one mana from a snow permanent.)",CSP,,normal,121234,,,Uncommon,,Land
+Scrying Sheets,,,,Thomas M. Baxa,149,Snow Land,"{T}: Add {C} to your mana pool.\n{1}{S}, {T}: Look at the top card of your library. If that card is snow, you may reveal it and put it into your hand. ({S} can be paid with one mana from a snow permanent.)",CSP,,normal,121204,,,Rare,,Land
 Tresserhorn Sinks,,,"B,R",Darrell Riche,150,Snow Land,Tresserhorn Sinks enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.,CSP,""Our land oppressed by silent Cold,\nWe weary wretches, young and old,
 Pray that Springtime loose his hold."
 —The Dynasty of Winter Kings",normal,121125,,,Uncommon,,Land
-Snow-Covered Plains,,,,Mark Romanoski,151,Basic Snow Land — Plains,,"ICE,CSP,ME2",,normal,121267,,,Basic Land,Plains,Land
-Snow-Covered Island,,,,Franz Vohwinkel,152,Basic Snow Land — Island,,"ICE,CSP,ME2",,normal,121130,,,Basic Land,Island,Land
-Snow-Covered Swamp,,,,Rob Alexander,153,Basic Snow Land — Swamp,,"ICE,CSP,ME2",,normal,121256,,,Basic Land,Swamp,Land
-Snow-Covered Mountain,,,,John Zeleznik,154,Basic Snow Land — Mountain,,"ICE,CSP,ME2",,normal,121233,,,Basic Land,Mountain,Land
-Snow-Covered Forest,,,,Jim Nelson,155,Basic Snow Land — Forest,,"ICE,CSP,ME2",,normal,121192,,,Basic Land,Forest,Land
+Snow-Covered Plains,,,W,Mark Romanoski,151,Basic Snow Land — Plains,,"ICE,CSP,ME2",,normal,121267,,,Basic Land,Plains,Land
+Snow-Covered Island,,,U,Franz Vohwinkel,152,Basic Snow Land — Island,,"ICE,CSP,ME2",,normal,121130,,,Basic Land,Island,Land
+Snow-Covered Swamp,,,B,Rob Alexander,153,Basic Snow Land — Swamp,,"ICE,CSP,ME2",,normal,121256,,,Basic Land,Swamp,Land
+Snow-Covered Mountain,,,R,John Zeleznik,154,Basic Snow Land — Mountain,,"ICE,CSP,ME2",,normal,121233,,,Basic Land,Mountain,Land
+Snow-Covered Forest,,,G,Jim Nelson,155,Basic Snow Land — Forest,,"ICE,CSP,ME2",,normal,121192,,,Basic Land,Forest,Land

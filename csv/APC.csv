@@ -147,16 +147,16 @@ Temporal Spring,{1}{G}{U},3,"U,G",John Matson,125,Sorcery,Put target permanent o
 Vindicate,{1}{W}{B},3,"W,B",Brian Snõddy,126,Sorcery,Destroy target permanent.,"pJGP,APC","Don't mourn for me. This is my destiny."\n—Gerrard,normal,19135,,,Rare,,Sorcery
 Yavimaya's Embrace,{5}{G}{U}{U},8,"U,G",Eric Peterson,127,Enchantment — Aura,Enchant creature\nYou control enchanted creature.
 Enchanted creature gets +2/+2 and has trample.,APC,,normal,19132,,,Rare,Aura,Enchantment
-Fire,{1}{R},2,R,Franz Vohwinkel,128a,Instant,Fire deals 2 damage divided as you choose among one or two target creatures and/or players.,"pFNM,APC,CMD,DDJ",,split,27166,,,Uncommon,,Instant
-Ice,{1}{U},2,U,Franz Vohwinkel,128b,Instant,Tap target permanent.\nDraw a card.,"pFNM,APC,CMD,DDJ",,split,27166,,,Uncommon,,Instant
-Illusion,{U},1,U,David Martin,129a,Instant,Target spell or permanent becomes the color of your choice until end of turn.,APC,,split,27164,,,Uncommon,,Instant
-Reality,{2}{G},3,G,David Martin,129b,Instant,Destroy target artifact.,APC,,split,27164,,,Uncommon,,Instant
-Life,{G},1,G,"Edward P. Beard, Jr.",130a,Sorcery,All lands you control become 1/1 creatures until end of turn. They're still lands.,"pFNM,APC,DDJ",,split,27162,,,Uncommon,,Sorcery
-Death,{1}{B},2,B,"Edward P. Beard, Jr.",130b,Sorcery,Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.,"pFNM,APC,DDJ",,split,27162,,,Uncommon,,Sorcery
-Night,{B},1,B,Christopher Moeller,131a,Instant,Target creature gets -1/-1 until end of turn.,APC,,split,26691,,,Uncommon,,Instant
-Day,{2}{W},3,W,Christopher Moeller,131b,Instant,Creatures target player controls get +1/+1 until end of turn.,APC,,split,26691,,,Uncommon,,Instant
-Order,{3}{W},4,W,Greg & Tim Hildebrandt,132a,Instant,Exile target attacking creature.,"APC,HOP",,split,27168,,,Uncommon,,Instant
-Chaos,{2}{R},3,R,Greg & Tim Hildebrandt,132b,Instant,Creatures can't block this turn.,"APC,HOP",,split,27168,,,Uncommon,,Instant
+Fire,{1}{R},2,"U,R",Franz Vohwinkel,128a,Instant,Fire deals 2 damage divided as you choose among one or two target creatures and/or players.,"pFNM,APC,CMD,DDJ",,split,27166,,,Uncommon,,Instant
+Ice,{1}{U},2,"U,R",Franz Vohwinkel,128b,Instant,Tap target permanent.\nDraw a card.,"pFNM,APC,CMD,DDJ",,split,27166,,,Uncommon,,Instant
+Illusion,{U},1,"G,U",David Martin,129a,Instant,Target spell or permanent becomes the color of your choice until end of turn.,APC,,split,27164,,,Uncommon,,Instant
+Reality,{2}{G},3,"G,U",David Martin,129b,Instant,Destroy target artifact.,APC,,split,27164,,,Uncommon,,Instant
+Life,{G},1,"B,G","Edward P. Beard, Jr.",130a,Sorcery,All lands you control become 1/1 creatures until end of turn. They're still lands.,"pFNM,APC,DDJ",,split,27162,,,Uncommon,,Sorcery
+Death,{1}{B},2,"B,G","Edward P. Beard, Jr.",130b,Sorcery,Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.,"pFNM,APC,DDJ",,split,27162,,,Uncommon,,Sorcery
+Night,{B},1,"W,B",Christopher Moeller,131a,Instant,Target creature gets -1/-1 until end of turn.,APC,,split,26691,,,Uncommon,,Instant
+Day,{2}{W},3,"W,B",Christopher Moeller,131b,Instant,Creatures target player controls get +1/+1 until end of turn.,APC,,split,26691,,,Uncommon,,Instant
+Order,{3}{W},4,"R,W",Greg & Tim Hildebrandt,132a,Instant,Exile target attacking creature.,"APC,HOP",,split,27168,,,Uncommon,,Instant
+Chaos,{2}{R},3,"R,W",Greg & Tim Hildebrandt,132b,Instant,Creatures can't block this turn.,"APC,HOP",,split,27168,,,Uncommon,,Instant
 Brass Herald,{6},6,,Daren Bader,133,Artifact Creature — Golem,"As Brass Herald enters the battlefield, choose a creature type.\nWhen Brass Herald enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.
 Creatures of the chosen type get +1/+1.","APC,8ED",,normal,27761,2,2,Uncommon,Golem,"Artifact,Creature"
 Dodecapod,{4},4,,John Howe,134,Artifact Creature — Golem,"If a spell or ability an opponent controls causes you to discard Dodecapod, put it onto the battlefield with two +1/+1 counters on it instead of putting it into your graveyard.","APC,TSB",,normal,26733,3,3,Uncommon,Golem,"Artifact,Creature"
@@ -165,8 +165,8 @@ Emblazoned Golem,{2},2,,Greg Staples,136,Artifact Creature — Golem,"Kicker {X}
 If Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.",APC,,normal,26264,1,2,Uncommon,Golem,"Artifact,Creature"
 Legacy Weapon,{7},7,"W,U,B,R,G",John Avon,137,Legendary Artifact,"{W}{U}{B}{R}{G}: Exile target permanent.\nIf Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.","APC,10E",,normal,26424,,,Rare,,Artifact
 Mask of Intolerance,{2},2,,Glen Angus,138,Artifact,"At the beginning of each player's upkeep, if there are four or more basic land types among lands that player controls, Mask of Intolerance deals 3 damage to him or her.",APC,,normal,29677,,,Rare,,Artifact
-Battlefield Forge,,,"R,W",Darrell Riche,139,Land,{T}: Add {1} to your mana pool.\n{T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23247,,,Rare,,Land
-Caves of Koilos,,,"W,B",Jim Nelson,140,Land,{T}: Add {1} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.,"APC,9ED,10E,MD1,M15,ORI",,normal,23246,,,Rare,,Land
-Llanowar Wastes,,,"B,G",Rob Alexander,141,Land,{T}: Add {1} to your mana pool.\n{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23248,,,Rare,,Land
-Shivan Reef,,,"U,R",Rob Alexander,142,Land,{T}: Add {1} to your mana pool.\n{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23250,,,Rare,,Land
-Yavimaya Coast,,,"G,U",Anthony S. Waters,143,Land,{T}: Add {1} to your mana pool.\n{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23249,,,Rare,,Land
+Battlefield Forge,,,"R,W",Darrell Riche,139,Land,{T}: Add {C} to your mana pool.\n{T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23247,,,Rare,,Land
+Caves of Koilos,,,"W,B",Jim Nelson,140,Land,{T}: Add {C} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.,"APC,9ED,10E,MD1,M15,ORI",,normal,23246,,,Rare,,Land
+Llanowar Wastes,,,"B,G",Rob Alexander,141,Land,{T}: Add {C} to your mana pool.\n{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23248,,,Rare,,Land
+Shivan Reef,,,"U,R",Rob Alexander,142,Land,{T}: Add {C} to your mana pool.\n{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23250,,,Rare,,Land
+Yavimaya Coast,,,"G,U",Anthony S. Waters,143,Land,{T}: Add {C} to your mana pool.\n{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.,"APC,9ED,10E,M15,ORI",,normal,23249,,,Rare,,Land

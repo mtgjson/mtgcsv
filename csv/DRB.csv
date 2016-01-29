@@ -21,5 +21,5 @@ Whenever Nicol Bolas deals damage to an opponent, that player discards his or he
 Shivan Dragon,{4}{R}{R},6,R,Justin Sweet,13,Creature — Dragon,Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,5ED,BTD,7ED,pREL,8ED,9ED,10E,DRB,M10,DPA,ME4,M14,M15,ORI",The undisputed master of the mountains of Shiv.,normal,178025,5,5,Rare,Dragon,Creature
 Thunder Dragon,{5}{R}{R},7,R,Chris Rahn,14,Creature — Dragon,"Flying\nWhen Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.","S99,DRB,ME4,DDG",Sometimes primitive cultures attributed natural phenomena to monsters. Sometimes they were right.,normal,178026,5,5,Rare,Dragon,Creature
 Two-Headed Dragon,{4}{R}{R},6,R,Sam Wood,15,Creature — Dragon,Flying\nMenace (This creature can't be blocked except by two or more creatures.)
-Two-Headed Dragon can block an additional creature.
+Two-Headed Dragon can block an additional creature each combat.
 {1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.,"MMQ,pSUS,8ED,DRB,ARC",,normal,178027,4,4,Rare,Dragon,Creature

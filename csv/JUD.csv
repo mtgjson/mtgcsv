@@ -160,7 +160,7 @@ Mirari's Wake,{3}{G}{W},5,"W,G",David Martin,139,Enchantment,"Creatures you cont
 Phantom Nishoba,{5}{G}{W},7,"W,G",Arnie Swekel,140,Creature — Cat Beast Spirit,"Trample\nPhantom Nishoba enters the battlefield with seven +1/+1 counters on it.
 Whenever Phantom Nishoba deals damage, you gain that much life.
 If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.",JUD,,normal,37113,0,0,Rare,"Cat,Beast,Spirit",Creature
-Krosan Verge,,,,Tony Szczudlo,141,Land,"Krosan Verge enters the battlefield tapped.\n{T}: Add {1} to your mana pool.
+Krosan Verge,,,,Tony Szczudlo,141,Land,"Krosan Verge enters the battlefield tapped.\n{T}: Add {C} to your mana pool.
 {2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.","JUD,ARC,PC2",,normal,30657,,,Uncommon,,Land
-Nantuko Monastery,,,"G,W",Rob Alexander,142,Land,{T}: Add {1} to your mana pool.\nThreshold — {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.,"JUD,ARC",,normal,34401,,,Uncommon,,Land
-Riftstone Portal,,,"G,W",Don Hazeltine,143,Land,"{T}: Add {1} to your mana pool.\nAs long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."",JUD,,normal,34398,,,Uncommon,,Land
+Nantuko Monastery,,,"G,W",Rob Alexander,142,Land,{T}: Add {C} to your mana pool.\nThreshold — {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.,"JUD,ARC",,normal,34401,,,Uncommon,,Land
+Riftstone Portal,,,"G,W",Don Hazeltine,143,Land,"{T}: Add {C} to your mana pool.\nAs long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."",JUD,,normal,34398,,,Uncommon,,Land

@@ -57,16 +57,16 @@ Enervate,{1}{U},2,U,L. A. Williams,47,Instant,"Tap target artifact, creature, or
 Essence Flare,{U},1,U,Richard Kane Ferguson,48,Enchantment — Aura,"Enchant creature\nEnchanted creature gets +2/+0.
 At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.","ICE,CST,ME2",Never underestimate the power of the soul unleashed.,normal,184731,,,Common,Aura,Enchantment
 Iceberg,{X}{U}{U},2,U,Jeff A. Menges,49,Enchantment,Iceberg enters the battlefield with X ice counters on it.\n{3}: Put an ice counter on Iceberg.
-Remove an ice counter from Iceberg: Add {1} to your mana pool.,"ICE,CST,ME2",,normal,184733,,,Uncommon,,Enchantment
+Remove an ice counter from Iceberg: Add {C} to your mana pool.,"ICE,CST,ME2",,normal,184733,,,Uncommon,,Enchantment
 Icy Prison,{U}{U},2,U,Anson Maddocks,50,Enchantment,"When Icy Prison enters the battlefield, exile target creature.\nAt the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.
 When Icy Prison leaves the battlefield, return the exiled card to the battlefield under its owner's control.","ICE,ME2",,normal,184754,,,Common,,Enchantment
 Krovikan Sorcerer,{2}{U},3,U,Pat Morrissey,51,Creature — Human Wizard,"{T}, Discard a nonblack card: Draw a card.\n{T}, Discard a black card: Draw two cards, then discard one of them.","ICE,5ED,ME2,VMA","These sorcerers always seem to have another surprise up their sleeves."\n—Zur the Enchanter,normal,184646,1,1,Common,"Human,Wizard",Creature
 Lat-Nam's Legacy,{1}{U},2,U,Tom Wänerstrand,52,Instant,"Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.","ALL,CST,ME2",""All the knowledge of Lat-Nam could not protect its sages from the Brothers' War."\n—Gerda Äagesdotter, Archmage of the Unseen",normal,184697,,,Common,,Instant
 Magus of the Unseen,{1}{U},2,U,Kaja Foglio,53,Creature — Human Wizard,"{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.","ICE,5ED,ME2",,normal,184732,1,1,Rare,"Human,Wizard",Creature
-Marjhan,{5}{U}{U},7,U,Daniel Gelon,54,Creature — Leviathan,"Marjhan doesn't untap during your untap step.\n{U}{U}, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.
+Marjhan,{5}{U}{U},7,U,Daniel Gelon,54,Creature — Serpent,"Marjhan doesn't untap during your untap step.\n{U}{U}, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.
 Marjhan can't attack unless defending player controls an Island.
 {U}{U}: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.
-When you control no Islands, sacrifice Marjhan.","HML,ME2",,normal,184593,8,8,Rare,Leviathan,Creature
+When you control no Islands, sacrifice Marjhan.","HML,ME2",,normal,184593,8,8,Rare,Serpent,Creature
 Mesmeric Trance,{1}{U}{U},3,U,Dan Frazier,55,Enchantment,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{U}, Discard a card: Draw a card.","ICE,ME2","Magic overused can freeze the mind. Creativity is more important than power."\n—Zur the Enchanter,normal,184747,,,Rare,,Enchantment
 Musician,{2}{U},3,U,Drew Tucker,56,Creature — Human Wizard,"Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Put a music counter on target creature. If it doesn't have "At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it," it gains that ability.","ICE,ME2",,normal,184755,1,3,Rare,"Human,Wizard",Creature
 Narwhal,{2}{U}{U},4,U,David A. Cherry,57,Creature — Whale,"First strike, protection from red","HML,ME2",""Who needs a spear? Ya break off the horn, and ya stab the fish with it. Easy!"\n—Kakra, sea troll",normal,184594,2,2,Uncommon,Whale,Creature
@@ -249,7 +249,7 @@ Helm of Obedience,{4},4,,Brian Snõddy,210,Artifact,"{X}, {T}: Target opponent p
 Jester's Mask,{5},5,,Dan Frazier,211,Artifact,"Jester's Mask enters the battlefield tapped.\n{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.","ICE,ME2",,normal,184638,,,Rare,,Artifact
 Jeweled Amulet,{0},,,Dan Frazier,212,Artifact,"{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.\n{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.","ICE,ME2",,normal,184639,,,Uncommon,,Artifact
 Lodestone Bauble,{0},,,Douglas Shuler,213,Artifact,"{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.","ALL,ME2",,normal,184559,,,Rare,,Artifact
-Mana Crypt,{0},,,Mark Tedin,214,Artifact,"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {2} to your mana pool.","pMEI,pJGP,ME2,VMA",,normal,184773,,,Rare,,Artifact
+Mana Crypt,{0},,,Mark Tedin,214,Artifact,"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.\n{T}: Add {C}{C} to your mana pool.","pMEI,pJGP,ME2,VMA",,normal,184773,,,Rare,,Artifact
 Mishra's Groundbreaker,{4},4,,Randy Gallegos,215,Artifact,"{T}, Sacrifice Mishra's Groundbreaker: Target land becomes a 3/3 artifact creature that's still a land. (This effect lasts indefinitely.)","ALL,ME2",The very ground yielded to Mishra's wishes.,normal,184560,,,Uncommon,,Artifact
 Phyrexian Devourer,{6},6,,Mark Tedin,216,Artifact Creature — Construct,"When Phyrexian Devourer's power is 7 or greater, sacrifice it.\nExile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost.","ALL,ME2",,normal,184563,1,1,Uncommon,Construct,"Artifact,Creature"
 Phyrexian Portal,{3},3,,Pete Venters,217,Artifact,"{3}: If your library has ten or more cards in it, target opponent looks at the top ten cards of your library and separates them into two face-down piles. Exile one of those piles. Search the other pile for a card, put it into your hand, then shuffle the rest of that pile into your library.","ALL,ME2",,normal,184564,,,Rare,,Artifact
@@ -263,7 +263,7 @@ Soldevi Simulacrum,{4},4,,Dan Frazier,222,Artifact Creature — Soldier,"Cumulat
 Time Bomb,{4},4,,Amy Weber,223,Artifact,"At the beginning of your upkeep, put a time counter on Time Bomb.\n{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage equal to the number of time counters on it to each creature and each player.","ICE,5ED,ME2",,normal,184677,,,Rare,,Artifact
 Whirling Catapult,{4},4,,Dan Frazier,224,Artifact,"{2}, Exile the top two cards of your library: Whirling Catapult deals 1 damage to each creature with flying and each player.","ALL,ME2","Direct confrontation never was to the orcs' taste."\n—General Varchild,normal,184583,,,Uncommon,,Artifact
 Badlands,,,"B,R",Rob Alexander,225,Land — Swamp Mountain,({T}: Add {B} or {R} to your mana pool.),"LEA,LEB,2ED,CED,CEI,3ED,ME2,ME4,VMA",,normal,184748,,,Rare,"Swamp,Mountain",Land
-Balduvian Trading Post,,,R,Tom Wänerstrand,226,Land,"If Balduvian Trading Post would enter the battlefield, sacrifice an untapped Mountain instead. If you do, put Balduvian Trading Post onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {1}{R} to your mana pool.
+Balduvian Trading Post,,,R,Tom Wänerstrand,226,Land,"If Balduvian Trading Post would enter the battlefield, sacrifice an untapped Mountain instead. If you do, put Balduvian Trading Post onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {C}{R} to your mana pool.
 {1}, {T}: Balduvian Trading Post deals 1 damage to target attacking creature.","ALL,ME2",,normal,184533,,,Rare,,Land
 Dwarven Ruins,,,R,Mark Poole,227,Land,"Dwarven Ruins enters the battlefield tapped.\n{T}: Add {R} to your mana pool.
 {T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.","FEM,5ED,6ED,BTD,ME2",,normal,184478,,,Uncommon,,Land
@@ -281,16 +281,16 @@ Kjeldoran Outpost,,,W,Jeff A. Menges,233,Land,"If Kjeldoran Outpost would enter 
 {1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.","ALL,ME2,VMA",,normal,184555,,,Rare,,Land
 Ruins of Trokair,,,W,Mark Poole,234,Land,"Ruins of Trokair enters the battlefield tapped.\n{T}: Add {W} to your mana pool.
 {T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.","FEM,5ED,6ED,ME2",,normal,184516,,,Uncommon,,Land
-Savannah,,,"G,W",Rob Alexander,235,Land — Forest Plains,({T}: Add {G} or {W} to your mana pool.),"LEA,LEB,2ED,CED,CEI,3ED,ME2,ME4,VMA",,normal,184749,,,Rare,"Forest,Plains",Land
-Soldevi Excavations,,,U,Liz Danforth,236,Land,"If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {1}{U} to your mana pool.
+Savannah,,,"W,G",Rob Alexander,235,Land — Forest Plains,({T}: Add {G} or {W} to your mana pool.),"LEA,LEB,2ED,CED,CEI,3ED,ME2,ME4,VMA",,normal,184749,,,Rare,"Forest,Plains",Land
+Soldevi Excavations,,,U,Liz Danforth,236,Land,"If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.\n{T}: Add {C}{U} to your mana pool.
 {1}, {T}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)","ALL,ME2",,normal,184575,,,Rare,,Land
 Svyelunite Temple,,,U,Mark Poole,237,Land,"Svyelunite Temple enters the battlefield tapped.\n{T}: Add {U} to your mana pool.
 {T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.","FEM,5ED,6ED,BTD,ME2",,normal,184522,,,Uncommon,,Land
 Taiga,,,"R,G",Rob Alexander,238,Land — Mountain Forest,({T}: Add {R} or {G} to your mana pool.),"LEA,LEB,2ED,CED,CEI,3ED,ME2,ME4,VMA",,normal,184750,,,Rare,"Mountain,Forest",Land
 Tundra,,,"W,U",Jesper Myrfors,239,Land — Plains Island,({T}: Add {W} or {U} to your mana pool.),"LEA,LEB,2ED,CED,CEI,3ED,ME2,ME4,VMA",,normal,184751,,,Rare,"Plains,Island",Land
 Underground Sea,,,"U,B",Rob Alexander,240,Land — Island Swamp,({T}: Add {U} or {B} to your mana pool.),"LEA,LEB,2ED,CED,CEI,3ED,ME2,ME4,VMA",,normal,184752,,,Rare,"Island,Swamp",Land
-Snow-Covered Plains,,,,Christopher Rush,241,Basic Snow Land — Plains,,"ICE,CSP,ME2",,normal,184815,,,Basic Land,Plains,Land
-Snow-Covered Island,,,,Anson Maddocks,242,Basic Snow Land — Island,,"ICE,CSP,ME2",,normal,184813,,,Basic Land,Island,Land
-Snow-Covered Swamp,,,,Douglas Shuler,243,Basic Snow Land — Swamp,,"ICE,CSP,ME2",,normal,184816,,,Basic Land,Swamp,Land
-Snow-Covered Mountain,,,,Tom Wänerstrand,244,Basic Snow Land — Mountain,,"ICE,CSP,ME2",,normal,184814,,,Basic Land,Mountain,Land
-Snow-Covered Forest,,,,Pat Morrissey,245,Basic Snow Land — Forest,,"ICE,CSP,ME2",,normal,184812,,,Basic Land,Forest,Land
+Snow-Covered Plains,,,W,Christopher Rush,241,Basic Snow Land — Plains,,"ICE,CSP,ME2",,normal,184815,,,Basic Land,Plains,Land
+Snow-Covered Island,,,U,Anson Maddocks,242,Basic Snow Land — Island,,"ICE,CSP,ME2",,normal,184813,,,Basic Land,Island,Land
+Snow-Covered Swamp,,,B,Douglas Shuler,243,Basic Snow Land — Swamp,,"ICE,CSP,ME2",,normal,184816,,,Basic Land,Swamp,Land
+Snow-Covered Mountain,,,R,Tom Wänerstrand,244,Basic Snow Land — Mountain,,"ICE,CSP,ME2",,normal,184814,,,Basic Land,Mountain,Land
+Snow-Covered Forest,,,G,Pat Morrissey,245,Basic Snow Land — Forest,,"ICE,CSP,ME2",,normal,184812,,,Basic Land,Forest,Land

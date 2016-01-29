@@ -1,5 +1,5 @@
 name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
-Wasteland,,,,Una Fricker,1,Land,"{T}: Add {1} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.","TMP,pJGP,pMPR,TPR",""I will show you fear in a handful of dust." - T. S. Eliot, "The Waste Land"",normal,,,,Special,,Land
+Wasteland,,,,Una Fricker,1,Land,"{T}: Add {C} to your mana pool.\n{T}, Sacrifice Wasteland: Destroy target nonbasic land.","TMP,pJGP,pMPR,TPR,EXP",""I will show you fear in a handful of dust." - T. S. Eliot, "The Waste Land"",normal,,,,Special,,Land
 Voidmage Prodigy,{U}{U},2,U,Christopher Moeller,2,Creature — Human Wizard,"{U}{U}, Sacrifice a Wizard: Counter target spell.\nMorph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)","pMPR,ONS,TSB",,normal,,2,1,Special,"Human,Wizard",Creature
 Powder Keg,{2},2,,Dan Frazier,3,Artifact,"At the beginning of your upkeep, you may put a fuse counter on Powder Keg.\n{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.","UDS,pMPR",,normal,,,,Special,,Artifact
 Psychatog,{1}{U}{B},3,"U,B","Edward P. Beard, Jr.",4,Creature — Atog,Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.,"pMPR,ODY,VMA",,normal,,1,2,Special,Atog,Creature
@@ -39,7 +39,7 @@ Nameless Inversion,{1}{B},2,B,Jesper Ejsing,34,Tribal Instant — Shapeshifter,C
 Remove Soul,{1}{U},2,U,Mike Dringenberg,35,Instant,Counter target creature spell.,"LEG,CHR,5ED,6ED,S99,7ED,pMPR,8ED,9ED,10E,ME3",,normal,,,,Special,,Instant
 Blightning,{1}{B}{R},3,"B,R",Jim Pavelec,36,Sorcery,Blightning deals 3 damage to target player. That player discards two cards.,"pMPR,ALA,DDK",,normal,,,,Special,,Sorcery
 Rampant Growth,{1}{G},2,G,Terese Nielsen,37,Sorcery,Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.,"MIR,TMP,6ED,BTD,7ED,pMPR,8ED,9ED,10E,M10,HOP,DPA,M12,TPR,MM2,C15",,normal,,,,Special,,Sorcery
-Negate,{1}{U},2,U,Ralph Horsley,38,Instant,Counter target noncreature spell.,"pMPR,MOR,M10,DPA,M11,M12,M13,M14,M15,DTK,ORI",,normal,,,,Special,,Instant
+Negate,{1}{U},2,U,Ralph Horsley,38,Instant,Counter target noncreature spell.,"pMPR,MOR,M10,DPA,M11,M12,M13,M14,M15,DTK,ORI,OGW",,normal,,,,Special,,Instant
 Terminate,{B}{R},2,"B,R",Thomas M. Baxa,39,Instant,Destroy target creature. It can't be regenerated.,"pFNM,PLS,pMPR,ARB,ARC,CMD,DDK",,normal,,,,Special,,Instant
 Lightning Bolt,{R},1,R,Véronique Meignaud,40,Instant,Lightning Bolt deals 3 damage to target creature or player.,"LEA,LEB,2ED,CED,CEI,3ED,4ED,pJGP,ATH,BTD,pMPR,MED,M10,M11,PD2,MM2",,normal,,,,Special,,Instant
 Cancel,{1}{U}{U},3,U,Izzy,41,Instant,Counter target spell.,"pMPR,TSP,10E,ALA,M10,ZEN,DPA,M11,M12,PC2,RTR,M14,M15,KTK",,normal,,,,Special,,Instant
