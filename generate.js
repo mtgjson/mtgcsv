@@ -129,8 +129,9 @@ function saveSet(setName, cards, callback) {
 							console.log(curEntry);
 						}
 						curEntry = curEntry.replace(/\n/g, '\\n');
+						curEntry = curEntry.replace(/"/g, '""');
 
-						if (curEntry.indexOf(',') >= 0) {
+						if (curEntry.indexOf(',') >= 0 || curEntry.indexOf('"') >= 0) {
 							curEntry = '"' + curEntry + '"';
 						}
 						contents.push(curEntry);
