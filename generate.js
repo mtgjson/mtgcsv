@@ -3,29 +3,8 @@
 var fs = require('fs'),
 	path = require('path'),
 	http = require('http'),
-	tiptoe = require('tiptoe');
-//var mtgcsv = require('./mtgcsv.js');
-
-Array.prototype.forEachCallback = function(callback, finishCallback) {
-	var current = 0;
-	var self = this;
-
-	function next() {
-		if (current >= self.length) {
-			if (finishCallback) {
-				finishCallback.bind(self);
-				finishCallback();
-			}
-			return;
-		}
-
-		var currentItem = self[current++];
-		callback.bind(currentItem);
-		callback(currentItem, next);		
-	}
-
-	next();
-}
+	tiptoe = require('tiptoe'),
+	async = require('async');
 
 function createDir(dir, callback) {
 	var dir = path.join(__dirname, dir);
@@ -129,7 +108,7 @@ function saveSet(setName, cards, callback) {
 				fs.write(fd, csvFields.join(',') + "\n", this);
 			},
 			function body() {
-				cards.forEachCallback(function(card, cardCB) {
+				async.eachSeries(cards, function(card, cardCB) {
 					var i;
 					var contents = [];
 					for (i = 0; i < csvFields.length; i++) {
@@ -149,7 +128,7 @@ function saveSet(setName, cards, callback) {
 							console.log("Something is wrong!");
 							console.log(curEntry);
 						}
-						curEntry = curEntry.replace("\n", '\\n');
+						curEntry = curEntry.replace(/\n/g, '\\n');
 
 						if (curEntry.indexOf(',') >= 0) {
 							curEntry = '"' + curEntry + '"';
@@ -192,7 +171,7 @@ tiptoe(
 		var keys = Object.keys(setData);
 		var i;
 
-		keys.forEachCallback(function(setName, foreachCB) {
+		async.eachSeries(keys, function(setName, foreachCB) {
 			saveSet(setName, setData[setName].cards, foreachCB);
 		}, this);
 	},
@@ -203,48 +182,3 @@ tiptoe(
 		console.log('done');
 	}
 );
-
-/*
-tiptoe(
-	function init() {
-		checkDir(this);
-	},
-	function readStuff() {
-		readVersion(this);
-	},
-	function fetchVersion() {
-		downloadVersionJSON(this);
-	},
-	function compareVersions(remoteVersion) {
-		console.log("Current version: " + curVer);
-		console.log("Remote version: " + remoteVersion);
-		
-		var fn = path.join(__dirname, 'json', 'AllSets-x.json');
-		if (remoteVersion != curVer) {
-			// Fetch file
-			console.log("Downloading new version...");
-			var url = 'http://mtgjson.com/json/AllSets-x.json';
-			downloadJSON(url, fn, this);
-		}
-		else {
-			console.log("Using cached version");
-			fs.readFile(fn, 'utf8', this);
-		}
-	},
-	function processFile(data) {
-		this();
-	},
-	function finish(err) {
-		console.log('finish()');
-		if (err)
-			throw(err);
-
-		console.log('done.');
-	}
-);
-*/
-/*
-checkDir(function(){
-	downloadJSON(finish);
-});
-*/
