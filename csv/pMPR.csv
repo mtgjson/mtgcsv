@@ -29,10 +29,7 @@ Mana Tithe,{W},1,W,Donato Giancola,27,Instant,Counter target spell unless its co
 Harmonize,{2}{G}{G},4,G,Vance Kovacs,28,Sorcery,Draw three cards.,"pMPR,PLC,EVG,DDD,ARC,CMD,C13,DD3_EVG,DD3_GVL",,normal,,,,Special,,Sorcery
 Ponder,{U},1,U,Steve Argyle,29,Sorcery,"Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.","pMPR,LRW,M10,M12",,normal,,,,Special,,Sorcery
 Corrupt,{5}{B},6,B,Philip Straub,30,Sorcery,Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.,"pMEI,USG,7ED,pMPR,SHM,DDC,DDD,M11,M14,DD3_DVD,DD3_GVL",,normal,,,,Special,,Sorcery
-Cryptic Command,{1}{U}{U}{U},4,U,Wayne England,31,Instant,Choose two —\n• Counter target spell.
-• Return target permanent to its owner's hand.
-• Tap all creatures your opponents control.
-• Draw a card.,"pMPR,LRW,MMA,MM2",,normal,,,,Special,,Instant
+Cryptic Command,{1}{U}{U}{U},4,U,Wayne England,31,Instant,Choose two —\n• Counter target spell.\n• Return target permanent to its owner's hand.\n• Tap all creatures your opponents control.\n• Draw a card.,"pMPR,LRW,MMA,MM2",,normal,,,,Special,,Instant
 Flame Javelin,{2/R}{2/R}{2/R},6,R,Zoltan Boros & Gabor Szikszai,32,Instant,({2/R} can be paid with any two mana or with {R}. This card's converted mana cost is 6.)\nFlame Javelin deals 4 damage to target creature or player.,"pMPR,SHM,DD2,DDK,DD3_JVC",,normal,,,,Special,,Instant
 Unmake,{W/B}{W/B}{W/B},3,"W,B",Chris Rahn,33,Instant,Exile target creature.,"pMPR,EVE,ARC,DDK",,normal,,,,Special,,Instant
 Nameless Inversion,{1}{B},2,B,Jesper Ejsing,34,Tribal Instant — Shapeshifter,Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.,"pMPR,LRW,MM2",,normal,,,,Special,Shapeshifter,"Tribal,Instant"

@@ -24,8 +24,7 @@ Righteous Charge,{1}{W}{W},3,W,Jeffrey R. Busch,22,Sorcery,Creatures you control
 Righteous Fury,{4}{W}{W},6,W,"Edward P. Beard, Jr.",23,Sorcery,Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.,"PO2,S99,ME2",,normal,21064,,,Rare,,Sorcery
 Royal Falcon,{1}{W},2,W,Carl Critchlow,24,Creature — Bird,Flying,"S99,S00","Hunter by instinct, weapon by training.",normal,21056,1,1,Common,Bird,Creature
 Royal Trooper,{2}{W},3,W,Scott M. Fischer,25,Creature — Human Soldier,"Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.","S99,ME2",""Fortune does not side with the faint-hearted."\n—Sophocles, Phaedra",normal,20394,2,2,Uncommon,"Human,Soldier",Creature
-Sacred Nectar,{1}{W},2,W,Janine Johnston,26,Sorcery,You gain 4 life.,"POR,S99,7ED,8ED,9ED",""For he on honey-dew hath fed,\nAnd drunk the milk of Paradise."
-—Samuel Taylor Coleridge, "Kubla Khan"",normal,21061,,,Common,,Sorcery
+Sacred Nectar,{1}{W},2,W,Janine Johnston,26,Sorcery,You gain 4 life.,"POR,S99,7ED,8ED,9ED",""For he on honey-dew hath fed,\nAnd drunk the milk of Paradise."\n—Samuel Taylor Coleridge, "Kubla Khan"",normal,21061,,,Common,,Sorcery
 Steadfastness,{1}{W},2,W,Kev Walker,27,Sorcery,Creatures you control get +0/+3 until end of turn.,"POR,S99",Brute force wins the battles. Conviction wins the wars.,normal,20399,,,Common,,Sorcery
 Venerable Monk,{2}{W},3,W,D. Alexander Gregory,28,Creature — Human Monk Cleric,"When Venerable Monk enters the battlefield, you gain 2 life.","POR,STH,6ED,S99,S00,7ED,8ED,9ED,10E,DDC,DD3_DVD",Age wears the flesh but galvanizes the soul.,normal,21059,2,2,Common,"Human,Monk,Cleric",Creature
 Vengeance,{3}{W},4,W,Andrew Robinson,29,Sorcery,Destroy target tapped creature.,"POR,PO2,PTK,S99,7ED,8ED,9ED","Bitter as wormwood, sweet as mulled wine.",normal,20393,,,Uncommon,,Sorcery
@@ -132,8 +131,7 @@ Grizzly Bears,{1}{G},2,G,Una Fricker,129,Creature — Bear,,"LEA,LEB,2ED,CED,CEI
 Lone Wolf,{2}{G},3,G,Una Fricker,130,Creature — Wolf,You may have Lone Wolf assign its combat damage as though it weren't blocked.,"PO2,ULG,PTK,S99,7ED,8ED",,normal,20225,2,2,Common,Wolf,Creature
 Lynx,{1}{G},2,G,Rebecca Guay,131,Creature — Cat,Forestwalk (This creature can't be blocked as long as defending player controls a Forest.),"PO2,S99","Rarely seen, hardly heard, never caught.",normal,21053,2,1,Uncommon,Cat,Creature
 Monstrous Growth,{1}{G},2,G,Una Fricker,132,Sorcery,Target creature gets +4/+4 until end of turn.,"POR,PO2,S99,S00,7ED,8ED",The nightstalkers' little game of tease-the-squirrel suddenly took an unexpected turn.,normal,20234,,,Common,,Sorcery
-Moon Sprite,{1}{G},2,G,Terese Nielsen,133,Creature — Faerie,Flying,"POR,S99,S00",""I am that merry wanderer of the night."\n—William Shakespeare,
-A Midsummer Night's Dream",normal,20229,1,1,Uncommon,Faerie,Creature
+Moon Sprite,{1}{G},2,G,Terese Nielsen,133,Creature — Faerie,Flying,"POR,S99,S00",""I am that merry wanderer of the night."\n—William Shakespeare,\nA Midsummer Night's Dream",normal,20229,1,1,Uncommon,Faerie,Creature
 Natural Spring,{3}{G}{G},5,G,Jeffrey R. Busch,134,Sorcery,Target player gains 8 life.,"POR,TMP,PO2,S99,9ED,10E,DPA",The dying ask for water because they know it contains life.,normal,20231,,,Uncommon,,Sorcery
 Nature's Cloak,{2}{G},3,G,Rebecca Guay,135,Sorcery,Green creatures you control gain forestwalk until end of turn. (They can't be blocked as long as defending player controls a Forest.),"POR,S99",,normal,20222,,,Rare,,Sorcery
 Nature's Lore,{1}{G},2,G,Alan Rabinowitz,136,Sorcery,Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.,"ICE,5ED,POR,PO2,S99,MED,DDD,VMA,DD3_GVL",Every seed planted is another lesson the forest can teach us.,normal,20356,,,Common,,Sorcery
@@ -143,8 +141,7 @@ Pride of Lions,{3}{G}{G},5,G,Carl Critchlow,139,Creature — Cat,You may have Pr
 Renewing Touch,{G},1,G,Rebecca Guay,140,Sorcery,Shuffle any number of target creature cards from your graveyard into your library.,"PO2,S99",Death just encourages life the more.,normal,20357,,,Uncommon,,Sorcery
 Silverback Ape,{3}{G}{G},5,G,Ron Spears,141,Creature — Ape,,"S99,8ED","His true majesty is not in his silver, but in his size.",normal,21072,5,5,Uncommon,Ape,Creature
 Southern Elephant,{3}{G},4,G,Wang Yuqun,142,Creature — Elephant,,"PTK,S99,ME4","Neither predator nor prey, the elephant chooses its place in the battle.",normal,21071,3,4,Common,Elephant,Creature
-Squall,{2}{G},3,G,Carl Critchlow,143,Sorcery,Squall deals 2 damage to each creature with flying.,"S99,MMQ,7ED,ME4",""To-night the winds begin to rise . . .\nThe rooks are blown about the skies . . . ."
-—Alfred, Lord Tennyson, In Memoriam",normal,20220,,,Common,,Sorcery
+Squall,{2}{G},3,G,Carl Critchlow,143,Sorcery,Squall deals 2 damage to each creature with flying.,"S99,MMQ,7ED,ME4",""To-night the winds begin to rise . . .\nThe rooks are blown about the skies . . . ."\n—Alfred, Lord Tennyson, In Memoriam",normal,20220,,,Common,,Sorcery
 Summer Bloom,{1}{G},2,G,Kaja Foglio,144,Sorcery,You may play up to three additional lands this turn.,"VIS,POR,6ED,S99,9ED",Summer sends its kiss with warmth and blooming life.,normal,21078,,,Rare,,Sorcery
 Sylvan Basilisk,{3}{G}{G},5,G,Ron Spencer,145,Creature — Basilisk,"Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.","PO2,S99,10E",,normal,20218,2,4,Rare,Basilisk,Creature
 Sylvan Yeti,{2}{G}{G},4,G,Brom,146,Creature — Yeti,Sylvan Yeti's power is equal to the number of cards in your hand.,"PO2,S99","The deeper the wood, the greater its strength.",normal,20217,*,4,Rare,Yeti,Creature

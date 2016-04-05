@@ -4,8 +4,7 @@ Air Elemental,{3}{U}{U},5,U,Doug Chaffee,,Creature — Elemental,Flying,"LEA,LEB
 Alaborn Cavalier,{2}{W}{W},4,W,Kev Walker,,Creature — Human Knight,"Whenever Alaborn Cavalier attacks, you may tap target creature.","PO2,DDG",""Course he ran! I wouldn't want to stare down that barrel, either!"\n—Alaborn soldier",normal,6506,2,2,Uncommon,"Human,Knight",Creature
 Alaborn Grenadier,{W}{W},2,W,David A. Cherry,,Creature — Human Soldier,Vigilance,PO2,""Ever proud, ever vigilant."\n—Grenadier motto",normal,6508,2,2,Common,"Human,Soldier",Creature
 Alaborn Musketeer,{1}{W},2,W,Heather Hudson,,Creature — Human Soldier,Reach (This creature can block creatures with flying.),"PO2,ME4",Muskets gave the Alaborn army an advantage it had long lacked—air defense.,normal,6499,2,1,Common,"Human,Soldier",Creature
-Alaborn Trooper,{2}{W},3,W,Lubov,,Creature — Human Soldier,,"PO2,ME4","I dedicate my body to my country\nAnd my life to my King."
-—Alaborn Soldier's Oath,normal,6493,2,3,Common,"Human,Soldier",Creature
+Alaborn Trooper,{2}{W},3,W,Lubov,,Creature — Human Soldier,,"PO2,ME4","I dedicate my body to my country\nAnd my life to my King."\n—Alaborn Soldier's Oath,normal,6493,2,3,Common,"Human,Soldier",Creature
 Alaborn Veteran,{2}{W},3,W,Henry Van Der Linde,,Creature — Human Knight,"{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.",PO2,,normal,6516,2,2,Rare,"Human,Knight",Creature
 Alaborn Zealot,{W},1,W,David Horne,,Creature — Human Soldier,"When Alaborn Zealot blocks a creature, destroy that creature and Alaborn Zealot.",PO2,,normal,6492,1,1,Uncommon,"Human,Soldier",Creature
 Alluring Scent,{1}{G}{G},3,G,Melissa A. Benson,,Sorcery,All creatures able to block target creature this turn do so.,"POR,PO2,S99,ME4",No earthly armor is protection against this sweetness.,normal,6639,,,Rare,,Sorcery
@@ -150,8 +149,7 @@ Theft of Dreams,{2}{U},3,U,Randy Gallegos,,Sorcery,Draw a card for each tapped c
 Tidal Surge,{1}{U},2,U,Phil Foglio,,Sorcery,Tap up to three target creatures without flying.,"POR,STH,PO2,6ED","Four little goblins, trapped by the sea. One teased a serpent, and then there were three.",normal,6531,,,Common,,Sorcery
 Time Ebb,{2}{U},3,U,Sam Wood,,Sorcery,Put target creature on top of its owner's library.,"POR,TMP,PO2,S99,S00,9ED,M14,TPR",""The ogre had come from out of the blue, so that's where I sent it back."\n—Talas wizard",normal,6532,,,Common,,Sorcery
 Touch of Brilliance,{3}{U},4,U,Kaja Foglio,,Sorcery,Draw two cards.,"POR,PO2,S99","I don't want what I don't have. I want more of what I do have.",normal,6527,,,Common,,Sorcery
-Town Sentry,{2}{W},3,W,Bradley Williams,,Creature — Human Soldier,"Whenever Town Sentry blocks, it gets +0/+2 until end of turn.",PO2,""So he gots a sword. Big deal."\n"Yeah, it's a big deal—it's a big sword!"
-—Two goblins outside the gates of Trokin",normal,6494,2,2,Common,"Human,Soldier",Creature
+Town Sentry,{2}{W},3,W,Bradley Williams,,Creature — Human Soldier,"Whenever Town Sentry blocks, it gets +0/+2 until end of turn.",PO2,""So he gots a sword. Big deal."\n"Yeah, it's a big deal—it's a big sword!"\n—Two goblins outside the gates of Trokin",normal,6494,2,2,Common,"Human,Soldier",Creature
 Tree Monkey,{G},1,G,Una Fricker,,Creature — Ape,Reach (This creature can block creatures with flying.),"PO2,9ED","They serve the world best on a platter with shallots and onions."\n—Talas sailor,normal,6619,1,1,Common,Ape,Creature
 Tremor,{R},1,R,Pete Venters,,Sorcery,Tremor deals 1 damage to each creature without flying.,"VIS,PO2,6ED,S99,MMQ,7ED,8ED","One little goblin shook up the ground. When the dust cleared, no one was found.",normal,6592,,,Common,,Sorcery
 Trokin High Guard,{3}{W},4,W,Ron Spencer,,Creature — Human Knight,,PO2,Battle tempers soldiers as fire tempers steel.,normal,6496,3,3,Common,"Human,Knight",Creature
