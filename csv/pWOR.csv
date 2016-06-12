@@ -1,2 +1,2 @@
 name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
-Balduvian Horde,{2}{R}{R},4,R,Brian Snõddy,1,Creature — Human Barbarian,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.","ALL,6ED,pWOR,BTD,DKM,MED",,normal,,5,5,Special,"Human,Barbarian",Creature
+Balduvian Horde,{2}{R}{R},4,,Brian Snõddy,1,Creature — Human Barbarian,"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.","ALL,6ED,pWOR,BTD,DKM,MED",,normal,,5,5,Special,"Human,Barbarian",Creature

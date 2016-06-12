@@ -1,7 +1,7 @@
 name,manaCost,cmc,colorIdentity,artist,number,type,text,printings,flavor,layout,multiverseid,power,toughness,rarity,subtypes,types
-Armored Pegasus,{1}{W},2,W,Andrew Robinson,1,Creature — Pegasus,Flying,"POR,pPOD,TMP,ATH,6ED,BRB,S00,TPR","Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",normal,,1,2,Special,Pegasus,Creature
-Bull Hippo,{3}{G},4,G,Roger Raupp,2,Creature — Hippo,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),"POR,pPOD,USG,S99,7ED",,normal,,3,3,Special,Hippo,Creature
-Cloud Pirates,{U},1,U,Phil Foglio,3,Creature — Human Pirate,Flying\nCloud Pirates can block only creatures with flying.,"POR,pPOD",,normal,,1,1,Special,"Human,Pirate",Creature
-Feral Shadow,{2}{B},3,B,Colin MacNeil,4,Creature — Nightstalker,Flying,"MIR,POR,pPOD,6ED,S99,BTD",Not all shadows are cast by light—some are cast by darkness.,normal,,2,1,Special,Nightstalker,Creature
-Snapping Drake,{3}{U},4,U,Christopher Rush,5,Creature — Drake,Flying,"POR,pPOD,S99,BTD,RAV,10E,M10,DPA",Drakes claim to be dragons—until the dragons show up.,normal,,3,2,Special,Drake,Creature
-Storm Crow,{1}{U},2,U,Una Fricker,6,Creature — Bird,Flying (This creature can't be blocked except by creatures with flying or reach.),"ALL,POR,pPOD,6ED,S99,7ED,8ED,9ED","Storm crow descending, winter unending. Storm crow departing, summer is starting.",normal,,1,2,Special,Bird,Creature
+Armored Pegasus,{1}{W},2,,Andrew Robinson,1,Creature — Pegasus,Flying,"POR,pPOD,TMP,ATH,6ED,BRB,S00,TPR","Asked how it survived a run-in with a bog imp, the pegasus just shook its mane and burped.",normal,,1,2,Special,Pegasus,Creature
+Bull Hippo,{3}{G},4,,Roger Raupp,2,Creature — Hippo,Islandwalk (This creature can't be blocked as long as defending player controls an Island.),"POR,pPOD,USG,S99,7ED",,normal,,3,3,Special,Hippo,Creature
+Cloud Pirates,{U},1,,Phil Foglio,3,Creature — Human Pirate,Flying\nCloud Pirates can block only creatures with flying.,"POR,pPOD",,normal,,1,1,Special,"Human,Pirate",Creature
+Feral Shadow,{2}{B},3,,Colin MacNeil,4,Creature — Nightstalker,Flying,"MIR,POR,pPOD,6ED,S99,BTD",Not all shadows are cast by light—some are cast by darkness.,normal,,2,1,Special,Nightstalker,Creature
+Snapping Drake,{3}{U},4,,Christopher Rush,5,Creature — Drake,Flying,"POR,pPOD,S99,BTD,RAV,10E,M10,DPA",Drakes claim to be dragons—until the dragons show up.,normal,,3,2,Special,Drake,Creature
+Storm Crow,{1}{U},2,,Una Fricker,6,Creature — Bird,Flying (This creature can't be blocked except by creatures with flying or reach.),"ALL,POR,pPOD,6ED,S99,7ED,8ED,9ED","Storm crow descending, winter unending. Storm crow departing, summer is starting.",normal,,1,2,Special,Bird,Creature
